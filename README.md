@@ -177,6 +177,14 @@ You can use GitHub Actions to run the scraper automatically every 30 minutes wit
    - This configures the scraper to run every 30 minutes
    - It also commits any changes to the slot data back to the repository
 
+4. **Repository permissions**:
+   - The workflow needs permission to push changes back to your repository
+   - This is configured in the workflow file with `permissions: contents: write`
+   - If you're using a fork or organization repository, you may need to:
+     - Go to Settings > Actions > General
+     - Under "Workflow permissions", select "Read and write permissions"
+     - Click "Save"
+
 ### How it works
 
 1. The workflow runs every 30 minutes based on the cron schedule
@@ -263,6 +271,7 @@ If your GitHub Actions workflow isn't working as expected:
    - "404 no_service" error with Slack: Check your webhook URL
    - "Unknown" boat types: Fixed in the latest version to display service_type
    - Workflow getting stuck: Fixed by using the `--once` flag
+   - Permission denied errors: Make sure workflow has write permissions (see Setup step 4)
 
 ## Technical Implementation
 
