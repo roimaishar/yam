@@ -1,0 +1,326 @@
+[
+  {
+    "date": "2025-03-14",
+    "time": "10:00 - 08:00",
+    "boat_name": "סירת מפרש",
+    "capacity": 6,
+    "event_id": "2025031408106432",
+    "is_available": true,
+    "day_of_week": "friday"
+  },
+  {
+    "date": "2025-03-14",
+    "time": "17:00 - 15:00",
+    "boat_name": "סירת מפרש",
+    "capacity": 7,
+    "event_id": "2025031415178853",
+    "is_available": true,
+    "day_of_week": "friday"
+  },
+  {
+    "date": "2025-03-15",
+    "time": "08:00 - 07:00",
+    "boat_name": "סירת מנוע",
+    "capacity": 2,
+    "event_id": "2025031507087543",
+    "is_available": true,
+    "day_of_week": "saturday"
+  },
+  {
+    "date": "2025-03-16",
+    "time": "16:00 - 14:00",
+    "boat_name": "קטמרן",
+    "capacity": 2,
+    "event_id": "2025031614162365",
+    "is_available": true,
+    "day_of_week": "sunday"
+  },
+  {
+    "date": "2025-03-16",
+    "time": "16:00 - 15:00",
+    "boat_name": "סירת מנוע",
+    "capacity": 6,
+    "event_id": "2025031615166307",
+    "is_available": true,
+    "day_of_week": "sunday"
+  },
+  {
+    "date": "2025-03-16",
+    "time": "11:00 - 10:00",
+    "boat_name": "סירת מנוע",
+    "capacity": 4,
+    "event_id": "2025031610119095",
+    "is_available": true,
+    "day_of_week": "sunday"
+  },
+  {
+    "date": "2025-03-16",
+    "time": "12:00 - 11:00",
+    "boat_name": "קטמרן",
+    "capacity": 8,
+    "event_id": "2025031611128778",
+    "is_available": true,
+    "day_of_week": "sunday"
+  },
+  {
+    "date": "2025-03-17",
+    "time": "18:00 - 16:00",
+    "boat_name": "קטמרן",
+    "capacity": 3,
+    "event_id": "2025031716184942",
+    "is_available": true,
+    "day_of_week": "monday"
+  },
+  {
+    "date": "2025-03-17",
+    "time": "16:00 - 15:00",
+    "boat_name": "סירת מנוע",
+    "capacity": 3,
+    "event_id": "2025031715169837",
+    "is_available": true,
+    "day_of_week": "monday"
+  },
+  {
+    "date": "2025-03-18",
+    "time": "10:00 - 08:00",
+    "boat_name": "קיאק",
+    "capacity": 2,
+    "event_id": "2025031808108387",
+    "is_available": true,
+    "day_of_week": "tuesday"
+  },
+  {
+    "date": "2025-03-19",
+    "time": "12:00 - 11:00",
+    "boat_name": "קטמרן",
+    "capacity": 6,
+    "event_id": "2025031911121155",
+    "is_available": true,
+    "day_of_week": "wednesday"
+  },
+  {
+    "date": "2025-03-19",
+    "time": "15:00 - 13:00",
+    "boat_name": "סירת מנוע",
+    "capacity": 3,
+    "event_id": "2025031913159536",
+    "is_available": true,
+    "day_of_week": "wednesday"
+  },
+  {
+    "date": "2025-03-19",
+    "time": "11:00 - 10:00",
+    "boat_name": "קטמרן",
+    "capacity": 3,
+    "event_id": "2025031910113574",
+    "is_available": true,
+    "day_of_week": "wednesday"
+  },
+  {
+    "date": "2025-03-20",
+    "time": "16:00 - 15:00",
+    "boat_name": "סירת מנוע",
+    "capacity": 8,
+    "event_id": "2025032015169875",
+    "is_available": true,
+    "day_of_week": "thursday"
+  },
+  {
+    "date": "2025-03-20",
+    "time": "08:00 - 07:00",
+    "boat_name": "קיאק",
+    "capacity": 6,
+    "event_id": "2025032007086505",
+    "is_available": true,
+    "day_of_week": "thursday"
+  },
+  {
+    "date": "2025-03-21",
+    "time": "17:00 - 15:00",
+    "boat_name": "סירת מפרש",
+    "capacity": 3,
+    "event_id": "2025032115172337",
+    "is_available": true,
+    "day_of_week": "friday"
+  },
+  {
+    "date": "2025-03-21",
+    "time": "09:00 - 08:00",
+    "boat_name": "קטמרן",
+    "capacity": 8,
+    "event_id": "2025032108091480",
+    "is_available": true,
+    "day_of_week": "friday"
+  },
+  {
+    "date": "2025-03-21",
+    "time": "16:00 - 15:00",
+    "boat_name": "קיאק",
+    "capacity": 3,
+    "event_id": "2025032115162990",
+    "is_available": true,
+    "day_of_week": "friday"
+  },
+  {
+    "date": "2025-03-21",
+    "time": "13:00 - 11:00",
+    "boat_name": "קטמרן",
+    "capacity": 6,
+    "event_id": "2025032111137751",
+    "is_available": true,
+    "day_of_week": "friday"
+  },
+  {
+    "date": "2025-03-21",
+    "time": "09:00 - 08:00",
+    "boat_name": "סירת מפרש",
+    "capacity": 7,
+    "event_id": "2025032108099982",
+    "is_available": true,
+    "day_of_week": "friday"
+  },
+  {
+    "date": "2025-03-22",
+    "time": "18:00 - 16:00",
+    "boat_name": "סירת מנוע",
+    "capacity": 6,
+    "event_id": "2025032216183288",
+    "is_available": true,
+    "day_of_week": "saturday"
+  },
+  {
+    "date": "2025-03-22",
+    "time": "14:00 - 13:00",
+    "boat_name": "קטמרן",
+    "capacity": 2,
+    "event_id": "2025032213146680",
+    "is_available": true,
+    "day_of_week": "saturday"
+  },
+  {
+    "date": "2025-03-22",
+    "time": "14:00 - 13:00",
+    "boat_name": "סירת מנוע",
+    "capacity": 5,
+    "event_id": "2025032213147962",
+    "is_available": true,
+    "day_of_week": "saturday"
+  },
+  {
+    "date": "2025-03-22",
+    "time": "08:00 - 07:00",
+    "boat_name": "קיאק",
+    "capacity": 5,
+    "event_id": "2025032207085991",
+    "is_available": true,
+    "day_of_week": "saturday"
+  },
+  {
+    "date": "2025-03-22",
+    "time": "09:00 - 08:00",
+    "boat_name": "סירת מפרש",
+    "capacity": 7,
+    "event_id": "2025032208096234",
+    "is_available": true,
+    "day_of_week": "saturday"
+  },
+  {
+    "date": "2025-03-23",
+    "time": "10:00 - 08:00",
+    "boat_name": "סירת מפרש",
+    "capacity": 2,
+    "event_id": "2025032308108244",
+    "is_available": true,
+    "day_of_week": "sunday"
+  },
+  {
+    "date": "2025-03-23",
+    "time": "11:00 - 09:00",
+    "boat_name": "קטמרן",
+    "capacity": 8,
+    "event_id": "2025032309119356",
+    "is_available": true,
+    "day_of_week": "sunday"
+  },
+  {
+    "date": "2025-03-23",
+    "time": "11:00 - 10:00",
+    "boat_name": "סירת מפרש",
+    "capacity": 8,
+    "event_id": "2025032310112721",
+    "is_available": true,
+    "day_of_week": "sunday"
+  },
+  {
+    "date": "2025-03-23",
+    "time": "10:00 - 09:00",
+    "boat_name": "סירת מפרש",
+    "capacity": 4,
+    "event_id": "2025032309108444",
+    "is_available": true,
+    "day_of_week": "sunday"
+  },
+  {
+    "date": "2025-03-24",
+    "time": "15:00 - 13:00",
+    "boat_name": "סירת מפרש",
+    "capacity": 3,
+    "event_id": "2025032413154463",
+    "is_available": true,
+    "day_of_week": "monday"
+  },
+  {
+    "date": "2025-03-24",
+    "time": "10:00 - 09:00",
+    "boat_name": "סירת מפרש",
+    "capacity": 8,
+    "event_id": "2025032409108551",
+    "is_available": true,
+    "day_of_week": "monday"
+  },
+  {
+    "date": "2025-03-26",
+    "time": "16:00 - 15:00",
+    "boat_name": "סירת מנוע",
+    "capacity": 4,
+    "event_id": "2025032615164824",
+    "is_available": true,
+    "day_of_week": "wednesday"
+  },
+  {
+    "date": "2025-03-27",
+    "time": "15:00 - 13:00",
+    "boat_name": "קטמרן",
+    "capacity": 6,
+    "event_id": "2025032713157930",
+    "is_available": true,
+    "day_of_week": "thursday"
+  },
+  {
+    "date": "2025-03-27",
+    "time": "13:00 - 11:00",
+    "boat_name": "קיאק",
+    "capacity": 7,
+    "event_id": "2025032711132376",
+    "is_available": true,
+    "day_of_week": "thursday"
+  },
+  {
+    "date": "2025-03-27",
+    "time": "16:00 - 14:00",
+    "boat_name": "סירת מנוע",
+    "capacity": 7,
+    "event_id": "2025032714161812",
+    "is_available": true,
+    "day_of_week": "thursday"
+  },
+  {
+    "date": "2025-03-27",
+    "time": "09:00 - 08:00",
+    "boat_name": "סירת מפרש",
+    "capacity": 2,
+    "event_id": "2025032708095828",
+    "is_available": true,
+    "day_of_week": "thursday"
+  }
+]
