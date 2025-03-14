@@ -132,7 +132,7 @@ async def scrape_with_saved_cookies():
         await browser.close()
         return results
 
-async def scrape_calendar_slots_for_days(days=14):
+async def scrape_calendar_slots_for_days(days=14, filters=None):
     if not os.path.exists(COOKIES_FILE):
         print("No saved cookies found. Performing authentication first...")
         success = await save_authenticated_session()
@@ -168,7 +168,7 @@ async def scrape_calendar_slots_for_days(days=14):
             if not success:
                 print("Failed to re-authenticate.")
                 return False
-            return await scrape_calendar_slots_for_days(days)
+            return await scrape_calendar_slots_for_days(days, filters)
         
         all_slots_file = ALL_SLOTS_FILE
         
@@ -208,13 +208,20 @@ async def scrape_calendar_slots_for_days(days=14):
                 print("Could not find next day button. Stopping navigation.")
                 break
         
-        with open(all_slots_file, "w", encoding="utf-8") as f:
-            json.dump(all_slots, f, ensure_ascii=False, indent=2)
+        # Apply filters if provided
+        filtered_slots = all_slots
+        if filters:
+            from app.utils.filter_slots import filter_slots
+            filtered_slots = filter_slots(all_slots, **filters)
+            print(f"Applied filters: {len(all_slots)} -> {len(filtered_slots)} slots")
         
-        print(f"Saved all slots data to {all_slots_file}")
+        with open(all_slots_file, "w", encoding="utf-8") as f:
+            json.dump(filtered_slots if filters else all_slots, f, ensure_ascii=False, indent=2)
+        
+        print(f"Saved slots data to {all_slots_file}")
         
         await browser.close()
-        return all_slots
+        return filtered_slots if filters else all_slots
 
 async def extract_slots_from_page(page, date):
     slots = []
