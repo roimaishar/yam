@@ -89,6 +89,7 @@ Options:
 - `--time-range`: Filter slots within a specific time range (e.g., "9:00-17:00")
 - `--service-type`: Filter slots for a specific boat type
 - `--setup`: Show Slack webhook setup instructions
+- `--once`: Run the monitor once and exit (useful for scheduled tasks)
 
 Examples:
 ```bash
@@ -103,6 +104,9 @@ python -m app.main monitor --time-range "9:00-17:00"
 
 # Show Slack setup instructions
 python -m app.main monitor --setup
+
+# Run the monitor once and exit
+python -m app.main monitor --once
 ```
 
 #### Setting up Slack Notifications
@@ -192,7 +196,7 @@ You can also trigger the workflow manually:
 To see the results of each run:
 1. Go to the "Actions" tab in your GitHub repository
 2. Click on the most recent "YAM Boat Slot Monitor" workflow run
-3. Expand the "Run slot monitor" step to see the output
+3. Expand the "Run slot monitor once" step to see the output
 
 ### Customizing the schedule
 
@@ -202,10 +206,63 @@ schedule:
   - cron: '*/30 * * * *'  # Run every 30 minutes
 ```
 
-For example:
-- `'0 * * * *'`: Run once per hour at the beginning of the hour
-- `'0 */2 * * *'`: Run every 2 hours
-- `'0 9-17 * * *'`: Run every hour from 9 AM to 5 PM
+For example, to run every hour instead:
+```yaml
+schedule:
+  - cron: '0 * * * *'  # Run every hour at minute 0
+```
+
+### Running the monitor once
+
+We've added a `--once` flag to the monitor command that runs the check once and then exits. This is particularly useful for GitHub Actions:
+
+```bash
+python -m app.main monitor 14 --once
+```
+
+This command:
+- Checks for new slots once (no continuous monitoring)
+- Looks ahead for the next 14 days
+- Sends notifications for any new slots found
+- Exits after completion
+
+### Security considerations
+
+When using GitHub Actions with a public repository:
+
+1. **Never commit sensitive information**:
+   - Keep your `.env` file in `.gitignore`
+   - Use GitHub Secrets for credentials
+
+2. **Secure your data**:
+   - If you don't want slot data to be publicly visible, use a private repository
+   - Alternatively, modify the workflow to use GitHub Artifacts instead of committing data files
+
+3. **Dependency security**:
+   - We've configured the requirements.txt to use secure versions of dependencies
+   - GitHub's Dependabot will alert you about security vulnerabilities
+
+### Troubleshooting GitHub Actions
+
+If your GitHub Actions workflow isn't working as expected:
+
+1. **Check workflow logs**:
+   - Go to the Actions tab in your repository
+   - Click on the failed workflow run
+   - Examine the logs for error messages
+
+2. **Verify secrets**:
+   - Make sure all required secrets (YAM_USERNAME, YAM_PASSWORD, SLACK_WEBHOOK_URL) are set correctly
+   - Secrets are case-sensitive
+
+3. **Test locally first**:
+   - Run `python -m app.main monitor 14 --once` locally to verify it works
+   - Fix any issues before pushing to GitHub
+
+4. **Common issues**:
+   - "404 no_service" error with Slack: Check your webhook URL
+   - "Unknown" boat types: Fixed in the latest version to display service_type
+   - Workflow getting stuck: Fixed by using the `--once` flag
 
 ## Technical Implementation
 
@@ -329,7 +386,7 @@ The scraper includes robust error handling mechanisms:
        "date": "שישי, 14 מרץ 2025",
        "event_id": "123456",
        "time": "10:00 - 11:00",
-       "service_type": "Boat Name",
+       "service_type": "נאווה 450",
        "is_available": true
      },
      ...
@@ -368,11 +425,13 @@ Then add it to Task Scheduler.
 
 All scraped data is saved in the `app/data/` directory:
 - `all_slots.json` - All extracted calendar slot data in structured JSON format
+- `previous_slots.json` - Tracks previously seen slots for monitoring
+- `notified_slots.json` - Tracks slots that have already been notified
 - `yam_cookies.json` - Saved authentication cookies
 
 ## Dependencies
 
 - Python 3.8+
 - Playwright (for browser automation)
-- BeautifulSoup4 (for HTML parsing)
+- Requests (for Slack notifications)
 - python-dotenv (for environment variable management)

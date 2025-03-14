@@ -120,7 +120,7 @@ class SlotMonitor:
         # Print notification to console
         print("\n=== NEW AVAILABLE SLOTS ===")
         for slot in new_slots:
-            print(f"Date: {slot['date']}, Time: {slot['time']}, Boat: {slot.get('boat_name', 'Unknown')}, Capacity: {slot.get('capacity', 'Unknown')}")
+            print(f"Date: {slot['date']}, Time: {slot['time']}, Boat: {slot.get('service_type', 'Unknown')}, Capacity: {slot.get('capacity', 'Unknown')}")
         print("===========================\n")
         
         # Send Slack notification

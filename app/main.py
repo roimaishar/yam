@@ -25,6 +25,20 @@ async def run_monitor(days, interval, filters=None):
     monitor = SlotMonitor(slack_webhook_url, days, interval, filters)
     await monitor.start_monitoring()
 
+async def run_monitor_once(days, filters=None):
+    import os
+    from dotenv import load_dotenv
+    
+    load_dotenv()
+    slack_webhook_url = os.getenv("SLACK_WEBHOOK_URL")
+    
+    if not slack_webhook_url:
+        print("Warning: Slack notifications are not configured.")
+        print("To enable Slack notifications, add SLACK_WEBHOOK_URL to your .env file.")
+    
+    monitor = SlotMonitor(slack_webhook_url, days, 30, filters)
+    await monitor.check_for_new_slots()
+
 def parse_arguments():
     parser = argparse.ArgumentParser(description='YAM Online Calendar Scraper')
     subparsers = parser.add_subparsers(dest='command', help='Command to run')
@@ -43,6 +57,7 @@ def parse_arguments():
     monitor_parser.add_argument('--time-range', type=str, help='Time range filter (e.g., "9:00-17:00")')
     monitor_parser.add_argument('--service-type', type=str, help='Filter by boat type')
     monitor_parser.add_argument('--setup', action='store_true', help='Show Slack webhook setup instructions')
+    monitor_parser.add_argument('--once', action='store_true', help='Run the monitor once and exit')
     
     args = parser.parse_args()
     
@@ -85,12 +100,16 @@ if __name__ == "__main__":
         days = args.days if hasattr(args, 'days') else 14
         interval = args.interval if hasattr(args, 'interval') else 30
         
-        print(f"Starting monitoring for {days} days ahead, checking every {interval} minutes")
-        if filters:
-            print(f"Using filters: {filters}")
-        
-        # Use our run_monitor function
-        asyncio.run(run_monitor(days, interval, filters))
+        if hasattr(args, 'once') and args.once:
+            print(f"Running monitor once for {days} days ahead")
+            if filters:
+                print(f"Using filters: {filters}")
+            asyncio.run(run_monitor_once(days, filters))
+        else:
+            print(f"Starting monitoring for {days} days ahead, checking every {interval} minutes")
+            if filters:
+                print(f"Using filters: {filters}")
+            asyncio.run(run_monitor(days, interval, filters))
     
     else:
         print(f"Unknown command: {args.command}")

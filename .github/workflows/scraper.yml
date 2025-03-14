@@ -6,13 +6,13 @@ on:
   workflow_dispatch:  # Allow manual triggering
 
 jobs:
-  monitor:
+  monitor_slots:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout code
+      - name: Check out repository
         uses: actions/checkout@v3
 
-      - name: Set up Python
+      - name: Set up Python 3.9
         uses: actions/setup-python@v4
         with:
           python-version: '3.9'
@@ -23,12 +23,12 @@ jobs:
           pip install -r requirements.txt
           python -m playwright install
 
-      - name: Run slot monitor
+      - name: Run slot monitor once
         env:
           YAM_USERNAME: ${{ secrets.YAM_USERNAME }}
           YAM_PASSWORD: ${{ secrets.YAM_PASSWORD }}
           SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
-        run: python -m app.main monitor 14 --interval 30
+        run: python -m app.main monitor 14 --once
 
       - name: Commit and push if changes
         run: |
