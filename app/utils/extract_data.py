@@ -1,9 +1,8 @@
 import json
 from bs4 import BeautifulSoup
 import glob
-from datetime import datetime
 
-from app.utils.config import DATA_DIR
+from app.utils.config import DATA_DIR, ALL_EXTRACTED_DATA_FILE
 
 def extract_calendar_slots(html_file):
     with open(html_file, 'r', encoding='utf-8') as f:
@@ -55,7 +54,6 @@ def process_all_calendar_files():
         return
     
     all_results = {}
-    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
     
     for file in calendar_files:
         print(f"Processing {file}...")
@@ -64,17 +62,20 @@ def process_all_calendar_files():
             slots = extract_calendar_slots(file)
             
             if slots:
-                all_results[file] = slots
-                
-                output_file = f"{DATA_DIR}/extracted_slots_{timestamp}.json"
-                with open(output_file, 'w', encoding='utf-8') as f:
-                    json.dump(slots, f, ensure_ascii=False, indent=2)
-                
-                print(f"Extracted {len(slots)} slots from {file} to {output_file}")
+                file_name = file.split('/')[-1]
+                all_results[file_name] = slots
+                print(f"Extracted {len(slots)} slots from {file}")
             else:
                 print(f"No slots found in {file}")
         except Exception as e:
             print(f"Error processing {file}: {e}")
+    
+    # Save all extracted data to a single JSON file
+    combined_output_file = ALL_EXTRACTED_DATA_FILE
+    with open(combined_output_file, 'w', encoding='utf-8') as f:
+        json.dump(all_results, f, ensure_ascii=False, indent=2)
+    
+    print(f"Saved all extracted data to {combined_output_file}")
     
     return all_results
 

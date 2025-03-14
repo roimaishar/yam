@@ -1,3 +1,3 @@
 #!/bin/bash
 cd "$(dirname "$0")"
-python -m app.main scrape
+python -m app.main calendar

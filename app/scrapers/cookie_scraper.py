@@ -5,7 +5,7 @@ from datetime import datetime, timedelta
 from playwright.async_api import async_playwright
 from dotenv import load_dotenv
 
-from app.utils.config import COOKIES_FILE, DATA_DIR, get_urls_to_scrape
+from app.utils.config import COOKIES_FILE, DATA_DIR, ALL_SLOTS_FILE, ALL_CALENDAR_HTML_FILE, get_urls_to_scrape
 
 load_dotenv()
 
@@ -86,7 +86,6 @@ async def scrape_with_saved_cookies():
     with open(COOKIES_FILE, "r") as f:
         cookies = json.load(f)
     
-    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
     urls_to_scrape = get_urls_to_scrape()
     
     async with async_playwright() as p:
@@ -101,7 +100,7 @@ async def scrape_with_saved_cookies():
         
         for url in urls_to_scrape:
             page_name = url.split('/')[-1]
-            output_file = f"{DATA_DIR}/{page_name}_{timestamp}.html"
+            output_file = f"{DATA_DIR}/{page_name}.html"
             
             print(f"Scraping {url}...")
             try:
@@ -124,6 +123,12 @@ async def scrape_with_saved_cookies():
             except Exception as e:
                 print(f"Error scraping {url}: {e}")
         
+        # Save all results to a single JSON file
+        all_data_file = ALL_SLOTS_FILE
+        with open(all_data_file, "w", encoding="utf-8") as f:
+            json.dump(results, f, ensure_ascii=False, indent=2)
+        print(f"Saved all scraped data to {all_data_file}")
+        
         await browser.close()
         return results
 
@@ -141,7 +146,6 @@ async def scrape_calendar_slots_for_days(days=14):
     with open(COOKIES_FILE, "r") as f:
         cookies = json.load(f)
     
-    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
     all_slots = []
     
     async with async_playwright() as p:
@@ -169,7 +173,7 @@ async def scrape_calendar_slots_for_days(days=14):
             return await scrape_calendar_slots_for_days(days)
         
         # Create a file to store all slots data
-        all_slots_file = f"{DATA_DIR}/all_slots_{timestamp}.json"
+        all_slots_file = ALL_SLOTS_FILE
         
         # Wait for the calendar to load
         await page.wait_for_selector('.dhx_cal_data', state='visible', timeout=10000)
@@ -220,6 +224,24 @@ async def scrape_calendar_slots_for_days(days=14):
             json.dump(all_slots, f, ensure_ascii=False, indent=2)
         
         print(f"Saved all slots data to {all_slots_file}")
+        
+        # We don't need to save individual HTML files anymore, but we'll keep them for debugging
+        # Instead, we'll save all the HTML content in a single JSON file as well
+        all_html_content = {}
+        for day in range(days):
+            date_str = (datetime.now() + timedelta(days=day)).strftime("%d/%m/%Y")
+            date_key = date_str.replace('/', '_').replace(' ', '_')
+            html_file = f"{DATA_DIR}/calendar_slots_{date_key}.html"
+            if os.path.exists(html_file):
+                with open(html_file, "r", encoding="utf-8") as f:
+                    all_html_content[date_str] = f.read()
+        
+        # Save all HTML content to a single JSON file
+        all_html_file = ALL_CALENDAR_HTML_FILE
+        with open(all_html_file, "w", encoding="utf-8") as f:
+            json.dump(all_html_content, f, ensure_ascii=False, indent=2)
+        print(f"Saved all calendar HTML content to {all_html_file}")
+        
         await browser.close()
         return all_slots
 
@@ -230,9 +252,8 @@ async def extract_slots_from_page(page, date):
     content = await page.content()
     
     # Save the HTML content for debugging
-    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
     date_str = date.replace('/', '_').replace(' ', '_')
-    output_file = f"{DATA_DIR}/calendar_slots_{date_str}_{timestamp}.html"
+    output_file = f"{DATA_DIR}/calendar_slots_{date_str}.html"
     with open(output_file, "w", encoding="utf-8") as f:
         f.write(content)
     

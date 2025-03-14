@@ -1,6 +1,6 @@
-# YAM Online Scraper
+# YAM Online Calendar Scraper
 
-Automated solution for scraping content from the YAM Online customer portal.
+Automated solution for scraping calendar slots from the YAM Online customer portal.
 
 ## Project Structure
 
@@ -8,8 +8,7 @@ Automated solution for scraping content from the YAM Online customer portal.
 app/
 ├── data/             # Scraped data and cookies storage
 ├── scrapers/         # Scraping modules
-│   ├── cookie_scraper.py
-│   └── scheduled_scraper.py
+│   └── cookie_scraper.py
 └── utils/            # Utility modules
     ├── config.py
     └── extract_data.py
@@ -30,34 +29,30 @@ app/
 
 ## Usage
 
-### Automated Scraping
+### Calendar Slot Scraping
 ```
 python -m app.main scrape
 ```
-
-The scraper will:
-- Attempt to log in automatically using your credentials
-- Save authentication cookies for future use
-- Scrape all configured pages
-- If automatic login fails, it will open a browser for one-time manual login
-- On subsequent runs, it will use saved cookies without any manual intervention
-
-### Calendar Slot Scraping
+or
 ```
 python -m app.main calendar [days]
 ```
 
 Scrapes available appointment slots from the calendar page for the specified number of days (default: 14):
+- Attempts to log in automatically using your credentials
+- Saves authentication cookies for future use
+- If automatic login fails, it opens a browser for one-time manual login
+- On subsequent runs, it uses saved cookies without manual intervention
 - Navigates through each day in the calendar
 - Extracts date, time, service type, and availability status for each slot
-- Saves data in JSON format for analysis
+- Saves all data in a single JSON file for analysis
 - Example: `python -m app.main calendar 30` to scrape the next 30 days
 
 ### Data Extraction
 ```
 python -m app.main extract
 ```
-Processes scraped HTML files and extracts structured data into JSON format.
+Processes scraped HTML files and extracts structured data into a single JSON file.
 
 ### Scheduling Automated Scraping
 
@@ -80,15 +75,11 @@ python -m app.main scrape
 ```
 Then add it to Task Scheduler.
 
-## Customization
-
-To customize which pages are scraped, edit the `get_urls_to_scrape()` function in `app/utils/config.py`.
-
 ## Output Files
 
-Scraped files are saved in the `app/data/` directory with the following naming convention:
-- `page_name_YYYYMMDD_HHMMSS.html` - HTML content of scraped pages
-- `calendar_slots_DATE_YYYYMMDD_HHMMSS.html` - HTML content for each calendar day
-- `all_slots_YYYYMMDD_HHMMSS.json` - Extracted calendar slot data for all days
-- `extracted_slots_YYYYMMDD_HHMMSS.json` - Extracted data from calendar slots
+All scraped data is saved in the `app/data/` directory with the following fixed filenames:
+- `calendar_slots_DATE.html` - HTML content for each calendar day
+- `all_slots.json` - All extracted calendar slot data
+- `all_calendar_html.json` - All HTML content
+- `all_extracted_data.json` - All extracted data
 - `yam_cookies.json` - Saved authentication cookies
