@@ -43,12 +43,16 @@ class SlackNotifier:
         
         now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
         
+        # Limit total slots to 12
+        total_slots = len(slots)
+        slots_to_show = slots[:12] if total_slots > 12 else slots
+        
         blocks = [
             {
                 "type": "header",
                 "text": {
                     "type": "plain_text",
-                    "text": f"🚣 {len(slots)} New Boat Slots Available! 🚣",
+                    "text": f"🚣 {total_slots} New Boat Slots Available! 🚣",
                     "emoji": True
                 }
             },
@@ -57,7 +61,7 @@ class SlackNotifier:
                 "elements": [
                     {
                         "type": "plain_text",
-                        "text": f"Found at {now}",
+                        "text": f"Found at {now}" + (f" (showing 12 of {total_slots})" if total_slots > 12 else ""),
                         "emoji": True
                     }
                 ]
@@ -69,7 +73,7 @@ class SlackNotifier:
         
         # Group slots by date
         slots_by_date = {}
-        for slot in slots:
+        for slot in slots_to_show:
             date = slot.get("date", "Unknown")
             if date not in slots_by_date:
                 slots_by_date[date] = []

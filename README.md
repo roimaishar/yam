@@ -148,6 +148,42 @@ To keep the monitor running continuously:
    nohup python -m app.main monitor > monitor.log 2>&1 &
    ```
 
+## Features
+
+- **Automated Monitoring**: Checks for available boat slots at YAM Online
+- **Customizable Filters**: Filter slots by date, time, and boat type
+- **Slack Notifications**: Get notified when new slots become available
+- **GitHub Actions Integration**: Run the monitor automatically on a schedule
+- **Data Persistence**: Track which slots have been seen and notified
+
+### Slack Notifications
+
+The system sends beautiful, well-formatted notifications to Slack when new boat slots are available:
+
+- **Organized by Date**: Slots are grouped by date for easy reading
+- **Tabular Format**: Time and boat type displayed in a clean table layout
+- **Limited Display**: Shows a maximum of 12 slots to keep notifications concise
+- **Total Count**: Always shows the total number of available slots, even when limiting display
+
+To set up Slack notifications:
+
+1. Create a Slack app and webhook URL in your workspace
+2. Add the webhook URL to your `.env` file as `SLACK_WEBHOOK_URL`
+3. For GitHub Actions, add the webhook URL as a repository secret
+
+Example notification format:
+```
+🚣 15 New Boat Slots Available! 🚣
+Found at 2025-03-14 23:16:37 (showing 12 of 15)
+-------------------------------------------
+📅 שישי, 14 מרץ 2025
+| Time          | Boat Type     |
+|---------------|---------------|
+| 09:00 - 12:00 | מישל          |
+| 12:00 - 15:00 | קיאק זוגי      |
+-------------------------------------------
+```
+
 ## Running with GitHub Actions
 
 You can use GitHub Actions to run the scraper automatically every 30 minutes without needing to keep your computer running. This is a free solution that leverages GitHub's CI/CD platform.
