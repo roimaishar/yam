@@ -12,10 +12,14 @@ This scraper automates the process of extracting available boats slots from the 
 yam/
 ├── app/
 │   ├── data/             # Scraped data and cookies storage
+│   ├── monitors/         # Monitoring modules
+│   │   ├── slot_monitor.py    # Monitors for new available slots
+│   │   └── slack_notifier.py  # Handles Slack notifications
 │   ├── scrapers/         # Scraping modules
 │   │   └── cookie_scraper.py  # Handles authentication and calendar scraping
 │   ├── utils/            # Utility modules
-│   │   └── config.py     # Configuration constants and URL definitions
+│   │   ├── config.py     # Configuration constants and URL definitions
+│   │   └── filter_slots.py    # Filters slots based on criteria
 │   └── main.py           # Main entry point for running the scraper
 ├── requirements.txt      # Python dependencies
 ├── run_scraper.sh        # Shell script for easy execution
@@ -25,9 +29,12 @@ yam/
 ## Key Files
 
 - `cookie_scraper.py`: Core scraping functionality using Playwright
+- `slot_monitor.py`: Monitors for new available slots and sends notifications
+- `slack_notifier.py`: Handles sending notifications to Slack
 - `config.py`: Configuration settings and file paths
-- `main.py`: Command-line interface for running the scraper
+- `main.py`: Command-line interface for running the scraper and monitor
 - `all_slots.json`: Output file containing all scraped calendar slots
+- `previous_slots.json`: Tracking file for slot monitoring
 
 ## Setup
 
@@ -40,6 +47,7 @@ yam/
    ```
    YAM_USERNAME=your_username
    YAM_PASSWORD=your_password
+   SLACK_WEBHOOK_URL=your_slack_webhook_url  # Optional, for monitoring notifications
    ```
 
 ## Usage
@@ -67,6 +75,75 @@ You can also use the provided shell script:
 ./run_scraper.sh
 ```
 
+### Slot Monitoring with Slack Notifications
+
+The application includes a monitoring service that checks for new available boat slots and sends notifications to a Slack channel when they appear:
+
+```
+python -m app.main monitor [days] [options]
+```
+
+Options:
+- `days`: Number of days to monitor (default: 14)
+- `--interval`: Check interval in minutes (default: 30)
+- `--time-range`: Filter slots within a specific time range (e.g., "9:00-17:00")
+- `--service-type`: Filter slots for a specific boat type
+- `--setup`: Show Slack webhook setup instructions
+
+Examples:
+```bash
+# Monitor for 7 days with default settings
+python -m app.main monitor 7
+
+# Monitor with 15-minute intervals for a specific boat type
+python -m app.main monitor --interval 15 --service-type "נאווה"
+
+# Monitor for slots between 9:00 and 17:00
+python -m app.main monitor --time-range "9:00-17:00"
+
+# Show Slack setup instructions
+python -m app.main monitor --setup
+```
+
+#### Setting up Slack Notifications
+
+To receive notifications in Slack:
+
+1. Go to https://api.slack.com/apps and click "Create New App"
+2. Choose "From scratch" and give your app a name (e.g., "YAM Slot Monitor")
+3. Select the workspace where you want to receive notifications
+4. In the left sidebar, click on "Incoming Webhooks"
+5. Toggle "Activate Incoming Webhooks" to On
+6. Click "Add New Webhook to Workspace"
+7. Choose the channel where you want to post notifications
+8. Copy the Webhook URL that is generated
+9. Add this URL to your .env file:
+```
+SLACK_WEBHOOK_URL=https://hooks.slack.com/services/TXXXXXXXX/BXXXXXXXX/XXXXXXXXXXXXXXXXXXXXXXXX
+```
+
+For detailed setup instructions:
+```
+python -m app.main monitor --setup
+```
+
+#### Running the Monitor Continuously
+
+To keep the monitor running continuously:
+
+1. **Using tmux (recommended for macOS/Linux)**:
+   ```bash
+   tmux new -s yam-monitor
+   python -m app.main monitor
+   # Press Ctrl+B then D to detach (monitor keeps running)
+   # To reattach: tmux attach -t yam-monitor
+   ```
+
+2. **As a background process**:
+   ```bash
+   nohup python -m app.main monitor > monitor.log 2>&1 &
+   ```
+
 ## Technical Implementation
 
 ### Scraping Process
@@ -87,6 +164,41 @@ The scraper uses Playwright, a browser automation library, to interact with the 
    - Identifies calendar slots using CSS selectors (`.dhx_cal_event` elements)
    - Extracts data attributes and text content from each slot
    - Determines availability status by checking for the presence of order buttons
+
+### Slot Monitoring
+
+The slot monitoring system continuously checks for newly available boat slots:
+
+1. **Monitoring Process**:
+   - Runs at configurable intervals (default: 30 minutes)
+   - Scrapes the calendar for available slots
+   - Compares current slots with previously recorded slots
+   - Identifies newly available slots
+   - Sends notifications only for new slots
+
+2. **Filtering Capabilities**:
+   - Time range filtering (e.g., only slots between 9:00-17:00)
+   - Boat type filtering (e.g., only specific boat models)
+   - Combines multiple filters for precise monitoring
+
+3. **State Management**:
+   - Stores previously seen slots in `previous_slots.json`
+   - Tracks already notified slots to prevent duplicate notifications
+   - Persists state between monitoring runs
+
+### Slack Integration
+
+The monitoring system integrates with Slack for real-time notifications:
+
+1. **Notification System**:
+   - Uses Slack's incoming webhooks for reliable delivery
+   - Formats messages with clear, readable slot information
+   - Includes direct booking link for quick action
+
+2. **Message Format**:
+   - Highlights date, time, and boat type for each available slot
+   - Groups multiple slots in a single notification when appropriate
+   - Uses emoji and formatting for improved readability
 
 ### Cookie Management
 
