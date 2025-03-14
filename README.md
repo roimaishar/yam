@@ -144,6 +144,69 @@ To keep the monitor running continuously:
    nohup python -m app.main monitor > monitor.log 2>&1 &
    ```
 
+## Running with GitHub Actions
+
+You can use GitHub Actions to run the scraper automatically every 30 minutes without needing to keep your computer running. This is a free solution that leverages GitHub's CI/CD platform.
+
+### Setup GitHub Actions
+
+1. **Push your code to GitHub**:
+   ```bash
+   git init
+   git add .
+   git commit -m "Initial commit"
+   git branch -M main
+   git remote add origin https://github.com/yourusername/yam-scraper.git
+   git push -u origin main
+   ```
+
+2. **Add repository secrets**:
+   - Go to your GitHub repository
+   - Navigate to Settings > Secrets and variables > Actions
+   - Add the following secrets:
+     - `YAM_USERNAME`: Your YAM website username
+     - `YAM_PASSWORD`: Your YAM website password
+     - `SLACK_WEBHOOK_URL`: Your Slack webhook URL
+
+3. **GitHub Actions workflow file**:
+   - The workflow file is already included at `.github/workflows/scraper.yml`
+   - This configures the scraper to run every 30 minutes
+   - It also commits any changes to the slot data back to the repository
+
+### How it works
+
+1. The workflow runs every 30 minutes based on the cron schedule
+2. It checks out your code, installs dependencies, and runs the scraper
+3. Any new slot data is committed back to the repository
+4. Notifications are sent to your Slack channel when new slots are found
+
+### Manual trigger
+
+You can also trigger the workflow manually:
+1. Go to the "Actions" tab in your GitHub repository
+2. Select the "YAM Boat Slot Monitor" workflow
+3. Click "Run workflow" and then "Run workflow" again
+
+### Viewing logs
+
+To see the results of each run:
+1. Go to the "Actions" tab in your GitHub repository
+2. Click on the most recent "YAM Boat Slot Monitor" workflow run
+3. Expand the "Run slot monitor" step to see the output
+
+### Customizing the schedule
+
+To change how often the scraper runs, edit the cron expression in `.github/workflows/scraper.yml`:
+```yaml
+schedule:
+  - cron: '*/30 * * * *'  # Run every 30 minutes
+```
+
+For example:
+- `'0 * * * *'`: Run once per hour at the beginning of the hour
+- `'0 */2 * * *'`: Run every 2 hours
+- `'0 9-17 * * *'`: Run every hour from 9 AM to 5 PM
+
 ## Technical Implementation
 
 ### Scraping Process
