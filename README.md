@@ -15,6 +15,14 @@ app/
     └── extract_data.py
 ```
 
+## Features
+
+- **Cookie-based Authentication**: Securely authenticates with YAM Online using saved cookies.
+- **Calendar Slot Scraping**: Scrapes available appointment slots for the next 14 days (or custom number of days).
+- **Filtering Options**: Filter slots by boat name, capacity, time, and day of the week.
+- **Booking Integration**: Automate the process of booking available slots with confirmation safeguards.
+- **Error Recovery**: Robust error handling with retry mechanisms and exponential backoff.
+
 ## Setup
 
 1. Install dependencies:
@@ -52,6 +60,41 @@ Scrapes available appointment slots from the calendar page for the specified num
 - Extracts date, time, service type, and availability status for each slot
 - Saves data in JSON format for analysis
 - Example: `python -m app.main calendar 30` to scrape the next 30 days
+
+### Filtering Slots
+```
+python -m app.main calendar [days] filter [filter_options]
+```
+
+Filter options:
+- `boat_name [name]` - Filter by boat name (comma-separated for multiple)
+- `min_capacity [number]` - Filter by minimum capacity
+- `max_capacity [number]` - Filter by maximum capacity
+- `start_time_after [time]` - Filter by start time (e.g., '14:00')
+- `start_time_before [time]` - Filter by end time (e.g., '18:00')
+- `day_of_week [day]` - Filter by day of week (e.g., 'friday,saturday')
+
+Example:
+```bash
+python -m app.main calendar 7 filter boat_name "Boat1,Boat2" min_capacity 4 day_of_week "friday,saturday"
+```
+
+### Booking a Slot
+```
+python -m app.main book <event_id>
+```
+
+This will attempt to book the slot with the specified event ID. The process will:
+1. Check if the slot is available
+2. Take screenshots of the booking process
+3. Wait for explicit confirmation before finalizing the booking
+
+To confirm and complete the booking:
+```bash
+python -m app.main book <event_id> --confirm
+```
+
+Note: The event ID can be found in the output of the calendar scraping command.
 
 ### Data Extraction
 ```

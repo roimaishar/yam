@@ -1,0 +1,112 @@
+[
+  {
+    "date": "שישי, 14 מרץ 2025",
+    "event_id": "46",
+    "time": "07:00 - 09:00",
+    "start_time": "07:00",
+    "end_time": "09:00",
+    "service_type": "07:00 טיני (8)",
+    "boat_name": "07:00 טיני",
+    "capacity": 8,
+    "is_available": true
+  },
+  {
+    "date": "שישי, 14 מרץ 2025",
+    "event_id": "10",
+    "time": "18:00 - 20:00",
+    "start_time": "18:00",
+    "end_time": "20:00",
+    "service_type": "18:00 נאווה (12)",
+    "boat_name": "18:00 נאווה",
+    "capacity": 12,
+    "is_available": true
+  },
+  {
+    "date": "שישי, 14 מרץ 2025",
+    "event_id": "25",
+    "time": "18:00 - 20:00",
+    "start_time": "18:00",
+    "end_time": "20:00",
+    "service_type": "18:00 ליאור (11)",
+    "boat_name": "18:00 ליאור",
+    "capacity": 11,
+    "is_available": true
+  },
+  {
+    "date": "שישי, 14 מרץ 2025",
+    "event_id": "26",
+    "time": "20:00 - 22:00",
+    "start_time": "20:00",
+    "end_time": "22:00",
+    "service_type": "20:00 ליאור (11)",
+    "boat_name": "20:00 ליאור",
+    "capacity": 11,
+    "is_available": true
+  },
+  {
+    "date": "שבת, 15 מרץ 2025",
+    "event_id": "45",
+    "time": "07:00 - 09:00",
+    "start_time": "07:00",
+    "end_time": "09:00",
+    "service_type": "07:00 טיני (8)",
+    "boat_name": "07:00 טיני",
+    "capacity": 8,
+    "is_available": true
+  },
+  {
+    "date": "שבת, 15 מרץ 2025",
+    "event_id": "48",
+    "time": "14:00 - 16:00",
+    "start_time": "14:00",
+    "end_time": "16:00",
+    "service_type": "14:00 טיני (8)",
+    "boat_name": "14:00 טיני",
+    "capacity": 8,
+    "is_available": true
+  },
+  {
+    "date": "שבת, 15 מרץ 2025",
+    "event_id": "10",
+    "time": "18:00 - 20:00",
+    "start_time": "18:00",
+    "end_time": "20:00",
+    "service_type": "18:00 נאווה (12)",
+    "boat_name": "18:00 נאווה",
+    "capacity": 12,
+    "is_available": true
+  },
+  {
+    "date": "שבת, 15 מרץ 2025",
+    "event_id": "24",
+    "time": "18:00 - 20:00",
+    "start_time": "18:00",
+    "end_time": "20:00",
+    "service_type": "18:00 ליאור (11)",
+    "boat_name": "18:00 ליאור",
+    "capacity": 11,
+    "is_available": true
+  },
+  {
+    "date": "שבת, 15 מרץ 2025",
+    "event_id": "25",
+    "time": "20:00 - 22:00",
+    "start_time": "20:00",
+    "end_time": "22:00",
+    "service_type": "20:00 ליאור (11)",
+    "boat_name": "20:00 ליאור",
+    "capacity": 11,
+    "is_available": true
+  },
+  {
+    "date": "שבת, 15 מרץ 2025",
+    "event_id": "15",
+    "time": "07:00 - 09:00",
+    "start_time": "07:00",
+    "end_time": "09:00",
+    "service_type": "07:00 קטמנדו (6)",
+    "boat_name": "07:00 קטמנדו",
+    "capacity": 6,
+    "is_available": true
+  }
+]
