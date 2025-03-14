@@ -16,17 +16,18 @@ class SlackNotifier:
         }
         
         try:
-            response = requests.post(
-                self.webhook_url,
-                data=json.dumps(payload),
-                headers={"Content-Type": "application/json"}
-            )
-            if response.status_code == 200:
-                print("Slack notification sent successfully")
-                return True
-            else:
-                print(f"Failed to send Slack notification: {response.status_code} {response.text}")
-                return False
+            with requests.Session() as session:
+                response = session.post(
+                    self.webhook_url,
+                    data=json.dumps(payload),
+                    headers={"Content-Type": "application/json"}
+                )
+                if response.status_code == 200:
+                    print("Slack notification sent successfully")
+                    return True
+                else:
+                    print(f"Failed to send Slack notification: {response.status_code} {response.text}")
+                    return False
         except Exception as e:
             print(f"Error sending Slack notification: {e}")
             return False
