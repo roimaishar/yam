@@ -169,6 +169,13 @@
   },
   {
     "date": "שני, 17 מרץ 2025",
+    "event_id": "27",
+    "time": "06:00 - 09:00",
+    "service_type": "מישל",
+    "is_available": true
+  },
+  {
+    "date": "שני, 17 מרץ 2025",
     "event_id": "31",
     "time": "18:00 - 21:00",
     "service_type": "מישל",
