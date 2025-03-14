@@ -1,6 +1,7 @@
 import asyncio
 import json
 import os
+import re
 from datetime import datetime, timedelta
 from playwright.async_api import async_playwright
 from dotenv import load_dotenv
@@ -239,13 +240,26 @@ async def extract_slots_from_page(page, date):
         if title_elem:
             time_text = await title_elem.text_content()
             if time_text:
-                slot_data["time"] = time_text.strip()
+                # Fix time format: change from "end - start" to "start - end"
+                time_parts = time_text.strip().split(' - ')
+                if len(time_parts) == 2:
+                    end_time, start_time = time_parts
+                    slot_data["time"] = f"{start_time} - {end_time}"
+                else:
+                    slot_data["time"] = time_text.strip()
         
         aria_label = await slot.get_attribute('aria-label')
         if aria_label:
             parts = aria_label.split('-')
             if len(parts) > 1:
                 service_type = parts[1].strip()
+                
+                # Extract only the Hebrew boat name
+                # Format is typically: "HH:MM Hebrew_Name (number)"
+                hebrew_name_match = re.search(r'\d+:\d+\s+([א-ת]+(?:\s+[א-ת]+)*)', service_type)
+                if hebrew_name_match:
+                    service_type = hebrew_name_match.group(1).strip()
+                
                 slot_data["service_type"] = service_type
         
         order_button = await slot.query_selector('.btnDXNorder')
