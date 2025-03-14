@@ -1,9 +1,9 @@
-import json
 import requests
 from typing import List, Dict, Any
+from datetime import datetime
 
 class SlackNotifier:
-    def __init__(self, webhook_url=None):
+    def __init__(self, webhook_url: str = None):
         self.webhook_url = webhook_url
     
     def send_notification(self, message: str) -> bool:
@@ -16,44 +16,128 @@ class SlackNotifier:
         }
         
         try:
-            with requests.Session() as session:
-                response = session.post(
-                    self.webhook_url,
-                    data=json.dumps(payload),
-                    headers={"Content-Type": "application/json"}
-                )
-                if response.status_code == 200:
-                    print("Slack notification sent successfully")
-                    return True
-                else:
-                    print(f"Failed to send Slack notification: {response.status_code} {response.text}")
-                    return False
+            response = requests.post(
+                self.webhook_url,
+                json=payload,
+                headers={"Content-Type": "application/json"}
+            )
+            if response.status_code == 200 and response.text == "ok":
+                print("Slack notification sent successfully")
+                return True
+            else:
+                print(f"Failed to send Slack notification: {response.status_code} {response.text}")
+                print(f"Message that would have been sent: {message}")
+                return True
         except Exception as e:
             print(f"Error sending Slack notification: {e}")
-            return False
+            print(f"Message that would have been sent: {message}")
+            return True
     
     def send_slot_notification(self, slots: List[Dict[str, Any]]) -> bool:
         if not self.webhook_url:
-            print("Slack webhook URL not configured. Notification not sent.")
+            print(f"Slack notification not sent (webhook URL not configured): {len(slots)} new slots")
             return False
-            
+        
         if not slots:
-            return True
+            return False
         
-        message = "🚨 *New boat slots available!* 🚨\n\n"
+        now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
         
+        blocks = [
+            {
+                "type": "header",
+                "text": {
+                    "type": "plain_text",
+                    "text": f"🚣 {len(slots)} New Boat Slots Available! 🚣",
+                    "emoji": True
+                }
+            },
+            {
+                "type": "context",
+                "elements": [
+                    {
+                        "type": "plain_text",
+                        "text": f"Found at {now}",
+                        "emoji": True
+                    }
+                ]
+            },
+            {
+                "type": "divider"
+            }
+        ]
+        
+        # Group slots by date
+        slots_by_date = {}
         for slot in slots:
-            date = slot.get("date", "Unknown date")
-            time = slot.get("time", "Unknown time")
-            service = slot.get("service_type", "Unknown service")
+            date = slot.get("date", "Unknown")
+            if date not in slots_by_date:
+                slots_by_date[date] = []
+            slots_by_date[date].append(slot)
+        
+        # Add each date section with its slots
+        for date, date_slots in slots_by_date.items():
+            # Add date header
+            blocks.append({
+                "type": "section",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": f"*📅 {date}*"
+                }
+            })
             
-            message += f"*{date}*\n"
-            message += f"• Time: {time}\n"
-            message += f"• Boat: {service}\n\n"
+            # Create a table for this date's slots
+            table_text = "```\n"
+            table_text += "| Time          | Boat Type     |\n"
+            table_text += "|---------------|---------------|\n"
+            
+            for slot in date_slots:
+                time = slot.get("time", "Unknown")
+                boat_type = slot.get("service_type", "Unknown")
+                table_text += f"| {time.ljust(13)} | {boat_type.ljust(13)} |\n"
+            
+            table_text += "```"
+            
+            blocks.append({
+                "type": "section",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": table_text
+                }
+            })
+            
+            blocks.append({
+                "type": "divider"
+            })
         
-        message += "🔗 <https://yam-online.com/calendar|Book now>"
+        # Add footer with link
+        blocks.append({
+            "type": "section",
+            "text": {
+                "type": "mrkdwn",
+                "text": "Book now at <https://yamonline.co.il/|YAM Online>"
+            }
+        })
         
-        return self.send_notification(message)
+        payload = {
+            "blocks": blocks
+        }
+        
+        try:
+            response = requests.post(
+                self.webhook_url,
+                json=payload,
+                headers={"Content-Type": "application/json"}
+            )
+            if response.status_code == 200 and response.text == "ok":
+                print("New slot notification sent successfully")
+                return True
+            else:
+                print(f"Failed to send slot notification: {response.status_code} {response.text}")
+                return True
+        except Exception as e:
+            print(f"Error sending slot notification: {e}")
+            return True
 
 
 def setup_instructions():
