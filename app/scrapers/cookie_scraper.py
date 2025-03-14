@@ -5,7 +5,7 @@ from datetime import datetime, timedelta
 from playwright.async_api import async_playwright
 from dotenv import load_dotenv
 
-from app.utils.config import COOKIES_FILE, DATA_DIR, ALL_SLOTS_FILE, ALL_CALENDAR_HTML_FILE, get_urls_to_scrape
+from app.utils.config import COOKIES_FILE, DATA_DIR, ALL_SLOTS_FILE, get_urls_to_scrape
 
 load_dotenv()
 
@@ -157,12 +157,10 @@ async def scrape_calendar_slots_for_days(days=14):
         
         page = await context.new_page()
         
-        # Navigate to the calendar slots page
         print("Navigating to calendar slots page...")
         await page.goto("https://yamonline.custhelp.com/app/calendar_slots")
         await page.wait_for_load_state("networkidle")
         
-        # Check if we need to re-authenticate
         if "login" in page.url.lower():
             print("Session expired. Re-authenticating...")
             await browser.close()
@@ -172,13 +170,10 @@ async def scrape_calendar_slots_for_days(days=14):
                 return False
             return await scrape_calendar_slots_for_days(days)
         
-        # Create a file to store all slots data
         all_slots_file = ALL_SLOTS_FILE
         
-        # Wait for the calendar to load
         await page.wait_for_selector('.dhx_cal_data', state='visible', timeout=10000)
         
-        # Get current date from the calendar
         current_date_element = await page.query_selector('.dhx_cal_date')
         if current_date_element:
             current_date = await current_date_element.text_content()
@@ -187,60 +182,36 @@ async def scrape_calendar_slots_for_days(days=14):
             print("Could not find date element. Using system date.")
             current_date = datetime.now().strftime("%d/%m/%Y")
         
-        # Extract slots for the current day
         day_slots = await extract_slots_from_page(page, current_date)
         all_slots.extend(day_slots)
         
-        # Navigate through the next days
         for day in range(1, days):
             print(f"Navigating to day {day}...")
             
-            # Find and click the next day button
             next_button = await page.query_selector('.dhx_cal_next_button')
             if next_button:
                 await next_button.click()
                 await page.wait_for_load_state("networkidle")
-                await page.wait_for_timeout(1000)  # Wait for calendar to update
+                await page.wait_for_timeout(1000)
                 
-                # Get the current date after navigation
                 date_element = await page.query_selector('.dhx_cal_date')
                 if date_element:
                     date = await date_element.text_content()
                     print(f"Date: {date}")
                 else:
-                    # If date element not found, calculate date based on current date
                     date = (datetime.now() + timedelta(days=day)).strftime("%d/%m/%Y")
                     print(f"Calculated date: {date}")
                 
-                # Extract slots for this day
                 day_slots = await extract_slots_from_page(page, date)
                 all_slots.extend(day_slots)
             else:
                 print("Could not find next day button. Stopping navigation.")
                 break
         
-        # Save all slots to a single JSON file
         with open(all_slots_file, "w", encoding="utf-8") as f:
             json.dump(all_slots, f, ensure_ascii=False, indent=2)
         
         print(f"Saved all slots data to {all_slots_file}")
-        
-        # We don't need to save individual HTML files anymore, but we'll keep them for debugging
-        # Instead, we'll save all the HTML content in a single JSON file as well
-        all_html_content = {}
-        for day in range(days):
-            date_str = (datetime.now() + timedelta(days=day)).strftime("%d/%m/%Y")
-            date_key = date_str.replace('/', '_').replace(' ', '_')
-            html_file = f"{DATA_DIR}/calendar_slots_{date_key}.html"
-            if os.path.exists(html_file):
-                with open(html_file, "r", encoding="utf-8") as f:
-                    all_html_content[date_str] = f.read()
-        
-        # Save all HTML content to a single JSON file
-        all_html_file = ALL_CALENDAR_HTML_FILE
-        with open(all_html_file, "w", encoding="utf-8") as f:
-            json.dump(all_html_content, f, ensure_ascii=False, indent=2)
-        print(f"Saved all calendar HTML content to {all_html_file}")
         
         await browser.close()
         return all_slots
@@ -248,34 +219,21 @@ async def scrape_calendar_slots_for_days(days=14):
 async def extract_slots_from_page(page, date):
     slots = []
     
-    # Get the HTML content of the page
-    content = await page.content()
-    
-    # Save the HTML content for debugging
-    date_str = date.replace('/', '_').replace(' ', '_')
-    output_file = f"{DATA_DIR}/calendar_slots_{date_str}.html"
-    with open(output_file, "w", encoding="utf-8") as f:
-        f.write(content)
-    
-    # Extract slot information using the specific structure of YAM Online calendar
     slot_elements = await page.query_selector_all('.dhx_cal_event')
     
     for slot in slot_elements:
         slot_data = {"date": date}
         
-        # Extract event ID
         event_id = await slot.get_attribute('event_id')
         if event_id:
             slot_data["event_id"] = event_id
         
-        # Extract time from title
         title_elem = await slot.query_selector('.dhx_title')
         if title_elem:
             time_text = await title_elem.text_content()
             if time_text:
                 slot_data["time"] = time_text.strip()
         
-        # Extract service type (boat name) from aria-label
         aria_label = await slot.get_attribute('aria-label')
         if aria_label:
             parts = aria_label.split('-')
@@ -283,11 +241,9 @@ async def extract_slots_from_page(page, date):
                 service_type = parts[1].strip()
                 slot_data["service_type"] = service_type
         
-        # Check if the slot is available (has an order button)
         order_button = await slot.query_selector('.btnDXNorder')
         slot_data["is_available"] = order_button is not None
         
-        # Only add slots that have time information
         if slot_data.get("time"):
             slots.append(slot_data)
     

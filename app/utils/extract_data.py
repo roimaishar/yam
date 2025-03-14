@@ -11,38 +11,45 @@ def extract_calendar_slots(html_file):
     soup = BeautifulSoup(content, 'html.parser')
     slots_data = []
     
-    slots_container = soup.select('.calendar-slots, .slots-container, .time-slots')
+    date_containers = soup.select('.dhx_scale_holder_now')
     
-    if not slots_container:
-        print(f"No slots container found in {html_file}")
+    if not date_containers:
+        print(f"No date containers found in {html_file}")
         return slots_data
     
-    slot_elements = soup.select('.slot, .time-slot, .calendar-item')
-    
-    if not slot_elements:
-        print(f"No slot elements found in {html_file}")
-        return slots_data
-    
-    for slot in slot_elements:
-        slot_data = {}
+    for date_container in date_containers:
+        if 'aria-label' not in date_container.attrs:
+            continue
+            
+        date = date_container['aria-label']
         
-        date_elem = slot.select_one('.date, .slot-date, .time')
-        if date_elem:
-            slot_data['date'] = date_elem.text.strip()
+        slot_elements = date_container.select('.dhx_cal_event')
         
-        avail_elem = slot.select_one('.availability, .status, .slot-status')
-        if avail_elem:
-            slot_data['availability'] = avail_elem.text.strip()
-        
-        price_elem = slot.select_one('.price, .cost, .slot-price')
-        if price_elem:
-            slot_data['price'] = price_elem.text.strip()
-        
-        is_available = not ('disabled' in slot.get('class', []) or 'unavailable' in slot.get('class', []))
-        slot_data['is_available'] = is_available
-        
-        if slot_data:
-            slots_data.append(slot_data)
+        for slot in slot_elements:
+            slot_data = {}
+            slot_data['date'] = date
+            
+            if 'aria-label' in slot.attrs:
+                label = slot['aria-label'].strip()
+                slot_data['full_label'] = label
+                
+                time_parts = label.split(' - ')
+                if len(time_parts) >= 2:
+                    slot_data['end_time'] = time_parts[0].strip()
+                    slot_data['start_time'] = time_parts[1].strip().split(' ')[0]
+                    
+                    boat_parts = ' '.join(time_parts[1].strip().split(' ')[1:])
+                    if boat_parts:
+                        slot_data['boat'] = boat_parts
+            
+            event_id = slot.get('event_id')
+            if event_id:
+                slot_data['event_id'] = event_id
+            
+            slot_data['is_available'] = True
+            
+            if slot_data:
+                slots_data.append(slot_data)
     
     return slots_data
 
@@ -70,7 +77,6 @@ def process_all_calendar_files():
         except Exception as e:
             print(f"Error processing {file}: {e}")
     
-    # Save all extracted data to a single JSON file
     combined_output_file = ALL_EXTRACTED_DATA_FILE
     with open(combined_output_file, 'w', encoding='utf-8') as f:
         json.dump(all_results, f, ensure_ascii=False, indent=2)
