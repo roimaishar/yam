@@ -286,13 +286,6 @@
     "service_type": "נאווה",
     "is_available": true
   },
-  "שלישי, 18 מרץ 2025_7": {
-    "date": "שלישי, 18 מרץ 2025",
-    "event_id": "7",
-    "time": "12:00 - 14:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
   "שלישי, 18 מרץ 2025_8": {
     "date": "שלישי, 18 מרץ 2025",
     "event_id": "8",
@@ -531,13 +524,6 @@
     "service_type": "הרמוני",
     "is_available": true
   },
-  "חמישי, 20 מרץ 2025_34": {
-    "date": "חמישי, 20 מרץ 2025",
-    "event_id": "34",
-    "time": "17:00 - 20:00",
-    "service_type": "כרמן החדשה",
-    "is_available": true
-  },
   "חמישי, 20 מרץ 2025_26": {
     "date": "חמישי, 20 מרץ 2025",
     "event_id": "26",
@@ -675,13 +661,6 @@
     "date": "שישי, 21 מרץ 2025",
     "event_id": "6",
     "time": "10:00 - 12:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  "שישי, 21 מרץ 2025_8": {
-    "date": "שישי, 21 מרץ 2025",
-    "event_id": "8",
-    "time": "14:00 - 16:00",
     "service_type": "נאווה",
     "is_available": true
   },
