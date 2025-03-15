@@ -1,4 +1,60 @@
 {
+  "שבת, 15 מרץ 2025_44": {
+    "date": "שבת, 15 מרץ 2025",
+    "event_id": "44",
+    "time": "07:00 - 09:00",
+    "service_type": "טיני",
+    "is_available": true
+  },
+  "שבת, 15 מרץ 2025_45": {
+    "date": "שבת, 15 מרץ 2025",
+    "event_id": "45",
+    "time": "09:00 - 11:00",
+    "service_type": "טיני",
+    "is_available": true
+  },
+  "שבת, 15 מרץ 2025_52": {
+    "date": "שבת, 15 מרץ 2025",
+    "event_id": "52",
+    "time": "18:00 - 21:00",
+    "service_type": "אסתר",
+    "is_available": true
+  },
+  "שבת, 15 מרץ 2025_34": {
+    "date": "שבת, 15 מרץ 2025",
+    "event_id": "34",
+    "time": "06:00 - 09:00",
+    "service_type": "הרמוני",
+    "is_available": true
+  },
+  "שבת, 15 מרץ 2025_5": {
+    "date": "שבת, 15 מרץ 2025",
+    "event_id": "5",
+    "time": "08:00 - 10:00",
+    "service_type": "נאווה",
+    "is_available": true
+  },
+  "שבת, 15 מרץ 2025_10": {
+    "date": "שבת, 15 מרץ 2025",
+    "event_id": "10",
+    "time": "18:00 - 20:00",
+    "service_type": "נאווה",
+    "is_available": true
+  },
+  "שבת, 15 מרץ 2025_18": {
+    "date": "שבת, 15 מרץ 2025",
+    "event_id": "18",
+    "time": "08:00 - 10:00",
+    "service_type": "ליאור",
+    "is_available": true
+  },
+  "שבת, 15 מרץ 2025_24": {
+    "date": "שבת, 15 מרץ 2025",
+    "event_id": "24",
+    "time": "20:00 - 22:00",
+    "service_type": "ליאור",
+    "is_available": true
+  },
   "ראשון, 16 מרץ 2025_48": {
     "date": "ראשון, 16 מרץ 2025",
     "event_id": "48",
@@ -179,6 +235,13 @@
     "event_id": "10",
     "time": "18:00 - 20:00",
     "service_type": "נאווה",
+    "is_available": true
+  },
+  "שני, 17 מרץ 2025_14": {
+    "date": "שני, 17 מרץ 2025",
+    "event_id": "14",
+    "time": "16:00 - 19:00",
+    "service_type": "רונית",
     "is_available": true
   },
   "שני, 17 מרץ 2025_19": {
@@ -619,13 +682,6 @@
     "date": "שישי, 21 מרץ 2025",
     "event_id": "5",
     "time": "08:00 - 10:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  "שישי, 21 מרץ 2025_6": {
-    "date": "שישי, 21 מרץ 2025",
-    "event_id": "6",
-    "time": "10:00 - 12:00",
     "service_type": "נאווה",
     "is_available": true
   },
