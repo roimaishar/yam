@@ -447,13 +447,6 @@
     "service_type": "נאווה",
     "is_available": true
   },
-  "רביעי, 19 מרץ 2025_11": {
-    "date": "רביעי, 19 מרץ 2025",
-    "event_id": "11",
-    "time": "07:00 - 10:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
   "רביעי, 19 מרץ 2025_22": {
     "date": "רביעי, 19 מרץ 2025",
     "event_id": "22",
@@ -634,13 +627,6 @@
     "event_id": "39",
     "time": "18:00 - 21:00",
     "service_type": "הרמוני",
-    "is_available": true
-  },
-  "שישי, 21 מרץ 2025_26": {
-    "date": "שישי, 21 מרץ 2025",
-    "event_id": "26",
-    "time": "06:00 - 09:00",
-    "service_type": "מישל",
     "is_available": true
   },
   "שישי, 21 מרץ 2025_30": {
