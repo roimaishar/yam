@@ -78,13 +78,6 @@
   },
   {
     "date": "ראשון, 16 מרץ 2025",
-    "event_id": "9",
-    "time": "14:00 - 16:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 16 מרץ 2025",
     "event_id": "10",
     "time": "16:00 - 18:00",
     "service_type": "נאווה",
@@ -676,13 +669,6 @@
     "event_id": "30",
     "time": "18:00 - 21:00",
     "service_type": "מישל",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 21 מרץ 2025",
-    "event_id": "6",
-    "time": "10:00 - 12:00",
-    "service_type": "נאווה",
     "is_available": true
   },
   {
