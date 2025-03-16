@@ -1553,13 +1553,6 @@
     "service_type": "מישל",
     "is_available": true
   },
-  "חמישי, 27 מרץ 2025_31": {
-    "date": "חמישי, 27 מרץ 2025",
-    "event_id": "31",
-    "time": "18:00 - 21:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
   "חמישי, 27 מרץ 2025_22": {
     "date": "חמישי, 27 מרץ 2025",
     "event_id": "22",
@@ -1621,13 +1614,6 @@
     "event_id": "4",
     "time": "17:00 - 20:00",
     "service_type": "קרפה",
-    "is_available": true
-  },
-  "שישי, 28 מרץ 2025_40": {
-    "date": "שישי, 28 מרץ 2025",
-    "event_id": "40",
-    "time": "18:00 - 21:00",
-    "service_type": "הרמוני",
     "is_available": true
   },
   "שישי, 28 מרץ 2025_27": {
