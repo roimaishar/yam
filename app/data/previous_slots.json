@@ -13,13 +13,6 @@
     "service_type": "אסתר",
     "is_available": true
   },
-  "שני, 17 מרץ 2025_1": {
-    "date": "שני, 17 מרץ 2025",
-    "event_id": "1",
-    "time": "08:00 - 11:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
   "שני, 17 מרץ 2025_40": {
     "date": "שני, 17 מרץ 2025",
     "event_id": "40",
@@ -452,6 +445,13 @@
     "event_id": "52",
     "time": "18:00 - 21:00",
     "service_type": "אסתר",
+    "is_available": true
+  },
+  "שישי, 21 מרץ 2025_4": {
+    "date": "שישי, 21 מרץ 2025",
+    "event_id": "4",
+    "time": "17:00 - 20:00",
+    "service_type": "קרפה",
     "is_available": true
   },
   "שישי, 21 מרץ 2025_39": {
@@ -1600,13 +1600,6 @@
     "event_id": "53",
     "time": "18:00 - 21:00",
     "service_type": "אסתר",
-    "is_available": true
-  },
-  "חמישי, 27 מרץ 2025_4": {
-    "date": "חמישי, 27 מרץ 2025",
-    "event_id": "4",
-    "time": "17:00 - 20:00",
-    "service_type": "קרפה",
     "is_available": true
   },
   "חמישי, 27 מרץ 2025_36": {
