@@ -456,6 +456,13 @@
   },
   {
     "date": "שישי, 21 מרץ 2025",
+    "event_id": "11",
+    "time": "07:00 - 10:00",
+    "service_type": "רונית",
+    "is_available": true
+  },
+  {
+    "date": "שישי, 21 מרץ 2025",
     "event_id": "24",
     "time": "18:00 - 20:00",
     "service_type": "ליאור",
@@ -575,6 +582,13 @@
   },
   {
     "date": "שבת, 22 מרץ 2025",
+    "event_id": "36",
+    "time": "06:00 - 09:00",
+    "service_type": "הרמוני",
+    "is_available": true
+  },
+  {
+    "date": "שבת, 22 מרץ 2025",
     "event_id": "33",
     "time": "14:00 - 17:00",
     "service_type": "כרמן החדשה",
@@ -634,6 +648,13 @@
     "event_id": "10",
     "time": "18:00 - 20:00",
     "service_type": "נאווה",
+    "is_available": true
+  },
+  {
+    "date": "שבת, 22 מרץ 2025",
+    "event_id": "13",
+    "time": "13:00 - 16:00",
+    "service_type": "רונית",
     "is_available": true
   },
   {
