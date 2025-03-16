@@ -442,13 +442,6 @@
   },
   {
     "date": "חמישי, 20 מרץ 2025",
-    "event_id": "9",
-    "time": "16:00 - 18:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  {
-    "date": "חמישי, 20 מרץ 2025",
     "event_id": "10",
     "time": "18:00 - 20:00",
     "service_type": "נאווה",
@@ -515,13 +508,6 @@
     "event_id": "30",
     "time": "18:00 - 21:00",
     "service_type": "מישל",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 21 מרץ 2025",
-    "event_id": "9",
-    "time": "16:00 - 18:00",
-    "service_type": "נאווה",
     "is_available": true
   },
   {
@@ -1810,13 +1796,6 @@
     "event_id": "31",
     "time": "18:00 - 21:00",
     "service_type": "מישל",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 28 מרץ 2025",
-    "event_id": "20",
-    "time": "08:00 - 10:00",
-    "service_type": "ליאור",
     "is_available": true
   },
   {
