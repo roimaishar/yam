@@ -554,13 +554,6 @@
   },
   {
     "date": "שבת, 22 מרץ 2025",
-    "event_id": "57",
-    "time": "17:00 - 20:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 22 מרץ 2025",
     "event_id": "1",
     "time": "08:00 - 11:00",
     "service_type": "קרפה",
@@ -1642,13 +1635,6 @@
     "event_id": "48",
     "time": "14:00 - 16:00",
     "service_type": "טיני",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 28 מרץ 2025",
-    "event_id": "49",
-    "time": "06:00 - 09:00",
-    "service_type": "אסתר",
     "is_available": true
   },
   {
