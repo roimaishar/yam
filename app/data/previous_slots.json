@@ -384,6 +384,13 @@
     "service_type": "נאווה",
     "is_available": true
   },
+  "חמישי, 20 מרץ 2025_6": {
+    "date": "חמישי, 20 מרץ 2025",
+    "event_id": "6",
+    "time": "10:00 - 12:00",
+    "service_type": "נאווה",
+    "is_available": true
+  },
   "חמישי, 20 מרץ 2025_10": {
     "date": "חמישי, 20 מרץ 2025",
     "event_id": "10",
@@ -1354,6 +1361,13 @@
     "date": "רביעי, 26 מרץ 2025",
     "event_id": "1",
     "time": "08:00 - 11:00",
+    "service_type": "קרפה",
+    "is_available": true
+  },
+  "רביעי, 26 מרץ 2025_3": {
+    "date": "רביעי, 26 מרץ 2025",
+    "event_id": "3",
+    "time": "14:00 - 17:00",
     "service_type": "קרפה",
     "is_available": true
   },
