@@ -78,6 +78,13 @@
   },
   {
     "date": "שלישי, 18 מרץ 2025",
+    "event_id": "7",
+    "time": "12:00 - 14:00",
+    "service_type": "נאווה",
+    "is_available": true
+  },
+  {
+    "date": "שלישי, 18 מרץ 2025",
     "event_id": "8",
     "time": "14:00 - 16:00",
     "service_type": "נאווה",
@@ -172,6 +179,13 @@
     "event_id": "53",
     "time": "15:00 - 18:00",
     "service_type": "אסתר",
+    "is_available": true
+  },
+  {
+    "date": "רביעי, 19 מרץ 2025",
+    "event_id": "3",
+    "time": "14:00 - 17:00",
+    "service_type": "קרפה",
     "is_available": true
   },
   {
@@ -318,13 +332,6 @@
     "date": "חמישי, 20 מרץ 2025",
     "event_id": "27",
     "time": "06:00 - 09:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  {
-    "date": "חמישי, 20 מרץ 2025",
-    "event_id": "30",
-    "time": "15:00 - 18:00",
     "service_type": "מישל",
     "is_available": true
   },
