@@ -545,13 +545,6 @@
     "service_type": "טיני",
     "is_available": true
   },
-  "שני, 24 מרץ 2025_40": {
-    "date": "שני, 24 מרץ 2025",
-    "event_id": "40",
-    "time": "07:00 - 10:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
   "שני, 24 מרץ 2025_48": {
     "date": "שני, 24 מרץ 2025",
     "event_id": "48",
@@ -958,6 +951,13 @@
     "service_type": "רוני",
     "is_available": true
   },
+  "רביעי, 26 מרץ 2025_56": {
+    "date": "רביעי, 26 מרץ 2025",
+    "event_id": "56",
+    "time": "11:00 - 14:00",
+    "service_type": "רוני",
+    "is_available": true
+  },
   "רביעי, 26 מרץ 2025_58": {
     "date": "רביעי, 26 מרץ 2025",
     "event_id": "58",
@@ -1089,13 +1089,6 @@
     "event_id": "27",
     "time": "06:00 - 09:00",
     "service_type": "מישל",
-    "is_available": true
-  },
-  "חמישי, 27 מרץ 2025_22": {
-    "date": "חמישי, 27 מרץ 2025",
-    "event_id": "22",
-    "time": "12:00 - 14:00",
-    "service_type": "ליאור",
     "is_available": true
   },
   "חמישי, 27 מרץ 2025_25": {
