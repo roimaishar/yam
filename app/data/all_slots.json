@@ -1555,13 +1555,6 @@
   },
   {
     "date": "שישי, 28 מרץ 2025",
-    "event_id": "4",
-    "time": "17:00 - 20:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 28 מרץ 2025",
     "event_id": "27",
     "time": "06:00 - 09:00",
     "service_type": "מישל",
