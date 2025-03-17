@@ -106,6 +106,13 @@
   },
   {
     "date": "שלישי, 18 מרץ 2025",
+    "event_id": "14",
+    "time": "16:00 - 19:00",
+    "service_type": "רונית",
+    "is_available": true
+  },
+  {
+    "date": "שלישי, 18 מרץ 2025",
     "event_id": "18",
     "time": "08:00 - 10:00",
     "service_type": "ליאור",
@@ -528,13 +535,6 @@
     "date": "שבת, 22 מרץ 2025",
     "event_id": "2",
     "time": "11:00 - 14:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 22 מרץ 2025",
-    "event_id": "3",
-    "time": "14:00 - 17:00",
     "service_type": "קרפה",
     "is_available": true
   },
@@ -1459,13 +1459,6 @@
     "date": "רביעי, 26 מרץ 2025",
     "event_id": "12",
     "time": "07:00 - 10:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 26 מרץ 2025",
-    "event_id": "13",
-    "time": "10:00 - 13:00",
     "service_type": "רונית",
     "is_available": true
   },
