@@ -454,13 +454,6 @@
     "service_type": "ליאור",
     "is_available": true
   },
-  "שישי, 21 מרץ 2025_15": {
-    "date": "שישי, 21 מרץ 2025",
-    "event_id": "15",
-    "time": "07:00 - 09:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
   "שבת, 22 מרץ 2025_45": {
     "date": "שבת, 22 מרץ 2025",
     "event_id": "45",
@@ -871,20 +864,6 @@
     "date": "ראשון, 23 מרץ 2025",
     "event_id": "20",
     "time": "10:00 - 12:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
-  "ראשון, 23 מרץ 2025_22": {
-    "date": "ראשון, 23 מרץ 2025",
-    "event_id": "22",
-    "time": "14:00 - 16:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
-  "ראשון, 23 מרץ 2025_23": {
-    "date": "ראשון, 23 מרץ 2025",
-    "event_id": "23",
-    "time": "16:00 - 18:00",
     "service_type": "ליאור",
     "is_available": true
   },
