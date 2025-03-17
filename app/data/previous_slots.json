@@ -202,6 +202,13 @@
     "service_type": "הרמוני",
     "is_available": true
   },
+  "רביעי, 19 מרץ 2025_34": {
+    "date": "רביעי, 19 מרץ 2025",
+    "event_id": "34",
+    "time": "14:00 - 17:00",
+    "service_type": "כרמן החדשה",
+    "is_available": true
+  },
   "רביעי, 19 מרץ 2025_35": {
     "date": "רביעי, 19 מרץ 2025",
     "event_id": "35",
@@ -1628,13 +1635,6 @@
     "event_id": "48",
     "time": "14:00 - 16:00",
     "service_type": "טיני",
-    "is_available": true
-  },
-  "שבת, 29 מרץ 2025_42": {
-    "date": "שבת, 29 מרץ 2025",
-    "event_id": "42",
-    "time": "10:00 - 13:00",
-    "service_type": "ושתי",
     "is_available": true
   },
   "שבת, 29 מרץ 2025_43": {
