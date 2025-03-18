@@ -148,6 +148,13 @@
   },
   {
     "date": "שבת, 22 מרץ 2025",
+    "event_id": "43",
+    "time": "13:00 - 16:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
+  {
+    "date": "שבת, 22 מרץ 2025",
     "event_id": "49",
     "time": "06:00 - 09:00",
     "service_type": "אסתר",
@@ -416,13 +423,6 @@
     "date": "ראשון, 23 מרץ 2025",
     "event_id": "9",
     "time": "14:00 - 16:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 23 מרץ 2025",
-    "event_id": "10",
-    "time": "16:00 - 18:00",
     "service_type": "נאווה",
     "is_available": true
   },
@@ -1187,13 +1187,6 @@
     "event_id": "4",
     "time": "17:00 - 20:00",
     "service_type": "קרפה",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 29 מרץ 2025",
-    "event_id": "32",
-    "time": "11:00 - 14:00",
-    "service_type": "כרמן החדשה",
     "is_available": true
   },
   {
