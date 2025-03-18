@@ -489,13 +489,6 @@
     "service_type": "קרפה",
     "is_available": true
   },
-  "שני, 24 מרץ 2025_3": {
-    "date": "שני, 24 מרץ 2025",
-    "event_id": "3",
-    "time": "14:00 - 17:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
   "שני, 24 מרץ 2025_34": {
     "date": "שני, 24 מרץ 2025",
     "event_id": "34",
@@ -634,13 +627,6 @@
     "event_id": "24",
     "time": "20:00 - 22:00",
     "service_type": "ליאור",
-    "is_available": true
-  },
-  "שני, 24 מרץ 2025_17": {
-    "date": "שני, 24 מרץ 2025",
-    "event_id": "17",
-    "time": "13:00 - 16:00",
-    "service_type": "קטמנדו",
     "is_available": true
   },
   "שלישי, 25 מרץ 2025_44": {
