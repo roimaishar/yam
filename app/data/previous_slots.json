@@ -90,13 +90,6 @@
     "service_type": "טיני",
     "is_available": true
   },
-  "שישי, 21 מרץ 2025_39": {
-    "date": "שישי, 21 מרץ 2025",
-    "event_id": "39",
-    "time": "18:00 - 21:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
   "שישי, 21 מרץ 2025_30": {
     "date": "שישי, 21 מרץ 2025",
     "event_id": "30",
@@ -314,13 +307,6 @@
     "service_type": "ושתי",
     "is_available": true
   },
-  "ראשון, 23 מרץ 2025_43": {
-    "date": "ראשון, 23 מרץ 2025",
-    "event_id": "43",
-    "time": "13:00 - 16:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
   "ראשון, 23 מרץ 2025_50": {
     "date": "ראשון, 23 מרץ 2025",
     "event_id": "50",
@@ -493,13 +479,6 @@
     "date": "שני, 24 מרץ 2025",
     "event_id": "47",
     "time": "06:00 - 09:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  "שני, 24 מרץ 2025_49": {
-    "date": "שני, 24 מרץ 2025",
-    "event_id": "49",
-    "time": "12:00 - 15:00",
     "service_type": "אסתר",
     "is_available": true
   },
@@ -776,13 +755,6 @@
     "service_type": "הרמוני",
     "is_available": true
   },
-  "שלישי, 25 מרץ 2025_38": {
-    "date": "שלישי, 25 מרץ 2025",
-    "event_id": "38",
-    "time": "15:00 - 18:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
   "שלישי, 25 מרץ 2025_39": {
     "date": "שלישי, 25 מרץ 2025",
     "event_id": "39",
@@ -972,13 +944,6 @@
     "service_type": "הרמוני",
     "is_available": true
   },
-  "רביעי, 26 מרץ 2025_32": {
-    "date": "רביעי, 26 מרץ 2025",
-    "event_id": "32",
-    "time": "08:00 - 11:00",
-    "service_type": "כרמן החדשה",
-    "is_available": true
-  },
   "רביעי, 26 מרץ 2025_34": {
     "date": "רביעי, 26 מרץ 2025",
     "event_id": "34",
@@ -1152,13 +1117,6 @@
     "event_id": "48",
     "time": "14:00 - 16:00",
     "service_type": "טיני",
-    "is_available": true
-  },
-  "שבת, 29 מרץ 2025_43": {
-    "date": "שבת, 29 מרץ 2025",
-    "event_id": "43",
-    "time": "13:00 - 16:00",
-    "service_type": "ושתי",
     "is_available": true
   },
   "שבת, 29 מרץ 2025_44": {
