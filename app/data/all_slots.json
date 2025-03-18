@@ -15,6 +15,13 @@
   },
   {
     "date": "חמישי, 20 מרץ 2025",
+    "event_id": "4",
+    "time": "17:00 - 20:00",
+    "service_type": "קרפה",
+    "is_available": true
+  },
+  {
+    "date": "חמישי, 20 מרץ 2025",
     "event_id": "45",
     "time": "18:00 - 21:00",
     "service_type": "הרמוני",
@@ -32,6 +39,13 @@
     "event_id": "11",
     "time": "18:00 - 20:00",
     "service_type": "נאווה",
+    "is_available": true
+  },
+  {
+    "date": "חמישי, 20 מרץ 2025",
+    "event_id": "16",
+    "time": "16:00 - 19:00",
+    "service_type": "רונית",
     "is_available": true
   },
   {
