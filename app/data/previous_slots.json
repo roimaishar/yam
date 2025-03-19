@@ -13,13 +13,6 @@
     "service_type": "ושתי",
     "is_available": true
   },
-  "חמישי, 20 מרץ 2025_59": {
-    "date": "חמישי, 20 מרץ 2025",
-    "event_id": "59",
-    "time": "15:00 - 18:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
   "חמישי, 20 מרץ 2025_60": {
     "date": "חמישי, 20 מרץ 2025",
     "event_id": "60",
@@ -102,20 +95,6 @@
     "event_id": "48",
     "time": "14:00 - 16:00",
     "service_type": "טיני",
-    "is_available": true
-  },
-  "שישי, 21 מרץ 2025_52": {
-    "date": "שישי, 21 מרץ 2025",
-    "event_id": "52",
-    "time": "15:00 - 18:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  "שישי, 21 מרץ 2025_37": {
-    "date": "שישי, 21 מרץ 2025",
-    "event_id": "37",
-    "time": "12:00 - 15:00",
-    "service_type": "הרמוני",
     "is_available": true
   },
   "שישי, 21 מרץ 2025_30": {
@@ -542,13 +521,6 @@
     "date": "שני, 24 מרץ 2025",
     "event_id": "5",
     "time": "08:00 - 10:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  "שני, 24 מרץ 2025_6": {
-    "date": "שני, 24 מרץ 2025",
-    "event_id": "6",
-    "time": "10:00 - 12:00",
     "service_type": "נאווה",
     "is_available": true
   },
@@ -1315,13 +1287,6 @@
     "service_type": "רונית",
     "is_available": true
   },
-  "ראשון, 30 מרץ 2025_15": {
-    "date": "ראשון, 30 מרץ 2025",
-    "event_id": "15",
-    "time": "13:00 - 16:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
   "ראשון, 30 מרץ 2025_16": {
     "date": "ראשון, 30 מרץ 2025",
     "event_id": "16",
@@ -1355,13 +1320,6 @@
     "event_id": "26",
     "time": "20:00 - 22:00",
     "service_type": "ליאור",
-    "is_available": true
-  },
-  "ראשון, 30 מרץ 2025_17": {
-    "date": "ראשון, 30 מרץ 2025",
-    "event_id": "17",
-    "time": "07:00 - 10:00",
-    "service_type": "קטמנדו",
     "is_available": true
   },
   "ראשון, 30 מרץ 2025_18": {
