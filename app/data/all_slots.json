@@ -862,13 +862,6 @@
   },
   {
     "date": "שבת, 29 מרץ 2025",
-    "event_id": "55",
-    "time": "17:00 - 20:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 29 מרץ 2025",
     "event_id": "1",
     "time": "08:00 - 11:00",
     "service_type": "קרפה",
@@ -1127,13 +1120,6 @@
     "is_available": true
   },
   {
-    "date": "ראשון, 30 מרץ 2025",
-    "event_id": "19",
-    "time": "13:00 - 16:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
-  {
     "date": "שני, 31 מרץ 2025",
     "event_id": "43",
     "time": "07:00 - 09:00",
@@ -1214,13 +1200,6 @@
     "date": "שני, 31 מרץ 2025",
     "event_id": "54",
     "time": "14:00 - 17:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
-  {
-    "date": "שני, 31 מרץ 2025",
-    "event_id": "55",
-    "time": "17:00 - 20:00",
     "service_type": "רוני",
     "is_available": true
   },
