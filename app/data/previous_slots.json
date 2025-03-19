@@ -34,6 +34,13 @@
     "service_type": "הרמוני",
     "is_available": true
   },
+  "חמישי, 20 מרץ 2025_34": {
+    "date": "חמישי, 20 מרץ 2025",
+    "event_id": "34",
+    "time": "15:00 - 18:00",
+    "service_type": "מישל",
+    "is_available": true
+  },
   "חמישי, 20 מרץ 2025_35": {
     "date": "חמישי, 20 מרץ 2025",
     "event_id": "35",
@@ -59,6 +66,13 @@
     "date": "חמישי, 20 מרץ 2025",
     "event_id": "26",
     "time": "14:00 - 16:00",
+    "service_type": "ליאור",
+    "is_available": true
+  },
+  "חמישי, 20 מרץ 2025_27": {
+    "date": "חמישי, 20 מרץ 2025",
+    "event_id": "27",
+    "time": "16:00 - 18:00",
     "service_type": "ליאור",
     "is_available": true
   },
