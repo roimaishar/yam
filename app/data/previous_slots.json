@@ -27,13 +27,6 @@
     "service_type": "אסתר",
     "is_available": true
   },
-  "חמישי, 20 מרץ 2025_3": {
-    "date": "חמישי, 20 מרץ 2025",
-    "event_id": "3",
-    "time": "14:00 - 17:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
   "חמישי, 20 מרץ 2025_4": {
     "date": "חמישי, 20 מרץ 2025",
     "event_id": "4",
@@ -130,6 +123,13 @@
     "event_id": "10",
     "time": "18:00 - 20:00",
     "service_type": "נאווה",
+    "is_available": true
+  },
+  "שישי, 21 מרץ 2025_11": {
+    "date": "שישי, 21 מרץ 2025",
+    "event_id": "11",
+    "time": "07:00 - 10:00",
+    "service_type": "רונית",
     "is_available": true
   },
   "שישי, 21 מרץ 2025_20": {
@@ -270,13 +270,6 @@
     "event_id": "10",
     "time": "18:00 - 20:00",
     "service_type": "נאווה",
-    "is_available": true
-  },
-  "שבת, 22 מרץ 2025_13": {
-    "date": "שבת, 22 מרץ 2025",
-    "event_id": "13",
-    "time": "13:00 - 16:00",
-    "service_type": "רונית",
     "is_available": true
   },
   "שבת, 22 מרץ 2025_19": {
@@ -1676,13 +1669,6 @@
     "date": "שלישי, 1 אפריל 2025",
     "event_id": "44",
     "time": "13:00 - 16:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  "שלישי, 1 אפריל 2025_45": {
-    "date": "שלישי, 1 אפריל 2025",
-    "event_id": "45",
-    "time": "16:00 - 19:00",
     "service_type": "ושתי",
     "is_available": true
   },
