@@ -20,6 +20,13 @@
     "service_type": "אסתר",
     "is_available": true
   },
+  "חמישי, 20 מרץ 2025_64": {
+    "date": "חמישי, 20 מרץ 2025",
+    "event_id": "64",
+    "time": "17:00 - 20:00",
+    "service_type": "רוני",
+    "is_available": true
+  },
   "חמישי, 20 מרץ 2025_4": {
     "date": "חמישי, 20 מרץ 2025",
     "event_id": "4",
