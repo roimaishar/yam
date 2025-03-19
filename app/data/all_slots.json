@@ -85,30 +85,37 @@
   },
   {
     "date": "שישי, 21 מרץ 2025",
-    "event_id": "44",
+    "event_id": "45",
     "time": "07:00 - 09:00",
     "service_type": "טיני",
     "is_available": true
   },
   {
     "date": "שישי, 21 מרץ 2025",
-    "event_id": "45",
+    "event_id": "46",
     "time": "09:00 - 11:00",
     "service_type": "טיני",
     "is_available": true
   },
   {
     "date": "שישי, 21 מרץ 2025",
-    "event_id": "47",
+    "event_id": "48",
     "time": "14:00 - 16:00",
     "service_type": "טיני",
     "is_available": true
   },
   {
     "date": "שישי, 21 מרץ 2025",
-    "event_id": "43",
-    "time": "16:00 - 19:00",
-    "service_type": "ושתי",
+    "event_id": "52",
+    "time": "15:00 - 18:00",
+    "service_type": "אסתר",
+    "is_available": true
+  },
+  {
+    "date": "שישי, 21 מרץ 2025",
+    "event_id": "37",
+    "time": "12:00 - 15:00",
+    "service_type": "הרמוני",
     "is_available": true
   },
   {
@@ -470,13 +477,6 @@
   },
   {
     "date": "שני, 24 מרץ 2025",
-    "event_id": "39",
-    "time": "07:00 - 10:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "שני, 24 מרץ 2025",
     "event_id": "51",
     "time": "18:00 - 21:00",
     "service_type": "אסתר",
@@ -535,20 +535,6 @@
     "date": "שני, 24 מרץ 2025",
     "event_id": "26",
     "time": "09:00 - 12:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  {
-    "date": "שני, 24 מרץ 2025",
-    "event_id": "27",
-    "time": "12:00 - 15:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  {
-    "date": "שני, 24 מרץ 2025",
-    "event_id": "28",
-    "time": "15:00 - 18:00",
     "service_type": "מישל",
     "is_available": true
   },
