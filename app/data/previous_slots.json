@@ -139,6 +139,13 @@
     "service_type": "נאווה",
     "is_available": true
   },
+  "שישי, 21 מרץ 2025_13": {
+    "date": "שישי, 21 מרץ 2025",
+    "event_id": "13",
+    "time": "13:00 - 16:00",
+    "service_type": "רונית",
+    "is_available": true
+  },
   "שישי, 21 מרץ 2025_22": {
     "date": "שישי, 21 מרץ 2025",
     "event_id": "22",
@@ -566,13 +573,6 @@
     "service_type": "קרפה",
     "is_available": true
   },
-  "שלישי, 25 מרץ 2025_34": {
-    "date": "שלישי, 25 מרץ 2025",
-    "event_id": "34",
-    "time": "09:00 - 12:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
   "שלישי, 25 מרץ 2025_37": {
     "date": "שלישי, 25 מרץ 2025",
     "event_id": "37",
@@ -843,13 +843,6 @@
     "date": "שבת, 29 מרץ 2025",
     "event_id": "48",
     "time": "09:00 - 12:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  "שבת, 29 מרץ 2025_50": {
-    "date": "שבת, 29 מרץ 2025",
-    "event_id": "50",
-    "time": "15:00 - 18:00",
     "service_type": "אסתר",
     "is_available": true
   },
@@ -1502,13 +1495,6 @@
     "event_id": "20",
     "time": "10:00 - 13:00",
     "service_type": "ליאור",
-    "is_available": true
-  },
-  "שלישי, 1 אפריל 2025_16": {
-    "date": "שלישי, 1 אפריל 2025",
-    "event_id": "16",
-    "time": "07:00 - 10:00",
-    "service_type": "קטמנדו",
     "is_available": true
   }
 }
