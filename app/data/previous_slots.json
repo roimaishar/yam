@@ -468,6 +468,13 @@
     "service_type": "מישל",
     "is_available": true
   },
+  "שני, 24 מרץ 2025_27": {
+    "date": "שני, 24 מרץ 2025",
+    "event_id": "27",
+    "time": "18:00 - 21:00",
+    "service_type": "מישל",
+    "is_available": true
+  },
   "שני, 24 מרץ 2025_5": {
     "date": "שני, 24 מרץ 2025",
     "event_id": "5",
@@ -696,13 +703,6 @@
     "date": "רביעי, 26 מרץ 2025",
     "event_id": "25",
     "time": "06:00 - 09:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  "רביעי, 26 מרץ 2025_26": {
-    "date": "רביעי, 26 מרץ 2025",
-    "event_id": "26",
-    "time": "09:00 - 12:00",
     "service_type": "מישל",
     "is_available": true
   },
@@ -1200,6 +1200,13 @@
     "date": "שני, 31 מרץ 2025",
     "event_id": "54",
     "time": "14:00 - 17:00",
+    "service_type": "רוני",
+    "is_available": true
+  },
+  "שני, 31 מרץ 2025_55": {
+    "date": "שני, 31 מרץ 2025",
+    "event_id": "55",
+    "time": "17:00 - 20:00",
     "service_type": "רוני",
     "is_available": true
   },
