@@ -118,6 +118,13 @@
     "service_type": "קרפה",
     "is_available": true
   },
+  "שבת, 22 מרץ 2025_3": {
+    "date": "שבת, 22 מרץ 2025",
+    "event_id": "3",
+    "time": "14:00 - 17:00",
+    "service_type": "קרפה",
+    "is_available": true
+  },
   "שבת, 22 מרץ 2025_34": {
     "date": "שבת, 22 מרץ 2025",
     "event_id": "34",
@@ -543,6 +550,13 @@
     "event_id": "52",
     "time": "18:00 - 21:00",
     "service_type": "אסתר",
+    "is_available": true
+  },
+  "רביעי, 26 מרץ 2025_4": {
+    "date": "רביעי, 26 מרץ 2025",
+    "event_id": "4",
+    "time": "17:00 - 20:00",
+    "service_type": "קרפה",
     "is_available": true
   },
   "רביעי, 26 מרץ 2025_34": {
