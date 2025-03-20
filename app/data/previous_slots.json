@@ -398,6 +398,13 @@
     "service_type": "נאווה",
     "is_available": true
   },
+  "שני, 24 מרץ 2025_6": {
+    "date": "שני, 24 מרץ 2025",
+    "event_id": "6",
+    "time": "10:00 - 12:00",
+    "service_type": "נאווה",
+    "is_available": true
+  },
   "שני, 24 מרץ 2025_7": {
     "date": "שני, 24 מרץ 2025",
     "event_id": "7",
@@ -584,6 +591,13 @@
     "date": "רביעי, 26 מרץ 2025",
     "event_id": "1",
     "time": "08:00 - 11:00",
+    "service_type": "קרפה",
+    "is_available": true
+  },
+  "רביעי, 26 מרץ 2025_2": {
+    "date": "רביעי, 26 מרץ 2025",
+    "event_id": "2",
+    "time": "11:00 - 14:00",
     "service_type": "קרפה",
     "is_available": true
   },
