@@ -251,13 +251,6 @@
     "service_type": "מישל",
     "is_available": true
   },
-  "שבת, 22 מרץ 2025_25": {
-    "date": "שבת, 22 מרץ 2025",
-    "event_id": "25",
-    "time": "09:00 - 12:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
   "שבת, 22 מרץ 2025_5": {
     "date": "שבת, 22 מרץ 2025",
     "event_id": "5",
