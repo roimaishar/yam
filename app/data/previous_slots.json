@@ -293,13 +293,6 @@
     "service_type": "נאווה",
     "is_available": true
   },
-  "ראשון, 23 מרץ 2025_19": {
-    "date": "ראשון, 23 מרץ 2025",
-    "event_id": "19",
-    "time": "07:00 - 10:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
   "ראשון, 23 מרץ 2025_23": {
     "date": "ראשון, 23 מרץ 2025",
     "event_id": "23",
@@ -1438,6 +1431,13 @@
     "date": "רביעי, 2 אפריל 2025",
     "event_id": "54",
     "time": "08:00 - 11:00",
+    "service_type": "רוני",
+    "is_available": true
+  },
+  "רביעי, 2 אפריל 2025_57": {
+    "date": "רביעי, 2 אפריל 2025",
+    "event_id": "57",
+    "time": "17:00 - 20:00",
     "service_type": "רוני",
     "is_available": true
   },
