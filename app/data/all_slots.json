@@ -113,20 +113,6 @@
   },
   {
     "date": "שבת, 22 מרץ 2025",
-    "event_id": "1",
-    "time": "08:00 - 11:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 22 מרץ 2025",
-    "event_id": "2",
-    "time": "11:00 - 14:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 22 מרץ 2025",
     "event_id": "34",
     "time": "06:00 - 09:00",
     "service_type": "הרמוני",
@@ -325,13 +311,6 @@
     "date": "שני, 24 מרץ 2025",
     "event_id": "1",
     "time": "08:00 - 11:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
-  {
-    "date": "שני, 24 מרץ 2025",
-    "event_id": "2",
-    "time": "11:00 - 14:00",
     "service_type": "קרפה",
     "is_available": true
   },
