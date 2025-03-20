@@ -750,6 +750,13 @@
   },
   {
     "date": "שבת, 29 מרץ 2025",
+    "event_id": "30",
+    "time": "11:00 - 14:00",
+    "service_type": "כרמן החדשה",
+    "is_available": true
+  },
+  {
+    "date": "שבת, 29 מרץ 2025",
     "event_id": "31",
     "time": "14:00 - 17:00",
     "service_type": "כרמן החדשה",
@@ -963,13 +970,6 @@
     "event_id": "24",
     "time": "19:00 - 22:00",
     "service_type": "ליאור",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 30 מרץ 2025",
-    "event_id": "18",
-    "time": "10:00 - 13:00",
-    "service_type": "קטמנדו",
     "is_available": true
   },
   {
