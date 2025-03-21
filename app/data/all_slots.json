@@ -29,13 +29,6 @@
   },
   {
     "date": "שישי, 21 מרץ 2025",
-    "event_id": "4",
-    "time": "17:00 - 20:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 21 מרץ 2025",
     "event_id": "30",
     "time": "11:00 - 14:00",
     "service_type": "כרמן החדשה",
@@ -267,6 +260,27 @@
   },
   {
     "date": "ראשון, 23 מרץ 2025",
+    "event_id": "34",
+    "time": "06:00 - 09:00",
+    "service_type": "הרמוני",
+    "is_available": true
+  },
+  {
+    "date": "ראשון, 23 מרץ 2025",
+    "event_id": "38",
+    "time": "18:00 - 21:00",
+    "service_type": "הרמוני",
+    "is_available": true
+  },
+  {
+    "date": "ראשון, 23 מרץ 2025",
+    "event_id": "32",
+    "time": "17:00 - 20:00",
+    "service_type": "כרמן החדשה",
+    "is_available": true
+  },
+  {
+    "date": "ראשון, 23 מרץ 2025",
     "event_id": "28",
     "time": "18:00 - 21:00",
     "service_type": "מישל",
@@ -344,9 +358,30 @@
   },
   {
     "date": "שני, 24 מרץ 2025",
+    "event_id": "2",
+    "time": "11:00 - 14:00",
+    "service_type": "קרפה",
+    "is_available": true
+  },
+  {
+    "date": "שני, 24 מרץ 2025",
     "event_id": "32",
     "time": "06:00 - 09:00",
     "service_type": "הרמוני",
+    "is_available": true
+  },
+  {
+    "date": "שני, 24 מרץ 2025",
+    "event_id": "34",
+    "time": "12:00 - 15:00",
+    "service_type": "הרמוני",
+    "is_available": true
+  },
+  {
+    "date": "שני, 24 מרץ 2025",
+    "event_id": "30",
+    "time": "14:00 - 17:00",
+    "service_type": "כרמן החדשה",
     "is_available": true
   },
   {
@@ -445,6 +480,20 @@
     "event_id": "51",
     "time": "18:00 - 21:00",
     "service_type": "אסתר",
+    "is_available": true
+  },
+  {
+    "date": "שלישי, 25 מרץ 2025",
+    "event_id": "32",
+    "time": "17:00 - 20:00",
+    "service_type": "כרמן החדשה",
+    "is_available": true
+  },
+  {
+    "date": "שלישי, 25 מרץ 2025",
+    "event_id": "28",
+    "time": "18:00 - 21:00",
+    "service_type": "מישל",
     "is_available": true
   },
   {
