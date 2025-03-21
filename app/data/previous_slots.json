@@ -146,6 +146,13 @@
     "service_type": "הרמוני",
     "is_available": true
   },
+  "שבת, 22 מרץ 2025_36": {
+    "date": "שבת, 22 מרץ 2025",
+    "event_id": "36",
+    "time": "12:00 - 15:00",
+    "service_type": "הרמוני",
+    "is_available": true
+  },
   "שבת, 22 מרץ 2025_24": {
     "date": "שבת, 22 מרץ 2025",
     "event_id": "24",
