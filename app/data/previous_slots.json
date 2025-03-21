@@ -27,6 +27,13 @@
     "service_type": "טיני",
     "is_available": true
   },
+  "שישי, 21 מרץ 2025_3": {
+    "date": "שישי, 21 מרץ 2025",
+    "event_id": "3",
+    "time": "14:00 - 17:00",
+    "service_type": "קרפה",
+    "is_available": true
+  },
   "שישי, 21 מרץ 2025_4": {
     "date": "שישי, 21 מרץ 2025",
     "event_id": "4",
