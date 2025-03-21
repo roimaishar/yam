@@ -1524,5 +1524,82 @@
     "time": "19:00 - 22:00",
     "service_type": "ליאור",
     "is_available": true
+  },
+  "חמישי, 3 אפריל 2025_45": {
+    "date": "חמישי, 3 אפריל 2025",
+    "event_id": "45",
+    "time": "11:00 - 13:00",
+    "service_type": "טיני",
+    "is_available": true
+  },
+  "חמישי, 3 אפריל 2025_48": {
+    "date": "חמישי, 3 אפריל 2025",
+    "event_id": "48",
+    "time": "06:00 - 09:00",
+    "service_type": "אסתר",
+    "is_available": true
+  },
+  "חמישי, 3 אפריל 2025_52": {
+    "date": "חמישי, 3 אפריל 2025",
+    "event_id": "52",
+    "time": "18:00 - 21:00",
+    "service_type": "אסתר",
+    "is_available": true
+  },
+  "חמישי, 3 אפריל 2025_4": {
+    "date": "חמישי, 3 אפריל 2025",
+    "event_id": "4",
+    "time": "17:00 - 20:00",
+    "service_type": "קרפה",
+    "is_available": true
+  },
+  "חמישי, 3 אפריל 2025_34": {
+    "date": "חמישי, 3 אפריל 2025",
+    "event_id": "34",
+    "time": "06:00 - 09:00",
+    "service_type": "הרמוני",
+    "is_available": true
+  },
+  "חמישי, 3 אפריל 2025_38": {
+    "date": "חמישי, 3 אפריל 2025",
+    "event_id": "38",
+    "time": "18:00 - 21:00",
+    "service_type": "הרמוני",
+    "is_available": true
+  },
+  "חמישי, 3 אפריל 2025_29": {
+    "date": "חמישי, 3 אפריל 2025",
+    "event_id": "29",
+    "time": "18:00 - 21:00",
+    "service_type": "מישל",
+    "is_available": true
+  },
+  "חמישי, 3 אפריל 2025_15": {
+    "date": "חמישי, 3 אפריל 2025",
+    "event_id": "15",
+    "time": "16:00 - 19:00",
+    "service_type": "רונית",
+    "is_available": true
+  },
+  "חמישי, 3 אפריל 2025_23": {
+    "date": "חמישי, 3 אפריל 2025",
+    "event_id": "23",
+    "time": "16:00 - 19:00",
+    "service_type": "ליאור",
+    "is_available": true
+  },
+  "חמישי, 3 אפריל 2025_24": {
+    "date": "חמישי, 3 אפריל 2025",
+    "event_id": "24",
+    "time": "19:00 - 22:00",
+    "service_type": "ליאור",
+    "is_available": true
+  },
+  "חמישי, 3 אפריל 2025_16": {
+    "date": "חמישי, 3 אפריל 2025",
+    "event_id": "16",
+    "time": "07:00 - 09:00",
+    "service_type": "קטמנדו",
+    "is_available": true
   }
 }
