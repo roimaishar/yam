@@ -386,13 +386,6 @@
   },
   {
     "date": "שישי, 28 מרץ 2025",
-    "event_id": "45",
-    "time": "11:00 - 13:00",
-    "service_type": "טיני",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 28 מרץ 2025",
     "event_id": "46",
     "time": "14:00 - 16:00",
     "service_type": "טיני",
