@@ -281,13 +281,6 @@
   },
   {
     "date": "שלישי, 25 מרץ 2025",
-    "event_id": "21",
-    "time": "13:00 - 16:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 25 מרץ 2025",
     "event_id": "23",
     "time": "19:00 - 22:00",
     "service_type": "ליאור",
