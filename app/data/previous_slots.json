@@ -20,13 +20,6 @@
     "service_type": "טיני",
     "is_available": true
   },
-  "ראשון, 23 מרץ 2025_53": {
-    "date": "ראשון, 23 מרץ 2025",
-    "event_id": "53",
-    "time": "18:00 - 21:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
   "ראשון, 23 מרץ 2025_34": {
     "date": "ראשון, 23 מרץ 2025",
     "event_id": "34",
@@ -353,6 +346,13 @@
     "date": "חמישי, 27 מרץ 2025",
     "event_id": "34",
     "time": "06:00 - 09:00",
+    "service_type": "הרמוני",
+    "is_available": true
+  },
+  "חמישי, 27 מרץ 2025_38": {
+    "date": "חמישי, 27 מרץ 2025",
+    "event_id": "38",
+    "time": "18:00 - 21:00",
     "service_type": "הרמוני",
     "is_available": true
   },
