@@ -706,20 +706,6 @@
     "service_type": "מישל",
     "is_available": true
   },
-  "שני, 31 מרץ 2025_14": {
-    "date": "שני, 31 מרץ 2025",
-    "event_id": "14",
-    "time": "13:00 - 16:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
-  "שני, 31 מרץ 2025_15": {
-    "date": "שני, 31 מרץ 2025",
-    "event_id": "15",
-    "time": "16:00 - 19:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
   "שני, 31 מרץ 2025_23": {
     "date": "שני, 31 מרץ 2025",
     "event_id": "23",
