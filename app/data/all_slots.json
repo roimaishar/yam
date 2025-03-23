@@ -253,13 +253,6 @@
   },
   {
     "date": "רביעי, 26 מרץ 2025",
-    "event_id": "53",
-    "time": "18:00 - 21:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 26 מרץ 2025",
     "event_id": "38",
     "time": "18:00 - 21:00",
     "service_type": "הרמוני",
@@ -659,13 +652,6 @@
   },
   {
     "date": "שני, 31 מרץ 2025",
-    "event_id": "55",
-    "time": "14:00 - 17:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
-  {
-    "date": "שני, 31 מרץ 2025",
     "event_id": "56",
     "time": "17:00 - 20:00",
     "service_type": "רוני",
@@ -829,13 +815,6 @@
     "date": "שלישי, 1 אפריל 2025",
     "event_id": "53",
     "time": "08:00 - 11:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 1 אפריל 2025",
-    "event_id": "54",
-    "time": "11:00 - 14:00",
     "service_type": "רוני",
     "is_available": true
   },
