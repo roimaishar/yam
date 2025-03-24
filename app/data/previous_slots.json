@@ -104,13 +104,6 @@
     "service_type": "הרמוני",
     "is_available": true
   },
-  "חמישי, 27 מרץ 2025_25": {
-    "date": "חמישי, 27 מרץ 2025",
-    "event_id": "25",
-    "time": "06:00 - 09:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
   "חמישי, 27 מרץ 2025_24": {
     "date": "חמישי, 27 מרץ 2025",
     "event_id": "24",
@@ -458,13 +451,6 @@
     "date": "שני, 31 מרץ 2025",
     "event_id": "55",
     "time": "14:00 - 17:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
-  "שני, 31 מרץ 2025_56": {
-    "date": "שני, 31 מרץ 2025",
-    "event_id": "56",
-    "time": "17:00 - 20:00",
     "service_type": "רוני",
     "is_available": true
   },
