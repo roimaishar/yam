@@ -29,13 +29,6 @@
   },
   {
     "date": "שלישי, 25 מרץ 2025",
-    "event_id": "51",
-    "time": "18:00 - 21:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 25 מרץ 2025",
     "event_id": "24",
     "time": "06:00 - 09:00",
     "service_type": "מישל",
