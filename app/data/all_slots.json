@@ -92,13 +92,6 @@
   },
   {
     "date": "רביעי, 26 מרץ 2025",
-    "event_id": "47",
-    "time": "11:00 - 13:00",
-    "service_type": "טיני",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 26 מרץ 2025",
     "event_id": "48",
     "time": "14:00 - 16:00",
     "service_type": "טיני",
