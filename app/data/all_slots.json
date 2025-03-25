@@ -57,6 +57,13 @@
   },
   {
     "date": "חמישי, 27 מרץ 2025",
+    "event_id": "6",
+    "time": "10:00 - 12:00",
+    "service_type": "נאווה",
+    "is_available": true
+  },
+  {
+    "date": "חמישי, 27 מרץ 2025",
     "event_id": "10",
     "time": "18:00 - 20:00",
     "service_type": "נאווה",
@@ -242,6 +249,13 @@
     "event_id": "23",
     "time": "19:00 - 22:00",
     "service_type": "ליאור",
+    "is_available": true
+  },
+  {
+    "date": "שבת, 29 מרץ 2025",
+    "event_id": "18",
+    "time": "13:00 - 16:00",
+    "service_type": "קטמנדו",
     "is_available": true
   },
   {
