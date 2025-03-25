@@ -405,6 +405,13 @@
     "service_type": "הרמוני",
     "is_available": true
   },
+  "שני, 31 מרץ 2025_37": {
+    "date": "שני, 31 מרץ 2025",
+    "event_id": "37",
+    "time": "12:00 - 15:00",
+    "service_type": "הרמוני",
+    "is_available": true
+  },
   "שני, 31 מרץ 2025_39": {
     "date": "שני, 31 מרץ 2025",
     "event_id": "39",
@@ -620,6 +627,13 @@
     "event_id": "48",
     "time": "14:00 - 16:00",
     "service_type": "טיני",
+    "is_available": true
+  },
+  "רביעי, 2 אפריל 2025_40": {
+    "date": "רביעי, 2 אפריל 2025",
+    "event_id": "40",
+    "time": "07:00 - 10:00",
+    "service_type": "ושתי",
     "is_available": true
   },
   "רביעי, 2 אפריל 2025_49": {
