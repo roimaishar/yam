@@ -92,13 +92,6 @@
   },
   {
     "date": "חמישי, 27 מרץ 2025",
-    "event_id": "6",
-    "time": "10:00 - 12:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  {
-    "date": "חמישי, 27 מרץ 2025",
     "event_id": "10",
     "time": "18:00 - 20:00",
     "service_type": "נאווה",
@@ -150,6 +143,13 @@
     "date": "שישי, 28 מרץ 2025",
     "event_id": "6",
     "time": "10:00 - 12:00",
+    "service_type": "נאווה",
+    "is_available": true
+  },
+  {
+    "date": "שישי, 28 מרץ 2025",
+    "event_id": "7",
+    "time": "12:00 - 14:00",
     "service_type": "נאווה",
     "is_available": true
   },
