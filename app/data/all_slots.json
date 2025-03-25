@@ -232,13 +232,6 @@
   },
   {
     "date": "ראשון, 30 מרץ 2025",
-    "event_id": "1",
-    "time": "08:00 - 11:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 30 מרץ 2025",
     "event_id": "2",
     "time": "11:00 - 14:00",
     "service_type": "קרפה",
@@ -386,13 +379,6 @@
   },
   {
     "date": "שני, 31 מרץ 2025",
-    "event_id": "55",
-    "time": "14:00 - 17:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
-  {
-    "date": "שני, 31 מרץ 2025",
     "event_id": "1",
     "time": "08:00 - 11:00",
     "service_type": "קרפה",
@@ -416,13 +402,6 @@
     "date": "שני, 31 מרץ 2025",
     "event_id": "36",
     "time": "09:00 - 12:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  {
-    "date": "שני, 31 מרץ 2025",
-    "event_id": "37",
-    "time": "12:00 - 15:00",
     "service_type": "הרמוני",
     "is_available": true
   },
