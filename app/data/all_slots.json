@@ -365,13 +365,6 @@
   },
   {
     "date": "שני, 31 מרץ 2025",
-    "event_id": "42",
-    "time": "13:00 - 16:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "שני, 31 מרץ 2025",
     "event_id": "43",
     "time": "16:00 - 19:00",
     "service_type": "ושתי",
@@ -494,20 +487,6 @@
     "event_id": "41",
     "time": "10:00 - 13:00",
     "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 1 אפריל 2025",
-    "event_id": "42",
-    "time": "13:00 - 16:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 1 אפריל 2025",
-    "event_id": "48",
-    "time": "06:00 - 09:00",
-    "service_type": "אסתר",
     "is_available": true
   },
   {
