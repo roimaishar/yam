@@ -22,13 +22,6 @@
   },
   {
     "date": "רביעי, 26 מרץ 2025",
-    "event_id": "52",
-    "time": "15:00 - 18:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 26 מרץ 2025",
     "event_id": "29",
     "time": "18:00 - 21:00",
     "service_type": "מישל",
@@ -766,13 +759,6 @@
     "date": "רביעי, 2 אפריל 2025",
     "event_id": "27",
     "time": "09:00 - 12:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 2 אפריל 2025",
-    "event_id": "28",
-    "time": "12:00 - 15:00",
     "service_type": "מישל",
     "is_available": true
   },
