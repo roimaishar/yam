@@ -125,13 +125,6 @@
     "service_type": "רוני",
     "is_available": true
   },
-  "שבת, 29 מרץ 2025_1": {
-    "date": "שבת, 29 מרץ 2025",
-    "event_id": "1",
-    "time": "08:00 - 11:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
   "שבת, 29 מרץ 2025_30": {
     "date": "שבת, 29 מרץ 2025",
     "event_id": "30",
@@ -431,13 +424,6 @@
     "event_id": "41",
     "time": "10:00 - 13:00",
     "service_type": "ושתי",
-    "is_available": true
-  },
-  "שלישי, 1 אפריל 2025_49": {
-    "date": "שלישי, 1 אפריל 2025",
-    "event_id": "49",
-    "time": "09:00 - 12:00",
-    "service_type": "אסתר",
     "is_available": true
   },
   "שלישי, 1 אפריל 2025_53": {
