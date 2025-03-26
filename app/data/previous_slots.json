@@ -20,6 +20,13 @@
     "service_type": "ושתי",
     "is_available": true
   },
+  "שישי, 28 מרץ 2025_53": {
+    "date": "שישי, 28 מרץ 2025",
+    "event_id": "53",
+    "time": "11:00 - 14:00",
+    "service_type": "רוני",
+    "is_available": true
+  },
   "שישי, 28 מרץ 2025_28": {
     "date": "שישי, 28 מרץ 2025",
     "event_id": "28",
@@ -66,13 +73,6 @@
     "date": "שישי, 28 מרץ 2025",
     "event_id": "15",
     "time": "07:00 - 09:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
-  "שישי, 28 מרץ 2025_16": {
-    "date": "שישי, 28 מרץ 2025",
-    "event_id": "16",
-    "time": "09:00 - 11:00",
     "service_type": "קטמנדו",
     "is_available": true
   },
@@ -143,13 +143,6 @@
     "date": "שבת, 29 מרץ 2025",
     "event_id": "25",
     "time": "12:00 - 15:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  "שבת, 29 מרץ 2025_26": {
-    "date": "שבת, 29 מרץ 2025",
-    "event_id": "26",
-    "time": "15:00 - 18:00",
     "service_type": "מישל",
     "is_available": true
   },
@@ -354,6 +347,13 @@
     "event_id": "17",
     "time": "10:00 - 13:00",
     "service_type": "קטמנדו",
+    "is_available": true
+  },
+  "שני, 31 מרץ 2025_42": {
+    "date": "שני, 31 מרץ 2025",
+    "event_id": "42",
+    "time": "13:00 - 16:00",
+    "service_type": "ושתי",
     "is_available": true
   },
   "שני, 31 מרץ 2025_43": {
@@ -683,13 +683,6 @@
     "event_id": "24",
     "time": "19:00 - 22:00",
     "service_type": "ליאור",
-    "is_available": true
-  },
-  "שישי, 4 אפריל 2025_18": {
-    "date": "שישי, 4 אפריל 2025",
-    "event_id": "18",
-    "time": "11:00 - 13:00",
-    "service_type": "קטמנדו",
     "is_available": true
   },
   "שבת, 5 אפריל 2025_43": {
@@ -1354,6 +1347,13 @@
     "date": "שלישי, 8 אפריל 2025",
     "event_id": "54",
     "time": "08:00 - 11:00",
+    "service_type": "רוני",
+    "is_available": true
+  },
+  "שלישי, 8 אפריל 2025_55": {
+    "date": "שלישי, 8 אפריל 2025",
+    "event_id": "55",
+    "time": "11:00 - 14:00",
     "service_type": "רוני",
     "is_available": true
   },
