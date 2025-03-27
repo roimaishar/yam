@@ -6,11 +6,11 @@
     "service_type": "ושתי",
     "is_available": true
   },
-  "שישי, 28 מרץ 2025_28": {
+  "שישי, 28 מרץ 2025_4": {
     "date": "שישי, 28 מרץ 2025",
-    "event_id": "28",
-    "time": "18:00 - 21:00",
-    "service_type": "מישל",
+    "event_id": "4",
+    "time": "17:00 - 20:00",
+    "service_type": "קרפה",
     "is_available": true
   },
   "שישי, 28 מרץ 2025_5": {
@@ -172,13 +172,6 @@
     "event_id": "22",
     "time": "19:00 - 22:00",
     "service_type": "ליאור",
-    "is_available": true
-  },
-  "שבת, 29 מרץ 2025_17": {
-    "date": "שבת, 29 מרץ 2025",
-    "event_id": "17",
-    "time": "13:00 - 16:00",
-    "service_type": "קטמנדו",
     "is_available": true
   },
   "ראשון, 30 מרץ 2025_42": {
@@ -412,13 +405,6 @@
     "service_type": "מישל",
     "is_available": true
   },
-  "שלישי, 1 אפריל 2025_27": {
-    "date": "שלישי, 1 אפריל 2025",
-    "event_id": "27",
-    "time": "12:00 - 15:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
   "שלישי, 1 אפריל 2025_29": {
     "date": "שלישי, 1 אפריל 2025",
     "event_id": "29",
@@ -482,17 +468,17 @@
     "service_type": "רוני",
     "is_available": true
   },
-  "רביעי, 2 אפריל 2025_56": {
-    "date": "רביעי, 2 אפריל 2025",
-    "event_id": "56",
-    "time": "11:00 - 14:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
   "רביעי, 2 אפריל 2025_3": {
     "date": "רביעי, 2 אפריל 2025",
     "event_id": "3",
     "time": "14:00 - 17:00",
+    "service_type": "קרפה",
+    "is_available": true
+  },
+  "רביעי, 2 אפריל 2025_4": {
+    "date": "רביעי, 2 אפריל 2025",
+    "event_id": "4",
+    "time": "17:00 - 20:00",
     "service_type": "קרפה",
     "is_available": true
   },
@@ -1025,13 +1011,6 @@
     "date": "שני, 7 אפריל 2025",
     "event_id": "40",
     "time": "13:00 - 16:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  "שני, 7 אפריל 2025_41": {
-    "date": "שני, 7 אפריל 2025",
-    "event_id": "41",
-    "time": "16:00 - 19:00",
     "service_type": "ושתי",
     "is_available": true
   },
