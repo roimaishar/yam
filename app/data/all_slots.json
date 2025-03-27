@@ -750,13 +750,6 @@
   },
   {
     "date": "שבת, 5 אפריל 2025",
-    "event_id": "21",
-    "time": "10:00 - 13:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 5 אפריל 2025",
     "event_id": "24",
     "time": "19:00 - 22:00",
     "service_type": "ליאור",
