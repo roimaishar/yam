@@ -15,6 +15,13 @@
   },
   {
     "date": "שישי, 28 מרץ 2025",
+    "event_id": "28",
+    "time": "18:00 - 21:00",
+    "service_type": "מישל",
+    "is_available": true
+  },
+  {
+    "date": "שישי, 28 מרץ 2025",
     "event_id": "5",
     "time": "08:00 - 10:00",
     "service_type": "נאווה",
@@ -172,6 +179,13 @@
     "event_id": "22",
     "time": "19:00 - 22:00",
     "service_type": "ליאור",
+    "is_available": true
+  },
+  {
+    "date": "שבת, 29 מרץ 2025",
+    "event_id": "16",
+    "time": "10:00 - 13:00",
+    "service_type": "קטמנדו",
     "is_available": true
   },
   {
@@ -1291,13 +1305,6 @@
     "date": "שלישי, 8 אפריל 2025",
     "event_id": "55",
     "time": "11:00 - 14:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 8 אפריל 2025",
-    "event_id": "56",
-    "time": "14:00 - 17:00",
     "service_type": "רוני",
     "is_available": true
   },
