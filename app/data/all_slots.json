@@ -8,9 +8,9 @@
   },
   {
     "date": "שישי, 28 מרץ 2025",
-    "event_id": "53",
-    "time": "11:00 - 14:00",
-    "service_type": "רוני",
+    "event_id": "35",
+    "time": "12:00 - 15:00",
+    "service_type": "הרמוני",
     "is_available": true
   },
   {
@@ -39,13 +39,6 @@
     "event_id": "10",
     "time": "18:00 - 20:00",
     "service_type": "נאווה",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 28 מרץ 2025",
-    "event_id": "19",
-    "time": "07:00 - 10:00",
-    "service_type": "ליאור",
     "is_available": true
   },
   {
