@@ -6,6 +6,13 @@
     "service_type": "ושתי",
     "is_available": true
   },
+  "שישי, 28 מרץ 2025_50": {
+    "date": "שישי, 28 מרץ 2025",
+    "event_id": "50",
+    "time": "15:00 - 18:00",
+    "service_type": "אסתר",
+    "is_available": true
+  },
   "שישי, 28 מרץ 2025_4": {
     "date": "שישי, 28 מרץ 2025",
     "event_id": "4",
@@ -55,17 +62,17 @@
     "service_type": "קטמנדו",
     "is_available": true
   },
+  "שבת, 29 מרץ 2025_39": {
+    "date": "שבת, 29 מרץ 2025",
+    "event_id": "39",
+    "time": "10:00 - 13:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
   "שבת, 29 מרץ 2025_40": {
     "date": "שבת, 29 מרץ 2025",
     "event_id": "40",
     "time": "13:00 - 16:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  "שבת, 29 מרץ 2025_41": {
-    "date": "שבת, 29 מרץ 2025",
-    "event_id": "41",
-    "time": "16:00 - 19:00",
     "service_type": "ושתי",
     "is_available": true
   },
@@ -319,13 +326,6 @@
     "event_id": "39",
     "time": "18:00 - 21:00",
     "service_type": "הרמוני",
-    "is_available": true
-  },
-  "שני, 31 מרץ 2025_30": {
-    "date": "שני, 31 מרץ 2025",
-    "event_id": "30",
-    "time": "18:00 - 21:00",
-    "service_type": "מישל",
     "is_available": true
   },
   "שני, 31 מרץ 2025_24": {
