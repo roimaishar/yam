@@ -13,6 +13,13 @@
     "service_type": "ושתי",
     "is_available": true
   },
+  "שישי, 28 מרץ 2025_51": {
+    "date": "שישי, 28 מרץ 2025",
+    "event_id": "51",
+    "time": "18:00 - 21:00",
+    "service_type": "אסתר",
+    "is_available": true
+  },
   "שישי, 28 מרץ 2025_8": {
     "date": "שישי, 28 מרץ 2025",
     "event_id": "8",
