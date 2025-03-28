@@ -1,21 +1,21 @@
 [
   {
     "date": "שישי, 28 מרץ 2025",
-    "event_id": "39",
+    "event_id": "40",
     "time": "10:00 - 13:00",
     "service_type": "ושתי",
     "is_available": true
   },
   {
     "date": "שישי, 28 מרץ 2025",
-    "event_id": "41",
+    "event_id": "42",
     "time": "16:00 - 19:00",
     "service_type": "ושתי",
     "is_available": true
   },
   {
     "date": "שישי, 28 מרץ 2025",
-    "event_id": "51",
+    "event_id": "52",
     "time": "18:00 - 21:00",
     "service_type": "אסתר",
     "is_available": true
@@ -43,37 +43,9 @@
   },
   {
     "date": "שישי, 28 מרץ 2025",
-    "event_id": "12",
-    "time": "10:00 - 13:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 28 מרץ 2025",
-    "event_id": "23",
+    "event_id": "24",
     "time": "19:00 - 22:00",
     "service_type": "ליאור",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 28 מרץ 2025",
-    "event_id": "15",
-    "time": "07:00 - 09:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 28 מרץ 2025",
-    "event_id": "16",
-    "time": "09:00 - 11:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 28 מרץ 2025",
-    "event_id": "18",
-    "time": "13:00 - 15:00",
-    "service_type": "קטמנדו",
     "is_available": true
   },
   {
