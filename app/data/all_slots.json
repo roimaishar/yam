@@ -8,6 +8,20 @@
   },
   {
     "date": "שישי, 28 מרץ 2025",
+    "event_id": "9",
+    "time": "16:00 - 18:00",
+    "service_type": "נאווה",
+    "is_available": true
+  },
+  {
+    "date": "שישי, 28 מרץ 2025",
+    "event_id": "10",
+    "time": "18:00 - 20:00",
+    "service_type": "נאווה",
+    "is_available": true
+  },
+  {
+    "date": "שישי, 28 מרץ 2025",
     "event_id": "23",
     "time": "19:00 - 22:00",
     "service_type": "ליאור",
