@@ -155,6 +155,13 @@
   },
   {
     "date": "שלישי, 1 אפריל 2025",
+    "event_id": "54",
+    "time": "08:00 - 11:00",
+    "service_type": "רוני",
+    "is_available": true
+  },
+  {
+    "date": "שלישי, 1 אפריל 2025",
     "event_id": "35",
     "time": "06:00 - 09:00",
     "service_type": "הרמוני",
@@ -214,13 +221,6 @@
     "event_id": "39",
     "time": "18:00 - 21:00",
     "service_type": "הרמוני",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 2 אפריל 2025",
-    "event_id": "26",
-    "time": "06:00 - 09:00",
-    "service_type": "מישל",
     "is_available": true
   },
   {
