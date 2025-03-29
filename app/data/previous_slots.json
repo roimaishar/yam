@@ -69,13 +69,6 @@
     "service_type": "נאווה",
     "is_available": true
   },
-  "ראשון, 30 מרץ 2025_8": {
-    "date": "ראשון, 30 מרץ 2025",
-    "event_id": "8",
-    "time": "12:00 - 14:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
   "ראשון, 30 מרץ 2025_9": {
     "date": "ראשון, 30 מרץ 2025",
     "event_id": "9",
@@ -277,13 +270,6 @@
     "event_id": "52",
     "time": "18:00 - 21:00",
     "service_type": "אסתר",
-    "is_available": true
-  },
-  "שישי, 4 אפריל 2025_24": {
-    "date": "שישי, 4 אפריל 2025",
-    "event_id": "24",
-    "time": "19:00 - 22:00",
-    "service_type": "ליאור",
     "is_available": true
   },
   "שבת, 5 אפריל 2025_43": {
