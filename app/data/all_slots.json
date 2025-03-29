@@ -918,6 +918,13 @@
   },
   {
     "date": "שלישי, 8 אפריל 2025",
+    "event_id": "50",
+    "time": "09:00 - 12:00",
+    "service_type": "אסתר",
+    "is_available": true
+  },
+  {
+    "date": "שלישי, 8 אפריל 2025",
     "event_id": "51",
     "time": "12:00 - 15:00",
     "service_type": "אסתר",
@@ -1375,13 +1382,6 @@
     "date": "שישי, 11 אפריל 2025",
     "event_id": "5",
     "time": "08:00 - 10:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 11 אפריל 2025",
-    "event_id": "6",
-    "time": "10:00 - 12:00",
     "service_type": "נאווה",
     "is_available": true
   },
