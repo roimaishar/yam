@@ -309,13 +309,6 @@
   },
   {
     "date": "ראשון, 6 אפריל 2025",
-    "event_id": "54",
-    "time": "15:00 - 18:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 6 אפריל 2025",
     "event_id": "55",
     "time": "18:00 - 21:00",
     "service_type": "אסתר",
@@ -889,13 +882,6 @@
     "is_available": true
   },
   {
-    "date": "שלישי, 8 אפריל 2025",
-    "event_id": "18",
-    "time": "13:00 - 16:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
-  {
     "date": "רביעי, 9 אפריל 2025",
     "event_id": "39",
     "time": "07:00 - 10:00",
@@ -1172,13 +1158,6 @@
     "date": "שבת, 12 אפריל 2025",
     "event_id": "1",
     "time": "08:00 - 11:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 12 אפריל 2025",
-    "event_id": "3",
-    "time": "14:00 - 17:00",
     "service_type": "קרפה",
     "is_available": true
   },
