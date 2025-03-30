@@ -8,6 +8,13 @@
   },
   {
     "date": "שני, 31 מרץ 2025",
+    "event_id": "43",
+    "time": "16:00 - 19:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
+  {
+    "date": "שני, 31 מרץ 2025",
     "event_id": "39",
     "time": "18:00 - 21:00",
     "service_type": "הרמוני",
