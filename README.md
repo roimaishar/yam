@@ -480,3 +480,60 @@ All scraped data is saved in the `app/data/` directory:
 - Playwright (for browser automation)
 - Requests (for Slack notifications)
 - python-dotenv (for environment variable management)
+
+## Development Workflow
+
+This project utilizes GitHub Actions to run the scraper automatically on a schedule. The data files (all_slots.json, previous_slots.json, notified_slots.json) are tracked in the repository to maintain persistent data between automated runs. To avoid conflicts between local development and automated runs, follow this workflow:
+
+### Git Workflow for Local Development
+
+1. **Before starting work**:
+   ```bash
+   git pull origin master
+   ```
+
+2. **After making code changes, but before committing**:
+   ```bash
+   # Discard any local data changes
+   git checkout -- app/data/*.json
+   
+   # Add only code files
+   git add your-code-files.py
+   
+   # Commit your changes
+   git commit -m "Your meaningful commit message"
+   ```
+
+3. **Before pushing**:
+   ```bash
+   git pull --rebase origin master
+   git push origin master
+   ```
+
+This workflow ensures that local development doesn't interfere with the data files managed by GitHub Actions.
+
+### Handling Merge Conflicts
+
+If you encounter merge conflicts with data files:
+
+1. Discard local data changes:
+   ```bash
+   git checkout -- app/data/*.json
+   ```
+
+2. Remove any untracked data files:
+   ```bash
+   git clean -f app/data/new_slots_*.json
+   ```
+
+3. Pull with rebase:
+   ```bash
+   git pull --rebase origin master
+   ```
+
+4. Push your changes:
+   ```bash
+   git push origin master
+   ```
+
+Following this workflow will help maintain a clean repository with both your code changes and the latest data from the automated scraper runs.
