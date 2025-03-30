@@ -112,16 +112,27 @@ class SlackNotifier:
                 }
             })
             
+            # Check if any slot has a count greater than 1
+            has_multiple_slots = any(slot.get("slots", 1) > 1 for slot in date_slots)
+            
             # Create a table for this date's slots
             table_text = "```\n"
-            table_text += "| Time          | Boat Type     | Slots |\n"
-            table_text += "|---------------|---------------|-------|\n"
+            if has_multiple_slots:
+                table_text += "| Time          | Boat Type     | Slots |\n"
+                table_text += "|---------------|---------------|-------|\n"
+            else:
+                table_text += "| Time          | Boat Type     |\n"
+                table_text += "|---------------|---------------|\n"
             
             for slot in date_slots:
                 time = slot.get("time", "Unknown")
                 boat_type = slot.get("service_type", "Unknown")
                 slots_count = slot.get("slots", 1)
-                table_text += f"| {time.ljust(13)} | {boat_type.ljust(13)} | {str(slots_count).ljust(5)} |\n"
+                
+                if has_multiple_slots:
+                    table_text += f"| {time.ljust(13)} | {boat_type.ljust(13)} | {str(slots_count).ljust(5)} |\n"
+                else:
+                    table_text += f"| {time.ljust(13)} | {boat_type.ljust(13)} |\n"
             
             table_text += "```"
             
