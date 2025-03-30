@@ -97,6 +97,13 @@
     "service_type": "קרפה",
     "is_available": true
   },
+  "רביעי, 2 אפריל 2025_37": {
+    "date": "רביעי, 2 אפריל 2025",
+    "event_id": "37",
+    "time": "12:00 - 15:00",
+    "service_type": "הרמוני",
+    "is_available": true
+  },
   "רביעי, 2 אפריל 2025_39": {
     "date": "רביעי, 2 אפריל 2025",
     "event_id": "39",
@@ -178,13 +185,6 @@
     "date": "שבת, 5 אפריל 2025",
     "event_id": "35",
     "time": "06:00 - 09:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  "שבת, 5 אפריל 2025_37": {
-    "date": "שבת, 5 אפריל 2025",
-    "event_id": "37",
-    "time": "12:00 - 15:00",
     "service_type": "הרמוני",
     "is_available": true
   },
@@ -871,13 +871,6 @@
     "date": "רביעי, 9 אפריל 2025",
     "event_id": "39",
     "time": "07:00 - 10:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  "רביעי, 9 אפריל 2025_40": {
-    "date": "רביעי, 9 אפריל 2025",
-    "event_id": "40",
-    "time": "10:00 - 13:00",
     "service_type": "ושתי",
     "is_available": true
   },
