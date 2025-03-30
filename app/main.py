@@ -17,9 +17,16 @@ async def run_monitor(days, interval, filters=None):
     load_dotenv()
     slack_webhook_url = os.getenv("SLACK_WEBHOOK_URL")
     
-    if not slack_webhook_url:
+    # Check for category-specific webhooks
+    katamaran_webhook = os.getenv("SLACK_WEBHOOK_URL_KATAMARAN")
+    monohull_webhook = os.getenv("SLACK_WEBHOOK_URL_MONOHULL")
+    
+    if not slack_webhook_url and not (katamaran_webhook or monohull_webhook):
         print("Warning: Slack notifications are not configured.")
-        print("To enable Slack notifications, add SLACK_WEBHOOK_URL to your .env file.")
+        print("To enable Slack notifications, add webhook URLs to your .env file:")
+        print("  SLACK_WEBHOOK_URL=... (for all boats)")
+        print("  SLACK_WEBHOOK_URL_KATAMARAN=... (for katamaran boats)")
+        print("  SLACK_WEBHOOK_URL_MONOHULL=... (for monohull boats)")
         print("Run 'python -m app.main monitor --setup' for setup instructions.")
     
     monitor = SlotMonitor(slack_webhook_url, days, interval, filters)
@@ -32,9 +39,13 @@ async def run_monitor_once(days, filters=None):
     load_dotenv()
     slack_webhook_url = os.getenv("SLACK_WEBHOOK_URL")
     
-    if not slack_webhook_url:
+    # Check for category-specific webhooks
+    katamaran_webhook = os.getenv("SLACK_WEBHOOK_URL_KATAMARAN")
+    monohull_webhook = os.getenv("SLACK_WEBHOOK_URL_MONOHULL")
+    
+    if not slack_webhook_url and not (katamaran_webhook or monohull_webhook):
         print("Warning: Slack notifications are not configured.")
-        print("To enable Slack notifications, add SLACK_WEBHOOK_URL to your .env file.")
+        print("To enable Slack notifications, add webhook URLs to your .env file.")
     
     monitor = SlotMonitor(slack_webhook_url, days, 30, filters)
     await monitor.check_for_new_slots()
@@ -56,6 +67,7 @@ def parse_arguments():
     monitor_parser.add_argument('--interval', type=int, default=30, help='Check interval in minutes (default: 30)')
     monitor_parser.add_argument('--time-range', type=str, help='Time range filter (e.g., "9:00-17:00")')
     monitor_parser.add_argument('--service-type', type=str, help='Filter by boat type')
+    monitor_parser.add_argument('--category', type=str, choices=['katamaran', 'monohull'], help='Filter by boat category')
     monitor_parser.add_argument('--setup', action='store_true', help='Show Slack webhook setup instructions')
     monitor_parser.add_argument('--once', action='store_true', help='Run the monitor once and exit')
     
@@ -95,6 +107,8 @@ if __name__ == "__main__":
             filters['time_range'] = args.time_range
         if hasattr(args, 'service_type') and args.service_type:
             filters['service_type'] = args.service_type
+        if hasattr(args, 'category') and args.category:
+            filters['category'] = args.category
         
         # Start monitoring
         days = args.days if hasattr(args, 'days') else 14

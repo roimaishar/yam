@@ -20,7 +20,14 @@ class SlotMonitor:
         
         # Slack setup
         self.slack_webhook_url = slack_webhook_url or os.getenv("SLACK_WEBHOOK_URL")
-        self.notifier = SlackNotifier(self.slack_webhook_url)
+        
+        # Category-specific webhooks
+        category_webhooks = {
+            "katamaran": os.getenv("SLACK_WEBHOOK_URL_KATAMARAN"),
+            "monohull": os.getenv("SLACK_WEBHOOK_URL_MONOHULL")
+        }
+        
+        self.notifier = SlackNotifier(self.slack_webhook_url, category_webhooks)
         
         # Load previous slots if available
         self.previous_slots_file = self.data_dir / "previous_slots.json"

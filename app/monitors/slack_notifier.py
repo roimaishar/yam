@@ -1,13 +1,17 @@
 import requests
 from typing import List, Dict, Any
 from datetime import datetime
+from app.utils.boat_categories import group_slots_by_category, get_webhook_for_category
 
 class SlackNotifier:
-    def __init__(self, webhook_url: str = None):
+    def __init__(self, webhook_url: str = None, category_webhooks: Dict[str, str] = None):
         self.webhook_url = webhook_url
+        self.category_webhooks = category_webhooks or {}
     
-    def send_notification(self, message: str) -> bool:
-        if not self.webhook_url:
+    def send_notification(self, message: str, webhook_url: str = None) -> bool:
+        target_webhook = webhook_url or self.webhook_url
+        
+        if not target_webhook:
             print(f"Slack notification not sent (webhook URL not configured): {message}")
             return False
             
@@ -17,7 +21,7 @@ class SlackNotifier:
         
         try:
             response = requests.post(
-                self.webhook_url,
+                target_webhook,
                 json=payload,
                 headers={"Content-Type": "application/json"}
             )
@@ -34,11 +38,29 @@ class SlackNotifier:
             return True
     
     def send_slot_notification(self, slots: List[Dict[str, Any]]) -> bool:
-        if not self.webhook_url:
-            print(f"Slack notification not sent (webhook URL not configured): {len(slots)} new slots")
+        if not slots:
             return False
         
-        if not slots:
+        # Send to default webhook (all slots)
+        if self.webhook_url:
+            self._send_formatted_notification(slots, self.webhook_url)
+        
+        # Group slots by boat category
+        categorized_slots = group_slots_by_category(slots)
+        
+        # Send category-specific notifications
+        for category in ["katamaran", "monohull"]:
+            category_slots = categorized_slots.get(category, [])
+            if category_slots:
+                webhook = get_webhook_for_category(category)
+                if webhook and webhook != self.webhook_url:  # Don't duplicate if same as default
+                    self._send_formatted_notification(category_slots, webhook)
+        
+        return True
+    
+    def _send_formatted_notification(self, slots: List[Dict[str, Any]], webhook_url: str) -> bool:
+        if not webhook_url:
+            print(f"Slack notification not sent (webhook URL not configured): {len(slots)} new slots")
             return False
         
         now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
@@ -130,7 +152,7 @@ class SlackNotifier:
         
         try:
             response = requests.post(
-                self.webhook_url,
+                webhook_url,
                 json=payload,
                 headers={"Content-Type": "application/json"}
             )
@@ -157,12 +179,35 @@ def setup_instructions():
 6. Click "Add New Webhook to Workspace"
 7. Choose the channel where you want to post notifications
 8. Copy the Webhook URL that is generated
-9. Add this URL to your .env file as SLACK_WEBHOOK_URL=your_webhook_url
+9. Add the webhook URLs to your .env file
 
-Example .env file:
+Example .env file with category-specific channels:
 ```
 YAM_USERNAME=your_username
 YAM_PASSWORD=your_password
+
+# Main webhook URL (for all boats)
 SLACK_WEBHOOK_URL=https://hooks.slack.com/services/TXXXXXXXX/BXXXXXXXX/XXXXXXXXXXXXXXXXXXXXXXXX
+
+# Category-specific webhook URLs
+SLACK_WEBHOOK_URL_KATAMARAN=https://hooks.slack.com/services/TXXXXXXXX/BXXXXXXXX/YYYYYYYYYYYYYYYYYYYY
+SLACK_WEBHOOK_URL_MONOHULL=https://hooks.slack.com/services/TXXXXXXXX/BXXXXXXXX/ZZZZZZZZZZZZZZZZZZZZ
 ```
+
+=== Boat Categories ===
+
+Katamaran boats:
+- אסתר (Esther)
+- ושתי (Vashti)
+
+Monohull boats:
+- כרמן החדשה (New Carmen)
+- ליאור (Lior)
+- מישל (Michel)
+- נאווה (Naava)
+- קרפה (Carpe)
+- רוני (Roni)
+- רונית (Ronit)
+- הרמוני (Harmony)
+- קטמנדו (Katmandu)
     """)
