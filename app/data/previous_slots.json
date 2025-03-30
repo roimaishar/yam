@@ -48,6 +48,13 @@
     "service_type": "ושתי",
     "is_available": true
   },
+  "שלישי, 1 אפריל 2025_41": {
+    "date": "שלישי, 1 אפריל 2025",
+    "event_id": "41",
+    "time": "10:00 - 13:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
   "שלישי, 1 אפריל 2025_53": {
     "date": "שלישי, 1 אפריל 2025",
     "event_id": "53",
@@ -122,13 +129,6 @@
     "date": "רביעי, 2 אפריל 2025",
     "event_id": "23",
     "time": "13:00 - 16:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
-  "רביעי, 2 אפריל 2025_25": {
-    "date": "רביעי, 2 אפריל 2025",
-    "event_id": "25",
-    "time": "19:00 - 22:00",
     "service_type": "ליאור",
     "is_available": true
   },
