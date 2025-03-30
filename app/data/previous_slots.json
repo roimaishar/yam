@@ -20,13 +20,6 @@
     "service_type": "כרמן החדשה",
     "is_available": true
   },
-  "שני, 31 מרץ 2025_26": {
-    "date": "שני, 31 מרץ 2025",
-    "event_id": "26",
-    "time": "09:00 - 12:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
   "שני, 31 מרץ 2025_27": {
     "date": "שני, 31 מרץ 2025",
     "event_id": "27",
@@ -95,6 +88,13 @@
     "event_id": "40",
     "time": "10:00 - 13:00",
     "service_type": "ושתי",
+    "is_available": true
+  },
+  "שלישי, 1 אפריל 2025_48": {
+    "date": "שלישי, 1 אפריל 2025",
+    "event_id": "48",
+    "time": "06:00 - 09:00",
+    "service_type": "אסתר",
     "is_available": true
   },
   "שלישי, 1 אפריל 2025_50": {
@@ -304,13 +304,6 @@
     "date": "שישי, 4 אפריל 2025",
     "event_id": "5",
     "time": "08:00 - 10:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  "שישי, 4 אפריל 2025_6": {
-    "date": "שישי, 4 אפריל 2025",
-    "event_id": "6",
-    "time": "10:00 - 12:00",
     "service_type": "נאווה",
     "is_available": true
   },
