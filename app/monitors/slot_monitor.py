@@ -6,6 +6,7 @@ from pathlib import Path
 
 from app.scrapers.cookie_scraper import scrape_calendar_slots_for_days
 from app.monitors.slack_notifier import SlackNotifier, setup_instructions
+from app.utils.merge_slots import merge_consecutive_slots, format_merged_slots_for_notification
 
 class SlotMonitor:
     def __init__(self, slack_webhook_url=None, days=14, interval_minutes=30, filters=None):
@@ -117,14 +118,21 @@ class SlotMonitor:
         
         print(f"New slots saved to {notification_file}")
         
+        # Merge consecutive slots for the same boat
+        merged_slots = merge_consecutive_slots(new_slots)
+        formatted_slots = format_merged_slots_for_notification(merged_slots)
+        
         # Print notification to console
         print("\n=== NEW AVAILABLE SLOTS ===")
-        for slot in new_slots:
-            print(f"Date: {slot['date']}, Time: {slot['time']}, Boat: {slot.get('service_type', 'Unknown')}, Capacity: {slot.get('capacity', 'Unknown')}")
+        for slot in formatted_slots:
+            slot_info = f"Date: {slot['date']}, Time: {slot['time']}, Boat: {slot.get('service_type', 'Unknown')}"
+            if 'slots' in slot and slot['slots'] > 1:
+                slot_info += f", Slots: {slot['slots']}"
+            print(slot_info)
         print("===========================\n")
         
         # Send Slack notification
-        self.notifier.send_slot_notification(new_slots)
+        self.notifier.send_slot_notification(formatted_slots)
 
 
 async def main():

@@ -92,13 +92,14 @@ class SlackNotifier:
             
             # Create a table for this date's slots
             table_text = "```\n"
-            table_text += "| Time          | Boat Type     |\n"
-            table_text += "|---------------|---------------|\n"
+            table_text += "| Time          | Boat Type     | Slots |\n"
+            table_text += "|---------------|---------------|-------|\n"
             
             for slot in date_slots:
                 time = slot.get("time", "Unknown")
                 boat_type = slot.get("service_type", "Unknown")
-                table_text += f"| {time.ljust(13)} | {boat_type.ljust(13)} |\n"
+                slots_count = slot.get("slots", 1)
+                table_text += f"| {time.ljust(13)} | {boat_type.ljust(13)} | {str(slots_count).ljust(5)} |\n"
             
             table_text += "```"
             
