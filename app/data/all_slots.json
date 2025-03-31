@@ -127,6 +127,13 @@
   },
   {
     "date": "רביעי, 2 אפריל 2025",
+    "event_id": "28",
+    "time": "15:00 - 18:00",
+    "service_type": "מישל",
+    "is_available": true
+  },
+  {
+    "date": "רביעי, 2 אפריל 2025",
     "event_id": "6",
     "time": "10:00 - 12:00",
     "service_type": "נאווה",
