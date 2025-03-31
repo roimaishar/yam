@@ -113,13 +113,6 @@
   },
   {
     "date": "רביעי, 2 אפריל 2025",
-    "event_id": "36",
-    "time": "12:00 - 15:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 2 אפריל 2025",
     "event_id": "6",
     "time": "10:00 - 12:00",
     "service_type": "נאווה",
@@ -542,13 +535,6 @@
     "date": "ראשון, 6 אפריל 2025",
     "event_id": "8",
     "time": "12:00 - 14:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 6 אפריל 2025",
-    "event_id": "9",
-    "time": "14:00 - 16:00",
     "service_type": "נאווה",
     "is_available": true
   },
