@@ -83,6 +83,13 @@
     "service_type": "נאווה",
     "is_available": true
   },
+  "שלישי, 1 אפריל 2025_11": {
+    "date": "שלישי, 1 אפריל 2025",
+    "event_id": "11",
+    "time": "07:00 - 10:00",
+    "service_type": "רונית",
+    "is_available": true
+  },
   "שלישי, 1 אפריל 2025_15": {
     "date": "שלישי, 1 אפריל 2025",
     "event_id": "15",
@@ -346,13 +353,6 @@
     "date": "שבת, 5 אפריל 2025",
     "event_id": "5",
     "time": "08:00 - 10:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  "שבת, 5 אפריל 2025_6": {
-    "date": "שבת, 5 אפריל 2025",
-    "event_id": "6",
-    "time": "10:00 - 12:00",
     "service_type": "נאווה",
     "is_available": true
   },
