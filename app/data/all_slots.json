@@ -71,13 +71,6 @@
   },
   {
     "date": "שלישי, 1 אפריל 2025",
-    "event_id": "10",
-    "time": "18:00 - 20:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 1 אפריל 2025",
     "event_id": "15",
     "time": "07:00 - 10:00",
     "service_type": "קטמנדו",
@@ -151,6 +144,13 @@
     "event_id": "22",
     "time": "13:00 - 16:00",
     "service_type": "ליאור",
+    "is_available": true
+  },
+  {
+    "date": "חמישי, 3 אפריל 2025",
+    "event_id": "1",
+    "time": "08:00 - 11:00",
+    "service_type": "קרפה",
     "is_available": true
   },
   {
@@ -1299,6 +1299,13 @@
     "event_id": "10",
     "time": "18:00 - 20:00",
     "service_type": "נאווה",
+    "is_available": true
+  },
+  {
+    "date": "חמישי, 10 אפריל 2025",
+    "event_id": "14",
+    "time": "16:00 - 19:00",
+    "service_type": "רונית",
     "is_available": true
   },
   {
