@@ -414,13 +414,6 @@
   },
   {
     "date": "ראשון, 6 אפריל 2025",
-    "event_id": "58",
-    "time": "17:00 - 20:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 6 אפריל 2025",
     "event_id": "4",
     "time": "17:00 - 20:00",
     "service_type": "קרפה",
