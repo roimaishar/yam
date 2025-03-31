@@ -134,13 +134,6 @@
   },
   {
     "date": "רביעי, 2 אפריל 2025",
-    "event_id": "5",
-    "time": "08:00 - 10:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 2 אפריל 2025",
     "event_id": "6",
     "time": "10:00 - 12:00",
     "service_type": "נאווה",
@@ -470,13 +463,6 @@
   },
   {
     "date": "ראשון, 6 אפריל 2025",
-    "event_id": "3",
-    "time": "14:00 - 17:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 6 אפריל 2025",
     "event_id": "4",
     "time": "17:00 - 20:00",
     "service_type": "קרפה",
@@ -771,13 +757,6 @@
   },
   {
     "date": "שני, 7 אפריל 2025",
-    "event_id": "23",
-    "time": "06:00 - 09:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  {
-    "date": "שני, 7 אפריל 2025",
     "event_id": "26",
     "time": "15:00 - 18:00",
     "service_type": "מישל",
@@ -918,49 +897,49 @@
   },
   {
     "date": "שלישי, 8 אפריל 2025",
-    "event_id": "48",
+    "event_id": "46",
     "time": "06:00 - 09:00",
     "service_type": "אסתר",
     "is_available": true
   },
   {
     "date": "שלישי, 8 אפריל 2025",
-    "event_id": "49",
+    "event_id": "47",
     "time": "09:00 - 12:00",
     "service_type": "אסתר",
     "is_available": true
   },
   {
     "date": "שלישי, 8 אפריל 2025",
-    "event_id": "50",
+    "event_id": "48",
     "time": "12:00 - 15:00",
     "service_type": "אסתר",
     "is_available": true
   },
   {
     "date": "שלישי, 8 אפריל 2025",
-    "event_id": "52",
+    "event_id": "50",
     "time": "18:00 - 21:00",
     "service_type": "אסתר",
     "is_available": true
   },
   {
     "date": "שלישי, 8 אפריל 2025",
-    "event_id": "53",
+    "event_id": "51",
     "time": "08:00 - 11:00",
     "service_type": "רוני",
     "is_available": true
   },
   {
     "date": "שלישי, 8 אפריל 2025",
-    "event_id": "54",
+    "event_id": "52",
     "time": "11:00 - 14:00",
     "service_type": "רוני",
     "is_available": true
   },
   {
     "date": "שלישי, 8 אפריל 2025",
-    "event_id": "56",
+    "event_id": "54",
     "time": "17:00 - 20:00",
     "service_type": "רוני",
     "is_available": true
