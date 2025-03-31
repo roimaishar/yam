@@ -1,149 +1,247 @@
 [
   {
     "date": "שלישי, 1 אפריל 2025",
-    "event_id": "39",
+    "event_id": "43",
     "time": "07:00 - 10:00",
     "service_type": "ושתי",
     "is_available": true
   },
   {
     "date": "שלישי, 1 אפריל 2025",
-    "event_id": "40",
+    "event_id": "44",
     "time": "10:00 - 13:00",
     "service_type": "ושתי",
     "is_available": true
   },
   {
     "date": "שלישי, 1 אפריל 2025",
-    "event_id": "48",
+    "event_id": "47",
+    "time": "19:00 - 22:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
+  {
+    "date": "שלישי, 1 אפריל 2025",
+    "event_id": "53",
     "time": "06:00 - 09:00",
     "service_type": "אסתר",
     "is_available": true
   },
   {
     "date": "שלישי, 1 אפריל 2025",
-    "event_id": "50",
+    "event_id": "55",
     "time": "12:00 - 15:00",
     "service_type": "אסתר",
     "is_available": true
   },
   {
     "date": "שלישי, 1 אפריל 2025",
-    "event_id": "34",
+    "event_id": "62",
+    "time": "20:00 - 23:00",
+    "service_type": "רוני",
+    "is_available": true
+  },
+  {
+    "date": "שלישי, 1 אפריל 2025",
+    "event_id": "5",
+    "time": "20:00 - 23:00",
+    "service_type": "קרפה",
+    "is_available": true
+  },
+  {
+    "date": "שלישי, 1 אפריל 2025",
+    "event_id": "38",
     "time": "06:00 - 09:00",
     "service_type": "הרמוני",
     "is_available": true
   },
   {
     "date": "שלישי, 1 אפריל 2025",
-    "event_id": "37",
+    "event_id": "41",
     "time": "15:00 - 18:00",
     "service_type": "הרמוני",
     "is_available": true
   },
   {
     "date": "שלישי, 1 אפריל 2025",
-    "event_id": "24",
+    "event_id": "36",
+    "time": "20:00 - 23:00",
+    "service_type": "כרמן החדשה",
+    "is_available": true
+  },
+  {
+    "date": "שלישי, 1 אפריל 2025",
+    "event_id": "27",
     "time": "06:00 - 09:00",
     "service_type": "מישל",
     "is_available": true
   },
   {
     "date": "שלישי, 1 אפריל 2025",
-    "event_id": "5",
+    "event_id": "6",
     "time": "08:00 - 10:00",
     "service_type": "נאווה",
     "is_available": true
   },
   {
     "date": "שלישי, 1 אפריל 2025",
-    "event_id": "6",
+    "event_id": "7",
     "time": "10:00 - 12:00",
     "service_type": "נאווה",
     "is_available": true
   },
   {
     "date": "שלישי, 1 אפריל 2025",
-    "event_id": "7",
+    "event_id": "8",
     "time": "12:00 - 14:00",
     "service_type": "נאווה",
     "is_available": true
   },
   {
     "date": "שלישי, 1 אפריל 2025",
-    "event_id": "15",
+    "event_id": "12",
+    "time": "20:00 - 22:00",
+    "service_type": "נאווה",
+    "is_available": true
+  },
+  {
+    "date": "שלישי, 1 אפריל 2025",
+    "event_id": "17",
+    "time": "19:00 - 22:00",
+    "service_type": "רונית",
+    "is_available": true
+  },
+  {
+    "date": "שלישי, 1 אפריל 2025",
+    "event_id": "18",
     "time": "07:00 - 10:00",
     "service_type": "קטמנדו",
     "is_available": true
   },
   {
     "date": "רביעי, 2 אפריל 2025",
-    "event_id": "39",
+    "event_id": "43",
     "time": "07:00 - 10:00",
     "service_type": "ושתי",
     "is_available": true
   },
   {
     "date": "רביעי, 2 אפריל 2025",
-    "event_id": "40",
+    "event_id": "44",
     "time": "10:00 - 13:00",
     "service_type": "ושתי",
     "is_available": true
   },
   {
     "date": "רביעי, 2 אפריל 2025",
-    "event_id": "49",
+    "event_id": "46",
+    "time": "16:00 - 19:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
+  {
+    "date": "רביעי, 2 אפריל 2025",
+    "event_id": "53",
     "time": "06:00 - 09:00",
     "service_type": "אסתר",
     "is_available": true
   },
   {
     "date": "רביעי, 2 אפריל 2025",
-    "event_id": "28",
+    "event_id": "62",
+    "time": "20:00 - 23:00",
+    "service_type": "רוני",
+    "is_available": true
+  },
+  {
+    "date": "רביעי, 2 אפריל 2025",
+    "event_id": "5",
+    "time": "20:00 - 23:00",
+    "service_type": "קרפה",
+    "is_available": true
+  },
+  {
+    "date": "רביעי, 2 אפריל 2025",
+    "event_id": "37",
+    "time": "20:00 - 23:00",
+    "service_type": "כרמן החדשה",
+    "is_available": true
+  },
+  {
+    "date": "רביעי, 2 אפריל 2025",
+    "event_id": "31",
     "time": "15:00 - 18:00",
     "service_type": "מישל",
     "is_available": true
   },
   {
     "date": "רביעי, 2 אפריל 2025",
-    "event_id": "6",
+    "event_id": "7",
     "time": "10:00 - 12:00",
     "service_type": "נאווה",
     "is_available": true
   },
   {
     "date": "רביעי, 2 אפריל 2025",
-    "event_id": "7",
+    "event_id": "8",
     "time": "12:00 - 14:00",
     "service_type": "נאווה",
     "is_available": true
   },
   {
     "date": "רביעי, 2 אפריל 2025",
-    "event_id": "8",
+    "event_id": "9",
     "time": "14:00 - 16:00",
     "service_type": "נאווה",
     "is_available": true
   },
   {
     "date": "רביעי, 2 אפריל 2025",
-    "event_id": "9",
+    "event_id": "10",
     "time": "16:00 - 18:00",
     "service_type": "נאווה",
     "is_available": true
   },
   {
     "date": "רביעי, 2 אפריל 2025",
-    "event_id": "10",
+    "event_id": "11",
     "time": "18:00 - 20:00",
     "service_type": "נאווה",
     "is_available": true
   },
   {
     "date": "רביעי, 2 אפריל 2025",
-    "event_id": "22",
+    "event_id": "12",
+    "time": "20:00 - 22:00",
+    "service_type": "נאווה",
+    "is_available": true
+  },
+  {
+    "date": "רביעי, 2 אפריל 2025",
+    "event_id": "17",
+    "time": "19:00 - 22:00",
+    "service_type": "רונית",
+    "is_available": true
+  },
+  {
+    "date": "רביעי, 2 אפריל 2025",
+    "event_id": "25",
     "time": "13:00 - 16:00",
     "service_type": "ליאור",
+    "is_available": true
+  },
+  {
+    "date": "חמישי, 3 אפריל 2025",
+    "event_id": "47",
+    "time": "19:00 - 22:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
+  {
+    "date": "חמישי, 3 אפריל 2025",
+    "event_id": "62",
+    "time": "20:00 - 23:00",
+    "service_type": "רוני",
     "is_available": true
   },
   {
@@ -156,84 +254,161 @@
   {
     "date": "חמישי, 3 אפריל 2025",
     "event_id": "5",
+    "time": "20:00 - 23:00",
+    "service_type": "קרפה",
+    "is_available": true
+  },
+  {
+    "date": "חמישי, 3 אפריל 2025",
+    "event_id": "37",
+    "time": "20:00 - 23:00",
+    "service_type": "כרמן החדשה",
+    "is_available": true
+  },
+  {
+    "date": "חמישי, 3 אפריל 2025",
+    "event_id": "6",
     "time": "08:00 - 10:00",
     "service_type": "נאווה",
     "is_available": true
   },
   {
     "date": "חמישי, 3 אפריל 2025",
-    "event_id": "6",
+    "event_id": "7",
     "time": "10:00 - 12:00",
     "service_type": "נאווה",
     "is_available": true
   },
   {
     "date": "חמישי, 3 אפריל 2025",
-    "event_id": "9",
-    "time": "16:00 - 18:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  {
-    "date": "חמישי, 3 אפריל 2025",
-    "event_id": "10",
+    "event_id": "11",
     "time": "18:00 - 20:00",
     "service_type": "נאווה",
     "is_available": true
   },
   {
     "date": "חמישי, 3 אפריל 2025",
-    "event_id": "20",
+    "event_id": "12",
+    "time": "20:00 - 22:00",
+    "service_type": "נאווה",
+    "is_available": true
+  },
+  {
+    "date": "חמישי, 3 אפריל 2025",
+    "event_id": "17",
+    "time": "19:00 - 22:00",
+    "service_type": "רונית",
+    "is_available": true
+  },
+  {
+    "date": "חמישי, 3 אפריל 2025",
+    "event_id": "23",
     "time": "07:00 - 10:00",
     "service_type": "ליאור",
     "is_available": true
   },
   {
     "date": "חמישי, 3 אפריל 2025",
-    "event_id": "24",
+    "event_id": "27",
     "time": "19:00 - 22:00",
     "service_type": "ליאור",
     "is_available": true
   },
   {
     "date": "חמישי, 3 אפריל 2025",
-    "event_id": "16",
+    "event_id": "19",
     "time": "07:00 - 09:00",
     "service_type": "קטמנדו",
     "is_available": true
   },
   {
     "date": "שישי, 4 אפריל 2025",
+    "event_id": "46",
+    "time": "19:00 - 22:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
+  {
+    "date": "שישי, 4 אפריל 2025",
+    "event_id": "61",
+    "time": "20:00 - 23:00",
+    "service_type": "רוני",
+    "is_available": true
+  },
+  {
+    "date": "שישי, 4 אפריל 2025",
     "event_id": "5",
+    "time": "20:00 - 23:00",
+    "service_type": "קרפה",
+    "is_available": true
+  },
+  {
+    "date": "שישי, 4 אפריל 2025",
+    "event_id": "36",
+    "time": "20:00 - 23:00",
+    "service_type": "כרמן החדשה",
+    "is_available": true
+  },
+  {
+    "date": "שישי, 4 אפריל 2025",
+    "event_id": "6",
     "time": "08:00 - 10:00",
     "service_type": "נאווה",
     "is_available": true
   },
   {
     "date": "שישי, 4 אפריל 2025",
-    "event_id": "10",
+    "event_id": "11",
     "time": "18:00 - 20:00",
     "service_type": "נאווה",
     "is_available": true
   },
   {
+    "date": "שישי, 4 אפריל 2025",
+    "event_id": "12",
+    "time": "20:00 - 22:00",
+    "service_type": "נאווה",
+    "is_available": true
+  },
+  {
+    "date": "שישי, 4 אפריל 2025",
+    "event_id": "17",
+    "time": "19:00 - 22:00",
+    "service_type": "רונית",
+    "is_available": true
+  },
+  {
     "date": "שבת, 5 אפריל 2025",
-    "event_id": "42",
+    "event_id": "46",
     "time": "16:00 - 19:00",
     "service_type": "ושתי",
     "is_available": true
   },
   {
     "date": "שבת, 5 אפריל 2025",
-    "event_id": "53",
+    "event_id": "47",
+    "time": "19:00 - 22:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
+  {
+    "date": "שבת, 5 אפריל 2025",
+    "event_id": "58",
     "time": "08:00 - 11:00",
     "service_type": "רוני",
     "is_available": true
   },
   {
     "date": "שבת, 5 אפריל 2025",
-    "event_id": "55",
+    "event_id": "60",
     "time": "14:00 - 17:00",
+    "service_type": "רוני",
+    "is_available": true
+  },
+  {
+    "date": "שבת, 5 אפריל 2025",
+    "event_id": "62",
+    "time": "20:00 - 23:00",
     "service_type": "רוני",
     "is_available": true
   },
@@ -260,155 +435,197 @@
   },
   {
     "date": "שבת, 5 אפריל 2025",
-    "event_id": "34",
+    "event_id": "5",
+    "time": "20:00 - 23:00",
+    "service_type": "קרפה",
+    "is_available": true
+  },
+  {
+    "date": "שבת, 5 אפריל 2025",
+    "event_id": "38",
     "time": "06:00 - 09:00",
     "service_type": "הרמוני",
     "is_available": true
   },
   {
     "date": "שבת, 5 אפריל 2025",
-    "event_id": "38",
+    "event_id": "42",
     "time": "18:00 - 21:00",
     "service_type": "הרמוני",
     "is_available": true
   },
   {
     "date": "שבת, 5 אפריל 2025",
-    "event_id": "32",
+    "event_id": "35",
     "time": "17:00 - 20:00",
     "service_type": "כרמן החדשה",
     "is_available": true
   },
   {
     "date": "שבת, 5 אפריל 2025",
-    "event_id": "24",
+    "event_id": "36",
+    "time": "20:00 - 23:00",
+    "service_type": "כרמן החדשה",
+    "is_available": true
+  },
+  {
+    "date": "שבת, 5 אפריל 2025",
+    "event_id": "27",
     "time": "06:00 - 09:00",
     "service_type": "מישל",
     "is_available": true
   },
   {
     "date": "שבת, 5 אפריל 2025",
-    "event_id": "26",
+    "event_id": "29",
     "time": "12:00 - 15:00",
     "service_type": "מישל",
     "is_available": true
   },
   {
     "date": "שבת, 5 אפריל 2025",
-    "event_id": "27",
+    "event_id": "30",
     "time": "15:00 - 18:00",
     "service_type": "מישל",
     "is_available": true
   },
   {
     "date": "שבת, 5 אפריל 2025",
-    "event_id": "28",
+    "event_id": "31",
     "time": "18:00 - 21:00",
     "service_type": "מישל",
     "is_available": true
   },
   {
     "date": "שבת, 5 אפריל 2025",
-    "event_id": "5",
+    "event_id": "6",
     "time": "08:00 - 10:00",
     "service_type": "נאווה",
     "is_available": true
   },
   {
     "date": "שבת, 5 אפריל 2025",
-    "event_id": "7",
+    "event_id": "8",
     "time": "12:00 - 14:00",
     "service_type": "נאווה",
     "is_available": true
   },
   {
     "date": "שבת, 5 אפריל 2025",
-    "event_id": "8",
+    "event_id": "9",
     "time": "14:00 - 16:00",
     "service_type": "נאווה",
     "is_available": true
   },
   {
     "date": "שבת, 5 אפריל 2025",
-    "event_id": "9",
+    "event_id": "10",
     "time": "16:00 - 18:00",
     "service_type": "נאווה",
     "is_available": true
   },
   {
     "date": "שבת, 5 אפריל 2025",
-    "event_id": "10",
+    "event_id": "11",
     "time": "18:00 - 20:00",
     "service_type": "נאווה",
     "is_available": true
   },
   {
     "date": "שבת, 5 אפריל 2025",
-    "event_id": "13",
+    "event_id": "12",
+    "time": "20:00 - 22:00",
+    "service_type": "נאווה",
+    "is_available": true
+  },
+  {
+    "date": "שבת, 5 אפריל 2025",
+    "event_id": "15",
     "time": "13:00 - 16:00",
     "service_type": "רונית",
     "is_available": true
   },
   {
     "date": "שבת, 5 אפריל 2025",
-    "event_id": "19",
+    "event_id": "17",
+    "time": "19:00 - 22:00",
+    "service_type": "רונית",
+    "is_available": true
+  },
+  {
+    "date": "שבת, 5 אפריל 2025",
+    "event_id": "22",
     "time": "07:00 - 10:00",
     "service_type": "ליאור",
     "is_available": true
   },
   {
     "date": "שבת, 5 אפריל 2025",
-    "event_id": "23",
+    "event_id": "26",
     "time": "19:00 - 22:00",
     "service_type": "ליאור",
     "is_available": true
   },
   {
     "date": "שבת, 5 אפריל 2025",
-    "event_id": "15",
+    "event_id": "18",
     "time": "07:00 - 10:00",
     "service_type": "קטמנדו",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 6 אפריל 2025",
-    "event_id": "40",
-    "time": "07:00 - 10:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 6 אפריל 2025",
-    "event_id": "42",
-    "time": "13:00 - 16:00",
-    "service_type": "ושתי",
     "is_available": true
   },
   {
     "date": "ראשון, 6 אפריל 2025",
     "event_id": "43",
+    "time": "07:00 - 10:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
+  {
+    "date": "ראשון, 6 אפריל 2025",
+    "event_id": "45",
+    "time": "13:00 - 16:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
+  {
+    "date": "ראשון, 6 אפריל 2025",
+    "event_id": "46",
     "time": "16:00 - 19:00",
     "service_type": "ושתי",
     "is_available": true
   },
   {
     "date": "ראשון, 6 אפריל 2025",
-    "event_id": "50",
+    "event_id": "47",
+    "time": "19:00 - 22:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
+  {
+    "date": "ראשון, 6 אפריל 2025",
+    "event_id": "54",
     "time": "06:00 - 09:00",
     "service_type": "אסתר",
     "is_available": true
   },
   {
     "date": "ראשון, 6 אפריל 2025",
-    "event_id": "54",
+    "event_id": "58",
     "time": "18:00 - 21:00",
     "service_type": "אסתר",
     "is_available": true
   },
   {
     "date": "ראשון, 6 אפריל 2025",
-    "event_id": "55",
+    "event_id": "59",
     "time": "08:00 - 11:00",
+    "service_type": "רוני",
+    "is_available": true
+  },
+  {
+    "date": "ראשון, 6 אפריל 2025",
+    "event_id": "63",
+    "time": "20:00 - 23:00",
     "service_type": "רוני",
     "is_available": true
   },
@@ -417,109 +634,123 @@
     "event_id": "4",
     "time": "17:00 - 20:00",
     "service_type": "קרפה",
+    "is_available": true
+  },
+  {
+    "date": "ראשון, 6 אפריל 2025",
+    "event_id": "5",
+    "time": "20:00 - 23:00",
+    "service_type": "קרפה",
+    "is_available": true
+  },
+  {
+    "date": "ראשון, 6 אפריל 2025",
+    "event_id": "38",
+    "time": "06:00 - 09:00",
+    "service_type": "הרמוני",
+    "is_available": true
+  },
+  {
+    "date": "ראשון, 6 אפריל 2025",
+    "event_id": "39",
+    "time": "09:00 - 12:00",
+    "service_type": "הרמוני",
+    "is_available": true
+  },
+  {
+    "date": "ראשון, 6 אפריל 2025",
+    "event_id": "41",
+    "time": "15:00 - 18:00",
+    "service_type": "הרמוני",
+    "is_available": true
+  },
+  {
+    "date": "ראשון, 6 אפריל 2025",
+    "event_id": "42",
+    "time": "18:00 - 21:00",
+    "service_type": "הרמוני",
+    "is_available": true
+  },
+  {
+    "date": "ראשון, 6 אפריל 2025",
+    "event_id": "32",
+    "time": "08:00 - 11:00",
+    "service_type": "כרמן החדשה",
     "is_available": true
   },
   {
     "date": "ראשון, 6 אפריל 2025",
     "event_id": "35",
-    "time": "06:00 - 09:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 6 אפריל 2025",
-    "event_id": "36",
-    "time": "09:00 - 12:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 6 אפריל 2025",
-    "event_id": "38",
-    "time": "15:00 - 18:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 6 אפריל 2025",
-    "event_id": "39",
-    "time": "18:00 - 21:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 6 אפריל 2025",
-    "event_id": "30",
-    "time": "08:00 - 11:00",
-    "service_type": "כרמן החדשה",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 6 אפריל 2025",
-    "event_id": "33",
     "time": "17:00 - 20:00",
     "service_type": "כרמן החדשה",
     "is_available": true
   },
   {
     "date": "ראשון, 6 אפריל 2025",
-    "event_id": "26",
+    "event_id": "36",
+    "time": "20:00 - 23:00",
+    "service_type": "כרמן החדשה",
+    "is_available": true
+  },
+  {
+    "date": "ראשון, 6 אפריל 2025",
+    "event_id": "28",
     "time": "09:00 - 12:00",
     "service_type": "מישל",
     "is_available": true
   },
   {
     "date": "ראשון, 6 אפריל 2025",
-    "event_id": "27",
+    "event_id": "29",
     "time": "12:00 - 15:00",
     "service_type": "מישל",
     "is_available": true
   },
   {
     "date": "ראשון, 6 אפריל 2025",
-    "event_id": "28",
+    "event_id": "30",
     "time": "15:00 - 18:00",
     "service_type": "מישל",
     "is_available": true
   },
   {
     "date": "ראשון, 6 אפריל 2025",
-    "event_id": "29",
+    "event_id": "31",
     "time": "18:00 - 21:00",
     "service_type": "מישל",
     "is_available": true
   },
   {
     "date": "ראשון, 6 אפריל 2025",
-    "event_id": "6",
+    "event_id": "7",
     "time": "08:00 - 10:00",
     "service_type": "נאווה",
     "is_available": true
   },
   {
     "date": "ראשון, 6 אפריל 2025",
-    "event_id": "7",
+    "event_id": "8",
     "time": "10:00 - 12:00",
     "service_type": "נאווה",
     "is_available": true
   },
   {
     "date": "ראשון, 6 אפריל 2025",
-    "event_id": "8",
+    "event_id": "9",
     "time": "12:00 - 14:00",
     "service_type": "נאווה",
     "is_available": true
   },
   {
     "date": "ראשון, 6 אפריל 2025",
-    "event_id": "10",
+    "event_id": "11",
     "time": "16:00 - 18:00",
     "service_type": "נאווה",
     "is_available": true
   },
   {
     "date": "ראשון, 6 אפריל 2025",
-    "event_id": "11",
+    "event_id": "12",
     "time": "18:00 - 20:00",
     "service_type": "נאווה",
     "is_available": true
@@ -527,91 +758,119 @@
   {
     "date": "ראשון, 6 אפריל 2025",
     "event_id": "13",
+    "time": "20:00 - 22:00",
+    "service_type": "נאווה",
+    "is_available": true
+  },
+  {
+    "date": "ראשון, 6 אפריל 2025",
+    "event_id": "15",
     "time": "10:00 - 13:00",
     "service_type": "רונית",
     "is_available": true
   },
   {
     "date": "ראשון, 6 אפריל 2025",
-    "event_id": "14",
+    "event_id": "16",
     "time": "13:00 - 16:00",
     "service_type": "רונית",
     "is_available": true
   },
   {
     "date": "ראשון, 6 אפריל 2025",
-    "event_id": "20",
-    "time": "07:00 - 10:00",
-    "service_type": "ליאור",
+    "event_id": "17",
+    "time": "16:00 - 19:00",
+    "service_type": "רונית",
     "is_available": true
   },
   {
     "date": "ראשון, 6 אפריל 2025",
-    "event_id": "21",
-    "time": "10:00 - 13:00",
+    "event_id": "22",
+    "time": "07:00 - 10:00",
     "service_type": "ליאור",
     "is_available": true
   },
   {
     "date": "ראשון, 6 אפריל 2025",
     "event_id": "23",
+    "time": "10:00 - 13:00",
+    "service_type": "ליאור",
+    "is_available": true
+  },
+  {
+    "date": "ראשון, 6 אפריל 2025",
+    "event_id": "25",
     "time": "16:00 - 19:00",
     "service_type": "ליאור",
     "is_available": true
   },
   {
     "date": "ראשון, 6 אפריל 2025",
-    "event_id": "24",
+    "event_id": "26",
     "time": "19:00 - 22:00",
     "service_type": "ליאור",
     "is_available": true
   },
   {
     "date": "ראשון, 6 אפריל 2025",
-    "event_id": "19",
+    "event_id": "21",
     "time": "13:00 - 16:00",
     "service_type": "קטמנדו",
     "is_available": true
   },
   {
     "date": "שני, 7 אפריל 2025",
-    "event_id": "37",
+    "event_id": "41",
     "time": "07:00 - 10:00",
     "service_type": "ושתי",
     "is_available": true
   },
   {
     "date": "שני, 7 אפריל 2025",
-    "event_id": "39",
+    "event_id": "43",
     "time": "13:00 - 16:00",
     "service_type": "ושתי",
     "is_available": true
   },
   {
     "date": "שני, 7 אפריל 2025",
-    "event_id": "47",
+    "event_id": "45",
+    "time": "19:00 - 22:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
+  {
+    "date": "שני, 7 אפריל 2025",
+    "event_id": "52",
     "time": "09:00 - 12:00",
     "service_type": "אסתר",
     "is_available": true
   },
   {
     "date": "שני, 7 אפריל 2025",
-    "event_id": "50",
+    "event_id": "55",
     "time": "18:00 - 21:00",
     "service_type": "אסתר",
     "is_available": true
   },
   {
     "date": "שני, 7 אפריל 2025",
-    "event_id": "51",
+    "event_id": "56",
     "time": "08:00 - 11:00",
     "service_type": "רוני",
     "is_available": true
   },
   {
     "date": "שני, 7 אפריל 2025",
-    "event_id": "53",
+    "event_id": "58",
     "time": "14:00 - 17:00",
+    "service_type": "רוני",
+    "is_available": true
+  },
+  {
+    "date": "שני, 7 אפריל 2025",
+    "event_id": "60",
+    "time": "20:00 - 23:00",
     "service_type": "רוני",
     "is_available": true
   },
@@ -645,232 +904,274 @@
   },
   {
     "date": "שני, 7 אפריל 2025",
-    "event_id": "33",
+    "event_id": "5",
+    "time": "20:00 - 23:00",
+    "service_type": "קרפה",
+    "is_available": true
+  },
+  {
+    "date": "שני, 7 אפריל 2025",
+    "event_id": "37",
     "time": "09:00 - 12:00",
     "service_type": "הרמוני",
     "is_available": true
   },
   {
     "date": "שני, 7 אפריל 2025",
-    "event_id": "34",
+    "event_id": "38",
     "time": "12:00 - 15:00",
     "service_type": "הרמוני",
     "is_available": true
   },
   {
     "date": "שני, 7 אפריל 2025",
-    "event_id": "36",
+    "event_id": "40",
     "time": "18:00 - 21:00",
     "service_type": "הרמוני",
     "is_available": true
   },
   {
     "date": "שני, 7 אפריל 2025",
-    "event_id": "28",
+    "event_id": "31",
     "time": "08:00 - 11:00",
     "service_type": "כרמן החדשה",
     "is_available": true
   },
   {
     "date": "שני, 7 אפריל 2025",
-    "event_id": "29",
+    "event_id": "32",
     "time": "11:00 - 14:00",
     "service_type": "כרמן החדשה",
     "is_available": true
   },
   {
     "date": "שני, 7 אפריל 2025",
-    "event_id": "30",
+    "event_id": "33",
     "time": "14:00 - 17:00",
     "service_type": "כרמן החדשה",
     "is_available": true
   },
   {
     "date": "שני, 7 אפריל 2025",
-    "event_id": "26",
+    "event_id": "35",
+    "time": "20:00 - 23:00",
+    "service_type": "כרמן החדשה",
+    "is_available": true
+  },
+  {
+    "date": "שני, 7 אפריל 2025",
+    "event_id": "29",
     "time": "15:00 - 18:00",
     "service_type": "מישל",
     "is_available": true
   },
   {
     "date": "שני, 7 אפריל 2025",
-    "event_id": "27",
+    "event_id": "30",
     "time": "18:00 - 21:00",
     "service_type": "מישל",
     "is_available": true
   },
   {
     "date": "שני, 7 אפריל 2025",
-    "event_id": "5",
+    "event_id": "6",
     "time": "08:00 - 10:00",
     "service_type": "נאווה",
     "is_available": true
   },
   {
     "date": "שני, 7 אפריל 2025",
-    "event_id": "6",
+    "event_id": "7",
     "time": "10:00 - 12:00",
     "service_type": "נאווה",
     "is_available": true
   },
   {
     "date": "שני, 7 אפריל 2025",
-    "event_id": "7",
+    "event_id": "8",
     "time": "12:00 - 14:00",
     "service_type": "נאווה",
     "is_available": true
   },
   {
     "date": "שני, 7 אפריל 2025",
-    "event_id": "8",
+    "event_id": "9",
     "time": "14:00 - 16:00",
     "service_type": "נאווה",
     "is_available": true
   },
   {
     "date": "שני, 7 אפריל 2025",
-    "event_id": "9",
+    "event_id": "10",
     "time": "16:00 - 18:00",
     "service_type": "נאווה",
     "is_available": true
   },
   {
     "date": "שני, 7 אפריל 2025",
-    "event_id": "10",
+    "event_id": "11",
     "time": "18:00 - 20:00",
     "service_type": "נאווה",
     "is_available": true
   },
   {
     "date": "שני, 7 אפריל 2025",
-    "event_id": "11",
-    "time": "07:00 - 10:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
-  {
-    "date": "שני, 7 אפריל 2025",
     "event_id": "12",
-    "time": "10:00 - 13:00",
-    "service_type": "רונית",
+    "time": "20:00 - 22:00",
+    "service_type": "נאווה",
     "is_available": true
   },
   {
     "date": "שני, 7 אפריל 2025",
     "event_id": "13",
-    "time": "13:00 - 16:00",
+    "time": "07:00 - 10:00",
     "service_type": "רונית",
     "is_available": true
   },
   {
     "date": "שני, 7 אפריל 2025",
-    "event_id": "18",
-    "time": "07:00 - 10:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
-  {
-    "date": "שני, 7 אפריל 2025",
-    "event_id": "19",
+    "event_id": "14",
     "time": "10:00 - 13:00",
-    "service_type": "ליאור",
+    "service_type": "רונית",
     "is_available": true
   },
   {
     "date": "שני, 7 אפריל 2025",
-    "event_id": "21",
-    "time": "16:00 - 19:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
-  {
-    "date": "שני, 7 אפריל 2025",
-    "event_id": "22",
-    "time": "19:00 - 22:00",
-    "service_type": "ליאור",
+    "event_id": "15",
+    "time": "13:00 - 16:00",
+    "service_type": "רונית",
     "is_available": true
   },
   {
     "date": "שני, 7 אפריל 2025",
     "event_id": "17",
+    "time": "19:00 - 22:00",
+    "service_type": "רונית",
+    "is_available": true
+  },
+  {
+    "date": "שני, 7 אפריל 2025",
+    "event_id": "21",
+    "time": "07:00 - 10:00",
+    "service_type": "ליאור",
+    "is_available": true
+  },
+  {
+    "date": "שני, 7 אפריל 2025",
+    "event_id": "22",
+    "time": "10:00 - 13:00",
+    "service_type": "ליאור",
+    "is_available": true
+  },
+  {
+    "date": "שני, 7 אפריל 2025",
+    "event_id": "24",
+    "time": "16:00 - 19:00",
+    "service_type": "ליאור",
+    "is_available": true
+  },
+  {
+    "date": "שני, 7 אפריל 2025",
+    "event_id": "25",
+    "time": "19:00 - 22:00",
+    "service_type": "ליאור",
+    "is_available": true
+  },
+  {
+    "date": "שני, 7 אפריל 2025",
+    "event_id": "20",
     "time": "13:00 - 16:00",
     "service_type": "קטמנדו",
     "is_available": true
   },
   {
     "date": "שלישי, 8 אפריל 2025",
-    "event_id": "37",
+    "event_id": "41",
     "time": "07:00 - 10:00",
     "service_type": "ושתי",
     "is_available": true
   },
   {
     "date": "שלישי, 8 אפריל 2025",
-    "event_id": "38",
+    "event_id": "42",
     "time": "10:00 - 13:00",
     "service_type": "ושתי",
     "is_available": true
   },
   {
     "date": "שלישי, 8 אפריל 2025",
-    "event_id": "39",
+    "event_id": "43",
     "time": "13:00 - 16:00",
     "service_type": "ושתי",
     "is_available": true
   },
   {
     "date": "שלישי, 8 אפריל 2025",
-    "event_id": "40",
+    "event_id": "44",
     "time": "16:00 - 19:00",
     "service_type": "ושתי",
     "is_available": true
   },
   {
     "date": "שלישי, 8 אפריל 2025",
-    "event_id": "46",
-    "time": "06:00 - 09:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 8 אפריל 2025",
-    "event_id": "47",
-    "time": "09:00 - 12:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 8 אפריל 2025",
-    "event_id": "48",
-    "time": "12:00 - 15:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 8 אפריל 2025",
-    "event_id": "50",
-    "time": "18:00 - 21:00",
-    "service_type": "אסתר",
+    "event_id": "45",
+    "time": "19:00 - 22:00",
+    "service_type": "ושתי",
     "is_available": true
   },
   {
     "date": "שלישי, 8 אפריל 2025",
     "event_id": "51",
-    "time": "08:00 - 11:00",
-    "service_type": "רוני",
+    "time": "06:00 - 09:00",
+    "service_type": "אסתר",
     "is_available": true
   },
   {
     "date": "שלישי, 8 אפריל 2025",
     "event_id": "52",
+    "time": "09:00 - 12:00",
+    "service_type": "אסתר",
+    "is_available": true
+  },
+  {
+    "date": "שלישי, 8 אפריל 2025",
+    "event_id": "53",
+    "time": "12:00 - 15:00",
+    "service_type": "אסתר",
+    "is_available": true
+  },
+  {
+    "date": "שלישי, 8 אפריל 2025",
+    "event_id": "55",
+    "time": "18:00 - 21:00",
+    "service_type": "אסתר",
+    "is_available": true
+  },
+  {
+    "date": "שלישי, 8 אפריל 2025",
+    "event_id": "56",
+    "time": "08:00 - 11:00",
+    "service_type": "רוני",
+    "is_available": true
+  },
+  {
+    "date": "שלישי, 8 אפריל 2025",
+    "event_id": "57",
     "time": "11:00 - 14:00",
     "service_type": "רוני",
     "is_available": true
   },
   {
     "date": "שלישי, 8 אפריל 2025",
-    "event_id": "54",
+    "event_id": "59",
     "time": "17:00 - 20:00",
+    "service_type": "רוני",
+    "is_available": true
+  },
+  {
+    "date": "שלישי, 8 אפריל 2025",
+    "event_id": "60",
+    "time": "20:00 - 23:00",
     "service_type": "רוני",
     "is_available": true
   },
@@ -897,182 +1198,217 @@
   },
   {
     "date": "שלישי, 8 אפריל 2025",
-    "event_id": "32",
+    "event_id": "5",
+    "time": "20:00 - 23:00",
+    "service_type": "קרפה",
+    "is_available": true
+  },
+  {
+    "date": "שלישי, 8 אפריל 2025",
+    "event_id": "36",
     "time": "06:00 - 09:00",
     "service_type": "הרמוני",
     "is_available": true
   },
   {
     "date": "שלישי, 8 אפריל 2025",
-    "event_id": "33",
+    "event_id": "37",
     "time": "09:00 - 12:00",
     "service_type": "הרמוני",
     "is_available": true
   },
   {
     "date": "שלישי, 8 אפריל 2025",
-    "event_id": "34",
+    "event_id": "38",
     "time": "12:00 - 15:00",
     "service_type": "הרמוני",
     "is_available": true
   },
   {
     "date": "שלישי, 8 אפריל 2025",
-    "event_id": "36",
+    "event_id": "40",
     "time": "18:00 - 21:00",
     "service_type": "הרמוני",
     "is_available": true
   },
   {
     "date": "שלישי, 8 אפריל 2025",
-    "event_id": "28",
+    "event_id": "31",
     "time": "08:00 - 11:00",
     "service_type": "כרמן החדשה",
     "is_available": true
   },
   {
     "date": "שלישי, 8 אפריל 2025",
-    "event_id": "30",
+    "event_id": "33",
     "time": "14:00 - 17:00",
     "service_type": "כרמן החדשה",
     "is_available": true
   },
   {
     "date": "שלישי, 8 אפריל 2025",
-    "event_id": "31",
+    "event_id": "34",
     "time": "17:00 - 20:00",
     "service_type": "כרמן החדשה",
     "is_available": true
   },
   {
     "date": "שלישי, 8 אפריל 2025",
-    "event_id": "23",
-    "time": "06:00 - 09:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 8 אפריל 2025",
-    "event_id": "24",
-    "time": "09:00 - 12:00",
-    "service_type": "מישל",
+    "event_id": "35",
+    "time": "20:00 - 23:00",
+    "service_type": "כרמן החדשה",
     "is_available": true
   },
   {
     "date": "שלישי, 8 אפריל 2025",
     "event_id": "26",
-    "time": "15:00 - 18:00",
+    "time": "06:00 - 09:00",
     "service_type": "מישל",
     "is_available": true
   },
   {
     "date": "שלישי, 8 אפריל 2025",
     "event_id": "27",
+    "time": "09:00 - 12:00",
+    "service_type": "מישל",
+    "is_available": true
+  },
+  {
+    "date": "שלישי, 8 אפריל 2025",
+    "event_id": "29",
+    "time": "15:00 - 18:00",
+    "service_type": "מישל",
+    "is_available": true
+  },
+  {
+    "date": "שלישי, 8 אפריל 2025",
+    "event_id": "30",
     "time": "18:00 - 21:00",
     "service_type": "מישל",
     "is_available": true
   },
   {
     "date": "שלישי, 8 אפריל 2025",
-    "event_id": "5",
+    "event_id": "6",
     "time": "08:00 - 10:00",
     "service_type": "נאווה",
     "is_available": true
   },
   {
     "date": "שלישי, 8 אפריל 2025",
-    "event_id": "6",
+    "event_id": "7",
     "time": "10:00 - 12:00",
     "service_type": "נאווה",
     "is_available": true
   },
   {
     "date": "שלישי, 8 אפריל 2025",
-    "event_id": "7",
+    "event_id": "8",
     "time": "12:00 - 14:00",
     "service_type": "נאווה",
     "is_available": true
   },
   {
     "date": "שלישי, 8 אפריל 2025",
-    "event_id": "8",
+    "event_id": "9",
     "time": "14:00 - 16:00",
     "service_type": "נאווה",
     "is_available": true
   },
   {
     "date": "שלישי, 8 אפריל 2025",
-    "event_id": "9",
+    "event_id": "10",
     "time": "16:00 - 18:00",
     "service_type": "נאווה",
     "is_available": true
   },
   {
     "date": "שלישי, 8 אפריל 2025",
-    "event_id": "10",
+    "event_id": "11",
     "time": "18:00 - 20:00",
     "service_type": "נאווה",
     "is_available": true
   },
   {
     "date": "שלישי, 8 אפריל 2025",
-    "event_id": "11",
+    "event_id": "12",
+    "time": "20:00 - 22:00",
+    "service_type": "נאווה",
+    "is_available": true
+  },
+  {
+    "date": "שלישי, 8 אפריל 2025",
+    "event_id": "13",
     "time": "07:00 - 10:00",
     "service_type": "רונית",
     "is_available": true
   },
   {
     "date": "שלישי, 8 אפריל 2025",
-    "event_id": "12",
+    "event_id": "14",
     "time": "10:00 - 13:00",
     "service_type": "רונית",
     "is_available": true
   },
   {
     "date": "שלישי, 8 אפריל 2025",
-    "event_id": "13",
+    "event_id": "15",
     "time": "13:00 - 16:00",
     "service_type": "רונית",
     "is_available": true
   },
   {
     "date": "שלישי, 8 אפריל 2025",
-    "event_id": "22",
+    "event_id": "17",
+    "time": "19:00 - 22:00",
+    "service_type": "רונית",
+    "is_available": true
+  },
+  {
+    "date": "שלישי, 8 אפריל 2025",
+    "event_id": "25",
     "time": "19:00 - 22:00",
     "service_type": "ליאור",
     "is_available": true
   },
   {
     "date": "רביעי, 9 אפריל 2025",
-    "event_id": "38",
+    "event_id": "42",
     "time": "07:00 - 10:00",
     "service_type": "ושתי",
     "is_available": true
   },
   {
     "date": "רביעי, 9 אפריל 2025",
-    "event_id": "48",
+    "event_id": "45",
+    "time": "16:00 - 19:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
+  {
+    "date": "רביעי, 9 אפריל 2025",
+    "event_id": "52",
     "time": "06:00 - 09:00",
     "service_type": "אסתר",
     "is_available": true
   },
   {
     "date": "רביעי, 9 אפריל 2025",
-    "event_id": "50",
+    "event_id": "54",
     "time": "12:00 - 15:00",
     "service_type": "אסתר",
     "is_available": true
   },
   {
     "date": "רביעי, 9 אפריל 2025",
-    "event_id": "53",
+    "event_id": "57",
     "time": "08:00 - 11:00",
     "service_type": "רוני",
     "is_available": true
   },
   {
     "date": "רביעי, 9 אפריל 2025",
-    "event_id": "54",
+    "event_id": "58",
     "time": "11:00 - 14:00",
     "service_type": "רוני",
     "is_available": true
@@ -1100,149 +1436,184 @@
   },
   {
     "date": "רביעי, 9 אפריל 2025",
-    "event_id": "33",
+    "event_id": "5",
+    "time": "20:00 - 23:00",
+    "service_type": "קרפה",
+    "is_available": true
+  },
+  {
+    "date": "רביעי, 9 אפריל 2025",
+    "event_id": "37",
     "time": "06:00 - 09:00",
     "service_type": "הרמוני",
     "is_available": true
   },
   {
     "date": "רביעי, 9 אפריל 2025",
-    "event_id": "34",
+    "event_id": "38",
     "time": "09:00 - 12:00",
     "service_type": "הרמוני",
     "is_available": true
   },
   {
     "date": "רביעי, 9 אפריל 2025",
-    "event_id": "29",
+    "event_id": "32",
     "time": "08:00 - 11:00",
     "service_type": "כרמן החדשה",
     "is_available": true
   },
   {
     "date": "רביעי, 9 אפריל 2025",
-    "event_id": "31",
+    "event_id": "34",
     "time": "14:00 - 17:00",
     "service_type": "כרמן החדשה",
     "is_available": true
   },
   {
     "date": "רביעי, 9 אפריל 2025",
-    "event_id": "24",
+    "event_id": "27",
     "time": "06:00 - 09:00",
     "service_type": "מישל",
     "is_available": true
   },
   {
     "date": "רביעי, 9 אפריל 2025",
-    "event_id": "25",
+    "event_id": "28",
     "time": "09:00 - 12:00",
     "service_type": "מישל",
     "is_available": true
   },
   {
     "date": "רביעי, 9 אפריל 2025",
-    "event_id": "26",
+    "event_id": "29",
     "time": "12:00 - 15:00",
     "service_type": "מישל",
     "is_available": true
   },
   {
     "date": "רביעי, 9 אפריל 2025",
-    "event_id": "28",
+    "event_id": "31",
     "time": "18:00 - 21:00",
     "service_type": "מישל",
     "is_available": true
   },
   {
     "date": "רביעי, 9 אפריל 2025",
-    "event_id": "5",
+    "event_id": "6",
     "time": "08:00 - 10:00",
     "service_type": "נאווה",
     "is_available": true
   },
   {
     "date": "רביעי, 9 אפריל 2025",
-    "event_id": "6",
+    "event_id": "7",
     "time": "10:00 - 12:00",
     "service_type": "נאווה",
     "is_available": true
   },
   {
     "date": "רביעי, 9 אפריל 2025",
-    "event_id": "7",
+    "event_id": "8",
     "time": "12:00 - 14:00",
     "service_type": "נאווה",
     "is_available": true
   },
   {
     "date": "רביעי, 9 אפריל 2025",
-    "event_id": "8",
+    "event_id": "9",
     "time": "14:00 - 16:00",
     "service_type": "נאווה",
     "is_available": true
   },
   {
     "date": "רביעי, 9 אפריל 2025",
-    "event_id": "9",
+    "event_id": "10",
     "time": "16:00 - 18:00",
     "service_type": "נאווה",
     "is_available": true
   },
   {
     "date": "רביעי, 9 אפריל 2025",
-    "event_id": "10",
+    "event_id": "11",
     "time": "18:00 - 20:00",
     "service_type": "נאווה",
     "is_available": true
   },
   {
     "date": "רביעי, 9 אפריל 2025",
-    "event_id": "11",
+    "event_id": "12",
+    "time": "20:00 - 22:00",
+    "service_type": "נאווה",
+    "is_available": true
+  },
+  {
+    "date": "רביעי, 9 אפריל 2025",
+    "event_id": "13",
     "time": "07:00 - 10:00",
     "service_type": "רונית",
     "is_available": true
   },
   {
     "date": "רביעי, 9 אפריל 2025",
-    "event_id": "12",
+    "event_id": "14",
     "time": "10:00 - 13:00",
     "service_type": "רונית",
     "is_available": true
   },
   {
     "date": "רביעי, 9 אפריל 2025",
-    "event_id": "19",
+    "event_id": "17",
+    "time": "19:00 - 22:00",
+    "service_type": "רונית",
+    "is_available": true
+  },
+  {
+    "date": "רביעי, 9 אפריל 2025",
+    "event_id": "22",
     "time": "07:00 - 10:00",
     "service_type": "ליאור",
     "is_available": true
   },
   {
     "date": "רביעי, 9 אפריל 2025",
-    "event_id": "21",
+    "event_id": "24",
     "time": "13:00 - 16:00",
     "service_type": "ליאור",
     "is_available": true
   },
   {
     "date": "רביעי, 9 אפריל 2025",
-    "event_id": "23",
+    "event_id": "26",
     "time": "19:00 - 22:00",
     "service_type": "ליאור",
     "is_available": true
   },
   {
     "date": "רביעי, 9 אפריל 2025",
-    "event_id": "15",
+    "event_id": "18",
     "time": "07:00 - 10:00",
     "service_type": "קטמנדו",
     "is_available": true
   },
   {
     "date": "חמישי, 10 אפריל 2025",
-    "event_id": "49",
+    "event_id": "48",
+    "time": "19:00 - 22:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
+  {
+    "date": "חמישי, 10 אפריל 2025",
+    "event_id": "54",
     "time": "06:00 - 09:00",
     "service_type": "אסתר",
+    "is_available": true
+  },
+  {
+    "date": "חמישי, 10 אפריל 2025",
+    "event_id": "63",
+    "time": "20:00 - 23:00",
+    "service_type": "רוני",
     "is_available": true
   },
   {
@@ -1254,113 +1625,155 @@
   },
   {
     "date": "חמישי, 10 אפריל 2025",
-    "event_id": "37",
+    "event_id": "5",
+    "time": "20:00 - 23:00",
+    "service_type": "קרפה",
+    "is_available": true
+  },
+  {
+    "date": "חמישי, 10 אפריל 2025",
+    "event_id": "41",
     "time": "12:00 - 15:00",
     "service_type": "הרמוני",
     "is_available": true
   },
   {
     "date": "חמישי, 10 אפריל 2025",
-    "event_id": "39",
+    "event_id": "43",
     "time": "18:00 - 21:00",
     "service_type": "הרמוני",
     "is_available": true
   },
   {
     "date": "חמישי, 10 אפריל 2025",
-    "event_id": "24",
+    "event_id": "36",
+    "time": "20:00 - 23:00",
+    "service_type": "כרמן החדשה",
+    "is_available": true
+  },
+  {
+    "date": "חמישי, 10 אפריל 2025",
+    "event_id": "27",
     "time": "06:00 - 09:00",
     "service_type": "מישל",
     "is_available": true
   },
   {
     "date": "חמישי, 10 אפריל 2025",
-    "event_id": "28",
+    "event_id": "31",
     "time": "18:00 - 21:00",
     "service_type": "מישל",
     "is_available": true
   },
   {
     "date": "חמישי, 10 אפריל 2025",
-    "event_id": "10",
+    "event_id": "11",
     "time": "18:00 - 20:00",
     "service_type": "נאווה",
     "is_available": true
   },
   {
     "date": "חמישי, 10 אפריל 2025",
-    "event_id": "14",
+    "event_id": "12",
+    "time": "20:00 - 22:00",
+    "service_type": "נאווה",
+    "is_available": true
+  },
+  {
+    "date": "חמישי, 10 אפריל 2025",
+    "event_id": "16",
     "time": "16:00 - 19:00",
     "service_type": "רונית",
     "is_available": true
   },
   {
     "date": "חמישי, 10 אפריל 2025",
-    "event_id": "22",
+    "event_id": "17",
+    "time": "19:00 - 22:00",
+    "service_type": "רונית",
+    "is_available": true
+  },
+  {
+    "date": "חמישי, 10 אפריל 2025",
+    "event_id": "25",
     "time": "16:00 - 19:00",
     "service_type": "ליאור",
     "is_available": true
   },
   {
     "date": "חמישי, 10 אפריל 2025",
-    "event_id": "23",
+    "event_id": "26",
     "time": "19:00 - 22:00",
     "service_type": "ליאור",
     "is_available": true
   },
   {
     "date": "שישי, 11 אפריל 2025",
-    "event_id": "47",
+    "event_id": "52",
     "time": "06:00 - 09:00",
     "service_type": "אסתר",
     "is_available": true
   },
   {
     "date": "שישי, 11 אפריל 2025",
-    "event_id": "24",
+    "event_id": "27",
     "time": "06:00 - 09:00",
     "service_type": "מישל",
     "is_available": true
   },
   {
     "date": "שישי, 11 אפריל 2025",
-    "event_id": "5",
+    "event_id": "6",
     "time": "08:00 - 10:00",
     "service_type": "נאווה",
     "is_available": true
   },
   {
     "date": "שישי, 11 אפריל 2025",
-    "event_id": "6",
+    "event_id": "7",
     "time": "10:00 - 12:00",
     "service_type": "נאווה",
     "is_available": true
   },
   {
     "date": "שבת, 12 אפריל 2025",
-    "event_id": "37",
+    "event_id": "41",
     "time": "07:00 - 10:00",
     "service_type": "ושתי",
     "is_available": true
   },
   {
     "date": "שבת, 12 אפריל 2025",
-    "event_id": "46",
+    "event_id": "45",
+    "time": "19:00 - 22:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
+  {
+    "date": "שבת, 12 אפריל 2025",
+    "event_id": "51",
     "time": "06:00 - 09:00",
     "service_type": "אסתר",
     "is_available": true
   },
   {
     "date": "שבת, 12 אפריל 2025",
-    "event_id": "51",
+    "event_id": "56",
     "time": "08:00 - 11:00",
     "service_type": "רוני",
     "is_available": true
   },
   {
     "date": "שבת, 12 אפריל 2025",
-    "event_id": "54",
+    "event_id": "59",
     "time": "17:00 - 20:00",
+    "service_type": "רוני",
+    "is_available": true
+  },
+  {
+    "date": "שבת, 12 אפריל 2025",
+    "event_id": "60",
+    "time": "20:00 - 23:00",
     "service_type": "רוני",
     "is_available": true
   },
@@ -1380,176 +1793,218 @@
   },
   {
     "date": "שבת, 12 אפריל 2025",
-    "event_id": "32",
+    "event_id": "5",
+    "time": "20:00 - 23:00",
+    "service_type": "קרפה",
+    "is_available": true
+  },
+  {
+    "date": "שבת, 12 אפריל 2025",
+    "event_id": "36",
     "time": "06:00 - 09:00",
     "service_type": "הרמוני",
     "is_available": true
   },
   {
     "date": "שבת, 12 אפריל 2025",
-    "event_id": "36",
+    "event_id": "40",
     "time": "18:00 - 21:00",
     "service_type": "הרמוני",
     "is_available": true
   },
   {
     "date": "שבת, 12 אפריל 2025",
-    "event_id": "28",
+    "event_id": "31",
     "time": "08:00 - 11:00",
     "service_type": "כרמן החדשה",
     "is_available": true
   },
   {
     "date": "שבת, 12 אפריל 2025",
-    "event_id": "30",
+    "event_id": "33",
     "time": "14:00 - 17:00",
     "service_type": "כרמן החדשה",
     "is_available": true
   },
   {
     "date": "שבת, 12 אפריל 2025",
-    "event_id": "31",
+    "event_id": "34",
     "time": "17:00 - 20:00",
     "service_type": "כרמן החדשה",
     "is_available": true
   },
   {
     "date": "שבת, 12 אפריל 2025",
-    "event_id": "23",
+    "event_id": "35",
+    "time": "20:00 - 23:00",
+    "service_type": "כרמן החדשה",
+    "is_available": true
+  },
+  {
+    "date": "שבת, 12 אפריל 2025",
+    "event_id": "26",
     "time": "06:00 - 09:00",
     "service_type": "מישל",
     "is_available": true
   },
   {
     "date": "שבת, 12 אפריל 2025",
-    "event_id": "26",
+    "event_id": "29",
     "time": "15:00 - 18:00",
     "service_type": "מישל",
     "is_available": true
   },
   {
     "date": "שבת, 12 אפריל 2025",
-    "event_id": "27",
+    "event_id": "30",
     "time": "18:00 - 21:00",
     "service_type": "מישל",
     "is_available": true
   },
   {
     "date": "שבת, 12 אפריל 2025",
-    "event_id": "5",
+    "event_id": "6",
     "time": "08:00 - 10:00",
     "service_type": "נאווה",
     "is_available": true
   },
   {
     "date": "שבת, 12 אפריל 2025",
-    "event_id": "6",
+    "event_id": "7",
     "time": "10:00 - 12:00",
     "service_type": "נאווה",
     "is_available": true
   },
   {
     "date": "שבת, 12 אפריל 2025",
-    "event_id": "7",
+    "event_id": "8",
     "time": "12:00 - 14:00",
     "service_type": "נאווה",
     "is_available": true
   },
   {
     "date": "שבת, 12 אפריל 2025",
-    "event_id": "8",
+    "event_id": "9",
     "time": "14:00 - 16:00",
     "service_type": "נאווה",
     "is_available": true
   },
   {
     "date": "שבת, 12 אפריל 2025",
-    "event_id": "9",
+    "event_id": "10",
     "time": "16:00 - 18:00",
     "service_type": "נאווה",
     "is_available": true
   },
   {
     "date": "שבת, 12 אפריל 2025",
-    "event_id": "10",
+    "event_id": "11",
     "time": "18:00 - 20:00",
     "service_type": "נאווה",
     "is_available": true
   },
   {
     "date": "שבת, 12 אפריל 2025",
-    "event_id": "11",
+    "event_id": "12",
+    "time": "20:00 - 22:00",
+    "service_type": "נאווה",
+    "is_available": true
+  },
+  {
+    "date": "שבת, 12 אפריל 2025",
+    "event_id": "13",
     "time": "07:00 - 10:00",
     "service_type": "רונית",
     "is_available": true
   },
   {
     "date": "שבת, 12 אפריל 2025",
-    "event_id": "12",
+    "event_id": "14",
     "time": "10:00 - 13:00",
     "service_type": "רונית",
     "is_available": true
   },
   {
     "date": "שבת, 12 אפריל 2025",
-    "event_id": "13",
+    "event_id": "15",
     "time": "13:00 - 16:00",
     "service_type": "רונית",
     "is_available": true
   },
   {
     "date": "שבת, 12 אפריל 2025",
-    "event_id": "14",
+    "event_id": "16",
     "time": "16:00 - 19:00",
     "service_type": "רונית",
+    "is_available": true
+  },
+  {
+    "date": "שבת, 12 אפריל 2025",
+    "event_id": "17",
+    "time": "19:00 - 22:00",
+    "service_type": "רונית",
+    "is_available": true
+  },
+  {
+    "date": "שבת, 12 אפריל 2025",
+    "event_id": "21",
+    "time": "07:00 - 10:00",
+    "service_type": "ליאור",
+    "is_available": true
+  },
+  {
+    "date": "שבת, 12 אפריל 2025",
+    "event_id": "22",
+    "time": "10:00 - 13:00",
+    "service_type": "ליאור",
+    "is_available": true
+  },
+  {
+    "date": "שבת, 12 אפריל 2025",
+    "event_id": "23",
+    "time": "13:00 - 16:00",
+    "service_type": "ליאור",
+    "is_available": true
+  },
+  {
+    "date": "שבת, 12 אפריל 2025",
+    "event_id": "24",
+    "time": "16:00 - 19:00",
+    "service_type": "ליאור",
+    "is_available": true
+  },
+  {
+    "date": "שבת, 12 אפריל 2025",
+    "event_id": "25",
+    "time": "19:00 - 22:00",
+    "service_type": "ליאור",
     "is_available": true
   },
   {
     "date": "שבת, 12 אפריל 2025",
     "event_id": "18",
     "time": "07:00 - 10:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 12 אפריל 2025",
-    "event_id": "19",
-    "time": "10:00 - 13:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 12 אפריל 2025",
-    "event_id": "20",
-    "time": "13:00 - 16:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 12 אפריל 2025",
-    "event_id": "21",
-    "time": "16:00 - 19:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 12 אפריל 2025",
-    "event_id": "22",
-    "time": "19:00 - 22:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 12 אפריל 2025",
-    "event_id": "15",
-    "time": "07:00 - 10:00",
     "service_type": "קטמנדו",
     "is_available": true
   },
   {
     "date": "ראשון, 13 אפריל 2025",
-    "event_id": "57",
+    "event_id": "47",
+    "time": "19:00 - 22:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
+  {
+    "date": "ראשון, 13 אפריל 2025",
+    "event_id": "62",
     "time": "17:00 - 20:00",
+    "service_type": "רוני",
+    "is_available": true
+  },
+  {
+    "date": "ראשון, 13 אפריל 2025",
+    "event_id": "63",
+    "time": "20:00 - 23:00",
     "service_type": "רוני",
     "is_available": true
   },
@@ -1569,140 +2024,168 @@
   },
   {
     "date": "ראשון, 13 אפריל 2025",
-    "event_id": "37",
+    "event_id": "5",
+    "time": "20:00 - 23:00",
+    "service_type": "קרפה",
+    "is_available": true
+  },
+  {
+    "date": "ראשון, 13 אפריל 2025",
+    "event_id": "41",
     "time": "15:00 - 18:00",
     "service_type": "הרמוני",
     "is_available": true
   },
   {
     "date": "ראשון, 13 אפריל 2025",
-    "event_id": "38",
+    "event_id": "42",
     "time": "18:00 - 21:00",
     "service_type": "הרמוני",
     "is_available": true
   },
   {
     "date": "ראשון, 13 אפריל 2025",
-    "event_id": "30",
+    "event_id": "33",
     "time": "08:00 - 11:00",
     "service_type": "כרמן החדשה",
     "is_available": true
   },
   {
     "date": "ראשון, 13 אפריל 2025",
-    "event_id": "31",
+    "event_id": "34",
     "time": "11:00 - 14:00",
     "service_type": "כרמן החדשה",
     "is_available": true
   },
   {
     "date": "ראשון, 13 אפריל 2025",
-    "event_id": "25",
+    "event_id": "37",
+    "time": "20:00 - 23:00",
+    "service_type": "כרמן החדשה",
+    "is_available": true
+  },
+  {
+    "date": "ראשון, 13 אפריל 2025",
+    "event_id": "28",
     "time": "06:00 - 09:00",
     "service_type": "מישל",
     "is_available": true
   },
   {
     "date": "ראשון, 13 אפריל 2025",
-    "event_id": "26",
+    "event_id": "29",
     "time": "09:00 - 12:00",
     "service_type": "מישל",
     "is_available": true
   },
   {
     "date": "ראשון, 13 אפריל 2025",
-    "event_id": "27",
+    "event_id": "30",
     "time": "12:00 - 15:00",
     "service_type": "מישל",
     "is_available": true
   },
   {
     "date": "ראשון, 13 אפריל 2025",
-    "event_id": "29",
+    "event_id": "32",
     "time": "18:00 - 21:00",
     "service_type": "מישל",
     "is_available": true
   },
   {
     "date": "ראשון, 13 אפריל 2025",
-    "event_id": "6",
+    "event_id": "7",
     "time": "08:00 - 10:00",
     "service_type": "נאווה",
     "is_available": true
   },
   {
     "date": "ראשון, 13 אפריל 2025",
-    "event_id": "7",
+    "event_id": "8",
     "time": "10:00 - 12:00",
     "service_type": "נאווה",
     "is_available": true
   },
   {
     "date": "ראשון, 13 אפריל 2025",
-    "event_id": "8",
+    "event_id": "9",
     "time": "12:00 - 14:00",
     "service_type": "נאווה",
     "is_available": true
   },
   {
     "date": "ראשון, 13 אפריל 2025",
-    "event_id": "9",
+    "event_id": "10",
     "time": "14:00 - 16:00",
     "service_type": "נאווה",
     "is_available": true
   },
   {
     "date": "ראשון, 13 אפריל 2025",
-    "event_id": "10",
+    "event_id": "11",
     "time": "16:00 - 18:00",
     "service_type": "נאווה",
     "is_available": true
   },
   {
     "date": "ראשון, 13 אפריל 2025",
-    "event_id": "11",
+    "event_id": "12",
     "time": "18:00 - 20:00",
     "service_type": "נאווה",
     "is_available": true
   },
   {
     "date": "ראשון, 13 אפריל 2025",
-    "event_id": "14",
+    "event_id": "13",
+    "time": "20:00 - 22:00",
+    "service_type": "נאווה",
+    "is_available": true
+  },
+  {
+    "date": "ראשון, 13 אפריל 2025",
+    "event_id": "16",
     "time": "13:00 - 16:00",
     "service_type": "רונית",
     "is_available": true
   },
   {
     "date": "ראשון, 13 אפריל 2025",
-    "event_id": "20",
+    "event_id": "18",
+    "time": "19:00 - 22:00",
+    "service_type": "רונית",
+    "is_available": true
+  },
+  {
+    "date": "ראשון, 13 אפריל 2025",
+    "event_id": "23",
     "time": "10:00 - 13:00",
     "service_type": "ליאור",
     "is_available": true
   },
   {
     "date": "ראשון, 13 אפריל 2025",
-    "event_id": "21",
+    "event_id": "24",
     "time": "13:00 - 16:00",
     "service_type": "ליאור",
     "is_available": true
   },
   {
     "date": "ראשון, 13 אפריל 2025",
-    "event_id": "22",
+    "event_id": "25",
     "time": "16:00 - 19:00",
     "service_type": "ליאור",
     "is_available": true
   },
   {
     "date": "ראשון, 13 אפריל 2025",
-    "event_id": "23",
+    "event_id": "26",
     "time": "19:00 - 22:00",
     "service_type": "ליאור",
     "is_available": true
   },
   {
     "date": "ראשון, 13 אפריל 2025",
-    "event_id": "16",
+    "event_id": "19",
     "time": "07:00 - 10:00",
     "service_type": "קטמנדו",
     "is_available": true
