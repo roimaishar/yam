@@ -84,6 +84,13 @@
     "is_available": true
   },
   {
+    "date": "שלישי, 1 אפריל 2025",
+    "event_id": "15",
+    "time": "07:00 - 10:00",
+    "service_type": "קטמנדו",
+    "is_available": true
+  },
+  {
     "date": "רביעי, 2 אפריל 2025",
     "event_id": "39",
     "time": "07:00 - 10:00",
