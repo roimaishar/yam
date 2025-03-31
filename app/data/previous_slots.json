@@ -34,6 +34,13 @@
     "service_type": "הרמוני",
     "is_available": true
   },
+  "שלישי, 1 אפריל 2025_37": {
+    "date": "שלישי, 1 אפריל 2025",
+    "event_id": "37",
+    "time": "15:00 - 18:00",
+    "service_type": "הרמוני",
+    "is_available": true
+  },
   "שלישי, 1 אפריל 2025_24": {
     "date": "שלישי, 1 אפריל 2025",
     "event_id": "24",
@@ -1207,13 +1214,6 @@
     "date": "רביעי, 9 אפריל 2025",
     "event_id": "34",
     "time": "09:00 - 12:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  "רביעי, 9 אפריל 2025_36": {
-    "date": "רביעי, 9 אפריל 2025",
-    "event_id": "36",
-    "time": "15:00 - 18:00",
     "service_type": "הרמוני",
     "is_available": true
   },
