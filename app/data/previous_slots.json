@@ -1203,13 +1203,6 @@
     "service_type": "קרפה",
     "is_available": true
   },
-  "רביעי, 9 אפריל 2025_3": {
-    "date": "רביעי, 9 אפריל 2025",
-    "event_id": "3",
-    "time": "14:00 - 17:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
   "רביעי, 9 אפריל 2025_5": {
     "date": "רביעי, 9 אפריל 2025",
     "event_id": "5",
@@ -1767,6 +1760,13 @@
     "date": "שבת, 12 אפריל 2025",
     "event_id": "18",
     "time": "07:00 - 10:00",
+    "service_type": "קטמנדו",
+    "is_available": true
+  },
+  "שבת, 12 אפריל 2025_20": {
+    "date": "שבת, 12 אפריל 2025",
+    "event_id": "20",
+    "time": "13:00 - 16:00",
     "service_type": "קטמנדו",
     "is_available": true
   },
