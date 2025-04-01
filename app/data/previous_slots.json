@@ -20,6 +20,13 @@
     "service_type": "אסתר",
     "is_available": true
   },
+  "רביעי, 2 אפריל 2025_55": {
+    "date": "רביעי, 2 אפריל 2025",
+    "event_id": "55",
+    "time": "12:00 - 15:00",
+    "service_type": "אסתר",
+    "is_available": true
+  },
   "רביעי, 2 אפריל 2025_62": {
     "date": "רביעי, 2 אפריל 2025",
     "event_id": "62",
@@ -461,25 +468,11 @@
     "service_type": "אסתר",
     "is_available": true
   },
-  "ראשון, 6 אפריל 2025_59": {
-    "date": "ראשון, 6 אפריל 2025",
-    "event_id": "59",
-    "time": "18:00 - 21:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
   "ראשון, 6 אפריל 2025_64": {
     "date": "ראשון, 6 אפריל 2025",
     "event_id": "64",
     "time": "20:00 - 23:00",
     "service_type": "רוני",
-    "is_available": true
-  },
-  "ראשון, 6 אפריל 2025_4": {
-    "date": "ראשון, 6 אפריל 2025",
-    "event_id": "4",
-    "time": "17:00 - 20:00",
-    "service_type": "קרפה",
     "is_available": true
   },
   "ראשון, 6 אפריל 2025_5": {
@@ -657,13 +650,6 @@
     "service_type": "קטמנדו",
     "is_available": true
   },
-  "שני, 7 אפריל 2025_42": {
-    "date": "שני, 7 אפריל 2025",
-    "event_id": "42",
-    "time": "07:00 - 10:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
   "שני, 7 אפריל 2025_44": {
     "date": "שני, 7 אפריל 2025",
     "event_id": "44",
@@ -682,13 +668,6 @@
     "date": "שני, 7 אפריל 2025",
     "event_id": "53",
     "time": "09:00 - 12:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  "שני, 7 אפריל 2025_56": {
-    "date": "שני, 7 אפריל 2025",
-    "event_id": "56",
-    "time": "18:00 - 21:00",
     "service_type": "אסתר",
     "is_available": true
   },
@@ -983,13 +962,6 @@
     "date": "שלישי, 8 אפריל 2025",
     "event_id": "57",
     "time": "08:00 - 11:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
-  "שלישי, 8 אפריל 2025_58": {
-    "date": "שלישי, 8 אפריל 2025",
-    "event_id": "58",
-    "time": "11:00 - 14:00",
     "service_type": "רוני",
     "is_available": true
   },
