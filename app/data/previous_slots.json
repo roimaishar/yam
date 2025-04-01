@@ -1483,6 +1483,13 @@
     "service_type": "נאווה",
     "is_available": true
   },
+  "שישי, 11 אפריל 2025_18": {
+    "date": "שישי, 11 אפריל 2025",
+    "event_id": "18",
+    "time": "07:00 - 09:00",
+    "service_type": "קטמנדו",
+    "is_available": true
+  },
   "שבת, 12 אפריל 2025_42": {
     "date": "שבת, 12 אפריל 2025",
     "event_id": "42",
@@ -1732,6 +1739,13 @@
     "date": "שבת, 12 אפריל 2025",
     "event_id": "18",
     "time": "07:00 - 10:00",
+    "service_type": "קטמנדו",
+    "is_available": true
+  },
+  "שבת, 12 אפריל 2025_19": {
+    "date": "שבת, 12 אפריל 2025",
+    "event_id": "19",
+    "time": "10:00 - 13:00",
     "service_type": "קטמנדו",
     "is_available": true
   },
