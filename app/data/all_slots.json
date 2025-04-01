@@ -176,13 +176,6 @@
   },
   {
     "date": "חמישי, 3 אפריל 2025",
-    "event_id": "19",
-    "time": "07:00 - 09:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
-  {
-    "date": "חמישי, 3 אפריל 2025",
     "event_id": "24",
     "time": "17:00 - 19:00",
     "service_type": "קטמנדו",
@@ -235,13 +228,6 @@
     "event_id": "17",
     "time": "19:00 - 22:00",
     "service_type": "רונית",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 4 אפריל 2025",
-    "event_id": "22",
-    "time": "15:00 - 17:00",
-    "service_type": "קטמנדו",
     "is_available": true
   },
   {
@@ -1548,13 +1534,6 @@
   },
   {
     "date": "שבת, 12 אפריל 2025",
-    "event_id": "34",
-    "time": "14:00 - 17:00",
-    "service_type": "כרמן החדשה",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 12 אפריל 2025",
     "event_id": "35",
     "time": "17:00 - 20:00",
     "service_type": "כרמן החדשה",
@@ -1655,13 +1634,6 @@
     "date": "שבת, 12 אפריל 2025",
     "event_id": "15",
     "time": "13:00 - 16:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 12 אפריל 2025",
-    "event_id": "16",
-    "time": "16:00 - 19:00",
     "service_type": "רונית",
     "is_available": true
   },
