@@ -225,13 +225,6 @@
   },
   {
     "date": "שישי, 4 אפריל 2025",
-    "event_id": "6",
-    "time": "08:00 - 10:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 4 אפריל 2025",
     "event_id": "11",
     "time": "18:00 - 20:00",
     "service_type": "נאווה",
@@ -473,13 +466,6 @@
     "event_id": "58",
     "time": "18:00 - 21:00",
     "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 6 אפריל 2025",
-    "event_id": "59",
-    "time": "08:00 - 11:00",
-    "service_type": "רוני",
     "is_available": true
   },
   {
@@ -941,13 +927,6 @@
     "date": "שלישי, 8 אפריל 2025",
     "event_id": "41",
     "time": "07:00 - 10:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 8 אפריל 2025",
-    "event_id": "42",
-    "time": "10:00 - 13:00",
     "service_type": "ושתי",
     "is_available": true
   },
