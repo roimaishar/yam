@@ -41,13 +41,6 @@
     "service_type": "קרפה",
     "is_available": true
   },
-  "חמישי, 3 אפריל 2025_42": {
-    "date": "חמישי, 3 אפריל 2025",
-    "event_id": "42",
-    "time": "12:00 - 15:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
   "חמישי, 3 אפריל 2025_39": {
     "date": "חמישי, 3 אפריל 2025",
     "event_id": "39",
@@ -115,13 +108,6 @@
     "date": "חמישי, 3 אפריל 2025",
     "event_id": "19",
     "time": "07:00 - 09:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
-  "חמישי, 3 אפריל 2025_24": {
-    "date": "חמישי, 3 אפריל 2025",
-    "event_id": "24",
-    "time": "17:00 - 19:00",
     "service_type": "קטמנדו",
     "is_available": true
   },
@@ -475,13 +461,6 @@
     "service_type": "רונית",
     "is_available": true
   },
-  "ראשון, 6 אפריל 2025_17": {
-    "date": "ראשון, 6 אפריל 2025",
-    "event_id": "17",
-    "time": "16:00 - 19:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
   "ראשון, 6 אפריל 2025_23": {
     "date": "ראשון, 6 אפריל 2025",
     "event_id": "23",
@@ -563,13 +542,6 @@
     "date": "שני, 7 אפריל 2025",
     "event_id": "3",
     "time": "14:00 - 17:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
-  "שני, 7 אפריל 2025_4": {
-    "date": "שני, 7 אפריל 2025",
-    "event_id": "4",
-    "time": "17:00 - 20:00",
     "service_type": "קרפה",
     "is_available": true
   },
