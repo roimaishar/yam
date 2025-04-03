@@ -50,13 +50,6 @@
   },
   {
     "date": "שישי, 4 אפריל 2025",
-    "event_id": "21",
-    "time": "13:00 - 15:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 4 אפריל 2025",
     "event_id": "23",
     "time": "17:00 - 19:00",
     "service_type": "קטמנדו",
@@ -2005,13 +1998,6 @@
     "date": "רביעי, 16 אפריל 2025",
     "event_id": "34",
     "time": "11:00 - 14:00",
-    "service_type": "כרמן החדשה",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 16 אפריל 2025",
-    "event_id": "36",
-    "time": "17:00 - 20:00",
     "service_type": "כרמן החדשה",
     "is_available": true
   },
