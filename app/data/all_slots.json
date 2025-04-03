@@ -386,13 +386,6 @@
   },
   {
     "date": "שני, 7 אפריל 2025",
-    "event_id": "13",
-    "time": "07:00 - 10:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
-  {
-    "date": "שני, 7 אפריל 2025",
     "event_id": "17",
     "time": "19:00 - 22:00",
     "service_type": "רונית",
@@ -444,13 +437,6 @@
     "date": "שלישי, 8 אפריל 2025",
     "event_id": "53",
     "time": "09:00 - 12:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 8 אפריל 2025",
-    "event_id": "56",
-    "time": "18:00 - 21:00",
     "service_type": "אסתר",
     "is_available": true
   },
