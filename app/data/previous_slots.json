@@ -27,6 +27,13 @@
     "service_type": "הרמוני",
     "is_available": true
   },
+  "שישי, 4 אפריל 2025_35": {
+    "date": "שישי, 4 אפריל 2025",
+    "event_id": "35",
+    "time": "11:00 - 14:00",
+    "service_type": "כרמן החדשה",
+    "is_available": true
+  },
   "שישי, 4 אפריל 2025_38": {
     "date": "שישי, 4 אפריל 2025",
     "event_id": "38",
@@ -83,13 +90,6 @@
     "service_type": "רוני",
     "is_available": true
   },
-  "שבת, 5 אפריל 2025_4": {
-    "date": "שבת, 5 אפריל 2025",
-    "event_id": "4",
-    "time": "17:00 - 20:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
   "שבת, 5 אפריל 2025_5": {
     "date": "שבת, 5 אפריל 2025",
     "event_id": "5",
@@ -115,13 +115,6 @@
     "date": "שבת, 5 אפריל 2025",
     "event_id": "7",
     "time": "08:00 - 10:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  "שבת, 5 אפריל 2025_10": {
-    "date": "שבת, 5 אפריל 2025",
-    "event_id": "10",
-    "time": "14:00 - 16:00",
     "service_type": "נאווה",
     "is_available": true
   },
@@ -167,11 +160,11 @@
     "service_type": "ליאור",
     "is_available": true
   },
-  "ראשון, 6 אפריל 2025_44": {
-    "date": "ראשון, 6 אפריל 2025",
-    "event_id": "44",
-    "time": "07:00 - 10:00",
-    "service_type": "ושתי",
+  "שבת, 5 אפריל 2025_20": {
+    "date": "שבת, 5 אפריל 2025",
+    "event_id": "20",
+    "time": "10:00 - 13:00",
+    "service_type": "קטמנדו",
     "is_available": true
   },
   "ראשון, 6 אפריל 2025_46": {
@@ -335,13 +328,6 @@
     "service_type": "ושתי",
     "is_available": true
   },
-  "שני, 7 אפריל 2025_57": {
-    "date": "שני, 7 אפריל 2025",
-    "event_id": "57",
-    "time": "08:00 - 11:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
   "שני, 7 אפריל 2025_61": {
     "date": "שני, 7 אפריל 2025",
     "event_id": "61",
@@ -353,13 +339,6 @@
     "date": "שני, 7 אפריל 2025",
     "event_id": "1",
     "time": "08:00 - 11:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
-  "שני, 7 אפריל 2025_3": {
-    "date": "שני, 7 אפריל 2025",
-    "event_id": "3",
-    "time": "14:00 - 17:00",
     "service_type": "קרפה",
     "is_available": true
   },
@@ -1564,13 +1543,6 @@
     "date": "שני, 14 אפריל 2025",
     "event_id": "39",
     "time": "09:00 - 12:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  "שני, 14 אפריל 2025_40": {
-    "date": "שני, 14 אפריל 2025",
-    "event_id": "40",
-    "time": "12:00 - 15:00",
     "service_type": "הרמוני",
     "is_available": true
   },
