@@ -384,13 +384,6 @@
     "service_type": "אסתר",
     "is_available": true
   },
-  "שלישי, 8 אפריל 2025_53": {
-    "date": "שלישי, 8 אפריל 2025",
-    "event_id": "53",
-    "time": "09:00 - 12:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
   "שלישי, 8 אפריל 2025_57": {
     "date": "שלישי, 8 אפריל 2025",
     "event_id": "57",
@@ -1609,13 +1602,6 @@
     "service_type": "קרפה",
     "is_available": true
   },
-  "שלישי, 15 אפריל 2025_3": {
-    "date": "שלישי, 15 אפריל 2025",
-    "event_id": "3",
-    "time": "14:00 - 17:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
   "שלישי, 15 אפריל 2025_5": {
     "date": "שלישי, 15 אפריל 2025",
     "event_id": "5",
@@ -1634,13 +1620,6 @@
     "date": "שלישי, 15 אפריל 2025",
     "event_id": "39",
     "time": "09:00 - 12:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  "שלישי, 15 אפריל 2025_40": {
-    "date": "שלישי, 15 אפריל 2025",
-    "event_id": "40",
-    "time": "12:00 - 15:00",
     "service_type": "הרמוני",
     "is_available": true
   },
