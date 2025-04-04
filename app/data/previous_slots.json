@@ -34,13 +34,6 @@
     "service_type": "נאווה",
     "is_available": true
   },
-  "שבת, 5 אפריל 2025_11": {
-    "date": "שבת, 5 אפריל 2025",
-    "event_id": "11",
-    "time": "16:00 - 18:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
   "שבת, 5 אפריל 2025_12": {
     "date": "שבת, 5 אפריל 2025",
     "event_id": "12",
@@ -388,6 +381,13 @@
     "date": "שלישי, 8 אפריל 2025",
     "event_id": "2",
     "time": "11:00 - 14:00",
+    "service_type": "קרפה",
+    "is_available": true
+  },
+  "שלישי, 8 אפריל 2025_3": {
+    "date": "שלישי, 8 אפריל 2025",
+    "event_id": "3",
+    "time": "14:00 - 17:00",
     "service_type": "קרפה",
     "is_available": true
   },
@@ -1599,13 +1599,6 @@
     "date": "שלישי, 15 אפריל 2025",
     "event_id": "27",
     "time": "06:00 - 09:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  "שלישי, 15 אפריל 2025_29": {
-    "date": "שלישי, 15 אפריל 2025",
-    "event_id": "29",
-    "time": "12:00 - 15:00",
     "service_type": "מישל",
     "is_available": true
   },
