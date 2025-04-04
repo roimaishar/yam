@@ -162,13 +162,6 @@
   },
   {
     "date": "ראשון, 6 אפריל 2025",
-    "event_id": "14",
-    "time": "07:00 - 10:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 6 אפריל 2025",
     "event_id": "23",
     "time": "07:00 - 10:00",
     "service_type": "ליאור",
@@ -848,6 +841,13 @@
   },
   {
     "date": "שבת, 12 אפריל 2025",
+    "event_id": "53",
+    "time": "09:00 - 12:00",
+    "service_type": "אסתר",
+    "is_available": true
+  },
+  {
+    "date": "שבת, 12 אפריל 2025",
     "event_id": "57",
     "time": "08:00 - 11:00",
     "service_type": "רוני",
@@ -990,13 +990,6 @@
     "date": "שבת, 12 אפריל 2025",
     "event_id": "13",
     "time": "07:00 - 10:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 12 אפריל 2025",
-    "event_id": "14",
-    "time": "10:00 - 13:00",
     "service_type": "רונית",
     "is_available": true
   },
