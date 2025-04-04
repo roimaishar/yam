@@ -855,20 +855,6 @@
   },
   {
     "date": "שבת, 12 אפריל 2025",
-    "event_id": "52",
-    "time": "06:00 - 09:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 12 אפריל 2025",
-    "event_id": "54",
-    "time": "12:00 - 15:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 12 אפריל 2025",
     "event_id": "57",
     "time": "08:00 - 11:00",
     "service_type": "רוני",
@@ -1319,13 +1305,6 @@
     "date": "שני, 14 אפריל 2025",
     "event_id": "38",
     "time": "06:00 - 09:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  {
-    "date": "שני, 14 אפריל 2025",
-    "event_id": "39",
-    "time": "09:00 - 12:00",
     "service_type": "הרמוני",
     "is_available": true
   },
