@@ -176,6 +176,13 @@
   },
   {
     "date": "ראשון, 6 אפריל 2025",
+    "event_id": "24",
+    "time": "10:00 - 13:00",
+    "service_type": "ליאור",
+    "is_available": true
+  },
+  {
+    "date": "ראשון, 6 אפריל 2025",
     "event_id": "26",
     "time": "16:00 - 19:00",
     "service_type": "ליאור",
@@ -207,13 +214,6 @@
     "event_id": "5",
     "time": "20:00 - 23:00",
     "service_type": "קרפה",
-    "is_available": true
-  },
-  {
-    "date": "שני, 7 אפריל 2025",
-    "event_id": "39",
-    "time": "12:00 - 15:00",
-    "service_type": "הרמוני",
     "is_available": true
   },
   {
