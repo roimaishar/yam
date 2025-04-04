@@ -846,6 +846,13 @@
     "service_type": "ושתי",
     "is_available": true
   },
+  "שבת, 12 אפריל 2025_52": {
+    "date": "שבת, 12 אפריל 2025",
+    "event_id": "52",
+    "time": "06:00 - 09:00",
+    "service_type": "אסתר",
+    "is_available": true
+  },
   "שבת, 12 אפריל 2025_57": {
     "date": "שבת, 12 אפריל 2025",
     "event_id": "57",
