@@ -6,13 +6,6 @@
     "service_type": "ושתי",
     "is_available": true
   },
-  "ראשון, 6 אפריל 2025_53": {
-    "date": "ראשון, 6 אפריל 2025",
-    "event_id": "53",
-    "time": "06:00 - 09:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
   "ראשון, 6 אפריל 2025_62": {
     "date": "ראשון, 6 אפריל 2025",
     "event_id": "62",
@@ -1312,13 +1305,6 @@
     "date": "שני, 14 אפריל 2025",
     "event_id": "25",
     "time": "13:00 - 16:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
-  "שני, 14 אפריל 2025_26": {
-    "date": "שני, 14 אפריל 2025",
-    "event_id": "26",
-    "time": "16:00 - 19:00",
     "service_type": "ליאור",
     "is_available": true
   },
