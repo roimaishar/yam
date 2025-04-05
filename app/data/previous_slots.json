@@ -104,13 +104,6 @@
     "service_type": "ליאור",
     "is_available": true
   },
-  "ראשון, 6 אפריל 2025_26": {
-    "date": "ראשון, 6 אפריל 2025",
-    "event_id": "26",
-    "time": "16:00 - 19:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
   "ראשון, 6 אפריל 2025_27": {
     "date": "ראשון, 6 אפריל 2025",
     "event_id": "27",
@@ -822,13 +815,6 @@
     "date": "שבת, 12 אפריל 2025",
     "event_id": "27",
     "time": "06:00 - 09:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  "שבת, 12 אפריל 2025_30": {
-    "date": "שבת, 12 אפריל 2025",
-    "event_id": "30",
-    "time": "15:00 - 18:00",
     "service_type": "מישל",
     "is_available": true
   },
