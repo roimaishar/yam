@@ -30,7 +30,7 @@ yam/
 
 - `cookie_scraper.py`: Core scraping functionality using Playwright
 - `slot_monitor.py`: Monitors for new available slots and sends notifications
-- `slack_notifier.py`: Handles sending notifications to Slack
+- `slack_notifier.py`: Handles sending notifications to Slack with mobile-friendly format
 - `config.py`: Configuration settings and file paths
 - `main.py`: Command-line interface for running the scraper and monitor
 - `all_slots.json`: Output file containing all scraped calendar slots
@@ -131,22 +131,19 @@ For detailed setup instructions:
 python -m app.main monitor --setup
 ```
 
-#### Running the Monitor Continuously
+#### Mobile-Friendly Notifications
 
-To keep the monitor running continuously:
+The system sends mobile-optimized notifications that are readable directly from notification previews:
 
-1. **Using tmux (recommended for macOS/Linux)**:
-   ```bash
-   tmux new -s yam-monitor
-   python -m app.main monitor
-   # Press Ctrl+B then D to detach (monitor keeps running)
-   # To reattach: tmux attach -t yam-monitor
-   ```
+```
+🔔 5 New Slots! 📅 Fri(12/4), Sat(13/4) ⛵ Kat: Esther(Fri 10-12) ⚓ Mono: Naava(Fri 10-11,14-15), Roni(Sat 9-10)
+```
 
-2. **As a background process**:
-   ```bash
-   nohup python -m app.main monitor > monitor.log 2>&1 &
-   ```
+Features:
+- English translations for Hebrew boat names and dates
+- Different icons for katamarans (⛵) and monohulls (⚓)
+- Merged consecutive time slots (10-11, 11-12 becomes 10-12)
+- Compact format optimized for mobile notification previews
 
 ## Features
 
