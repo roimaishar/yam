@@ -463,6 +463,13 @@
   },
   {
     "date": "חמישי, 10 אפריל 2025",
+    "event_id": "47",
+    "time": "10:00 - 13:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
+  {
+    "date": "חמישי, 10 אפריל 2025",
     "event_id": "50",
     "time": "19:00 - 22:00",
     "service_type": "ושתי",
@@ -570,13 +577,6 @@
     "date": "שישי, 11 אפריל 2025",
     "event_id": "6",
     "time": "08:00 - 10:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 11 אפריל 2025",
-    "event_id": "7",
-    "time": "10:00 - 12:00",
     "service_type": "נאווה",
     "is_available": true
   },
