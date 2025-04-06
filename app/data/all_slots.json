@@ -183,13 +183,6 @@
   },
   {
     "date": "שלישי, 8 אפריל 2025",
-    "event_id": "29",
-    "time": "09:00 - 12:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 8 אפריל 2025",
     "event_id": "32",
     "time": "18:00 - 21:00",
     "service_type": "מישל",
@@ -857,20 +850,6 @@
     "date": "ראשון, 13 אפריל 2025",
     "event_id": "9",
     "time": "12:00 - 14:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 13 אפריל 2025",
-    "event_id": "10",
-    "time": "14:00 - 16:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 13 אפריל 2025",
-    "event_id": "11",
-    "time": "16:00 - 18:00",
     "service_type": "נאווה",
     "is_available": true
   },
@@ -1753,13 +1732,6 @@
     "date": "שישי, 18 אפריל 2025",
     "event_id": "13",
     "time": "07:00 - 10:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 18 אפריל 2025",
-    "event_id": "16",
-    "time": "16:00 - 19:00",
     "service_type": "רונית",
     "is_available": true
   },
