@@ -39,3 +39,4 @@ node_modules/
 
 # Logs
 *.log
+app/data/swell_forecast.json

@@ -92,6 +92,19 @@ class SlackNotifier:
             "monohull": {"emoji": "⚓", "name": "Mono", "boats": {}}
         }
         
+        # Get swell forecasts for all dates in the slots
+        from app.forecasts.swell_forecast import get_swell_emoji, get_forecast_for_slot
+        
+        # Group slots by date for swell info
+        dates_with_swell = {}
+        for slot in slots:
+            date_key = slot.get("date", "Unknown")
+            if date_key not in dates_with_swell:
+                forecast = get_forecast_for_slot(slot)
+                if forecast:
+                    swell_height = round(forecast.get("max_swell_height", 0), 1)
+                    dates_with_swell[date_key] = get_swell_emoji(swell_height) + f" {swell_height}m"
+        
         # Group slots by date, boat, and category
         for slot in slots:
             # Parse date
@@ -148,9 +161,16 @@ class SlackNotifier:
         total_slots = len(slots)
         notification = f"🔔 {total_slots} New Slots! "
         
-        # Add dates summary
+        # Add dates summary with swell info
         if dates:
-            notification += "📅 " + ", ".join(dates.keys()) + " "
+            notification += "📅 "
+            date_parts = []
+            for date_key in dates.keys():
+                date_text = date_key
+                if date_key.split("(")[0] in dates_with_swell:
+                    date_text += f" {dates_with_swell[date_key.split('(')[0]]}"
+                date_parts.append(date_text)
+            notification += ", ".join(date_parts) + " "
         
         # Add each category with its boats
         for cat_key, cat_data in categories.items():
@@ -236,6 +256,9 @@ class SlackNotifier:
             }
         ]
         
+        # Import swell forecast functions
+        from app.forecasts.swell_forecast import format_slot_forecast
+        
         # Group slots by date
         slots_by_date = {}
         for slot in slots_to_show:
@@ -246,12 +269,15 @@ class SlackNotifier:
         
         # Add each date section with its slots
         for date, date_slots in slots_by_date.items():
-            # Add date header
+            # Get swell forecast for this date using the first slot
+            swell_info = format_slot_forecast(date_slots[0])
+            
+            # Add date header with swell info
             blocks.append({
                 "type": "section",
                 "text": {
                     "type": "mrkdwn",
-                    "text": f"*📅 {date}*"
+                    "text": f"*📅 {date}*  |  *🌊 Swell:* {swell_info}"
                 }
             })
             
@@ -290,6 +316,42 @@ class SlackNotifier:
             blocks.append({
                 "type": "divider"
             })
+        
+        # Add forecast general info for Herzliya
+        try:
+            from app.forecasts.swell_forecast import get_simplified_forecast
+            forecast = get_simplified_forecast(days=3)  # Next 3 days
+            
+            if forecast:
+                forecast_text = "*🌊 Herzliya Marina Forecast*\n"
+                
+                for day in forecast:
+                    swell_height = day.get("max_swell_height", 0)
+                    swell_period = day.get("avg_swell_period", 0)
+                    direction = day.get("dominant_swell_direction", "")
+                    
+                    # Get emoji based on wave height
+                    from app.forecasts.swell_forecast import get_swell_emoji
+                    emoji = get_swell_emoji(swell_height)
+                    
+                    date_parts = day.get("display_date", "").split(", ")
+                    short_date = date_parts[1] if len(date_parts) > 1 else date_parts[0]
+                    
+                    forecast_text += f"• {short_date}: {emoji} Swell: {swell_height}m | Period: {swell_period}s | {direction}\n"
+                
+                blocks.append({
+                    "type": "section",
+                    "text": {
+                        "type": "mrkdwn",
+                        "text": forecast_text
+                    }
+                })
+                
+                blocks.append({
+                    "type": "divider"
+                })
+        except Exception as e:
+            print(f"Error adding forecast to notification: {e}")
         
         # Add footer with link
         blocks.append({
