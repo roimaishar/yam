@@ -119,7 +119,7 @@ To receive notifications in Slack:
 4. In the left sidebar, click on "Incoming Webhooks"
 5. Toggle "Activate Incoming Webhooks" to On
 6. Click "Add New Webhook to Workspace"
-7. Choose the channel where you want to post notifications
+7. Choose the channel where you want to receive notifications
 8. Copy the Webhook URL that is generated
 9. Add this URL to your .env file:
 ```
@@ -136,36 +136,31 @@ python -m app.main monitor --setup
 The system sends mobile-optimized notifications that are readable directly from notification previews:
 
 ```
-🔔 5 New Slots! 📅 Fri(12/4), Sat(13/4) ⛵ Kat: Esther(Fri 10-12) ⚓ Mono: Naava(Fri 10-11,14-15), Roni(Sat 9-10)
+🚣 15 New Boat Slots Available! 🚣
+Found at 2025-03-14 23:16:37 (showing 12 of 15)
+
+Friday, 15 March 2025:
+- 10:00-13:00: נאווה 450 🌊🍃
+- 13:00-16:00: גולד 470 🏝️💨
+
+Saturday, 16 March 2025:
+- 10:00-12:00: מסטר 570 🌊🌊🌪️
+- 12:00-15:00: נאווה 450
 ```
 
 Features:
-- English translations for Hebrew boat names and dates
-- Different icons for katamarans (⛵) and monohulls (⚓)
-- Merged consecutive time slots (10-11, 11-12 becomes 10-12)
-- Compact format optimized for mobile notification previews
-
-## Features
-
-- **Automated Monitoring**: Checks for available boat slots at YAM Online
-- **Customizable Filters**: Filter slots by date, time, and boat type
-- **Slack Notifications**: Get notified when new slots become available
-- **GitHub Actions Integration**: Run the monitor automatically on a schedule
-- **Data Persistence**: Track which slots have been seen and notified
-
-### Slack Notifications
-
-The system sends beautiful, well-formatted notifications to Slack when new boat slots are available:
-
-- **Organized by Date**: Slots are grouped by date for easy reading
-- **Tabular Format**: Time and boat type displayed in a clean table layout
-- **Limited Display**: Shows a maximum of 12 slots to keep notifications concise
+- **Wave and Wind Indicators**: Automatically fetched marine forecasts with emoji indicators:
+  - Wave height: 🏝️ (calm), 🌊 (moderate), 🌊🌊 (large)
+  - Wind speed: 🍃 (light), 💨 (moderate), 🌪️ (strong)
+- **Grouping by Date**: Slots are organized by date for easier scanning
+- **Concise Format**: Optimized for mobile notification previews
+- **Direct Links**: Each slot has a direct booking link (in Slack)
 - **Total Count**: Always shows the total number of available slots, even when limiting display
 
 To set up Slack notifications:
 
 1. Create a Slack app and webhook URL in your workspace
-2. Add the webhook URL to your `.env` file as `SLACK_WEBHOOK_URL`
+2. Add the webhook URL to your .env file as `SLACK_WEBHOOK_URL`
 3. For GitHub Actions, add the webhook URL as a repository secret
 
 Example notification format:
@@ -173,11 +168,11 @@ Example notification format:
 🚣 15 New Boat Slots Available! 🚣
 Found at 2025-03-14 23:16:37 (showing 12 of 15)
 -------------------------------------------
-📅 שישי, 14 מרץ 2025
-| Time          | Boat Type     |
-|---------------|---------------|
-| 09:00 - 12:00 | מישל          |
-| 12:00 - 15:00 | קיאק זוגי      |
+Friday, 15 March 2025:
+| Time          | Boat Type     | Wave | Wind |
+|---------------|---------------|------|------|
+| 10:00 - 13:00 | נאווה 450     | 🌊  | 🍃  |
+| 13:00 - 16:00 | גולד 470     | 🏝️ | 💨  |
 -------------------------------------------
 ```
 
