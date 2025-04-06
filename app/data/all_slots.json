@@ -1289,13 +1289,6 @@
   },
   {
     "date": "רביעי, 16 אפריל 2025",
-    "event_id": "34",
-    "time": "11:00 - 14:00",
-    "service_type": "כרמן החדשה",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 16 אפריל 2025",
     "event_id": "36",
     "time": "17:00 - 20:00",
     "service_type": "כרמן החדשה",
@@ -1480,6 +1473,13 @@
     "date": "חמישי, 17 אפריל 2025",
     "event_id": "29",
     "time": "06:00 - 09:00",
+    "service_type": "מישל",
+    "is_available": true
+  },
+  {
+    "date": "חמישי, 17 אפריל 2025",
+    "event_id": "32",
+    "time": "15:00 - 18:00",
     "service_type": "מישל",
     "is_available": true
   },
