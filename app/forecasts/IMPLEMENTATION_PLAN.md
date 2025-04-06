@@ -34,6 +34,29 @@
 4. ✅ Add 3-day forecast summary to notifications
 5. ✅ Enhance mobile notification format with swell data
 
+### Phase 2: Wind Data Integration (Complete)
+1. **Expand API Calls**:
+   - Maintain marine API call for wave data
+   - Add weather API call for wind data (speed and direction)
+   - Use same location coordinates for both calls
+
+2. **Process Wind Data**:
+   - Convert wind speeds from m/s to knots (1 m/s ≈ 1.94384 knots)
+   - Calculate daily maximum and average wind speeds
+   - Determine dominant wind direction for each day
+
+3. **Visual Indicators**:
+   - Add wind emoji system based on speed:
+     - 🍃 Light wind (< 5 knots)
+     - 💨 Moderate wind (5-14 knots)
+     - 🌪️ Strong wind (> 14 knots)
+
+4. **Notification Integration**:
+   - Update slot forecast format to include wind data
+   - Format: Emoji-only indicators `[Wave emoji][Wind emoji]`
+   - Examples: `🏝️🍃` (calm sea, light wind), `🌊🌪️` (moderate waves, strong wind)
+   - Ensure the data is relevant to the slot's date and time
+
 ### Phase 3: Wave-based Slot Filtering
 1. Modify `filter_slots.py` to support wave condition filtering:
    - Add "max_wave_height" parameter to filter slots
@@ -91,9 +114,9 @@
 ## Implementation Notes
 
 ### Wave Height Categories
-- Small waves (≤ 0.4m): 🌊
-- Medium waves (≤ 0.8m): 🌊🌊
-- Large waves (> 0.8m): 🌊🌊🌊
+- Calm sea (≤ 0.4m): 🏝️
+- Moderate waves (≤ 0.8m): 🌊
+- Large waves (> 0.8m): 🌊🌊
 
 ### Data Format
 Compact swell data format in notifications:

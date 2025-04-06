@@ -5,9 +5,12 @@ This module integrates marine weather forecasts into the YAM application, provid
 ## Features
 
 - **Marine Data**: Wave height, period, and direction forecasts
+- **Wind Data**: Wind speed (in knots) and direction forecasts
 - **Caching**: 6-hour local cache to reduce API calls
-- **Slack Integration**: Swell data incorporated into slot notifications
-- **Visual Indicators**: Wave height emoji indicators (🏝️, 🌊, 🌊🌊)
+- **Slack Integration**: Swell and wind data incorporated into slot notifications
+- **Visual Indicators**: 
+  - Wave height emoji indicators (🏝️, 🌊, 🌊🌊)
+  - Wind speed emoji indicators (🍃, 💨, 🌪️)
 
 ## API Provider
 
@@ -79,6 +82,14 @@ The module uses emoji indicators to quickly visualize wave conditions:
 - 🏝️ Calm sea (≤ 0.4m) - Ideal conditions
 - 🌊 Moderate waves (≤ 0.8m) - Good conditions
 - 🌊🌊 Large waves (> 0.8m) - Challenging conditions
+
+## Wind Speed Categories
+
+Wind speeds are indicated with these emoji indicators:
+
+- 🍃 Light wind (< 5 knots) - May need motor assistance
+- 💨 Moderate wind (5-14 knots) - Good sailing conditions
+- 🌪️ Strong wind (> 14 knots) - Challenging conditions
 
 ## Implementation Details
 
