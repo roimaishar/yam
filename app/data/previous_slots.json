@@ -587,6 +587,13 @@
     "service_type": "נאווה",
     "is_available": true
   },
+  "שישי, 11 אפריל 2025_14": {
+    "date": "שישי, 11 אפריל 2025",
+    "event_id": "14",
+    "time": "10:00 - 13:00",
+    "service_type": "רונית",
+    "is_available": true
+  },
   "שבת, 12 אפריל 2025_42": {
     "date": "שבת, 12 אפריל 2025",
     "event_id": "42",
@@ -1557,13 +1564,6 @@
     "date": "חמישי, 17 אפריל 2025",
     "event_id": "54",
     "time": "06:00 - 09:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  "חמישי, 17 אפריל 2025_58": {
-    "date": "חמישי, 17 אפריל 2025",
-    "event_id": "58",
-    "time": "18:00 - 21:00",
     "service_type": "אסתר",
     "is_available": true
   },
