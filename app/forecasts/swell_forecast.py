@@ -234,11 +234,11 @@ def get_simplified_forecast(days=7):
 def get_swell_emoji(height):
     """Get emoji representation for swell height"""
     if height <= 0.4:
-        return "🌊"  # Small waves
+        return "🏝️"  # Calm sea/beach
     elif height <= 0.8:
-        return "🌊🌊"  # Medium waves
+        return "🌊"  # Medium waves
     else:
-        return "🌊🌊🌊"  # Large waves
+        return "🌊🌊"  # Large waves
 
 def get_forecast_for_date(date_str):
     """Get forecast for a specific date (YYYY-MM-DD format)"""
