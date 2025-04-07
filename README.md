@@ -12,6 +12,8 @@ This scraper automates the process of extracting available boats slots from the 
 yam/
 ├── app/
 │   ├── data/             # Scraped data and cookies storage
+│   ├── forecasts/        # Weather and marine forecast modules
+│   │   └── swell_forecast.py # Handles wave and wind forecasts
 │   ├── monitors/         # Monitoring modules
 │   │   ├── slot_monitor.py    # Monitors for new available slots
 │   │   └── slack_notifier.py  # Handles Slack notifications
@@ -31,6 +33,7 @@ yam/
 - `cookie_scraper.py`: Core scraping functionality using Playwright
 - `slot_monitor.py`: Monitors for new available slots and sends notifications
 - `slack_notifier.py`: Handles sending notifications to Slack with mobile-friendly format
+- `swell_forecast.py`: Fetches and processes wave height and wind forecast data
 - `config.py`: Configuration settings and file paths
 - `main.py`: Command-line interface for running the scraper and monitor
 - `all_slots.json`: Output file containing all scraped calendar slots
@@ -137,10 +140,9 @@ The system sends mobile-optimized notifications that are readable directly from 
 
 ```
 🚣 15 New Boat Slots Available! 🚣
-Found at 2025-03-14 23:16:37 (showing 12 of 15)
 
 Friday, 15 March 2025:
-- 10:00-13:00: נאווה 450 🌊🍃
+- 10:00-13:00: נאווה 450 🏝️🍃
 - 13:00-16:00: גולד 470 🏝️💨
 
 Saturday, 16 March 2025:
@@ -150,10 +152,10 @@ Saturday, 16 March 2025:
 
 Features:
 - **Wave and Wind Indicators**: Automatically fetched marine forecasts with emoji indicators:
-  - Wave height: 🏝️ (calm), 🌊 (moderate), 🌊🌊 (large)
-  - Wind speed: 🍃 (light), 💨 (moderate), 🌪️ (strong)
+  - Wave height: 🏝️ (calm, ≤0.4m), 🌊 (moderate, 0.5-1.2m), 🌊🌊 (large, >1.2m)
+  - Wind speed: 🍃 (light, <5 knots), 💨 (moderate, 5-14 knots), 🌪️ (strong, >14 knots)
 - **Grouping by Date**: Slots are organized by date for easier scanning
-- **Concise Format**: Optimized for mobile notification previews
+- **Concise Format**: Optimized for mobile notification previews without timestamp clutter
 - **Direct Links**: Each slot has a direct booking link (in Slack)
 - **Total Count**: Always shows the total number of available slots, even when limiting display
 
@@ -166,14 +168,14 @@ To set up Slack notifications:
 Example notification format:
 ```
 🚣 15 New Boat Slots Available! 🚣
-Found at 2025-03-14 23:16:37 (showing 12 of 15)
--------------------------------------------
+
 Friday, 15 March 2025:
-| Time          | Boat Type     | Wave | Wind |
-|---------------|---------------|------|------|
-| 10:00 - 13:00 | נאווה 450     | 🌊  | 🍃  |
-| 13:00 - 16:00 | גולד 470     | 🏝️ | 💨  |
--------------------------------------------
+- 10:00-13:00: נאווה 450 🏝️🍃
+- 13:00-16:00: גולד 470 🏝️💨
+
+Saturday, 16 March 2025:
+- 10:00-12:00: מסטר 570 🌊🌊🌪️
+- 12:00-15:00: נאווה 450
 ```
 
 ## Running with GitHub Actions
