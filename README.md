@@ -145,6 +145,7 @@ The Slack notifications sent by this application are designed for optimal mobile
 - **Visibility Indicators**: 🌫️ (poor visibility), 👁️ (good visibility), 🔭 (excellent visibility)
 - **Moon Phase**: Shown for evening/night slots using standard moon phase emojis (🌑, 🌒, 🌓, etc.)
 - **Direct Booking Links**: Each slot has a clickable link for immediate booking
+- **Streamlined Design**: Focused on individual slot details without redundant general forecasts
 
 Example notification:
 ```

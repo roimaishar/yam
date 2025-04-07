@@ -78,7 +78,24 @@ class SlackNotifier:
                 slots_by_date[date_key] = []
             
             # Format the slot info
-            slot_info = f"{slot.get('time', '')}: {slot.get('service_type', '')}"
+            service_type = slot.get('service_type', '')
+            
+            # Map Hebrew boat names to English if needed
+            hebrew_boat_to_english = {
+                "נאווה 450": "Nava 450",
+                "נאווה": "Nava",
+                "רוני": "Roni",
+                "מסטר 570": "Master 570",
+                "מסטר": "Master",
+                "גולד 470": "Gold 470",
+                "גולד": "Gold"
+            }
+            
+            # Convert boat name to English if possible
+            if service_type in hebrew_boat_to_english:
+                service_type = hebrew_boat_to_english[service_type]
+                
+            slot_info = f"{slot.get('time', '')}: {service_type}"
             
             # Add forecast emoji if available
             forecast_emoji = format_slot_forecast(slot)
@@ -90,12 +107,13 @@ class SlackNotifier:
         # Add slots by date
         notification += "\n\n"
         for date, slot_infos in slots_by_date.items():
-            # Convert Hebrew date to English if needed
+            # Convert Hebrew date format to English completely
             if "," in date:
                 parts = date.split(",", 1)
                 day_name = parts[0].strip()
+                date_part = parts[1].strip()
                 
-                # Map Hebrew day names to English if needed
+                # Map Hebrew day names to English
                 hebrew_day_to_english = {
                     "ראשון": "Sunday",
                     "שני": "Monday",
@@ -106,8 +124,32 @@ class SlackNotifier:
                     "שבת": "Saturday"
                 }
                 
-                if day_name in hebrew_day_to_english:
-                    date = date.replace(day_name, hebrew_day_to_english[day_name])
+                # Map Hebrew month names to English
+                hebrew_month_to_english = {
+                    "ינואר": "January",
+                    "פברואר": "February",
+                    "מרץ": "March",
+                    "אפריל": "April",
+                    "מאי": "May",
+                    "יוני": "June",
+                    "יולי": "July",
+                    "אוגוסט": "August",
+                    "ספטמבר": "September",
+                    "אוקטובר": "October",
+                    "נובמבר": "November",
+                    "דצמבר": "December"
+                }
+                
+                # Convert day name
+                english_day = hebrew_day_to_english.get(day_name, day_name)
+                
+                # Convert month name if present
+                for hebrew_month, english_month in hebrew_month_to_english.items():
+                    if hebrew_month in date_part:
+                        date_part = date_part.replace(hebrew_month, english_month)
+                
+                # Reconstruct the date in English
+                date = f"{english_day}, {date_part}"
             
             notification += f"{date}:\n"
             for slot_info in slot_infos:
@@ -192,13 +234,31 @@ class SlackNotifier:
             
             for slot in date_slots:
                 time = slot.get("time", "Unknown")
-                boat_type = slot.get("service_type", "Unknown")
-                slots_count = slot.get("slots", 1)
+                service_type = slot.get('service_type', '')
+                
+                # Map Hebrew boat names to English if needed
+                hebrew_boat_to_english = {
+                    "נאווה 450": "Nava 450",
+                    "נאווה": "Nava",
+                    "רוני": "Roni",
+                    "מסטר 570": "Master 570",
+                    "מסטר": "Master",
+                    "גולד 470": "Gold 470",
+                    "גולד": "Gold"
+                }
+                
+                # Convert boat name to English if possible
+                if service_type in hebrew_boat_to_english:
+                    service_type = hebrew_boat_to_english[service_type]
+                    
+                boat_type = service_type
                 
                 # Add forecast emoji if available
                 forecast_emoji = format_slot_forecast(slot)
                 if forecast_emoji:
                     boat_type += f" {forecast_emoji}"
+                
+                slots_count = slot.get("slots", 1)
                 
                 if has_multiple_slots:
                     table_text += f"| {time.ljust(13)} | {boat_type.ljust(13)} | {str(slots_count).ljust(5)} |\n"
@@ -218,42 +278,6 @@ class SlackNotifier:
             blocks.append({
                 "type": "divider"
             })
-        
-        # Add forecast general info for Herzliya
-        try:
-            from app.forecasts.swell_forecast import get_simplified_forecast
-            forecast = get_simplified_forecast(days=3)  # Next 3 days
-            
-            if forecast:
-                forecast_text = "*🌊 Herzliya Marina Forecast*\n"
-                
-                for day in forecast:
-                    swell_height = day.get("max_swell_height", 0)
-                    swell_period = day.get("avg_swell_period", 0)
-                    direction = day.get("dominant_swell_direction", "")
-                    
-                    # Get emoji based on wave height
-                    from app.forecasts.swell_forecast import get_swell_emoji
-                    emoji = get_swell_emoji(swell_height)
-                    
-                    date_parts = day.get("display_date", "").split(", ")
-                    short_date = date_parts[1] if len(date_parts) > 1 else date_parts[0]
-                    
-                    forecast_text += f"• {short_date}: {emoji} Swell: {swell_height}m | Period: {swell_period}s | {direction}\n"
-                
-                blocks.append({
-                    "type": "section",
-                    "text": {
-                        "type": "mrkdwn",
-                        "text": forecast_text
-                    }
-                })
-                
-                blocks.append({
-                    "type": "divider"
-                })
-        except Exception as e:
-            print(f"Error adding forecast to notification: {e}")
         
         # Add footer with link
         blocks.append({
