@@ -33,7 +33,7 @@ yam/
 - `cookie_scraper.py`: Core scraping functionality using Playwright
 - `slot_monitor.py`: Monitors for new available slots and sends notifications
 - `slack_notifier.py`: Handles sending notifications to Slack with mobile-friendly format
-- `swell_forecast.py`: Fetches and processes wave height and wind forecast data
+- `swell_forecast.py`: Fetches and processes marine forecast data (waves, wind, UV index, visibility, moon phase)
 - `config.py`: Configuration settings and file paths
 - `main.py`: Command-line interface for running the scraper and monitor
 - `all_slots.json`: Output file containing all scraped calendar slots
@@ -134,49 +134,28 @@ For detailed setup instructions:
 python -m app.main monitor --setup
 ```
 
-#### Mobile-Friendly Notifications
+### Feature: Enhanced Mobile-Friendly Notifications
 
-The system sends mobile-optimized notifications that are readable directly from notification previews:
+The Slack notifications sent by this application are designed for optimal mobile viewing and include comprehensive weather data:
 
+- **Mobile-Optimized Format**: Compact, English-only notifications optimized for mobile devices
+- **Wave Height Indicators**: 🏝️ (calm), 🌊 (moderate), 🌊🌊 (large)
+- **Wind Speed Indicators**: 🍃 (light), 💨 (moderate), 🌪️ (strong)
+- **UV Index**: Shown as a numeric value (e.g., UV7)
+- **Visibility Indicators**: 🌫️ (poor visibility), 👁️ (good visibility), 🔭 (excellent visibility)
+- **Moon Phase**: Shown for evening/night slots using standard moon phase emojis (🌑, 🌒, 🌓, etc.)
+- **Direct Booking Links**: Each slot has a clickable link for immediate booking
+
+Example notification:
 ```
-🚣 15 New Boat Slots Available! 🚣
+🚣 2 New Boat Slots Available! 🚣
 
-Friday, 15 March 2025:
-- 10:00-13:00: נאווה 450 🏝️🍃
-- 13:00-16:00: גולד 470 🏝️💨
-
-Saturday, 16 March 2025:
-- 10:00-12:00: מסטר 570 🌊🌊🌪️
-- 12:00-15:00: נאווה 450
+Monday, 7 April 2025:
+- 10:00 - 13:00: Nava 450 UV7🏝️🌪️🌫️
+- 20:00 - 23:00: Roni UV7🏝️🌪️🌫️🌓
 ```
 
-Features:
-- **Wave and Wind Indicators**: Automatically fetched marine forecasts with emoji indicators:
-  - Wave height: 🏝️ (calm, ≤0.4m), 🌊 (moderate, 0.5-1.2m), 🌊🌊 (large, >1.2m)
-  - Wind speed: 🍃 (light, <5 knots), 💨 (moderate, 5-14 knots), 🌪️ (strong, >14 knots)
-- **Grouping by Date**: Slots are organized by date for easier scanning
-- **Concise Format**: Optimized for mobile notification previews without timestamp clutter
-- **Direct Links**: Each slot has a direct booking link (in Slack)
-- **Total Count**: Always shows the total number of available slots, even when limiting display
-
-To set up Slack notifications:
-
-1. Create a Slack app and webhook URL in your workspace
-2. Add the webhook URL to your .env file as `SLACK_WEBHOOK_URL`
-3. For GitHub Actions, add the webhook URL as a repository secret
-
-Example notification format:
-```
-🚣 15 New Boat Slots Available! 🚣
-
-Friday, 15 March 2025:
-- 10:00-13:00: נאווה 450 🏝️🍃
-- 13:00-16:00: גולד 470 🏝️💨
-
-Saturday, 16 March 2025:
-- 10:00-12:00: מסטר 570 🌊🌊🌪️
-- 12:00-15:00: נאווה 450
-```
+For detailed information about marine weather features, see the [Forecasts Documentation](app/forecasts/README.md).
 
 ## Running with GitHub Actions
 
