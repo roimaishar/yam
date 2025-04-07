@@ -77,19 +77,32 @@ def process_combined_forecast(marine_data, weather_data):
     if not weather_data or "hourly" not in weather_data:
         print("Warning: Weather data unavailable, proceeding with marine data only")
     
-    # Combine by date
-    result = {
-        "metadata": {
-            "latitude": marine_data.get("latitude"),
-            "longitude": marine_data.get("longitude"),
-            "timezone": marine_data.get("timezone"),
-            "generated_at": datetime.now().isoformat(),
-            "source": "Open-Meteo API"
-        },
-        "daily": process_daily_data(marine_data, weather_data)
-    }
-    
-    return result
+    try:
+        # Combine by date
+        result = {
+            "metadata": {
+                "latitude": marine_data.get("latitude"),
+                "longitude": marine_data.get("longitude"),
+                "timezone": marine_data.get("timezone"),
+                "generated_at": datetime.now().isoformat(),
+                "source": "Open-Meteo API"
+            },
+            "daily": process_daily_data(marine_data, weather_data)
+        }
+        return result
+    except Exception as e:
+        print(f"Error processing forecast data: {e}")
+        # Return minimal data to prevent complete failure
+        return {
+            "metadata": {
+                "latitude": marine_data.get("latitude", 0),
+                "longitude": marine_data.get("longitude", 0),
+                "timezone": marine_data.get("timezone", "UTC"),
+                "generated_at": datetime.now().isoformat(),
+                "source": "Open-Meteo API (partial data)"
+            },
+            "daily": {}  # Empty daily data as fallback
+        }
 
 def process_daily_data(marine_data, weather_data=None):
     """Process the data into daily summaries"""
@@ -138,10 +151,17 @@ def process_daily_data(marine_data, weather_data=None):
             try:
                 # Convert wind speed from m/s to knots (1 m/s ≈ 1.94384 knots)
                 wind_speed_ms = weather_data["hourly"]["wind_speed_10m"][i]
-                wind_speed_knots = wind_speed_ms * 1.94384
-                date_data[date_str]["wind_speeds"].append(wind_speed_knots)
+                if wind_speed_ms is not None:  # Check for None values
+                    wind_speed_knots = wind_speed_ms * 1.94384
+                    date_data[date_str]["wind_speeds"].append(wind_speed_knots)
+                else:
+                    date_data[date_str]["wind_speeds"].append(0.0)  # Use 0 as fallback
                 
-                date_data[date_str]["wind_directions"].append(weather_data["hourly"]["wind_direction_10m"][i])
+                wind_direction = weather_data["hourly"]["wind_direction_10m"][i]
+                if wind_direction is not None:  # Check for None values
+                    date_data[date_str]["wind_directions"].append(wind_direction)
+                else:
+                    date_data[date_str]["wind_directions"].append(0.0)  # Use North as fallback
             except (IndexError, KeyError) as e:
                 print(f"Warning: Missing weather data for {time_str}: {e}")
     
@@ -314,8 +334,8 @@ def get_forecast_for_slot(slot):
     # Extract date from slot
     slot_date = slot.get("date", "")
     
-    # Try to parse Hebrew date format (e.g., "שישי, 12 אפריל 2025")
     try:
+        # Try to parse Hebrew date format (e.g., "שישי, 12 אפריל 2025")
         # Handle Hebrew month names
         hebrew_month_names = {
             "ינואר": "January",
@@ -353,43 +373,52 @@ def get_forecast_for_slot(slot):
                 date_obj = datetime.strptime(f"{day_num} {month_name} {year}", "%d %B %Y")
                 date_str = date_obj.strftime("%Y-%m-%d")
                 
-                return get_forecast_for_date(date_str)
+                forecast = get_forecast_for_date(date_str)
+                if forecast:
+                    return forecast
     except Exception as e:
         print(f"Error parsing slot date: {e}")
     
     # If we couldn't parse the date, try to get today's forecast
-    today = datetime.now().strftime("%Y-%m-%d")
-    return get_forecast_for_date(today)
+    try:
+        today = datetime.now().strftime("%Y-%m-%d")
+        return get_forecast_for_date(today)
+    except Exception as e:
+        print(f"Error getting today's forecast: {e}")
+        # Return a minimal fallback forecast to prevent UI issues
+        return {
+            "date": datetime.now().strftime("%Y-%m-%d"),
+            "display_date": datetime.now().strftime("%A, %d %B %Y"),
+            "max_wave_height": 0.0,
+            "avg_wave_period": 0.0,
+            "max_swell_height": 0.0,
+            "avg_swell_period": 0.0,
+            "dominant_wave_direction": "N",
+            "dominant_swell_direction": "N"
+        }
 
 def format_slot_forecast(slot):
     """Format forecast data for a slot in a compact way"""
-    forecast = get_forecast_for_slot(slot)
-    
-    if not forecast:
-        return "No forecast available"
-    
-    # Swell information
-    swell_height = round(forecast.get("max_swell_height", 0), 1)
-    swell_emoji = get_swell_emoji(swell_height)
-    
-    # Wind information if available
-    if "max_wind_speed_knots" in forecast:
-        wind_speed = round(forecast.get("max_wind_speed_knots", 0), 1)
-        wind_emoji = get_wind_emoji(wind_speed)
-        return f"{swell_emoji}{wind_emoji}"
-    
-    return f"{swell_emoji}"
-
-def format_wind_forecast(forecast):
-    """Format wind forecast data in a compact way"""
-    if not forecast or "max_wind_speed_knots" not in forecast:
-        return "Wind data unavailable"
-    
-    wind_speed = round(forecast.get("max_wind_speed_knots", 0), 1)
-    wind_direction = forecast.get("dominant_wind_direction", "")
-    wind_emoji = get_wind_emoji(wind_speed)
-    
-    return f"{wind_emoji} {wind_speed}kt | {wind_direction}"
+    try:
+        forecast = get_forecast_for_slot(slot)
+        
+        if not forecast:
+            return ""  # Empty string for no forecast
+        
+        # Swell information
+        swell_height = round(forecast.get("max_swell_height", 0), 1)
+        swell_emoji = get_swell_emoji(swell_height)
+        
+        # Wind information if available
+        if "max_wind_speed_knots" in forecast:
+            wind_speed = round(forecast.get("max_wind_speed_knots", 0), 1)
+            wind_emoji = get_wind_emoji(wind_speed)
+            return f"{swell_emoji}{wind_emoji}"
+        
+        return f"{swell_emoji}"
+    except Exception as e:
+        print(f"Error formatting slot forecast: {e}")
+        return ""  # Return empty string on error
 
 if __name__ == "__main__":
     # Test the function when run directly
