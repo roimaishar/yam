@@ -454,13 +454,6 @@
     "service_type": "ליאור",
     "is_available": true
   },
-  "חמישי, 10 אפריל 2025_23": {
-    "date": "חמישי, 10 אפריל 2025",
-    "event_id": "23",
-    "time": "17:00 - 19:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
   "שישי, 11 אפריל 2025_44": {
     "date": "שישי, 11 אפריל 2025",
     "event_id": "44",
@@ -1438,13 +1431,6 @@
     "date": "שישי, 18 אפריל 2025",
     "event_id": "6",
     "time": "08:00 - 10:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  "שישי, 18 אפריל 2025_8": {
-    "date": "שישי, 18 אפריל 2025",
-    "event_id": "8",
-    "time": "12:00 - 14:00",
     "service_type": "נאווה",
     "is_available": true
   },
