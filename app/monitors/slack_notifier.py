@@ -1,7 +1,6 @@
 import requests
 from typing import List, Dict, Any
-from datetime import datetime
-from app.utils.boat_categories import group_slots_by_category, get_webhook_for_category, get_boat_category
+from app.utils.boat_categories import group_slots_by_category, get_webhook_for_category
 
 class SlackNotifier:
     def __init__(self, webhook_url: str = None, category_webhooks: Dict[str, str] = None):
@@ -59,162 +58,62 @@ class SlackNotifier:
         return True
     
     def _format_mobile_notification(self, slots: List[Dict[str, Any]]) -> str:
-        # Hebrew to English mapping for boat names
-        hebrew_to_english = {
-            "אסתר": "Esther",
-            "ושתי": "Vashti",
-            "כרמן החדשה": "Carmen",
-            "ליאור": "Lior",
-            "מישל": "Michel",
-            "נאווה": "Naava",
-            "קרפה": "Carpe",
-            "רוני": "Roni",
-            "רונית": "Ronit",
-            "הרמוני": "Harmony",
-            "קטמנדו": "Katmandu"
-        }
-        
-        # Day name translations and abbreviations
-        hebrew_day_to_english = {
-            "ראשון": "Sun",
-            "שני": "Mon",
-            "שלישי": "Tue",
-            "רביעי": "Wed",
-            "חמישי": "Thu",
-            "שישי": "Fri",
-            "שבת": "Sat"
-        }
-        
-        # Organize slots by date, boat type and category
-        dates = {}
-        categories = {
-            "katamaran": {"emoji": "⛵", "name": "Kat", "boats": {}},
-            "monohull": {"emoji": "⚓", "name": "Mono", "boats": {}}
-        }
-        
-        # Get swell forecasts for all dates in the slots
-        from app.forecasts.swell_forecast import get_swell_emoji, get_forecast_for_slot
-        
-        # Group slots by date for swell info
-        dates_with_swell = {}
-        for slot in slots:
-            date_key = slot.get("date", "Unknown")
-            if date_key not in dates_with_swell:
-                forecast = get_forecast_for_slot(slot)
-                if forecast:
-                    swell_height = round(forecast.get("max_swell_height", 0), 1)
-                    dates_with_swell[date_key] = get_swell_emoji(swell_height) + f" {swell_height}m"
-        
-        # Group slots by date, boat, and category
-        for slot in slots:
-            # Parse date
-            date_str = slot.get("date", "")
-            day_name = date_str.split(",")[0].strip() if "," in date_str else date_str
-            day_date = date_str.split(",")[1].strip() if "," in date_str else ""
-            
-            # Extract day and month
-            day_num = ""
-            month_num = ""
-            if day_date:
-                parts = day_date.split()
-                if len(parts) >= 2:
-                    day_num = parts[0]
-                    month_map = {"ינואר": "1", "פברואר": "2", "מרץ": "3", "אפריל": "4", "מאי": "5", "יוני": "6",
-                                "יולי": "7", "אוגוסט": "8", "ספטמבר": "9", "אוקטובר": "10", "נובמבר": "11", "דצמבר": "12"}
-                    month_num = month_map.get(parts[1], "")
-            
-            # Get English day name
-            eng_day = hebrew_day_to_english.get(day_name, day_name)
-            
-            # Format date as "Day(D/M)"
-            date_key = f"{eng_day}({day_num}/{month_num})" if day_num and month_num else eng_day
-            if date_key not in dates:
-                dates[date_key] = True
-            
-            # Process boat information
-            boat_name = slot.get("service_type", "").split()[0] if slot.get("service_type") else "Unknown"
-            english_name = hebrew_to_english.get(boat_name, boat_name)
-            category = get_boat_category(boat_name)
-            
-            if category not in categories:
-                continue
-                
-            time_slot = slot.get("time", "").split(" - ")
-            start_time = time_slot[0]
-            end_time = time_slot[1] if len(time_slot) > 1 else ""
-            
-            # Format times to be shorter (10:00 -> 10)
-            start_short = start_time.split(":")[0]
-            end_short = end_time.split(":")[0] if end_time else ""
-            
-            # Create boat key with date info
-            boat_key = f"{english_name}"
-            if boat_key not in categories[category]["boats"]:
-                categories[category]["boats"][boat_key] = {}
-            
-            if eng_day not in categories[category]["boats"][boat_key]:
-                categories[category]["boats"][boat_key][eng_day] = []
-                
-            categories[category]["boats"][boat_key][eng_day].append((start_short, end_short))
-        
         # Format the notification
         total_slots = len(slots)
-        notification = f"🔔 {total_slots} New Slots! "
+        notification = f"🚣 {total_slots} New Boat Slots Available! 🚣"
         
-        # Add dates summary with swell info
-        if dates:
-            notification += "📅 "
-            date_parts = []
-            for date_key in dates.keys():
-                date_text = date_key
-                if date_key.split("(")[0] in dates_with_swell:
-                    date_text += f" {dates_with_swell[date_key.split('(')[0]]}"
-                date_parts.append(date_text)
-            notification += ", ".join(date_parts) + " "
+        # Show message about limiting displayed slots if needed
+        shown_slots = min(len(slots), 12)  # Show up to 12 slots
+        if len(slots) > shown_slots:
+            notification += f" (showing {shown_slots} of {len(slots)})"
         
-        # Add each category with its boats
-        for cat_key, cat_data in categories.items():
-            if not cat_data["boats"]:
-                continue
-                
-            notification += f"{cat_data['emoji']} {cat_data['name']}: "
+        # Group slots by date for cleaner presentation
+        slots_by_date = {}
+        
+        from app.forecasts.swell_forecast import format_slot_forecast
+        
+        for slot in slots[:shown_slots]:  # Only process slots we'll show
+            date_key = slot.get("date", "Unknown")
+            if date_key not in slots_by_date:
+                slots_by_date[date_key] = []
             
-            # Add each boat with merged time slots by day
-            boat_texts = []
-            for boat_name, days in cat_data["boats"].items():
-                day_texts = []
-                
-                for day, time_slots in days.items():
-                    # Sort time slots by start time
-                    time_slots.sort(key=lambda x: x[0])
-                    
-                    # Merge consecutive slots
-                    merged_slots = []
-                    current_range = None
-                    
-                    for start, end in time_slots:
-                        if not current_range:
-                            current_range = [start, end]
-                        elif start == current_range[1]:
-                            # This slot starts right after the previous one ends
-                            current_range[1] = end
-                        else:
-                            # This is a new non-consecutive slot
-                            merged_slots.append(f"{current_range[0]}-{current_range[1]}")
-                            current_range = [start, end]
-                    
-                    if current_range:
-                        merged_slots.append(f"{current_range[0]}-{current_range[1]}")
-                    
-                    # Format as "Day time1,time2"
-                    day_text = f"{day} {','.join(merged_slots)}"
-                    day_texts.append(day_text)
-                
-                # Format as "BoatName(day1 slot1,slot2; day2 slot1,slot2)"
-                boat_text = f"{boat_name}({' '.join(day_texts)})"
-                boat_texts.append(boat_text)
+            # Format the slot info
+            slot_info = f"{slot.get('time', '')}: {slot.get('service_type', '')}"
             
-            notification += ", ".join(boat_texts) + " "
+            # Add forecast emoji if available
+            forecast_emoji = format_slot_forecast(slot)
+            if forecast_emoji:
+                slot_info += f" {forecast_emoji}"
+                
+            slots_by_date[date_key].append(slot_info)
+        
+        # Add slots by date
+        notification += "\n\n"
+        for date, slot_infos in slots_by_date.items():
+            # Convert Hebrew date to English if needed
+            if "," in date:
+                parts = date.split(",", 1)
+                day_name = parts[0].strip()
+                
+                # Map Hebrew day names to English if needed
+                hebrew_day_to_english = {
+                    "ראשון": "Sunday",
+                    "שני": "Monday",
+                    "שלישי": "Tuesday",
+                    "רביעי": "Wednesday",
+                    "חמישי": "Thursday",
+                    "שישי": "Friday",
+                    "שבת": "Saturday"
+                }
+                
+                if day_name in hebrew_day_to_english:
+                    date = date.replace(day_name, hebrew_day_to_english[day_name])
+            
+            notification += f"{date}:\n"
+            for slot_info in slot_infos:
+                notification += f"- {slot_info}\n"
+            
+            notification += "\n"
         
         return notification.strip()
     
@@ -222,8 +121,6 @@ class SlackNotifier:
         if not webhook_url:
             print(f"Slack notification not sent (webhook URL not configured): {len(slots)} new slots")
             return False
-        
-        now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
         
         # Limit total slots to 12
         total_slots = len(slots)
@@ -246,7 +143,7 @@ class SlackNotifier:
                 "elements": [
                     {
                         "type": "plain_text",
-                        "text": f"Found at {now}" + (f" (showing 12 of {total_slots})" if total_slots > 12 else ""),
+                        "text": f"(showing 12 of {total_slots})" if total_slots > 12 else " ",
                         "emoji": True
                     }
                 ]
@@ -297,6 +194,11 @@ class SlackNotifier:
                 time = slot.get("time", "Unknown")
                 boat_type = slot.get("service_type", "Unknown")
                 slots_count = slot.get("slots", 1)
+                
+                # Add forecast emoji if available
+                forecast_emoji = format_slot_forecast(slot)
+                if forecast_emoji:
+                    boat_type += f" {forecast_emoji}"
                 
                 if has_multiple_slots:
                     table_text += f"| {time.ljust(13)} | {boat_type.ljust(13)} | {str(slots_count).ljust(5)} |\n"
