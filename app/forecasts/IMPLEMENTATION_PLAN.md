@@ -57,7 +57,33 @@
    - Examples: `🏝️🍃` (calm sea, light wind), `🌊🌪️` (moderate waves, strong wind)
    - Ensure the data is relevant to the slot's date and time
 
-### Phase 3: Wave-based Slot Filtering
+### Phase 3: Extended Weather Features (Complete)
+1. **UV Index Integration**:
+   - Added UV index data to forecasts using Open-Meteo API
+   - Included daily maximum UV index in forecast data
+   - Added numeric UV index representation (UV0-UV11+) before weather emojis
+   - Updated the API URL to include `uv_index` in hourly parameters and `uv_index_max` in daily parameters
+
+2. **Visibility Integration**:
+   - Added visibility data from Open-Meteo API (measured in meters)
+   - Created emoji indicators for visibility conditions:
+     - 🌫️ Poor visibility (< 2km) - Challenging navigation conditions
+     - 👁️ Good visibility (2-10km) - Adequate for navigation
+     - 🔭 Excellent visibility (> 10km) - Clear conditions
+   - Processed hourly data to get minimum visibility per slot
+
+3. **Moon Phase Integration**:
+   - Implemented calculation-based moon phase determination without external API
+   - Added moon phase emoji indicators (🌑, 🌒, 🌓, 🌔, 🌕, 🌖, 🌗, 🌘)
+   - Show moon phase only for evening/night slots (after 18:00 or before 06:00)
+   - Used a reference new moon date (2000-01-06) for calculations
+
+4. **Notification Format Updates**:
+   - Combined all weather indicators in a compact format with no spaces
+   - Order: UV Index → Wave → Wind → Visibility → Moon Phase
+   - Example: `UV7🏝️🌪️🌫️🌓` (UV index 7, calm waves, strong wind, poor visibility, first quarter moon)
+
+### Phase 4: Wave-based Slot Filtering
 1. Modify `filter_slots.py` to support wave condition filtering:
    - Add "max_wave_height" parameter to filter slots
    - Example: Only show slots on days with waves under 1m
@@ -67,21 +93,11 @@
    - Add `--max-wave-height` to filter slots by wave height
    - Example: `python -m app.main monitor --max-wave-height 1.0`
 
-### Phase 4: User Experience Improvements
-1. Documentation updates:
-   - Add wave forecast feature to README.md
-   - Document command-line options for wave conditions
-   - Add typical wave conditions for Tel Aviv area
-
-2. Optional enhancements:
-   - Add separate webhook for high-wave alerts
-   - Create a dedicated command to show just the wave forecast
-
 ## Implementation Sequence
 
 1. **Implementation Priority**:
-   - Phase 3 (Wave-based Filtering): Higher priority for immediate value
-   - Phase 4 (User Experience): Secondary for additional user control
+   - Phase 4 (User Experience): Higher priority for immediate value
+   - Phase 3 (Wave-based Filtering): Secondary for additional user control
 
 2. **Core Files to Modify**:
    - `app/utils/filter_slots.py`: Add wave-based filtering
@@ -131,5 +147,4 @@ Where:
 
 ## Next Steps (Implementation Order)
 
-1. Add wave-based filtering options (Phase 3)
-2. Document new features (Phase 4)
+1. Document new features (Phase 4)

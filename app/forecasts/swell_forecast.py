@@ -12,6 +12,10 @@ FORECAST_CACHE_DURATION = 6  # Hours before refreshing forecast
 DEFAULT_LATITUDE = 32.1640
 DEFAULT_LONGITUDE = 34.7914
 
+# Moon phase reference date (known new moon)
+REFERENCE_NEW_MOON = datetime(2000, 1, 6).date()
+LUNAR_CYCLE_DAYS = 29.53  # Length of synodic month
+
 def get_swell_forecast(days=7, latitude=DEFAULT_LATITUDE, longitude=DEFAULT_LONGITUDE):
     """
     Get marine forecast (waves and wind) for the specified number of days
@@ -32,11 +36,12 @@ def get_swell_forecast(days=7, latitude=DEFAULT_LATITUDE, longitude=DEFAULT_LONG
         f"&forecast_days={days}"
     )
     
-    # Construct URL for weather data (wind)
+    # Construct URL for weather data (wind, UV, visibility)
     weather_url = (
         f"https://api.open-meteo.com/v1/forecast?"
         f"latitude={latitude}&longitude={longitude}"
-        f"&hourly=wind_speed_10m,wind_direction_10m"
+        f"&hourly=wind_speed_10m,wind_direction_10m,uv_index,visibility,is_day"
+        f"&daily=sunrise,sunset,uv_index_max"
         f"&timezone=Asia/Jerusalem"
         f"&forecast_days={days}"
     )
@@ -70,133 +75,151 @@ def get_swell_forecast(days=7, latitude=DEFAULT_LATITUDE, longitude=DEFAULT_LONG
         return None
 
 def process_combined_forecast(marine_data, weather_data):
-    """Process and combine marine and weather data"""
-    if not marine_data or "hourly" not in marine_data:
-        return None
+    """Process the combined marine and weather data into a simplified daily summary"""
+    # Initialize date mapping for data
+    date_data_map = {}
     
-    if not weather_data or "hourly" not in weather_data:
-        print("Warning: Weather data unavailable, proceeding with marine data only")
-    
-    try:
-        # Combine by date
-        result = {
-            "metadata": {
-                "latitude": marine_data.get("latitude"),
-                "longitude": marine_data.get("longitude"),
-                "timezone": marine_data.get("timezone"),
-                "generated_at": datetime.now().isoformat(),
-                "source": "Open-Meteo API"
-            },
-            "daily": process_daily_data(marine_data, weather_data)
-        }
-        return result
-    except Exception as e:
-        print(f"Error processing forecast data: {e}")
-        # Return minimal data to prevent complete failure
-        return {
-            "metadata": {
-                "latitude": marine_data.get("latitude", 0),
-                "longitude": marine_data.get("longitude", 0),
-                "timezone": marine_data.get("timezone", "UTC"),
-                "generated_at": datetime.now().isoformat(),
-                "source": "Open-Meteo API (partial data)"
-            },
-            "daily": {}  # Empty daily data as fallback
-        }
-
-def process_daily_data(marine_data, weather_data=None):
-    """Process the data into daily summaries"""
-    daily_forecasts = {}
-    
-    # Get time data from marine API
-    times = marine_data["hourly"]["time"]
-    
-    # Prepare dictionaries to hold data by date
-    date_data = {}
-    
-    # Process each hourly data point
-    for i, time_str in enumerate(times):
-        # Parse date
-        time_obj = datetime.fromisoformat(time_str.replace("Z", "+00:00"))
-        date_str = time_obj.strftime("%Y-%m-%d")
+    # Extract daily data
+    daily_data = {}
+    if "daily" in weather_data:
+        daily_time = weather_data["daily"].get("time", [])
+        daily_uv_max = weather_data["daily"].get("uv_index_max", [])
+        daily_sunrise = weather_data["daily"].get("sunrise", [])
+        daily_sunset = weather_data["daily"].get("sunset", [])
         
-        # Create date entry if not exists
-        if date_str not in date_data:
-            date_data[date_str] = {
-                "date": date_str,
-                "display_date": time_obj.strftime("%A, %d %B %Y"),
-                "wave_heights": [],
-                "wave_directions": [],
-                "wave_periods": [],
-                "swell_heights": [],
-                "swell_directions": [],
-                "swell_periods": [],
-                "wind_speeds": [],
-                "wind_directions": []
-            }
+        for i in range(len(daily_time)):
+            if i < len(daily_time):
+                date_str = daily_time[i]
+                daily_data[date_str] = {
+                    "uv_index_max": daily_uv_max[i] if i < len(daily_uv_max) else None,
+                    "sunrise": daily_sunrise[i] if i < len(daily_sunrise) else None,
+                    "sunset": daily_sunset[i] if i < len(daily_sunset) else None
+                }
+    
+    # Process marine hourly data first
+    if "hourly" in marine_data:
+        hourly_time = marine_data["hourly"].get("time", [])
         
-        # Add marine data
-        try:
-            date_data[date_str]["wave_heights"].append(marine_data["hourly"]["wave_height"][i])
-            date_data[date_str]["wave_directions"].append(marine_data["hourly"]["wave_direction"][i])
-            date_data[date_str]["wave_periods"].append(marine_data["hourly"]["wave_period"][i])
-            date_data[date_str]["swell_heights"].append(marine_data["hourly"]["swell_wave_height"][i])
-            date_data[date_str]["swell_directions"].append(marine_data["hourly"]["swell_wave_direction"][i])
-            date_data[date_str]["swell_periods"].append(marine_data["hourly"]["swell_wave_period"][i])
-        except (IndexError, KeyError) as e:
-            print(f"Warning: Missing marine data for {time_str}: {e}")
-        
-        # Add weather data
-        if weather_data and "hourly" in weather_data and i < len(weather_data["hourly"]["time"]):
-            try:
-                # Convert wind speed from m/s to knots (1 m/s ≈ 1.94384 knots)
-                wind_speed_ms = weather_data["hourly"]["wind_speed_10m"][i]
-                if wind_speed_ms is not None:  # Check for None values
-                    wind_speed_knots = wind_speed_ms * 1.94384
-                    date_data[date_str]["wind_speeds"].append(wind_speed_knots)
-                else:
-                    date_data[date_str]["wind_speeds"].append(0.0)  # Use 0 as fallback
+        # Initialize each unique date with default values
+        for time_str in hourly_time:
+            # Extract date part from ISO timestamp
+            date_str = time_str.split("T")[0]
+            
+            if date_str not in date_data_map:
+                # Display date in a readable format
+                try:
+                    date_obj = datetime.strptime(date_str, "%Y-%m-%d")
+                    display_date = date_obj.strftime("%A, %d %B %Y")
+                except ValueError:
+                    display_date = date_str
                 
-                wind_direction = weather_data["hourly"]["wind_direction_10m"][i]
-                if wind_direction is not None:  # Check for None values
-                    date_data[date_str]["wind_directions"].append(wind_direction)
-                else:
-                    date_data[date_str]["wind_directions"].append(0.0)  # Use North as fallback
-            except (IndexError, KeyError) as e:
-                print(f"Warning: Missing weather data for {time_str}: {e}")
+                # Calculate moon phase for this date
+                date_obj = datetime.strptime(date_str, "%Y-%m-%d").date()
+                moon_emoji, moon_phase = calculate_moon_phase(date_obj)
+                
+                date_data_map[date_str] = {
+                    "date": date_str,
+                    "display_date": display_date,
+                    "max_wave_height": 0.0,
+                    "max_swell_height": 0.0,
+                    "avg_wave_period": 0.0,
+                    "avg_swell_period": 0.0,
+                    "dominant_wave_direction": None,
+                    "dominant_swell_direction": None,
+                    "max_wind_speed_knots": 0.0,
+                    "avg_wind_speed_knots": 0.0,
+                    "dominant_wind_direction": None,
+                    "max_uv_index": daily_data.get(date_str, {}).get("uv_index_max", None),
+                    "min_visibility": 20000,  # Default to good visibility
+                    "moon_emoji": moon_emoji,
+                    "moon_phase": moon_phase,
+                    "sunrise": daily_data.get(date_str, {}).get("sunrise", None),
+                    "sunset": daily_data.get(date_str, {}).get("sunset", None)
+                }
+    
+    # Process weather hourly data
+    if "hourly" in weather_data:
+        hourly_time = weather_data["hourly"].get("time", [])
+        hourly_wind_speed = weather_data["hourly"].get("wind_speed_10m", [])
+        hourly_wind_direction = weather_data["hourly"].get("wind_direction_10m", [])
+        hourly_uv_index = weather_data["hourly"].get("uv_index", [])
+        hourly_visibility = weather_data["hourly"].get("visibility", [])
+        
+        # Process the hourly data by date
+        date_indices_map = {}
+        
+        for i, time_str in enumerate(hourly_time):
+            date_str = time_str.split("T")[0]
+            
+            if date_str not in date_indices_map:
+                date_indices_map[date_str] = []
+            
+            date_indices_map[date_str].append(i)
+        
+        # Calculate the aggregated values for each date
+        for date_str, indices in date_indices_map.items():
+            if date_str in date_data_map:
+                # Wind data
+                date_wind_speeds = [hourly_wind_speed[i] for i in indices if i < len(hourly_wind_speed)]
+                date_wind_directions = [hourly_wind_direction[i] for i in indices if i < len(hourly_wind_direction)]
+                
+                # Convert m/s to knots (1 m/s ≈ 1.94384 knots)
+                knots_conversion = 1.94384
+                date_wind_speeds_knots = [speed * knots_conversion for speed in date_wind_speeds]
+                
+                if date_wind_speeds_knots:
+                    date_data_map[date_str]["max_wind_speed_knots"] = max(date_wind_speeds_knots)
+                    date_data_map[date_str]["avg_wind_speed_knots"] = sum(date_wind_speeds_knots) / len(date_wind_speeds_knots)
+                
+                if date_wind_directions:
+                    date_data_map[date_str]["dominant_wind_direction"] = get_dominant_direction(date_wind_directions)
+                
+                # UV index data (use hourly only if daily max isn't available)
+                if date_data_map[date_str]["max_uv_index"] is None and hourly_uv_index:
+                    date_uv_indices = [hourly_uv_index[i] for i in indices if i < len(hourly_uv_index)]
+                    if date_uv_indices:
+                        date_data_map[date_str]["max_uv_index"] = max(date_uv_indices)
+                
+                # Visibility data
+                date_visibility = [hourly_visibility[i] for i in indices if i < len(hourly_visibility)]
+                if date_visibility:
+                    date_data_map[date_str]["min_visibility"] = min(date_visibility)
     
     # Calculate daily summaries
-    for date_str, data in date_data.items():
+    daily_forecasts = {}
+    for date_str, data in date_data_map.items():
         daily_summary = {
             "date": data["date"],
-            "display_date": data["display_date"]
+            "display_date": data["display_date"],
+            "max_wave_height": data["max_wave_height"],
+            "max_swell_height": data["max_swell_height"],
+            "avg_wave_period": data["avg_wave_period"],
+            "avg_swell_period": data["avg_swell_period"],
+            "dominant_wave_direction": data["dominant_wave_direction"],
+            "dominant_swell_direction": data["dominant_swell_direction"],
+            "max_wind_speed_knots": data["max_wind_speed_knots"],
+            "avg_wind_speed_knots": data["avg_wind_speed_knots"],
+            "dominant_wind_direction": data["dominant_wind_direction"],
+            "max_uv_index": data["max_uv_index"],
+            "min_visibility": data["min_visibility"],
+            "moon_emoji": data["moon_emoji"],
+            "moon_phase": data["moon_phase"],
+            "sunrise": data["sunrise"],
+            "sunset": data["sunset"]
         }
-        
-        # Calculate max and average values for marine data
-        if data["wave_heights"]:
-            daily_summary["max_wave_height"] = max(data["wave_heights"])
-            daily_summary["avg_wave_period"] = sum(data["wave_periods"]) / len(data["wave_periods"])
-        
-        if data["swell_heights"]:
-            daily_summary["max_swell_height"] = max(data["swell_heights"])
-            daily_summary["avg_swell_period"] = sum(data["swell_periods"]) / len(data["swell_periods"])
-        
-        # Calculate dominant directions
-        if data["wave_directions"]:
-            daily_summary["dominant_wave_direction"] = get_dominant_direction(data["wave_directions"])
-        
-        if data["swell_directions"]:
-            daily_summary["dominant_swell_direction"] = get_dominant_direction(data["swell_directions"])
-        
-        # Calculate wind data
-        if data["wind_speeds"]:
-            daily_summary["max_wind_speed_knots"] = max(data["wind_speeds"])
-            daily_summary["avg_wind_speed_knots"] = sum(data["wind_speeds"]) / len(data["wind_speeds"])
-            daily_summary["dominant_wind_direction"] = get_dominant_direction(data["wind_directions"])
         
         daily_forecasts[date_str] = daily_summary
     
-    return daily_forecasts
+    return {
+        "metadata": {
+            "latitude": marine_data.get("latitude"),
+            "longitude": marine_data.get("longitude"),
+            "timezone": marine_data.get("timezone"),
+            "generated_at": datetime.now().isoformat(),
+            "source": "Open-Meteo API"
+        },
+        "daily": daily_forecasts
+    }
 
 def get_dominant_direction(directions):
     """Find the most common direction"""
@@ -219,6 +242,47 @@ def direction_to_cardinal(degrees):
                   "S", "SSW", "SW", "WSW", "W", "WNW", "NW", "NNW"]
     index = round(degrees / 22.5) % 16
     return directions[index]
+
+def calculate_moon_phase(date):
+    """Calculate approximate moon phase based on date"""
+    # Days since reference new moon
+    days_since = (date - REFERENCE_NEW_MOON).days
+    
+    # Position in cycle (0 to 1)
+    position = (days_since % LUNAR_CYCLE_DAYS) / LUNAR_CYCLE_DAYS
+    
+    # Return emoji and phase
+    if position < 0.125:
+        return "🌑", "New Moon"
+    elif position < 0.25:
+        return "🌒", "Waxing Crescent"
+    elif position < 0.375:
+        return "🌓", "First Quarter"
+    elif position < 0.5:
+        return "🌔", "Waxing Gibbous"
+    elif position < 0.625:
+        return "🌕", "Full Moon"
+    elif position < 0.75:
+        return "🌖", "Waning Gibbous"
+    elif position < 0.875:
+        return "🌗", "Last Quarter"
+    else:
+        return "🌘", "Waning Crescent"
+
+def get_visibility_emoji(visibility_meters):
+    """Return visibility emoji based on meters of visibility"""
+    if visibility_meters < 2000:
+        return "🌫️"  # Poor visibility
+    elif visibility_meters < 10000:
+        return "👁️"  # Good visibility
+    else:
+        return "🔭"  # Excellent visibility
+
+def format_uv_index(uv_index):
+    """Format UV index for display"""
+    if uv_index is not None:
+        return f"UV{int(uv_index)}"
+    return ""
 
 def should_use_cached_forecast():
     """Check if we should use the cached forecast"""
@@ -282,6 +346,19 @@ def get_simplified_forecast(days=7):
             simple_data["max_wind_speed_knots"] = round(data["max_wind_speed_knots"], 1)
             simple_data["avg_wind_speed_knots"] = round(data.get("avg_wind_speed_knots", 0), 1)
             simple_data["dominant_wind_direction"] = data.get("dominant_wind_direction")
+        
+        # Add UV index if available
+        if "max_uv_index" in data:
+            simple_data["max_uv_index"] = data["max_uv_index"]
+        
+        # Add visibility if available
+        if "min_visibility" in data:
+            simple_data["min_visibility"] = data["min_visibility"]
+        
+        # Add moon phase if available
+        if "moon_emoji" in data:
+            simple_data["moon_emoji"] = data["moon_emoji"]
+            simple_data["moon_phase"] = data["moon_phase"]
         
         simplified.append(simple_data)
     
@@ -405,17 +482,46 @@ def format_slot_forecast(slot):
         if not forecast:
             return ""  # Empty string for no forecast
         
+        # Get time of day for this slot to determine if we show moon phase
+        is_evening = False
+        if "time" in slot:
+            slot_time = slot["time"]
+            # Check if slot starts in evening/night (after sunset)
+            if "-" in slot_time:
+                start_time = slot_time.split("-")[0].strip()
+                try:
+                    hour = int(start_time.split(":")[0])
+                    is_evening = hour >= 18 or hour < 6  # Assume evening/night hours
+                except (ValueError, IndexError):
+                    pass
+        
         # Swell information
         swell_height = round(forecast.get("max_swell_height", 0), 1)
         swell_emoji = get_swell_emoji(swell_height)
         
         # Wind information if available
+        wind_emoji = ""
         if "max_wind_speed_knots" in forecast:
             wind_speed = round(forecast.get("max_wind_speed_knots", 0), 1)
             wind_emoji = get_wind_emoji(wind_speed)
-            return f"{swell_emoji}{wind_emoji}"
         
-        return f"{swell_emoji}"
+        # UV index (format with "UV" prefix)
+        uv_text = ""
+        if "max_uv_index" in forecast:
+            uv_text = format_uv_index(forecast.get("max_uv_index"))
+        
+        # Visibility emoji
+        visibility_emoji = ""
+        if "min_visibility" in forecast:
+            visibility_emoji = get_visibility_emoji(forecast.get("min_visibility", 20000))
+        
+        # Moon phase emoji, only shown for evening slots
+        moon_emoji = ""
+        if is_evening and "moon_emoji" in forecast:
+            moon_emoji = forecast.get("moon_emoji", "")
+        
+        # Combine all components without spaces
+        return f"{uv_text}{swell_emoji}{wind_emoji}{visibility_emoji}{moon_emoji}"
     except Exception as e:
         print(f"Error formatting slot forecast: {e}")
         return ""  # Return empty string on error
@@ -436,5 +542,3 @@ if __name__ == "__main__":
             print(f"Wind: {get_wind_emoji(day['max_wind_speed_knots'])} {day['max_wind_speed_knots']}kt ({day['dominant_wind_direction']})")
         else:
             print("Wind data unavailable")
-    else:
-        print("Failed to retrieve forecast")
