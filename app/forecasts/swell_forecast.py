@@ -505,10 +505,12 @@ def format_slot_forecast(slot):
             wind_speed = round(forecast.get("max_wind_speed_knots", 0), 1)
             wind_emoji = get_wind_emoji(wind_speed)
         
-        # UV index (format with "UV" prefix)
+        # UV index (only show if 8 or higher)
         uv_text = ""
         if "max_uv_index" in forecast:
-            uv_text = format_uv_index(forecast.get("max_uv_index"))
+            uv_index = forecast.get("max_uv_index")
+            if uv_index is not None and uv_index >= 8:
+                uv_text = format_uv_index(uv_index)
         
         # Visibility emoji
         visibility_emoji = ""
@@ -521,7 +523,8 @@ def format_slot_forecast(slot):
             moon_emoji = forecast.get("moon_emoji", "")
         
         # Combine all components without spaces
-        return f"{uv_text}{swell_emoji}{wind_emoji}{visibility_emoji}{moon_emoji}"
+        # New order: swell → wind → UV (if ≥8) → visibility → moon
+        return f"{swell_emoji}{wind_emoji}{uv_text}{visibility_emoji}{moon_emoji}"
     except Exception as e:
         print(f"Error formatting slot forecast: {e}")
         return ""  # Return empty string on error

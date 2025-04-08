@@ -110,8 +110,10 @@ UV index is shown as a numeric value prefixed with "UV":
 - UV0-UV2: Low exposure risk
 - UV3-UV5: Moderate exposure risk
 - UV6-UV7: High exposure risk  
-- UV8-UV10: Very high exposure risk
-- UV11+: Extreme exposure risk
+- UV8-UV10: Very high exposure risk (displayed in notifications)
+- UV11+: Extreme exposure risk (displayed in notifications)
+
+**Note:** Only UV values of 8 or higher (very high or extreme risk) are shown in the notifications.
 
 ## Moon Phase
 
