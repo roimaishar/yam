@@ -370,7 +370,7 @@ def get_simplified_forecast(days=7):
 def get_swell_emoji(height):
     """Get emoji representation for swell height"""
     if height <= 0.4:
-        return "🏝️"  # Calm sea/beach
+        return ""  # No emoji for calm sea
     elif height <= 0.8:
         return "🌊"  # Medium waves
     else:
