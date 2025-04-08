@@ -12,7 +12,7 @@ This module integrates marine weather forecasts into the YAM application, provid
 - **Caching**: 6-hour local cache to reduce API calls
 - **Slack Integration**: Weather data incorporated into slot notifications
 - **Visual Indicators**: 
-  - Wave height emoji indicators (no emoji for calm, 🌊, 🌊🌊)
+  - Wave height emoji indicators (🏝️, 🌊, 🌊🌊)
   - Wind speed emoji indicators (🍃, 💨, 🌪️)
   - Visibility emoji indicators (🌫️, 👁️, 🔭)
   - Moon phase emoji indicators (🌑, 🌒, 🌓, 🌔, 🌕, 🌖, 🌗, 🌘)
@@ -84,7 +84,7 @@ formatted = format_slot_forecast(slot)
 
 The module uses emoji indicators to quickly visualize wave conditions:
 
-- No emoji - Calm sea (≤ 0.4m) - Ideal conditions
+- 🏝️ Calm sea (≤ 0.4m) - Ideal conditions
 - 🌊 Moderate waves (≤ 0.8m) - Good conditions
 - 🌊🌊 Large waves (> 0.8m) - Challenging conditions
 
