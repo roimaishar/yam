@@ -160,68 +160,33 @@ For detailed information about marine weather features, see the [Forecasts Docum
 
 ## Running with GitHub Actions
 
-You can use GitHub Actions to run the scraper automatically every 30 minutes without needing to keep your computer running. This is a free solution that leverages GitHub's CI/CD platform.
+This project includes a GitHub Actions workflow that automatically runs the monitor at regular intervals:
 
-### Setup GitHub Actions
+1. **Setup steps**:
+   - Fork this repository or create your own from the source code
+   - Go to your repository's "Settings" → "Secrets and variables" → "Actions"
+   - Add the following repository secrets:
+     - `YAM_USERNAME` - Your YAM Online username
+     - `YAM_PASSWORD` - Your YAM Online password
+     - `SLACK_WEBHOOK_URL` - Your Slack webhook URL
 
-1. **Push your code to GitHub**:
-   ```bash
-   git init
-   git add .
-   git commit -m "Initial commit"
-   git branch -M main
-   git remote add origin https://github.com/yourusername/yam-scraper.git
-   git push -u origin main
-   ```
-
-2. **Add repository secrets**:
-   - Go to your GitHub repository
-   - Navigate to Settings > Secrets and variables > Actions
-   - Add the following secrets:
-     - `YAM_USERNAME`: Your YAM website username
-     - `YAM_PASSWORD`: Your YAM website password
-     - `SLACK_WEBHOOK_URL`: Your Slack webhook URL
+2. **Workflow file**:
+   - The workflow file is located at `.github/workflows/scraper.yml`
+   - It runs the monitor every 15 minutes
+   - It also commits any changes to the slot data back to the repository
 
 3. **GitHub Actions workflow file**:
    - The workflow file is already included at `.github/workflows/scraper.yml`
-   - This configures the scraper to run every 30 minutes
+   - This configures the scraper to run every 15 minutes
    - It also commits any changes to the slot data back to the repository
 
-4. **Repository permissions**:
-   - The workflow needs permission to push changes back to your repository
-   - This is configured in the workflow file with `permissions: contents: write`
-   - If you're using a fork or organization repository, you may need to:
-     - Go to Settings > Actions > General
-     - Under "Workflow permissions", select "Read and write permissions"
-     - Click "Save"
+### Adjusting the monitoring frequency
 
-### How it works
+You can adjust how often the GitHub Actions workflow runs by editing the cron schedule in `.github/workflows/scraper.yml`:
 
-1. The workflow runs every 30 minutes based on the cron schedule
-2. It checks out your code, installs dependencies, and runs the scraper
-3. Any new slot data is committed back to the repository
-4. Notifications are sent to your Slack channel when new slots are found
-
-### Manual trigger
-
-You can also trigger the workflow manually:
-1. Go to the "Actions" tab in your GitHub repository
-2. Select the "YAM Boat Slot Monitor" workflow
-3. Click "Run workflow" and then "Run workflow" again
-
-### Viewing logs
-
-To see the results of each run:
-1. Go to the "Actions" tab in your GitHub repository
-2. Click on the most recent "YAM Boat Slot Monitor" workflow run
-3. Expand the "Run slot monitor once" step to see the output
-
-### Customizing the schedule
-
-To change how often the scraper runs, edit the cron expression in `.github/workflows/scraper.yml`:
 ```yaml
 schedule:
-  - cron: '*/30 * * * *'  # Run every 30 minutes
+  - cron: '*/15 * * * *'  # Run every 15 minutes
 ```
 
 For example, to run every hour instead:
@@ -230,58 +195,21 @@ schedule:
   - cron: '0 * * * *'  # Run every hour at minute 0
 ```
 
-### Running the monitor once
+### Resource Usage Considerations
 
-We've added a `--once` flag to the monitor command that runs the check once and then exits. This is particularly useful for GitHub Actions:
+When running with the 15-minute frequency:
 
-```bash
-python -m app.main monitor 14 --once
-```
+1. **GitHub Actions Minutes**: 
+   - For public repositories: No impact (unlimited minutes)
+   - For private repositories: Approximately 2,880 minutes per month (may exceed the free tier's 2,000 minutes)
 
-This command:
-- Checks for new slots once (no continuous monitoring)
-- Looks ahead for the next 14 days
-- Sends notifications for any new slots found
-- Exits after completion
+2. **API Usage**:
+   - Weather data is cached for 6 hours regardless of run frequency
+   - No additional impact on external APIs
 
-### Security considerations
-
-When using GitHub Actions with a public repository:
-
-1. **Never commit sensitive information**:
-   - Keep your `.env` file in `.gitignore`
-   - Use GitHub Secrets for credentials
-
-2. **Secure your data**:
-   - If you don't want slot data to be publicly visible, use a private repository
-   - Alternatively, modify the workflow to use GitHub Artifacts instead of committing data files
-
-3. **Dependency security**:
-   - We've configured the requirements.txt to use secure versions of dependencies
-   - GitHub's Dependabot will alert you about security vulnerabilities
-
-### Troubleshooting GitHub Actions
-
-If your GitHub Actions workflow isn't working as expected:
-
-1. **Check workflow logs**:
-   - Go to the Actions tab in your repository
-   - Click on the failed workflow run
-   - Examine the logs for error messages
-
-2. **Verify secrets**:
-   - Make sure all required secrets (YAM_USERNAME, YAM_PASSWORD, SLACK_WEBHOOK_URL) are set correctly
-   - Secrets are case-sensitive
-
-3. **Test locally first**:
-   - Run `python -m app.main monitor 14 --once` locally to verify it works
-   - Fix any issues before pushing to GitHub
-
-4. **Common issues**:
-   - "404 no_service" error with Slack: Check your webhook URL
-   - "Unknown" boat types: Fixed in the latest version to display service_type
-   - Workflow getting stuck: Fixed by using the `--once` flag
-   - Permission denied errors: Make sure workflow has write permissions (see Setup step 4)
+3. **Website Impact**:
+   - More frequent scraping means more requests to the YAM Online website
+   - Consider adjusting frequency if you notice any issues with access
 
 ## Technical Implementation
 
@@ -309,7 +237,7 @@ The scraper uses Playwright, a browser automation library, to interact with the 
 The slot monitoring system continuously checks for newly available boat slots:
 
 1. **Monitoring Process**:
-   - Runs at configurable intervals (default: 30 minutes)
+   - Runs at configurable intervals (default: 15 minutes)
    - Scrapes the calendar for available slots
    - Compares current slots with previously recorded slots
    - Identifies newly available slots

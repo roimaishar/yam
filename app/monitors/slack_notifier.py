@@ -88,13 +88,22 @@ class SlackNotifier:
                 "מסטר 570": "Master 570",
                 "מסטר": "Master",
                 "גולד 470": "Gold 470",
-                "גולד": "Gold"
+                "גולד": "Gold",
+                "אסתר": "Esther",
+                "ושתי": "Vashti",
+                "כרמן החדשה": "New Carmen",
+                "ליאור": "Lior",
+                "מישל": "Michel",
+                "קרפה": "Carpe",
+                "רונית": "Ronit",
+                "הרמוני": "Harmony",
+                "קטמנדו": "Katmandu"
             }
             
             # Convert boat name to English if possible
             if service_type in hebrew_boat_to_english:
                 service_type = hebrew_boat_to_english[service_type]
-                
+            
             slot_info = f"{slot.get('time', '')}: {service_type}"
             
             # Add forecast emoji if available
@@ -143,13 +152,31 @@ class SlackNotifier:
                 # Convert day name
                 english_day = hebrew_day_to_english.get(day_name, day_name)
                 
-                # Convert month name if present
-                for hebrew_month, english_month in hebrew_month_to_english.items():
-                    if hebrew_month in date_part:
-                        date_part = date_part.replace(hebrew_month, english_month)
-                
-                # Reconstruct the date in English
-                date = f"{english_day}, {date_part}"
+                # Try to parse the date to create a compact format
+                try:
+                    import re
+                    
+                    # Extract day and month from the date string
+                    day_match = re.search(r'(\d+)', date_part)
+                    day_num = day_match.group(1) if day_match else ""
+                    
+                    # Find which month is in the string
+                    month_num = 1  # Default to January if not found
+                    for i, (hebrew_month, english_month) in enumerate(hebrew_month_to_english.items(), 1):
+                        if hebrew_month in date_part or english_month in date_part:
+                            month_num = i
+                            break
+                    
+                    # Format as "Day DD.MM" (e.g., "Friday 11.04")
+                    date = f"{english_day} {day_num.zfill(2)}.{str(month_num).zfill(2)}"
+                except Exception:
+                    # Fallback: Convert month name if present
+                    for hebrew_month, english_month in hebrew_month_to_english.items():
+                        if hebrew_month in date_part:
+                            date_part = date_part.replace(hebrew_month, english_month)
+                    
+                    # Reconstruct the date in English
+                    date = f"{english_day}, {date_part}"
             
             notification += f"{date}:\n"
             for slot_info in slot_infos:
