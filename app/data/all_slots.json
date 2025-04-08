@@ -442,6 +442,13 @@
   },
   {
     "date": "ראשון, 13 אפריל 2025",
+    "event_id": "16",
+    "time": "13:00 - 16:00",
+    "service_type": "רונית",
+    "is_available": true
+  },
+  {
+    "date": "ראשון, 13 אפריל 2025",
     "event_id": "18",
     "time": "19:00 - 22:00",
     "service_type": "רונית",
@@ -459,6 +466,13 @@
     "event_id": "27",
     "time": "19:00 - 22:00",
     "service_type": "ליאור",
+    "is_available": true
+  },
+  {
+    "date": "ראשון, 13 אפריל 2025",
+    "event_id": "19",
+    "time": "07:00 - 10:00",
+    "service_type": "קטמנדו",
     "is_available": true
   },
   {
