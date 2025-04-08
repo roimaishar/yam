@@ -335,13 +335,6 @@
     "service_type": "אסתר",
     "is_available": true
   },
-  "שישי, 11 אפריל 2025_59": {
-    "date": "שישי, 11 אפריל 2025",
-    "event_id": "59",
-    "time": "08:00 - 11:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
   "שישי, 11 אפריל 2025_34": {
     "date": "שישי, 11 אפריל 2025",
     "event_id": "34",
@@ -643,24 +636,10 @@
     "service_type": "רונית",
     "is_available": true
   },
-  "ראשון, 13 אפריל 2025_24": {
-    "date": "ראשון, 13 אפריל 2025",
-    "event_id": "24",
-    "time": "10:00 - 13:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
   "ראשון, 13 אפריל 2025_25": {
     "date": "ראשון, 13 אפריל 2025",
     "event_id": "25",
     "time": "13:00 - 16:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
-  "ראשון, 13 אפריל 2025_26": {
-    "date": "ראשון, 13 אפריל 2025",
-    "event_id": "26",
-    "time": "16:00 - 19:00",
     "service_type": "ליאור",
     "is_available": true
   },
