@@ -132,6 +132,13 @@
     "service_type": "נאווה",
     "is_available": true
   },
+  "שישי, 11 אפריל 2025_8": {
+    "date": "שישי, 11 אפריל 2025",
+    "event_id": "8",
+    "time": "12:00 - 14:00",
+    "service_type": "נאווה",
+    "is_available": true
+  },
   "שישי, 11 אפריל 2025_13": {
     "date": "שישי, 11 אפריל 2025",
     "event_id": "13",
@@ -1242,13 +1249,6 @@
     "date": "ראשון, 20 אפריל 2025",
     "event_id": "45",
     "time": "07:00 - 10:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  "ראשון, 20 אפריל 2025_47": {
-    "date": "ראשון, 20 אפריל 2025",
-    "event_id": "47",
-    "time": "13:00 - 16:00",
     "service_type": "ושתי",
     "is_available": true
   },
