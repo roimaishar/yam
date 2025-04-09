@@ -279,13 +279,6 @@
     "service_type": "רונית",
     "is_available": true
   },
-  "ראשון, 13 אפריל 2025_25": {
-    "date": "ראשון, 13 אפריל 2025",
-    "event_id": "25",
-    "time": "13:00 - 16:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
   "ראשון, 13 אפריל 2025_26": {
     "date": "ראשון, 13 אפריל 2025",
     "event_id": "26",
@@ -507,13 +500,6 @@
     "date": "שלישי, 15 אפריל 2025",
     "event_id": "7",
     "time": "10:00 - 12:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  "שלישי, 15 אפריל 2025_8": {
-    "date": "שלישי, 15 אפריל 2025",
-    "event_id": "8",
-    "time": "12:00 - 14:00",
     "service_type": "נאווה",
     "is_available": true
   },
