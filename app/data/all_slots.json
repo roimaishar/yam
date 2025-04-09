@@ -1,6 +1,13 @@
 [
   {
     "date": "שישי, 11 אפריל 2025",
+    "event_id": "44",
+    "time": "07:00 - 10:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
+  {
+    "date": "שישי, 11 אפריל 2025",
     "event_id": "45",
     "time": "10:00 - 13:00",
     "service_type": "ושתי",
@@ -456,13 +463,6 @@
   },
   {
     "date": "שלישי, 15 אפריל 2025",
-    "event_id": "9",
-    "time": "14:00 - 16:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 15 אפריל 2025",
     "event_id": "10",
     "time": "16:00 - 18:00",
     "service_type": "נאווה",
@@ -542,6 +542,13 @@
     "date": "רביעי, 16 אפריל 2025",
     "event_id": "38",
     "time": "06:00 - 09:00",
+    "service_type": "הרמוני",
+    "is_available": true
+  },
+  {
+    "date": "רביעי, 16 אפריל 2025",
+    "event_id": "42",
+    "time": "18:00 - 21:00",
     "service_type": "הרמוני",
     "is_available": true
   },
@@ -816,13 +823,6 @@
     "event_id": "23",
     "time": "17:00 - 19:00",
     "service_type": "קטמנדו",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 19 אפריל 2025",
-    "event_id": "60",
-    "time": "11:00 - 14:00",
-    "service_type": "רוני",
     "is_available": true
   },
   {
