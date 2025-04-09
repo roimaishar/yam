@@ -15,6 +15,13 @@
   },
   {
     "date": "שישי, 11 אפריל 2025",
+    "event_id": "2",
+    "time": "11:00 - 14:00",
+    "service_type": "קרפה",
+    "is_available": true
+  },
+  {
+    "date": "שישי, 11 אפריל 2025",
     "event_id": "34",
     "time": "08:00 - 11:00",
     "service_type": "כרמן החדשה",
