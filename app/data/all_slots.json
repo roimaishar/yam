@@ -246,13 +246,6 @@
   },
   {
     "date": "ראשון, 13 אפריל 2025",
-    "event_id": "9",
-    "time": "12:00 - 14:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 13 אפריל 2025",
     "event_id": "12",
     "time": "18:00 - 20:00",
     "service_type": "נאווה",
