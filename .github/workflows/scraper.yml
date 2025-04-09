@@ -37,4 +37,14 @@ jobs:
           git config --global user.name 'GitHub Actions Bot'
           git config --global user.email 'actions@github.com'
           git add app/data/all_slots.json app/data/previous_slots.json app/data/notified_slots.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update slot data [skip ci]" && git push origin HEAD:${GITHUB_REF})
+          
+          # Only proceed if there are changes to commit
+          if ! git diff --quiet || ! git diff --staged --quiet; then
+            git commit -m "Update slot data [skip ci]"
+            
+            # Pull with rebase before pushing to handle concurrent updates
+            git pull --rebase origin ${GITHUB_REF#refs/heads/}
+            
+            # Push changes
+            git push origin HEAD:${GITHUB_REF}
+          fi
