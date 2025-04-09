@@ -790,6 +790,13 @@
     "service_type": "קטמנדו",
     "is_available": true
   },
+  "שבת, 19 אפריל 2025_60": {
+    "date": "שבת, 19 אפריל 2025",
+    "event_id": "60",
+    "time": "11:00 - 14:00",
+    "service_type": "רוני",
+    "is_available": true
+  },
   "שבת, 19 אפריל 2025_63": {
     "date": "שבת, 19 אפריל 2025",
     "event_id": "63",
@@ -934,13 +941,6 @@
     "date": "שבת, 19 אפריל 2025",
     "event_id": "15",
     "time": "13:00 - 16:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
-  "שבת, 19 אפריל 2025_16": {
-    "date": "שבת, 19 אפריל 2025",
-    "event_id": "16",
-    "time": "16:00 - 19:00",
     "service_type": "רונית",
     "is_available": true
   },
