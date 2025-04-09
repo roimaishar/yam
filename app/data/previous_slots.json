@@ -286,13 +286,6 @@
     "service_type": "רונית",
     "is_available": true
   },
-  "ראשון, 13 אפריל 2025_26": {
-    "date": "ראשון, 13 אפריל 2025",
-    "event_id": "26",
-    "time": "16:00 - 19:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
   "ראשון, 13 אפריל 2025_27": {
     "date": "ראשון, 13 אפריל 2025",
     "event_id": "27",
@@ -381,13 +374,6 @@
     "date": "שני, 14 אפריל 2025",
     "event_id": "8",
     "time": "12:00 - 14:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  "שני, 14 אפריל 2025_9": {
-    "date": "שני, 14 אפריל 2025",
-    "event_id": "9",
-    "time": "14:00 - 16:00",
     "service_type": "נאווה",
     "is_available": true
   },
@@ -706,13 +692,6 @@
     "service_type": "קרפה",
     "is_available": true
   },
-  "חמישי, 17 אפריל 2025_39": {
-    "date": "חמישי, 17 אפריל 2025",
-    "event_id": "39",
-    "time": "06:00 - 09:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
   "חמישי, 17 אפריל 2025_43": {
     "date": "חמישי, 17 אפריל 2025",
     "event_id": "43",
@@ -843,13 +822,6 @@
     "date": "שישי, 18 אפריל 2025",
     "event_id": "6",
     "time": "08:00 - 10:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  "שישי, 18 אפריל 2025_11": {
-    "date": "שישי, 18 אפריל 2025",
-    "event_id": "11",
-    "time": "18:00 - 20:00",
     "service_type": "נאווה",
     "is_available": true
   },
