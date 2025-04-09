@@ -286,6 +286,13 @@
     "service_type": "ושתי",
     "is_available": true
   },
+  "שני, 14 אפריל 2025_53": {
+    "date": "שני, 14 אפריל 2025",
+    "event_id": "53",
+    "time": "06:00 - 09:00",
+    "service_type": "אסתר",
+    "is_available": true
+  },
   "שני, 14 אפריל 2025_62": {
     "date": "שני, 14 אפריל 2025",
     "event_id": "62",
@@ -542,13 +549,6 @@
     "date": "רביעי, 16 אפריל 2025",
     "event_id": "38",
     "time": "06:00 - 09:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  "רביעי, 16 אפריל 2025_42": {
-    "date": "רביעי, 16 אפריל 2025",
-    "event_id": "42",
-    "time": "18:00 - 21:00",
     "service_type": "הרמוני",
     "is_available": true
   },
