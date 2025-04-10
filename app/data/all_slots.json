@@ -126,6 +126,13 @@
     "is_available": true
   },
   {
+    "date": "שבת, 12 אפריל 2025",
+    "event_id": "19",
+    "time": "10:00 - 13:00",
+    "service_type": "קטמנדו",
+    "is_available": true
+  },
+  {
     "date": "ראשון, 13 אפריל 2025",
     "event_id": "48",
     "time": "19:00 - 22:00",
@@ -556,6 +563,13 @@
     "date": "חמישי, 17 אפריל 2025",
     "event_id": "21",
     "time": "13:00 - 15:00",
+    "service_type": "קטמנדו",
+    "is_available": true
+  },
+  {
+    "date": "חמישי, 17 אפריל 2025",
+    "event_id": "23",
+    "time": "17:00 - 19:00",
     "service_type": "קטמנדו",
     "is_available": true
   },
