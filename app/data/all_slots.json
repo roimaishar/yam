@@ -64,16 +64,16 @@
   },
   {
     "date": "שבת, 12 אפריל 2025",
-    "event_id": "31",
-    "time": "18:00 - 21:00",
+    "event_id": "28",
+    "time": "09:00 - 12:00",
     "service_type": "מישל",
     "is_available": true
   },
   {
     "date": "שבת, 12 אפריל 2025",
-    "event_id": "6",
-    "time": "08:00 - 10:00",
-    "service_type": "נאווה",
+    "event_id": "31",
+    "time": "18:00 - 21:00",
+    "service_type": "מישל",
     "is_available": true
   },
   {
@@ -1130,13 +1130,6 @@
     "date": "שני, 21 אפריל 2025",
     "event_id": "31",
     "time": "09:00 - 12:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  {
-    "date": "שני, 21 אפריל 2025",
-    "event_id": "32",
-    "time": "12:00 - 15:00",
     "service_type": "מישל",
     "is_available": true
   },
