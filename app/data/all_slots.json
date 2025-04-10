@@ -8,6 +8,13 @@
   },
   {
     "date": "שבת, 12 אפריל 2025",
+    "event_id": "44",
+    "time": "13:00 - 16:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
+  {
+    "date": "שבת, 12 אפריל 2025",
     "event_id": "46",
     "time": "19:00 - 22:00",
     "service_type": "ושתי",
@@ -276,13 +283,6 @@
     "date": "שני, 14 אפריל 2025",
     "event_id": "28",
     "time": "06:00 - 09:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  {
-    "date": "שני, 14 אפריל 2025",
-    "event_id": "29",
-    "time": "09:00 - 12:00",
     "service_type": "מישל",
     "is_available": true
   },
@@ -904,9 +904,37 @@
   },
   {
     "date": "ראשון, 20 אפריל 2025",
+    "event_id": "63",
+    "time": "14:00 - 17:00",
+    "service_type": "רוני",
+    "is_available": true
+  },
+  {
+    "date": "ראשון, 20 אפריל 2025",
+    "event_id": "64",
+    "time": "17:00 - 20:00",
+    "service_type": "רוני",
+    "is_available": true
+  },
+  {
+    "date": "ראשון, 20 אפריל 2025",
     "event_id": "65",
     "time": "20:00 - 23:00",
     "service_type": "רוני",
+    "is_available": true
+  },
+  {
+    "date": "ראשון, 20 אפריל 2025",
+    "event_id": "3",
+    "time": "14:00 - 17:00",
+    "service_type": "קרפה",
+    "is_available": true
+  },
+  {
+    "date": "ראשון, 20 אפריל 2025",
+    "event_id": "4",
+    "time": "17:00 - 20:00",
+    "service_type": "קרפה",
     "is_available": true
   },
   {
@@ -948,6 +976,13 @@
     "date": "ראשון, 20 אפריל 2025",
     "event_id": "34",
     "time": "08:00 - 11:00",
+    "service_type": "כרמן החדשה",
+    "is_available": true
+  },
+  {
+    "date": "ראשון, 20 אפריל 2025",
+    "event_id": "37",
+    "time": "17:00 - 20:00",
     "service_type": "כרמן החדשה",
     "is_available": true
   },
@@ -997,13 +1032,6 @@
     "date": "ראשון, 20 אפריל 2025",
     "event_id": "26",
     "time": "13:00 - 16:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 20 אפריל 2025",
-    "event_id": "27",
-    "time": "16:00 - 19:00",
     "service_type": "ליאור",
     "is_available": true
   },
