@@ -27,6 +27,13 @@
     "service_type": "אסתר",
     "is_available": true
   },
+  "שבת, 12 אפריל 2025_57": {
+    "date": "שבת, 12 אפריל 2025",
+    "event_id": "57",
+    "time": "08:00 - 11:00",
+    "service_type": "רוני",
+    "is_available": true
+  },
   "שבת, 12 אפריל 2025_61": {
     "date": "שבת, 12 אפריל 2025",
     "event_id": "61",
