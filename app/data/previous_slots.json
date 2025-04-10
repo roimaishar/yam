@@ -69,6 +69,13 @@
     "service_type": "מישל",
     "is_available": true
   },
+  "שבת, 12 אפריל 2025_29": {
+    "date": "שבת, 12 אפריל 2025",
+    "event_id": "29",
+    "time": "12:00 - 15:00",
+    "service_type": "מישל",
+    "is_available": true
+  },
   "שבת, 12 אפריל 2025_31": {
     "date": "שבת, 12 אפריל 2025",
     "event_id": "31",
@@ -269,6 +276,13 @@
     "date": "שני, 14 אפריל 2025",
     "event_id": "28",
     "time": "06:00 - 09:00",
+    "service_type": "מישל",
+    "is_available": true
+  },
+  "שני, 14 אפריל 2025_29": {
+    "date": "שני, 14 אפריל 2025",
+    "event_id": "29",
+    "time": "09:00 - 12:00",
     "service_type": "מישל",
     "is_available": true
   },
