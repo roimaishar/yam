@@ -20,13 +20,6 @@
     "service_type": "אסתר",
     "is_available": true
   },
-  "שישי, 11 אפריל 2025_60": {
-    "date": "שישי, 11 אפריל 2025",
-    "event_id": "60",
-    "time": "11:00 - 14:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
   "שישי, 11 אפריל 2025_2": {
     "date": "שישי, 11 אפריל 2025",
     "event_id": "2",
@@ -640,13 +633,6 @@
     "date": "חמישי, 17 אפריל 2025",
     "event_id": "21",
     "time": "13:00 - 15:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
-  "חמישי, 17 אפריל 2025_23": {
-    "date": "חמישי, 17 אפריל 2025",
-    "event_id": "23",
-    "time": "17:00 - 19:00",
     "service_type": "קטמנדו",
     "is_available": true
   },
