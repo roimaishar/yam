@@ -6,13 +6,6 @@
     "service_type": "ושתי",
     "is_available": true
   },
-  "שבת, 12 אפריל 2025_44": {
-    "date": "שבת, 12 אפריל 2025",
-    "event_id": "44",
-    "time": "13:00 - 16:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
   "שבת, 12 אפריל 2025_46": {
     "date": "שבת, 12 אפריל 2025",
     "event_id": "46",
@@ -165,6 +158,13 @@
     "event_id": "48",
     "time": "19:00 - 22:00",
     "service_type": "ושתי",
+    "is_available": true
+  },
+  "ראשון, 13 אפריל 2025_57": {
+    "date": "ראשון, 13 אפריל 2025",
+    "event_id": "57",
+    "time": "12:00 - 15:00",
+    "service_type": "אסתר",
     "is_available": true
   },
   "ראשון, 13 אפריל 2025_64": {
