@@ -293,6 +293,13 @@
     "service_type": "מישל",
     "is_available": true
   },
+  "שני, 14 אפריל 2025_29": {
+    "date": "שני, 14 אפריל 2025",
+    "event_id": "29",
+    "time": "09:00 - 12:00",
+    "service_type": "מישל",
+    "is_available": true
+  },
   "שני, 14 אפריל 2025_6": {
     "date": "שני, 14 אפריל 2025",
     "event_id": "6",
