@@ -1,7 +1,7 @@
 import asyncio
 import json
 import os
-from datetime import datetime
+from datetime import datetime, timedelta
 from pathlib import Path
 
 from app.scrapers.cookie_scraper import scrape_calendar_slots_for_days
@@ -112,7 +112,64 @@ class SlotMonitor:
         
         if new_slots:
             print(f"Found {len(new_slots)} new available slots!")
-            await self.notify_new_slots(new_slots)
+            
+            # Filter out slots from the last day (14th day)
+            if self.days > 1:
+                # Calculate the date of the last day
+                last_day = datetime.now() + timedelta(days=self.days-1)
+                last_day_formatted = last_day.strftime("%Y-%m-%d")
+                
+                # Filter slots to exclude the last day
+                filtered_new_slots = []
+                excluded_count = 0
+                
+                for slot in new_slots:
+                    slot_date = slot.get("date", "")
+                    
+                    # Check if this is from the last day by trying to parse the date
+                    try:
+                        # Parse Hebrew date format (e.g., "שישי, 12 אפריל 2025")
+                        hebrew_month_names = {
+                            "ינואר": "January", "פברואר": "February", "מרץ": "March",
+                            "אפריל": "April", "מאי": "May", "יוני": "June",
+                            "יולי": "July", "אוגוסט": "August", "ספטמבר": "September",
+                            "אוקטובר": "October", "נובמבר": "November", "דצמבר": "December"
+                        }
+                        
+                        if "," in slot_date:
+                            day_name, date_part = slot_date.split(",", 1)
+                            date_part = date_part.strip()
+                            
+                            parts = date_part.split()
+                            if len(parts) >= 3:  # day, month, year
+                                day_num = parts[0]
+                                month_name = parts[1]
+                                year = parts[2]
+                                
+                                # Translate Hebrew month name if needed
+                                if month_name in hebrew_month_names:
+                                    month_name = hebrew_month_names[month_name]
+                                
+                                # Parse the date
+                                date_obj = datetime.strptime(f"{day_num} {month_name} {year}", "%d %B %Y")
+                                slot_date_formatted = date_obj.strftime("%Y-%m-%d")
+                                
+                                # Skip if it's the last day
+                                if slot_date_formatted == last_day_formatted:
+                                    excluded_count += 1
+                                    continue
+                    except Exception:
+                        # If we can't parse the date, include the slot to be safe
+                        pass
+                    
+                    filtered_new_slots.append(slot)
+                
+                if excluded_count > 0:
+                    print(f"Excluded {excluded_count} slots from the {self.days}th day from notifications")
+                
+                await self.notify_new_slots(filtered_new_slots)
+            else:
+                await self.notify_new_slots(new_slots)
         else:
             print("No new slots found")
     
