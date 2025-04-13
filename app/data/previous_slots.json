@@ -48,13 +48,6 @@
     "service_type": "אסתר",
     "is_available": true
   },
-  "שני, 14 אפריל 2025_61": {
-    "date": "שני, 14 אפריל 2025",
-    "event_id": "61",
-    "time": "17:00 - 20:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
   "שני, 14 אפריל 2025_62": {
     "date": "שני, 14 אפריל 2025",
     "event_id": "62",
@@ -108,6 +101,13 @@
     "date": "שני, 14 אפריל 2025",
     "event_id": "29",
     "time": "09:00 - 12:00",
+    "service_type": "מישל",
+    "is_available": true
+  },
+  "שני, 14 אפריל 2025_32": {
+    "date": "שני, 14 אפריל 2025",
+    "event_id": "32",
+    "time": "18:00 - 21:00",
     "service_type": "מישל",
     "is_available": true
   },
@@ -1298,13 +1298,6 @@
     "date": "חמישי, 24 אפריל 2025",
     "event_id": "1",
     "time": "08:00 - 11:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
-  "חמישי, 24 אפריל 2025_4": {
-    "date": "חמישי, 24 אפריל 2025",
-    "event_id": "4",
-    "time": "17:00 - 20:00",
     "service_type": "קרפה",
     "is_available": true
   },
