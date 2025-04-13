@@ -43,6 +43,13 @@
   },
   {
     "date": "שני, 14 אפריל 2025",
+    "event_id": "55",
+    "time": "12:00 - 15:00",
+    "service_type": "אסתר",
+    "is_available": true
+  },
+  {
+    "date": "שני, 14 אפריל 2025",
     "event_id": "61",
     "time": "17:00 - 20:00",
     "service_type": "רוני",
