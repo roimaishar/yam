@@ -1191,13 +1191,6 @@
   },
   {
     "date": "שישי, 25 אפריל 2025",
-    "event_id": "46",
-    "time": "07:00 - 10:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 25 אפריל 2025",
     "event_id": "50",
     "time": "19:00 - 22:00",
     "service_type": "ושתי",
