@@ -42,9 +42,24 @@ jobs:
           if ! git diff --quiet || ! git diff --staged --quiet; then
             git commit -m "Update slot data [skip ci]"
             
+            # Stash any unstaged changes before pulling to ensure a clean working directory
+            git stash push --keep-index --include-untracked
+            
             # Pull with rebase before pushing to handle concurrent updates
-            git pull --rebase origin ${GITHUB_REF#refs/heads/}
+            echo "Pulling latest changes from origin..."
+            git pull --rebase origin ${GITHUB_REF#refs/heads/} || (
+              echo "Rebase failed, attempting merge instead..."
+              git stash pop
+              git merge origin/${GITHUB_REF#refs/heads/} --no-edit
+            )
+            
+            # Pop the stash if pull/rebase was successful
+            # Check if stash exists before popping
+            if [ -n "$(git stash list)" ]; then
+              git stash pop || echo "Stash pop failed, continuing push..."
+            fi
             
             # Push changes
+            echo "Pushing changes to origin..."
             git push origin HEAD:${GITHUB_REF}
           fi
