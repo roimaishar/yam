@@ -232,6 +232,10 @@ The scraper uses Playwright, a browser automation library, to interact with the 
    - Extracts data attributes and text content from each slot
    - Determines availability status by checking for the presence of order buttons
 
+### Browser Automation
+
+The scraper uses Playwright for browser automation. In CI environments (GitHub Actions), browsers are launched in headless mode automatically. This ensures compatibility with environments that don't have a display server.
+
 ### Slot Monitoring
 
 The slot monitoring system continuously checks for newly available boat slots:

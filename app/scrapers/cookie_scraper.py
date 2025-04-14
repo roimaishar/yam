@@ -15,7 +15,11 @@ PASSWORD = os.getenv("YAM_PASSWORD")
 
 async def save_authenticated_session():
     async with async_playwright() as p:
-        browser = await p.chromium.launch(headless=False)
+        # Check if running in GitHub Actions or other CI environment
+        is_ci_environment = os.environ.get("CI") == "true" or os.environ.get("GITHUB_ACTIONS") == "true"
+        
+        # Force headless mode in CI environments
+        browser = await p.chromium.launch(headless=is_ci_environment)
         context = await browser.new_context()
         page = await context.new_page()
         
