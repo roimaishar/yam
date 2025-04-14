@@ -477,6 +477,50 @@ def get_forecast_for_slot(slot):
 def format_slot_forecast(slot):
     """Format forecast data for a slot in a compact way"""
     try:
+        # Calculate if the slot date is within 6 days from today
+        is_within_forecast_range = False
+        try:
+            # Extract date from slot
+            slot_date = slot.get("date", "")
+            
+            # Try to parse Hebrew date format (e.g., "שישי, 12 אפריל 2025")
+            if "," in slot_date:
+                # Handle Hebrew month names
+                hebrew_month_names = {
+                    "ינואר": "January", "פברואר": "February", "מרץ": "March",
+                    "אפריל": "April", "מאי": "May", "יוני": "June",
+                    "יולי": "July", "אוגוסט": "August", "ספטמבר": "September",
+                    "אוקטובר": "October", "נובמבר": "November", "דצמבר": "December"
+                }
+                
+                day_name, date_part = slot_date.split(",", 1)
+                date_part = date_part.strip()
+                
+                parts = date_part.split()
+                if len(parts) >= 3:  # day, month, year
+                    day_num = parts[0]
+                    month_name = parts[1]
+                    year = parts[2]
+                    
+                    # Translate Hebrew month name if needed
+                    if month_name in hebrew_month_names:
+                        month_name = hebrew_month_names[month_name]
+                    
+                    # Parse the date
+                    slot_date_obj = datetime.strptime(f"{day_num} {month_name} {year}", "%d %B %Y").date()
+                    today_date = datetime.now().date()
+                    
+                    # Check if the slot is within 6 days from today
+                    delta = (slot_date_obj - today_date).days
+                    is_within_forecast_range = 0 <= delta <= 6
+        except Exception:
+            # If we can't parse the date, assume it's in range to be safe
+            is_within_forecast_range = True
+        
+        # If not within forecast range (>6 days ahead), return empty string
+        if not is_within_forecast_range:
+            return ""
+            
         forecast = get_forecast_for_slot(slot)
         
         if not forecast:

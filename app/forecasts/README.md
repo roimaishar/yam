@@ -80,6 +80,13 @@ formatted = format_slot_forecast(slot)
 # Example output: " 0.7m | 4.8s | NW"
 ```
 
+## Forecast Range
+
+The system retrieves forecast data for up to 16 days ahead, but only displays forecast emojis for slots within the next 6 days. 
+Slots beyond the 6-day forecast window will not display any weather information (no swell, wind, UV, visibility or moon phase emojis).
+
+This approach ensures that only the most reliable forecast data is presented to users, as marine forecasts tend to decrease in accuracy beyond 5-7 days.
+
 ## Wave Height Categories
 
 The module uses emoji indicators to quickly visualize wave conditions:
