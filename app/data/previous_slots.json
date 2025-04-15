@@ -818,13 +818,6 @@
     "service_type": "קטמנדו",
     "is_available": true
   },
-  "חמישי, 24 אפריל 2025_25": {
-    "date": "חמישי, 24 אפריל 2025",
-    "event_id": "25",
-    "time": "17:00 - 19:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
   "שישי, 25 אפריל 2025_50": {
     "date": "שישי, 25 אפריל 2025",
     "event_id": "50",
@@ -899,13 +892,6 @@
     "date": "שישי, 25 אפריל 2025",
     "event_id": "23",
     "time": "13:00 - 15:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
-  "שישי, 25 אפריל 2025_24": {
-    "date": "שישי, 25 אפריל 2025",
-    "event_id": "24",
-    "time": "15:00 - 17:00",
     "service_type": "קטמנדו",
     "is_available": true
   },
