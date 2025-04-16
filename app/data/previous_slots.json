@@ -48,6 +48,13 @@
     "service_type": "ליאור",
     "is_available": true
   },
+  "שישי, 18 אפריל 2025_22": {
+    "date": "שישי, 18 אפריל 2025",
+    "event_id": "22",
+    "time": "15:00 - 17:00",
+    "service_type": "קטמנדו",
+    "is_available": true
+  },
   "שבת, 19 אפריל 2025_63": {
     "date": "שבת, 19 אפריל 2025",
     "event_id": "63",
@@ -454,13 +461,6 @@
     "service_type": "ליאור",
     "is_available": true
   },
-  "שלישי, 22 אפריל 2025_25": {
-    "date": "שלישי, 22 אפריל 2025",
-    "event_id": "25",
-    "time": "13:00 - 16:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
   "שלישי, 22 אפריל 2025_20": {
     "date": "שלישי, 22 אפריל 2025",
     "event_id": "20",
@@ -746,13 +746,6 @@
     "event_id": "30",
     "time": "19:00 - 22:00",
     "service_type": "ליאור",
-    "is_available": true
-  },
-  "חמישי, 24 אפריל 2025_20": {
-    "date": "חמישי, 24 אפריל 2025",
-    "event_id": "20",
-    "time": "07:00 - 09:00",
-    "service_type": "קטמנדו",
     "is_available": true
   },
   "שישי, 25 אפריל 2025_50": {
@@ -1060,13 +1053,6 @@
     "date": "שבת, 26 אפריל 2025",
     "event_id": "19",
     "time": "07:00 - 10:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
-  "שבת, 26 אפריל 2025_20": {
-    "date": "שבת, 26 אפריל 2025",
-    "event_id": "20",
-    "time": "10:00 - 13:00",
     "service_type": "קטמנדו",
     "is_available": true
   },
