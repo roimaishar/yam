@@ -1245,6 +1245,13 @@
     "service_type": "רוני",
     "is_available": true
   },
+  "שני, 28 אפריל 2025_62": {
+    "date": "שני, 28 אפריל 2025",
+    "event_id": "62",
+    "time": "14:00 - 17:00",
+    "service_type": "רוני",
+    "is_available": true
+  },
   "שני, 28 אפריל 2025_1": {
     "date": "שני, 28 אפריל 2025",
     "event_id": "1",
