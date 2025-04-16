@@ -190,20 +190,6 @@
   },
   {
     "date": "ראשון, 20 אפריל 2025",
-    "event_id": "3",
-    "time": "14:00 - 17:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 20 אפריל 2025",
-    "event_id": "4",
-    "time": "17:00 - 20:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 20 אפריל 2025",
     "event_id": "5",
     "time": "20:00 - 23:00",
     "service_type": "קרפה",
@@ -220,13 +206,6 @@
     "date": "ראשון, 20 אפריל 2025",
     "event_id": "42",
     "time": "12:00 - 15:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 20 אפריל 2025",
-    "event_id": "43",
-    "time": "15:00 - 18:00",
     "service_type": "הרמוני",
     "is_available": true
   },
@@ -283,6 +262,13 @@
     "date": "ראשון, 20 אפריל 2025",
     "event_id": "26",
     "time": "13:00 - 16:00",
+    "service_type": "ליאור",
+    "is_available": true
+  },
+  {
+    "date": "ראשון, 20 אפריל 2025",
+    "event_id": "27",
+    "time": "16:00 - 19:00",
     "service_type": "ליאור",
     "is_available": true
   },
