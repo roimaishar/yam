@@ -232,13 +232,6 @@
   },
   {
     "date": "ראשון, 20 אפריל 2025",
-    "event_id": "44",
-    "time": "18:00 - 21:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 20 אפריל 2025",
     "event_id": "37",
     "time": "17:00 - 20:00",
     "service_type": "כרמן החדשה",
@@ -703,13 +696,6 @@
     "date": "חמישי, 24 אפריל 2025",
     "event_id": "41",
     "time": "06:00 - 09:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  {
-    "date": "חמישי, 24 אפריל 2025",
-    "event_id": "45",
-    "time": "18:00 - 21:00",
     "service_type": "הרמוני",
     "is_available": true
   },
