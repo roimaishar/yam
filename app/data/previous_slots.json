@@ -34,13 +34,6 @@
     "service_type": "נאווה",
     "is_available": true
   },
-  "שישי, 18 אפריל 2025_16": {
-    "date": "שישי, 18 אפריל 2025",
-    "event_id": "16",
-    "time": "16:00 - 19:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
   "שישי, 18 אפריל 2025_17": {
     "date": "שישי, 18 אפריל 2025",
     "event_id": "17",
@@ -454,13 +447,6 @@
     "service_type": "הרמוני",
     "is_available": true
   },
-  "שלישי, 22 אפריל 2025_14": {
-    "date": "שלישי, 22 אפריל 2025",
-    "event_id": "14",
-    "time": "07:00 - 10:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
   "שלישי, 22 אפריל 2025_15": {
     "date": "שלישי, 22 אפריל 2025",
     "event_id": "15",
@@ -871,13 +857,6 @@
     "date": "שישי, 25 אפריל 2025",
     "event_id": "23",
     "time": "13:00 - 15:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
-  "שישי, 25 אפריל 2025_25": {
-    "date": "שישי, 25 אפריל 2025",
-    "event_id": "25",
-    "time": "17:00 - 19:00",
     "service_type": "קטמנדו",
     "is_available": true
   },
