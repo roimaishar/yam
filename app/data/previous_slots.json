@@ -384,13 +384,6 @@
     "service_type": "רונית",
     "is_available": true
   },
-  "שני, 21 אפריל 2025_27": {
-    "date": "שני, 21 אפריל 2025",
-    "event_id": "27",
-    "time": "13:00 - 16:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
   "שני, 21 אפריל 2025_22": {
     "date": "שני, 21 אפריל 2025",
     "event_id": "22",
@@ -409,13 +402,6 @@
     "date": "שלישי, 22 אפריל 2025",
     "event_id": "43",
     "time": "07:00 - 10:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  "שלישי, 22 אפריל 2025_45": {
-    "date": "שלישי, 22 אפריל 2025",
-    "event_id": "45",
-    "time": "13:00 - 16:00",
     "service_type": "ושתי",
     "is_available": true
   },
