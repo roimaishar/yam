@@ -134,13 +134,6 @@
   },
   {
     "date": "ראשון, 20 אפריל 2025",
-    "event_id": "56",
-    "time": "06:00 - 09:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 20 אפריל 2025",
     "event_id": "58",
     "time": "12:00 - 15:00",
     "service_type": "אסתר",
