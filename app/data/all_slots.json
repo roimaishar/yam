@@ -50,13 +50,6 @@
   },
   {
     "date": "שבת, 19 אפריל 2025",
-    "event_id": "26",
-    "time": "13:00 - 16:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 19 אפריל 2025",
     "event_id": "28",
     "time": "19:00 - 22:00",
     "service_type": "ליאור",
@@ -248,13 +241,6 @@
     "date": "שלישי, 22 אפריל 2025",
     "event_id": "55",
     "time": "06:00 - 09:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 22 אפריל 2025",
-    "event_id": "57",
-    "time": "12:00 - 15:00",
     "service_type": "אסתר",
     "is_available": true
   },
