@@ -71,9 +71,23 @@
   },
   {
     "date": "ראשון, 20 אפריל 2025",
+    "event_id": "56",
+    "time": "06:00 - 09:00",
+    "service_type": "אסתר",
+    "is_available": true
+  },
+  {
+    "date": "ראשון, 20 אפריל 2025",
     "event_id": "65",
     "time": "20:00 - 23:00",
     "service_type": "רוני",
+    "is_available": true
+  },
+  {
+    "date": "ראשון, 20 אפריל 2025",
+    "event_id": "4",
+    "time": "17:00 - 20:00",
+    "service_type": "קרפה",
     "is_available": true
   },
   {
@@ -1373,13 +1387,6 @@
   },
   {
     "date": "חמישי, 1 מאי 2025",
-    "event_id": "32",
-    "time": "15:00 - 18:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  {
-    "date": "חמישי, 1 מאי 2025",
     "event_id": "33",
     "time": "18:00 - 21:00",
     "service_type": "מישל",
@@ -1417,13 +1424,6 @@
     "date": "חמישי, 1 מאי 2025",
     "event_id": "10",
     "time": "16:00 - 18:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  {
-    "date": "חמישי, 1 מאי 2025",
-    "event_id": "11",
-    "time": "18:00 - 20:00",
     "service_type": "נאווה",
     "is_available": true
   },
