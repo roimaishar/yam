@@ -518,13 +518,6 @@
     "is_available": true
   },
   {
-    "date": "שישי, 25 אפריל 2025",
-    "event_id": "21",
-    "time": "09:00 - 11:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
-  {
     "date": "שבת, 26 אפריל 2025",
     "event_id": "47",
     "time": "19:00 - 22:00",
@@ -1291,13 +1284,6 @@
     "date": "רביעי, 30 אפריל 2025",
     "event_id": "13",
     "time": "07:00 - 10:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 30 אפריל 2025",
-    "event_id": "14",
-    "time": "10:00 - 13:00",
     "service_type": "רונית",
     "is_available": true
   },
