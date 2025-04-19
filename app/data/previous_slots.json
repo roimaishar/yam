@@ -461,13 +461,6 @@
     "service_type": "אסתר",
     "is_available": true
   },
-  "שבת, 26 אפריל 2025_56": {
-    "date": "שבת, 26 אפריל 2025",
-    "event_id": "56",
-    "time": "15:00 - 18:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
   "שבת, 26 אפריל 2025_58": {
     "date": "שבת, 26 אפריל 2025",
     "event_id": "58",
@@ -1466,13 +1459,6 @@
     "date": "שישי, 2 מאי 2025",
     "event_id": "7",
     "time": "10:00 - 12:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  "שישי, 2 מאי 2025_9": {
-    "date": "שישי, 2 מאי 2025",
-    "event_id": "9",
-    "time": "14:00 - 16:00",
     "service_type": "נאווה",
     "is_available": true
   },
