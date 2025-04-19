@@ -188,13 +188,6 @@
     "service_type": "אסתר",
     "is_available": true
   },
-  "שלישי, 22 אפריל 2025_38": {
-    "date": "שלישי, 22 אפריל 2025",
-    "event_id": "38",
-    "time": "06:00 - 09:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
   "שלישי, 22 אפריל 2025_15": {
     "date": "שלישי, 22 אפריל 2025",
     "event_id": "15",
@@ -375,13 +368,6 @@
     "event_id": "18",
     "time": "19:00 - 22:00",
     "service_type": "רונית",
-    "is_available": true
-  },
-  "חמישי, 24 אפריל 2025_27": {
-    "date": "חמישי, 24 אפריל 2025",
-    "event_id": "27",
-    "time": "10:00 - 13:00",
-    "service_type": "ליאור",
     "is_available": true
   },
   "חמישי, 24 אפריל 2025_30": {
@@ -1431,13 +1417,6 @@
     "date": "שישי, 2 מאי 2025",
     "event_id": "6",
     "time": "08:00 - 10:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  "שישי, 2 מאי 2025_7": {
-    "date": "שישי, 2 מאי 2025",
-    "event_id": "7",
-    "time": "10:00 - 12:00",
     "service_type": "נאווה",
     "is_available": true
   },
