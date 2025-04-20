@@ -449,13 +449,6 @@
   },
   {
     "date": "ראשון, 27 אפריל 2025",
-    "event_id": "46",
-    "time": "10:00 - 13:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 27 אפריל 2025",
     "event_id": "49",
     "time": "19:00 - 22:00",
     "service_type": "ושתי",
@@ -1023,13 +1016,6 @@
   },
   {
     "date": "חמישי, 1 מאי 2025",
-    "event_id": "32",
-    "time": "15:00 - 18:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  {
-    "date": "חמישי, 1 מאי 2025",
     "event_id": "33",
     "time": "18:00 - 21:00",
     "service_type": "מישל",
@@ -1165,13 +1151,6 @@
     "date": "שישי, 2 מאי 2025",
     "event_id": "29",
     "time": "06:00 - 09:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 2 מאי 2025",
-    "event_id": "33",
-    "time": "18:00 - 21:00",
     "service_type": "מישל",
     "is_available": true
   },
