@@ -265,13 +265,6 @@
     "service_type": "רוני",
     "is_available": true
   },
-  "שבת, 26 אפריל 2025_59": {
-    "date": "שבת, 26 אפריל 2025",
-    "event_id": "59",
-    "time": "11:00 - 14:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
   "שבת, 26 אפריל 2025_62": {
     "date": "שבת, 26 אפריל 2025",
     "event_id": "62",
@@ -353,13 +346,6 @@
     "date": "שבת, 26 אפריל 2025",
     "event_id": "30",
     "time": "12:00 - 15:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  "שבת, 26 אפריל 2025_32": {
-    "date": "שבת, 26 אפריל 2025",
-    "event_id": "32",
-    "time": "18:00 - 21:00",
     "service_type": "מישל",
     "is_available": true
   },
