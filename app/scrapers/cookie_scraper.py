@@ -25,7 +25,12 @@ async def save_authenticated_session():
         
         print("Navigating to login page...")
         await page.goto("https://yamonline.custhelp.com/app/utils/login_form")
-        await page.wait_for_load_state("networkidle")
+        try:
+            # Wait for load state with a shorter timeout - if it fails, continue anyway
+            await page.wait_for_load_state("domcontentloaded", timeout=5000)
+        except Exception as e:
+            print(f"Warning: Page load state timeout: {e}")
+            print("Continuing with login process anyway...")
         
         try:
             username_field = await page.query_selector("#rn_LoginForm_0_Username")
@@ -51,9 +56,10 @@ async def save_authenticated_session():
         # Wait for navigation to complete after login
         try:
             print("Waiting for login to complete...")
-            await page.wait_for_navigation(timeout=10000)
+            await page.wait_for_navigation(timeout=5000)
         except Exception as e:
             print(f"Navigation timeout: {e}")
+            print("Proceeding with login validation anyway...")
         
         # Check if we're still on the login page
         if "login" in page.url.lower():
@@ -164,8 +170,14 @@ async def scrape_calendar_slots_for_days(days=14, filters=None):
         
         print("Navigating to calendar slots page...")
         await page.goto("https://yamonline.custhelp.com/app/calendar_slots")
-        await page.wait_for_load_state("networkidle")
+        try:
+            # Wait for load state with a shorter timeout
+            await page.wait_for_load_state("domcontentloaded", timeout=5000)
+        except Exception as e:
+            print(f"Warning: Page load state timeout: {e}")
+            print("Continuing anyway...")
         
+        # Check if we're still on the login page (session expired)
         if "login" in page.url.lower():
             print("Session expired. Re-authenticating...")
             await browser.close()
