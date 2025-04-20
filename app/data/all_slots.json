@@ -1,9 +1,9 @@
 [
   {
     "date": "שני, 21 אפריל 2025",
-    "event_id": "45",
-    "time": "07:00 - 10:00",
-    "service_type": "ושתי",
+    "event_id": "60",
+    "time": "08:00 - 11:00",
+    "service_type": "רוני",
     "is_available": true
   },
   {
@@ -150,13 +150,6 @@
     "date": "רביעי, 23 אפריל 2025",
     "event_id": "25",
     "time": "13:00 - 16:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 23 אפריל 2025",
-    "event_id": "27",
-    "time": "19:00 - 22:00",
     "service_type": "ליאור",
     "is_available": true
   },
