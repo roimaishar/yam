@@ -218,6 +218,13 @@
   },
   {
     "date": "שישי, 25 אפריל 2025",
+    "event_id": "29",
+    "time": "16:00 - 19:00",
+    "service_type": "ליאור",
+    "is_available": true
+  },
+  {
+    "date": "שישי, 25 אפריל 2025",
     "event_id": "30",
     "time": "19:00 - 22:00",
     "service_type": "ליאור",
@@ -997,13 +1004,6 @@
     "date": "שישי, 2 מאי 2025",
     "event_id": "6",
     "time": "08:00 - 10:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 2 מאי 2025",
-    "event_id": "9",
-    "time": "14:00 - 16:00",
     "service_type": "נאווה",
     "is_available": true
   },
