@@ -6,13 +6,6 @@
     "service_type": "ושתי",
     "is_available": true
   },
-  "שני, 21 אפריל 2025_40": {
-    "date": "שני, 21 אפריל 2025",
-    "event_id": "40",
-    "time": "06:00 - 09:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
   "שני, 21 אפריל 2025_36": {
     "date": "שני, 21 אפריל 2025",
     "event_id": "36",
@@ -692,13 +685,6 @@
     "service_type": "כרמן החדשה",
     "is_available": true
   },
-  "שני, 28 אפריל 2025_28": {
-    "date": "שני, 28 אפריל 2025",
-    "event_id": "28",
-    "time": "06:00 - 09:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
   "שני, 28 אפריל 2025_29": {
     "date": "שני, 28 אפריל 2025",
     "event_id": "29",
@@ -1053,13 +1039,6 @@
     "date": "חמישי, 1 מאי 2025",
     "event_id": "18",
     "time": "07:00 - 09:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
-  "חמישי, 1 מאי 2025_20": {
-    "date": "חמישי, 1 מאי 2025",
-    "event_id": "20",
-    "time": "11:00 - 13:00",
     "service_type": "קטמנדו",
     "is_available": true
   },
