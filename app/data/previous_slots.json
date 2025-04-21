@@ -202,13 +202,6 @@
     "service_type": "קרפה",
     "is_available": true
   },
-  "שבת, 26 אפריל 2025_3": {
-    "date": "שבת, 26 אפריל 2025",
-    "event_id": "3",
-    "time": "14:00 - 17:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
   "שבת, 26 אפריל 2025_5": {
     "date": "שבת, 26 אפריל 2025",
     "event_id": "5",
@@ -850,6 +843,13 @@
     "date": "שישי, 2 מאי 2025",
     "event_id": "22",
     "time": "15:00 - 17:00",
+    "service_type": "קטמנדו",
+    "is_available": true
+  },
+  "שישי, 2 מאי 2025_23": {
+    "date": "שישי, 2 מאי 2025",
+    "event_id": "23",
+    "time": "17:00 - 19:00",
     "service_type": "קטמנדו",
     "is_available": true
   },
