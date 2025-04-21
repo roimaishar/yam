@@ -83,13 +83,6 @@
     "service_type": "קטמנדו",
     "is_available": true
   },
-  "חמישי, 24 אפריל 2025_48": {
-    "date": "חמישי, 24 אפריל 2025",
-    "event_id": "48",
-    "time": "13:00 - 16:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
   "חמישי, 24 אפריל 2025_50": {
     "date": "חמישי, 24 אפריל 2025",
     "event_id": "50",
@@ -123,6 +116,13 @@
     "event_id": "18",
     "time": "19:00 - 22:00",
     "service_type": "רונית",
+    "is_available": true
+  },
+  "חמישי, 24 אפריל 2025_29": {
+    "date": "חמישי, 24 אפריל 2025",
+    "event_id": "29",
+    "time": "16:00 - 19:00",
+    "service_type": "ליאור",
     "is_available": true
   },
   "חמישי, 24 אפריל 2025_30": {
@@ -655,13 +655,6 @@
     "event_id": "20",
     "time": "13:00 - 16:00",
     "service_type": "קטמנדו",
-    "is_available": true
-  },
-  "חמישי, 1 מאי 2025_48": {
-    "date": "חמישי, 1 מאי 2025",
-    "event_id": "48",
-    "time": "19:00 - 22:00",
-    "service_type": "ושתי",
     "is_available": true
   },
   "חמישי, 1 מאי 2025_54": {
@@ -1200,13 +1193,6 @@
     "date": "ראשון, 4 מאי 2025",
     "event_id": "45",
     "time": "13:00 - 16:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  "ראשון, 4 מאי 2025_46": {
-    "date": "ראשון, 4 מאי 2025",
-    "event_id": "46",
-    "time": "16:00 - 19:00",
     "service_type": "ושתי",
     "is_available": true
   },
