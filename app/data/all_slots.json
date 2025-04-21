@@ -120,16 +120,16 @@
   },
   {
     "date": "חמישי, 24 אפריל 2025",
-    "event_id": "29",
-    "time": "16:00 - 19:00",
+    "event_id": "30",
+    "time": "19:00 - 22:00",
     "service_type": "ליאור",
     "is_available": true
   },
   {
-    "date": "חמישי, 24 אפריל 2025",
-    "event_id": "30",
-    "time": "19:00 - 22:00",
-    "service_type": "ליאור",
+    "date": "שישי, 25 אפריל 2025",
+    "event_id": "60",
+    "time": "18:00 - 21:00",
+    "service_type": "אסתר",
     "is_available": true
   },
   {
@@ -484,6 +484,13 @@
   },
   {
     "date": "שני, 28 אפריל 2025",
+    "event_id": "34",
+    "time": "11:00 - 14:00",
+    "service_type": "כרמן החדשה",
+    "is_available": true
+  },
+  {
+    "date": "שני, 28 אפריל 2025",
     "event_id": "29",
     "time": "09:00 - 12:00",
     "service_type": "מישל",
@@ -746,13 +753,6 @@
     "event_id": "17",
     "time": "19:00 - 22:00",
     "service_type": "רונית",
-    "is_available": true
-  },
-  {
-    "date": "חמישי, 1 מאי 2025",
-    "event_id": "27",
-    "time": "16:00 - 19:00",
-    "service_type": "ליאור",
     "is_available": true
   },
   {
