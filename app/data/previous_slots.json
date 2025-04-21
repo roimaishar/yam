@@ -55,13 +55,6 @@
     "service_type": "מישל",
     "is_available": true
   },
-  "רביעי, 23 אפריל 2025_25": {
-    "date": "רביעי, 23 אפריל 2025",
-    "event_id": "25",
-    "time": "13:00 - 16:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
   "רביעי, 23 אפריל 2025_27": {
     "date": "רביעי, 23 אפריל 2025",
     "event_id": "27",
@@ -486,13 +479,6 @@
     "date": "שני, 28 אפריל 2025",
     "event_id": "33",
     "time": "08:00 - 11:00",
-    "service_type": "כרמן החדשה",
-    "is_available": true
-  },
-  "שני, 28 אפריל 2025_34": {
-    "date": "שני, 28 אפריל 2025",
-    "event_id": "34",
-    "time": "11:00 - 14:00",
     "service_type": "כרמן החדשה",
     "is_available": true
   },
