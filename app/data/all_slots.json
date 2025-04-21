@@ -1,5 +1,12 @@
 [
   {
+    "date": "שני, 21 אפריל 2025",
+    "event_id": "23",
+    "time": "13:00 - 16:00",
+    "service_type": "קטמנדו",
+    "is_available": true
+  },
+  {
     "date": "רביעי, 23 אפריל 2025",
     "event_id": "44",
     "time": "10:00 - 13:00",
@@ -423,13 +430,6 @@
     "date": "שני, 28 אפריל 2025",
     "event_id": "60",
     "time": "08:00 - 11:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
-  {
-    "date": "שני, 28 אפריל 2025",
-    "event_id": "61",
-    "time": "11:00 - 14:00",
     "service_type": "רוני",
     "is_available": true
   },
