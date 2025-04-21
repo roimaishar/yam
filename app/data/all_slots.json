@@ -22,13 +22,6 @@
   },
   {
     "date": "שלישי, 22 אפריל 2025",
-    "event_id": "15",
-    "time": "10:00 - 13:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 22 אפריל 2025",
     "event_id": "24",
     "time": "10:00 - 13:00",
     "service_type": "ליאור",
