@@ -15,6 +15,13 @@
   },
   {
     "date": "שלישי, 22 אפריל 2025",
+    "event_id": "40",
+    "time": "12:00 - 15:00",
+    "service_type": "הרמוני",
+    "is_available": true
+  },
+  {
+    "date": "שלישי, 22 אפריל 2025",
     "event_id": "15",
     "time": "10:00 - 13:00",
     "service_type": "רונית",
@@ -340,13 +347,6 @@
     "event_id": "49",
     "time": "19:00 - 22:00",
     "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 27 אפריל 2025",
-    "event_id": "60",
-    "time": "08:00 - 11:00",
-    "service_type": "רוני",
     "is_available": true
   },
   {
