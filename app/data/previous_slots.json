@@ -573,6 +573,13 @@
     "service_type": "הרמוני",
     "is_available": true
   },
+  "רביעי, 30 אפריל 2025_41": {
+    "date": "רביעי, 30 אפריל 2025",
+    "event_id": "41",
+    "time": "18:00 - 21:00",
+    "service_type": "הרמוני",
+    "is_available": true
+  },
   "רביעי, 30 אפריל 2025_36": {
     "date": "רביעי, 30 אפריל 2025",
     "event_id": "36",
@@ -836,6 +843,13 @@
     "date": "שישי, 2 מאי 2025",
     "event_id": "18",
     "time": "07:00 - 09:00",
+    "service_type": "קטמנדו",
+    "is_available": true
+  },
+  "שישי, 2 מאי 2025_22": {
+    "date": "שישי, 2 מאי 2025",
+    "event_id": "22",
+    "time": "15:00 - 17:00",
     "service_type": "קטמנדו",
     "is_available": true
   },
