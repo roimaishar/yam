@@ -6,6 +6,13 @@
     "service_type": "ושתי",
     "is_available": true
   },
+  "רביעי, 23 אפריל 2025_54": {
+    "date": "רביעי, 23 אפריל 2025",
+    "event_id": "54",
+    "time": "09:00 - 12:00",
+    "service_type": "אסתר",
+    "is_available": true
+  },
   "רביעי, 23 אפריל 2025_55": {
     "date": "רביעי, 23 אפריל 2025",
     "event_id": "55",
@@ -648,13 +655,6 @@
     "event_id": "63",
     "time": "20:00 - 23:00",
     "service_type": "רוני",
-    "is_available": true
-  },
-  "חמישי, 1 מאי 2025_4": {
-    "date": "חמישי, 1 מאי 2025",
-    "event_id": "4",
-    "time": "17:00 - 20:00",
-    "service_type": "קרפה",
     "is_available": true
   },
   "חמישי, 1 מאי 2025_5": {
