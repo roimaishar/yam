@@ -1408,13 +1408,6 @@
   },
   {
     "date": "שני, 5 מאי 2025",
-    "event_id": "45",
-    "time": "16:00 - 19:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "שני, 5 מאי 2025",
     "event_id": "46",
     "time": "19:00 - 22:00",
     "service_type": "ושתי",
