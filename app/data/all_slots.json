@@ -29,9 +29,9 @@
   },
   {
     "date": "רביעי, 23 אפריל 2025",
-    "event_id": "36",
-    "time": "17:00 - 20:00",
-    "service_type": "כרמן החדשה",
+    "event_id": "41",
+    "time": "15:00 - 18:00",
+    "service_type": "הרמוני",
     "is_available": true
   },
   {
@@ -780,6 +780,13 @@
     "date": "שישי, 2 מאי 2025",
     "event_id": "18",
     "time": "07:00 - 09:00",
+    "service_type": "קטמנדו",
+    "is_available": true
+  },
+  {
+    "date": "שישי, 2 מאי 2025",
+    "event_id": "22",
+    "time": "15:00 - 17:00",
     "service_type": "קטמנדו",
     "is_available": true
   },
