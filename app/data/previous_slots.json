@@ -104,6 +104,13 @@
     "service_type": "רוני",
     "is_available": true
   },
+  "שישי, 25 אפריל 2025_3": {
+    "date": "שישי, 25 אפריל 2025",
+    "event_id": "3",
+    "time": "14:00 - 17:00",
+    "service_type": "קרפה",
+    "is_available": true
+  },
   "שישי, 25 אפריל 2025_5": {
     "date": "שישי, 25 אפריל 2025",
     "event_id": "5",
@@ -990,13 +997,6 @@
     "date": "ראשון, 4 מאי 2025",
     "event_id": "59",
     "time": "08:00 - 11:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
-  "ראשון, 4 מאי 2025_60": {
-    "date": "ראשון, 4 מאי 2025",
-    "event_id": "60",
-    "time": "11:00 - 14:00",
     "service_type": "רוני",
     "is_available": true
   },
