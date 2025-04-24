@@ -1140,13 +1140,6 @@
     "service_type": "קרפה",
     "is_available": true
   },
-  "שני, 5 מאי 2025_4": {
-    "date": "שני, 5 מאי 2025",
-    "event_id": "4",
-    "time": "17:00 - 20:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
   "שני, 5 מאי 2025_5": {
     "date": "שני, 5 מאי 2025",
     "event_id": "5",
@@ -1746,13 +1739,6 @@
     "date": "רביעי, 7 מאי 2025",
     "event_id": "39",
     "time": "12:00 - 15:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  "רביעי, 7 מאי 2025_41": {
-    "date": "רביעי, 7 מאי 2025",
-    "event_id": "41",
-    "time": "18:00 - 21:00",
     "service_type": "הרמוני",
     "is_available": true
   },
