@@ -183,13 +183,6 @@
   },
   {
     "date": "שני, 28 אפריל 2025",
-    "event_id": "62",
-    "time": "14:00 - 17:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
-  {
-    "date": "שני, 28 אפריל 2025",
     "event_id": "19",
     "time": "07:00 - 10:00",
     "service_type": "קטמנדו",
