@@ -56,7 +56,8 @@ async def save_authenticated_session():
         # Wait for navigation to complete after login
         try:
             print("Waiting for login to complete...")
-            await page.wait_for_navigation(timeout=5000)
+            # Don't use wait_for_navigation as it's deprecated
+            await page.wait_for_timeout(3000)
         except Exception as e:
             print(f"Navigation timeout: {e}")
             print("Proceeding with login validation anyway...")
@@ -208,7 +209,14 @@ async def scrape_calendar_slots_for_days(days=14, filters=None):
             next_button = await page.query_selector('.dhx_cal_next_button')
             if next_button:
                 await next_button.click()
-                await page.wait_for_load_state("networkidle")
+                try:
+                    # Use domcontentloaded instead of networkidle to avoid timeouts
+                    await page.wait_for_load_state("domcontentloaded", timeout=5000)
+                except Exception as e:
+                    print(f"Warning: Load state timeout: {e}")
+                    print("Continuing with calendar navigation...")
+                
+                # Always wait a bit for the calendar to update
                 await page.wait_for_timeout(1000)
                 
                 date_element = await page.query_selector('.dhx_cal_date')
