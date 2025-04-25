@@ -132,6 +132,13 @@
     "service_type": "ושתי",
     "is_available": true
   },
+  "ראשון, 27 אפריל 2025_58": {
+    "date": "ראשון, 27 אפריל 2025",
+    "event_id": "58",
+    "time": "15:00 - 18:00",
+    "service_type": "אסתר",
+    "is_available": true
+  },
   "ראשון, 27 אפריל 2025_64": {
     "date": "ראשון, 27 אפריל 2025",
     "event_id": "64",
@@ -739,6 +746,13 @@
     "event_id": "47",
     "time": "19:00 - 22:00",
     "service_type": "ושתי",
+    "is_available": true
+  },
+  "ראשון, 4 מאי 2025_56": {
+    "date": "ראשון, 4 מאי 2025",
+    "event_id": "56",
+    "time": "12:00 - 15:00",
+    "service_type": "אסתר",
     "is_available": true
   },
   "ראשון, 4 מאי 2025_59": {
