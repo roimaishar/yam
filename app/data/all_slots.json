@@ -183,6 +183,13 @@
   },
   {
     "date": "שני, 28 אפריל 2025",
+    "event_id": "62",
+    "time": "14:00 - 17:00",
+    "service_type": "רוני",
+    "is_available": true
+  },
+  {
+    "date": "שני, 28 אפריל 2025",
     "event_id": "19",
     "time": "07:00 - 10:00",
     "service_type": "קטמנדו",
@@ -382,13 +389,6 @@
     "event_id": "17",
     "time": "19:00 - 22:00",
     "service_type": "רונית",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 2 מאי 2025",
-    "event_id": "24",
-    "time": "07:00 - 10:00",
-    "service_type": "ליאור",
     "is_available": true
   },
   {
@@ -990,6 +990,13 @@
     "date": "שני, 5 מאי 2025",
     "event_id": "57",
     "time": "08:00 - 11:00",
+    "service_type": "רוני",
+    "is_available": true
+  },
+  {
+    "date": "שני, 5 מאי 2025",
+    "event_id": "58",
+    "time": "11:00 - 14:00",
     "service_type": "רוני",
     "is_available": true
   },
