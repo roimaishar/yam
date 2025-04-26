@@ -211,13 +211,6 @@
   },
   {
     "date": "שישי, 2 מאי 2025",
-    "event_id": "39",
-    "time": "06:00 - 09:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 2 מאי 2025",
     "event_id": "38",
     "time": "20:00 - 23:00",
     "service_type": "כרמן החדשה",
@@ -1772,13 +1765,6 @@
   },
   {
     "date": "שישי, 9 מאי 2025",
-    "event_id": "59",
-    "time": "18:00 - 21:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 9 מאי 2025",
     "event_id": "64",
     "time": "20:00 - 23:00",
     "service_type": "רוני",
@@ -1830,13 +1816,6 @@
     "date": "שישי, 9 מאי 2025",
     "event_id": "8",
     "time": "12:00 - 14:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 9 מאי 2025",
-    "event_id": "9",
-    "time": "14:00 - 16:00",
     "service_type": "נאווה",
     "is_available": true
   },

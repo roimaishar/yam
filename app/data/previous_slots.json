@@ -209,13 +209,6 @@
     "service_type": "קרפה",
     "is_available": true
   },
-  "שישי, 2 מאי 2025_39": {
-    "date": "שישי, 2 מאי 2025",
-    "event_id": "39",
-    "time": "06:00 - 09:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
   "שישי, 2 מאי 2025_38": {
     "date": "שישי, 2 מאי 2025",
     "event_id": "38",
@@ -1770,13 +1763,6 @@
     "service_type": "אסתר",
     "is_available": true
   },
-  "שישי, 9 מאי 2025_59": {
-    "date": "שישי, 9 מאי 2025",
-    "event_id": "59",
-    "time": "18:00 - 21:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
   "שישי, 9 מאי 2025_64": {
     "date": "שישי, 9 מאי 2025",
     "event_id": "64",
@@ -1830,13 +1816,6 @@
     "date": "שישי, 9 מאי 2025",
     "event_id": "8",
     "time": "12:00 - 14:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  "שישי, 9 מאי 2025_9": {
-    "date": "שישי, 9 מאי 2025",
-    "event_id": "9",
-    "time": "14:00 - 16:00",
     "service_type": "נאווה",
     "is_available": true
   },
