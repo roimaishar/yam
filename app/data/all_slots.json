@@ -71,13 +71,6 @@
   },
   {
     "date": "רביעי, 30 אפריל 2025",
-    "event_id": "19",
-    "time": "10:00 - 13:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 30 אפריל 2025",
     "event_id": "20",
     "time": "13:00 - 16:00",
     "service_type": "קטמנדו",
@@ -1676,13 +1669,6 @@
     "date": "שישי, 9 מאי 2025",
     "event_id": "30",
     "time": "06:00 - 09:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 9 מאי 2025",
-    "event_id": "34",
-    "time": "18:00 - 21:00",
     "service_type": "מישל",
     "is_available": true
   },
