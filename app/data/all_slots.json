@@ -64,13 +64,6 @@
   },
   {
     "date": "רביעי, 30 אפריל 2025",
-    "event_id": "22",
-    "time": "07:00 - 10:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 30 אפריל 2025",
     "event_id": "20",
     "time": "13:00 - 16:00",
     "service_type": "קטמנדו",
@@ -206,13 +199,6 @@
     "date": "שבת, 3 מאי 2025",
     "event_id": "55",
     "time": "12:00 - 15:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 3 מאי 2025",
-    "event_id": "56",
-    "time": "15:00 - 18:00",
     "service_type": "אסתר",
     "is_available": true
   },
