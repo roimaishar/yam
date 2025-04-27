@@ -176,13 +176,6 @@
   },
   {
     "date": "שישי, 2 מאי 2025",
-    "event_id": "22",
-    "time": "15:00 - 17:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 2 מאי 2025",
     "event_id": "23",
     "time": "17:00 - 19:00",
     "service_type": "קטמנדו",
