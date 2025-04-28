@@ -475,13 +475,6 @@
     "service_type": "הרמוני",
     "is_available": true
   },
-  "ראשון, 4 מאי 2025_42": {
-    "date": "ראשון, 4 מאי 2025",
-    "event_id": "42",
-    "time": "18:00 - 21:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
   "ראשון, 4 מאי 2025_32": {
     "date": "ראשון, 4 מאי 2025",
     "event_id": "32",
@@ -647,13 +640,6 @@
     "date": "שני, 5 מאי 2025",
     "event_id": "57",
     "time": "08:00 - 11:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
-  "שני, 5 מאי 2025_58": {
-    "date": "שני, 5 מאי 2025",
-    "event_id": "58",
-    "time": "11:00 - 14:00",
     "service_type": "רוני",
     "is_available": true
   },
