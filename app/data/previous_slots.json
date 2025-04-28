@@ -83,6 +83,13 @@
     "service_type": "נאווה",
     "is_available": true
   },
+  "חמישי, 1 מאי 2025_14": {
+    "date": "חמישי, 1 מאי 2025",
+    "event_id": "14",
+    "time": "07:00 - 10:00",
+    "service_type": "רונית",
+    "is_available": true
+  },
   "חמישי, 1 מאי 2025_18": {
     "date": "חמישי, 1 מאי 2025",
     "event_id": "18",
