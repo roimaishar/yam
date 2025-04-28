@@ -27,13 +27,6 @@
     "service_type": "כרמן החדשה",
     "is_available": true
   },
-  "רביעי, 30 אפריל 2025_9": {
-    "date": "רביעי, 30 אפריל 2025",
-    "event_id": "9",
-    "time": "14:00 - 16:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
   "רביעי, 30 אפריל 2025_12": {
     "date": "רביעי, 30 אפריל 2025",
     "event_id": "12",
@@ -360,13 +353,6 @@
     "date": "ראשון, 4 מאי 2025",
     "event_id": "43",
     "time": "07:00 - 10:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  "ראשון, 4 מאי 2025_45": {
-    "date": "ראשון, 4 מאי 2025",
-    "event_id": "45",
-    "time": "13:00 - 16:00",
     "service_type": "ושתי",
     "is_available": true
   },
