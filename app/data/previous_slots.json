@@ -461,6 +461,13 @@
     "service_type": "מישל",
     "is_available": true
   },
+  "ראשון, 4 מאי 2025_29": {
+    "date": "ראשון, 4 מאי 2025",
+    "event_id": "29",
+    "time": "12:00 - 15:00",
+    "service_type": "מישל",
+    "is_available": true
+  },
   "ראשון, 4 מאי 2025_31": {
     "date": "ראשון, 4 מאי 2025",
     "event_id": "31",
@@ -878,13 +885,6 @@
     "date": "שלישי, 6 מאי 2025",
     "event_id": "29",
     "time": "12:00 - 15:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  "שלישי, 6 מאי 2025_30": {
-    "date": "שלישי, 6 מאי 2025",
-    "event_id": "30",
-    "time": "15:00 - 18:00",
     "service_type": "מישל",
     "is_available": true
   },
