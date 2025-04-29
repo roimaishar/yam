@@ -111,6 +111,13 @@
     "service_type": "ליאור",
     "is_available": true
   },
+  "חמישי, 1 מאי 2025_24": {
+    "date": "חמישי, 1 מאי 2025",
+    "event_id": "24",
+    "time": "17:00 - 19:00",
+    "service_type": "קטמנדו",
+    "is_available": true
+  },
   "שישי, 2 מאי 2025_63": {
     "date": "שישי, 2 מאי 2025",
     "event_id": "63",
