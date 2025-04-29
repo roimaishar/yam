@@ -734,13 +734,6 @@
     "service_type": "קטמנדו",
     "is_available": true
   },
-  "שלישי, 6 מאי 2025_43": {
-    "date": "שלישי, 6 מאי 2025",
-    "event_id": "43",
-    "time": "10:00 - 13:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
   "שלישי, 6 מאי 2025_46": {
     "date": "שלישי, 6 מאי 2025",
     "event_id": "46",
@@ -1264,13 +1257,6 @@
     "event_id": "12",
     "time": "20:00 - 22:00",
     "service_type": "נאווה",
-    "is_available": true
-  },
-  "חמישי, 8 מאי 2025_13": {
-    "date": "חמישי, 8 מאי 2025",
-    "event_id": "13",
-    "time": "07:00 - 10:00",
-    "service_type": "רונית",
     "is_available": true
   },
   "חמישי, 8 מאי 2025_17": {
