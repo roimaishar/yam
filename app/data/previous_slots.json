@@ -244,6 +244,13 @@
     "service_type": "הרמוני",
     "is_available": true
   },
+  "שבת, 3 מאי 2025_42": {
+    "date": "שבת, 3 מאי 2025",
+    "event_id": "42",
+    "time": "18:00 - 21:00",
+    "service_type": "הרמוני",
+    "is_available": true
+  },
   "שבת, 3 מאי 2025_36": {
     "date": "שבת, 3 מאי 2025",
     "event_id": "36",
@@ -381,13 +388,6 @@
     "date": "ראשון, 4 מאי 2025",
     "event_id": "2",
     "time": "11:00 - 14:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
-  "ראשון, 4 מאי 2025_3": {
-    "date": "ראשון, 4 מאי 2025",
-    "event_id": "3",
-    "time": "14:00 - 17:00",
     "service_type": "קרפה",
     "is_available": true
   },
