@@ -960,13 +960,6 @@
   },
   {
     "date": "שלישי, 6 מאי 2025",
-    "event_id": "22",
-    "time": "07:00 - 10:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 6 מאי 2025",
     "event_id": "23",
     "time": "10:00 - 13:00",
     "service_type": "ליאור",
