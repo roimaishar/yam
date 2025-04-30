@@ -372,13 +372,6 @@
   },
   {
     "date": "ראשון, 4 מאי 2025",
-    "event_id": "31",
-    "time": "18:00 - 21:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 4 מאי 2025",
     "event_id": "7",
     "time": "10:00 - 12:00",
     "service_type": "נאווה",
@@ -493,13 +486,6 @@
     "date": "שני, 5 מאי 2025",
     "event_id": "38",
     "time": "09:00 - 12:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  {
-    "date": "שני, 5 מאי 2025",
-    "event_id": "41",
-    "time": "18:00 - 21:00",
     "service_type": "הרמוני",
     "is_available": true
   },
