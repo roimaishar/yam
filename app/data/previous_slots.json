@@ -62,13 +62,6 @@
     "service_type": "ושתי",
     "is_available": true
   },
-  "חמישי, 1 מאי 2025_57": {
-    "date": "חמישי, 1 מאי 2025",
-    "event_id": "57",
-    "time": "12:00 - 15:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
   "חמישי, 1 מאי 2025_59": {
     "date": "חמישי, 1 מאי 2025",
     "event_id": "59",
@@ -738,13 +731,6 @@
     "date": "שלישי, 6 מאי 2025",
     "event_id": "38",
     "time": "09:00 - 12:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  "שלישי, 6 מאי 2025_40": {
-    "date": "שלישי, 6 מאי 2025",
-    "event_id": "40",
-    "time": "15:00 - 18:00",
     "service_type": "הרמוני",
     "is_available": true
   },
