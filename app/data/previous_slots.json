@@ -62,13 +62,6 @@
     "service_type": "אסתר",
     "is_available": true
   },
-  "חמישי, 1 מאי 2025_64": {
-    "date": "חמישי, 1 מאי 2025",
-    "event_id": "64",
-    "time": "17:00 - 20:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
   "חמישי, 1 מאי 2025_65": {
     "date": "חמישי, 1 מאי 2025",
     "event_id": "65",
@@ -482,6 +475,13 @@
     "service_type": "קרפה",
     "is_available": true
   },
+  "שני, 5 מאי 2025_3": {
+    "date": "שני, 5 מאי 2025",
+    "event_id": "3",
+    "time": "14:00 - 17:00",
+    "service_type": "קרפה",
+    "is_available": true
+  },
   "שני, 5 מאי 2025_5": {
     "date": "שני, 5 מאי 2025",
     "event_id": "5",
@@ -585,13 +585,6 @@
     "event_id": "17",
     "time": "19:00 - 22:00",
     "service_type": "רונית",
-    "is_available": true
-  },
-  "שני, 5 מאי 2025_22": {
-    "date": "שני, 5 מאי 2025",
-    "event_id": "22",
-    "time": "07:00 - 10:00",
-    "service_type": "ליאור",
     "is_available": true
   },
   "שני, 5 מאי 2025_23": {
