@@ -279,20 +279,6 @@
     "service_type": "נאווה",
     "is_available": true
   },
-  "שבת, 3 מאי 2025_10": {
-    "date": "שבת, 3 מאי 2025",
-    "event_id": "10",
-    "time": "16:00 - 18:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  "שבת, 3 מאי 2025_11": {
-    "date": "שבת, 3 מאי 2025",
-    "event_id": "11",
-    "time": "18:00 - 20:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
   "שבת, 3 מאי 2025_12": {
     "date": "שבת, 3 מאי 2025",
     "event_id": "12",
@@ -549,13 +535,6 @@
     "date": "שני, 5 מאי 2025",
     "event_id": "38",
     "time": "09:00 - 12:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  "שני, 5 מאי 2025_39": {
-    "date": "שני, 5 מאי 2025",
-    "event_id": "39",
-    "time": "12:00 - 15:00",
     "service_type": "הרמוני",
     "is_available": true
   },
