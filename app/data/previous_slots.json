@@ -48,13 +48,6 @@
     "service_type": "ושתי",
     "is_available": true
   },
-  "חמישי, 1 מאי 2025_60": {
-    "date": "חמישי, 1 מאי 2025",
-    "event_id": "60",
-    "time": "18:00 - 21:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
   "חמישי, 1 מאי 2025_65": {
     "date": "חמישי, 1 מאי 2025",
     "event_id": "65",
@@ -248,13 +241,6 @@
     "date": "שבת, 3 מאי 2025",
     "event_id": "28",
     "time": "06:00 - 09:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  "שבת, 3 מאי 2025_30": {
-    "date": "שבת, 3 מאי 2025",
-    "event_id": "30",
-    "time": "12:00 - 15:00",
     "service_type": "מישל",
     "is_available": true
   },
