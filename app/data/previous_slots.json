@@ -510,13 +510,6 @@
     "service_type": "ושתי",
     "is_available": true
   },
-  "שלישי, 6 מאי 2025_52": {
-    "date": "שלישי, 6 מאי 2025",
-    "event_id": "52",
-    "time": "06:00 - 09:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
   "שלישי, 6 מאי 2025_57": {
     "date": "שלישי, 6 מאי 2025",
     "event_id": "57",
@@ -766,6 +759,13 @@
     "date": "רביעי, 7 מאי 2025",
     "event_id": "39",
     "time": "12:00 - 15:00",
+    "service_type": "הרמוני",
+    "is_available": true
+  },
+  "רביעי, 7 מאי 2025_41": {
+    "date": "רביעי, 7 מאי 2025",
+    "event_id": "41",
+    "time": "18:00 - 21:00",
     "service_type": "הרמוני",
     "is_available": true
   },
@@ -2306,6 +2306,13 @@
     "date": "שלישי, 13 מאי 2025",
     "event_id": "19",
     "time": "10:00 - 13:00",
+    "service_type": "קטמנדו",
+    "is_available": true
+  },
+  "שלישי, 13 מאי 2025_21": {
+    "date": "שלישי, 13 מאי 2025",
+    "event_id": "21",
+    "time": "16:00 - 19:00",
     "service_type": "קטמנדו",
     "is_available": true
   },
