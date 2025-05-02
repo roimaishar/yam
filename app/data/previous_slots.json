@@ -2386,6 +2386,13 @@
     "service_type": "קטמנדו",
     "is_available": true
   },
+  "חמישי, 15 מאי 2025_47": {
+    "date": "חמישי, 15 מאי 2025",
+    "event_id": "47",
+    "time": "10:00 - 13:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
   "חמישי, 15 מאי 2025_50": {
     "date": "חמישי, 15 מאי 2025",
     "event_id": "50",
@@ -2439,13 +2446,6 @@
     "date": "חמישי, 15 מאי 2025",
     "event_id": "41",
     "time": "06:00 - 09:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  "חמישי, 15 מאי 2025_44": {
-    "date": "חמישי, 15 מאי 2025",
-    "event_id": "44",
-    "time": "15:00 - 18:00",
     "service_type": "הרמוני",
     "is_available": true
   },
