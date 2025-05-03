@@ -1856,13 +1856,6 @@
   },
   {
     "date": "רביעי, 14 מאי 2025",
-    "event_id": "45",
-    "time": "16:00 - 19:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 14 מאי 2025",
     "event_id": "52",
     "time": "06:00 - 09:00",
     "service_type": "אסתר",
