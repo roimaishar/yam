@@ -97,13 +97,6 @@
     "service_type": "רונית",
     "is_available": true
   },
-  "ראשון, 4 מאי 2025_22": {
-    "date": "ראשון, 4 מאי 2025",
-    "event_id": "22",
-    "time": "07:00 - 10:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
   "ראשון, 4 מאי 2025_23": {
     "date": "ראשון, 4 מאי 2025",
     "event_id": "23",
@@ -444,13 +437,6 @@
     "date": "שלישי, 6 מאי 2025",
     "event_id": "19",
     "time": "10:00 - 13:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
-  "שלישי, 6 מאי 2025_20": {
-    "date": "שלישי, 6 מאי 2025",
-    "event_id": "20",
-    "time": "13:00 - 16:00",
     "service_type": "קטמנדו",
     "is_available": true
   },
@@ -1683,13 +1669,6 @@
     "date": "שלישי, 13 מאי 2025",
     "event_id": "58",
     "time": "11:00 - 14:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
-  "שלישי, 13 מאי 2025_60": {
-    "date": "שלישי, 13 מאי 2025",
-    "event_id": "60",
-    "time": "17:00 - 20:00",
     "service_type": "רוני",
     "is_available": true
   },
