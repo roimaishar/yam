@@ -664,6 +664,13 @@
     "service_type": "ושתי",
     "is_available": true
   },
+  "שישי, 9 מאי 2025_55": {
+    "date": "שישי, 9 מאי 2025",
+    "event_id": "55",
+    "time": "06:00 - 09:00",
+    "service_type": "אסתר",
+    "is_available": true
+  },
   "שישי, 9 מאי 2025_64": {
     "date": "שישי, 9 מאי 2025",
     "event_id": "64",
