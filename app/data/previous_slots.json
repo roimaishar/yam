@@ -174,6 +174,13 @@
     "service_type": "קטמנדו",
     "is_available": true
   },
+  "שלישי, 6 מאי 2025_54": {
+    "date": "שלישי, 6 מאי 2025",
+    "event_id": "54",
+    "time": "12:00 - 15:00",
+    "service_type": "אסתר",
+    "is_available": true
+  },
   "שלישי, 6 מאי 2025_57": {
     "date": "שלישי, 6 מאי 2025",
     "event_id": "57",
