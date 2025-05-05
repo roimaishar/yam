@@ -848,13 +848,6 @@
   },
   {
     "date": "ראשון, 11 מאי 2025",
-    "event_id": "17",
-    "time": "16:00 - 19:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 11 מאי 2025",
     "event_id": "18",
     "time": "19:00 - 22:00",
     "service_type": "רונית",
@@ -914,20 +907,6 @@
     "event_id": "46",
     "time": "19:00 - 22:00",
     "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "שני, 12 מאי 2025",
-    "event_id": "52",
-    "time": "06:00 - 09:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "שני, 12 מאי 2025",
-    "event_id": "53",
-    "time": "09:00 - 12:00",
-    "service_type": "אסתר",
     "is_available": true
   },
   {
@@ -1158,13 +1137,6 @@
     "date": "שני, 12 מאי 2025",
     "event_id": "22",
     "time": "07:00 - 10:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
-  {
-    "date": "שני, 12 מאי 2025",
-    "event_id": "23",
-    "time": "10:00 - 13:00",
     "service_type": "ליאור",
     "is_available": true
   },
@@ -1968,27 +1940,6 @@
   },
   {
     "date": "שבת, 17 מאי 2025",
-    "event_id": "53",
-    "time": "06:00 - 09:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 17 מאי 2025",
-    "event_id": "54",
-    "time": "09:00 - 12:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 17 מאי 2025",
-    "event_id": "57",
-    "time": "18:00 - 21:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 17 מאי 2025",
     "event_id": "58",
     "time": "08:00 - 11:00",
     "service_type": "רוני",
@@ -2279,34 +2230,6 @@
     "event_id": "47",
     "time": "19:00 - 22:00",
     "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 18 מאי 2025",
-    "event_id": "54",
-    "time": "06:00 - 09:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 18 מאי 2025",
-    "event_id": "56",
-    "time": "12:00 - 15:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 18 מאי 2025",
-    "event_id": "57",
-    "time": "15:00 - 18:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 18 מאי 2025",
-    "event_id": "58",
-    "time": "18:00 - 21:00",
-    "service_type": "אסתר",
     "is_available": true
   },
   {
