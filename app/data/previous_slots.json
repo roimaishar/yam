@@ -272,6 +272,13 @@
     "service_type": "קרפה",
     "is_available": true
   },
+  "חמישי, 8 מאי 2025_44": {
+    "date": "חמישי, 8 מאי 2025",
+    "event_id": "44",
+    "time": "18:00 - 21:00",
+    "service_type": "הרמוני",
+    "is_available": true
+  },
   "חמישי, 8 מאי 2025_39": {
     "date": "חמישי, 8 מאי 2025",
     "event_id": "39",
