@@ -827,20 +827,6 @@
   },
   {
     "date": "ראשון, 11 מאי 2025",
-    "event_id": "14",
-    "time": "07:00 - 10:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 11 מאי 2025",
-    "event_id": "15",
-    "time": "10:00 - 13:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 11 מאי 2025",
     "event_id": "16",
     "time": "13:00 - 16:00",
     "service_type": "רונית",
@@ -2454,20 +2440,6 @@
     "event_id": "17",
     "time": "19:00 - 22:00",
     "service_type": "רונית",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 18 מאי 2025",
-    "event_id": "22",
-    "time": "07:00 - 10:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 18 מאי 2025",
-    "event_id": "23",
-    "time": "10:00 - 13:00",
-    "service_type": "ליאור",
     "is_available": true
   },
   {
