@@ -1470,13 +1470,6 @@
     "is_available": true
   },
   {
-    "date": "שלישי, 13 מאי 2025",
-    "event_id": "21",
-    "time": "16:00 - 19:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
-  {
     "date": "רביעי, 14 מאי 2025",
     "event_id": "42",
     "time": "07:00 - 10:00",
@@ -2271,13 +2264,6 @@
     "date": "ראשון, 18 מאי 2025",
     "event_id": "43",
     "time": "07:00 - 10:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 18 מאי 2025",
-    "event_id": "44",
-    "time": "10:00 - 13:00",
     "service_type": "ושתי",
     "is_available": true
   },
