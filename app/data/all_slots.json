@@ -161,6 +161,13 @@
     "is_available": true
   },
   {
+    "date": "שלישי, 6 מאי 2025",
+    "event_id": "20",
+    "time": "13:00 - 16:00",
+    "service_type": "קטמנדו",
+    "is_available": true
+  },
+  {
     "date": "רביעי, 7 מאי 2025",
     "event_id": "52",
     "time": "06:00 - 09:00",
