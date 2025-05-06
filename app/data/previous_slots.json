@@ -6,6 +6,13 @@
     "service_type": "אסתר",
     "is_available": true
   },
+  "רביעי, 7 מאי 2025_59": {
+    "date": "רביעי, 7 מאי 2025",
+    "event_id": "59",
+    "time": "14:00 - 17:00",
+    "service_type": "רוני",
+    "is_available": true
+  },
   "רביעי, 7 מאי 2025_61": {
     "date": "רביעי, 7 מאי 2025",
     "event_id": "61",
@@ -17,13 +24,6 @@
     "date": "רביעי, 7 מאי 2025",
     "event_id": "1",
     "time": "08:00 - 11:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
-  "רביעי, 7 מאי 2025_2": {
-    "date": "רביעי, 7 מאי 2025",
-    "event_id": "2",
-    "time": "11:00 - 14:00",
     "service_type": "קרפה",
     "is_available": true
   },
@@ -39,6 +39,13 @@
     "event_id": "5",
     "time": "20:00 - 23:00",
     "service_type": "קרפה",
+    "is_available": true
+  },
+  "רביעי, 7 מאי 2025_39": {
+    "date": "רביעי, 7 מאי 2025",
+    "event_id": "39",
+    "time": "12:00 - 15:00",
+    "service_type": "הרמוני",
     "is_available": true
   },
   "רביעי, 7 מאי 2025_41": {
