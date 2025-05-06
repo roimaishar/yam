@@ -36,13 +36,6 @@
   },
   {
     "date": "רביעי, 7 מאי 2025",
-    "event_id": "14",
-    "time": "10:00 - 13:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 7 מאי 2025",
     "event_id": "18",
     "time": "07:00 - 10:00",
     "service_type": "קטמנדו",
