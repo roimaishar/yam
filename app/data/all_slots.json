@@ -126,13 +126,6 @@
     "is_available": true
   },
   {
-    "date": "שישי, 9 מאי 2025",
-    "event_id": "17",
-    "time": "19:00 - 22:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
-  {
     "date": "שבת, 10 מאי 2025",
     "event_id": "48",
     "time": "19:00 - 22:00",
@@ -157,13 +150,6 @@
     "date": "שבת, 10 מאי 2025",
     "event_id": "56",
     "time": "12:00 - 15:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 10 מאי 2025",
-    "event_id": "57",
-    "time": "15:00 - 18:00",
     "service_type": "אסתר",
     "is_available": true
   },
@@ -248,13 +234,6 @@
     "date": "שבת, 10 מאי 2025",
     "event_id": "29",
     "time": "06:00 - 09:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 10 מאי 2025",
-    "event_id": "32",
-    "time": "15:00 - 18:00",
     "service_type": "מישל",
     "is_available": true
   },
