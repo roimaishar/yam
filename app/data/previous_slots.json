@@ -62,13 +62,6 @@
     "service_type": "קרפה",
     "is_available": true
   },
-  "שבת, 10 מאי 2025_41": {
-    "date": "שבת, 10 מאי 2025",
-    "event_id": "41",
-    "time": "12:00 - 15:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
   "שבת, 10 מאי 2025_43": {
     "date": "שבת, 10 מאי 2025",
     "event_id": "43",
@@ -594,13 +587,6 @@
     "service_type": "ושתי",
     "is_available": true
   },
-  "שלישי, 13 מאי 2025_44": {
-    "date": "שלישי, 13 מאי 2025",
-    "event_id": "44",
-    "time": "13:00 - 16:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
   "שלישי, 13 מאי 2025_52": {
     "date": "שלישי, 13 מאי 2025",
     "event_id": "52",
@@ -1019,13 +1005,6 @@
     "event_id": "35",
     "time": "18:00 - 21:00",
     "service_type": "מישל",
-    "is_available": true
-  },
-  "חמישי, 15 מאי 2025_6": {
-    "date": "חמישי, 15 מאי 2025",
-    "event_id": "6",
-    "time": "08:00 - 10:00",
-    "service_type": "נאווה",
     "is_available": true
   },
   "חמישי, 15 מאי 2025_11": {
