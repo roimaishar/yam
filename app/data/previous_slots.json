@@ -643,13 +643,6 @@
     "service_type": "ושתי",
     "is_available": true
   },
-  "שלישי, 13 מאי 2025_46": {
-    "date": "שלישי, 13 מאי 2025",
-    "event_id": "46",
-    "time": "19:00 - 22:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
   "שלישי, 13 מאי 2025_52": {
     "date": "שלישי, 13 מאי 2025",
     "event_id": "52",
@@ -703,13 +696,6 @@
     "date": "שלישי, 13 מאי 2025",
     "event_id": "38",
     "time": "09:00 - 12:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  "שלישי, 13 מאי 2025_39": {
-    "date": "שלישי, 13 מאי 2025",
-    "event_id": "39",
-    "time": "12:00 - 15:00",
     "service_type": "הרמוני",
     "is_available": true
   },
@@ -899,13 +885,6 @@
     "date": "רביעי, 14 מאי 2025",
     "event_id": "37",
     "time": "06:00 - 09:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  "רביעי, 14 מאי 2025_38": {
-    "date": "רביעי, 14 מאי 2025",
-    "event_id": "38",
-    "time": "09:00 - 12:00",
     "service_type": "הרמוני",
     "is_available": true
   },
