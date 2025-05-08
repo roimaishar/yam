@@ -27,6 +27,13 @@
     "service_type": "נאווה",
     "is_available": true
   },
+  "שישי, 9 מאי 2025_22": {
+    "date": "שישי, 9 מאי 2025",
+    "event_id": "22",
+    "time": "15:00 - 17:00",
+    "service_type": "קטמנדו",
+    "is_available": true
+  },
   "שבת, 10 מאי 2025_44": {
     "date": "שבת, 10 מאי 2025",
     "event_id": "44",
@@ -151,13 +158,6 @@
     "event_id": "18",
     "time": "19:00 - 22:00",
     "service_type": "רונית",
-    "is_available": true
-  },
-  "שבת, 10 מאי 2025_24": {
-    "date": "שבת, 10 מאי 2025",
-    "event_id": "24",
-    "time": "10:00 - 13:00",
-    "service_type": "ליאור",
     "is_available": true
   },
   "שבת, 10 מאי 2025_25": {
@@ -1950,13 +1950,6 @@
     "event_id": "60",
     "time": "11:00 - 14:00",
     "service_type": "רוני",
-    "is_available": true
-  },
-  "שלישי, 20 מאי 2025_2": {
-    "date": "שלישי, 20 מאי 2025",
-    "event_id": "2",
-    "time": "11:00 - 14:00",
-    "service_type": "קרפה",
     "is_available": true
   },
   "שלישי, 20 מאי 2025_38": {
