@@ -449,13 +449,6 @@
   },
   {
     "date": "שני, 12 מאי 2025",
-    "event_id": "31",
-    "time": "18:00 - 21:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  {
-    "date": "שני, 12 מאי 2025",
     "event_id": "6",
     "time": "08:00 - 10:00",
     "service_type": "נאווה",
@@ -1299,13 +1292,6 @@
     "event_id": "19",
     "time": "10:00 - 13:00",
     "service_type": "קטמנדו",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 18 מאי 2025",
-    "event_id": "45",
-    "time": "13:00 - 16:00",
-    "service_type": "ושתי",
     "is_available": true
   },
   {
