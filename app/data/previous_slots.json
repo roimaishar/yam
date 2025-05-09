@@ -482,13 +482,6 @@
     "service_type": "נאווה",
     "is_available": true
   },
-  "שני, 12 מאי 2025_14": {
-    "date": "שני, 12 מאי 2025",
-    "event_id": "14",
-    "time": "10:00 - 13:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
   "שני, 12 מאי 2025_15": {
     "date": "שני, 12 מאי 2025",
     "event_id": "15",
@@ -676,6 +669,13 @@
     "event_id": "12",
     "time": "20:00 - 22:00",
     "service_type": "נאווה",
+    "is_available": true
+  },
+  "שלישי, 13 מאי 2025_13": {
+    "date": "שלישי, 13 מאי 2025",
+    "event_id": "13",
+    "time": "07:00 - 10:00",
+    "service_type": "רונית",
     "is_available": true
   },
   "שלישי, 13 מאי 2025_16": {
