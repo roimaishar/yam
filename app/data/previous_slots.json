@@ -1707,13 +1707,6 @@
     "service_type": "ליאור",
     "is_available": true
   },
-  "שני, 19 מאי 2025_24": {
-    "date": "שני, 19 מאי 2025",
-    "event_id": "24",
-    "time": "13:00 - 16:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
   "שני, 19 מאי 2025_26": {
     "date": "שני, 19 מאי 2025",
     "event_id": "26",
@@ -2076,13 +2069,6 @@
     "event_id": "63",
     "time": "20:00 - 23:00",
     "service_type": "רוני",
-    "is_available": true
-  },
-  "חמישי, 22 מאי 2025_1": {
-    "date": "חמישי, 22 מאי 2025",
-    "event_id": "1",
-    "time": "08:00 - 11:00",
-    "service_type": "קרפה",
     "is_available": true
   },
   "חמישי, 22 מאי 2025_4": {
