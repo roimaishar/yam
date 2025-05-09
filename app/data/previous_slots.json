@@ -1,11 +1,4 @@
 {
-  "שישי, 9 מאי 2025_5": {
-    "date": "שישי, 9 מאי 2025",
-    "event_id": "5",
-    "time": "20:00 - 23:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
   "שישי, 9 מאי 2025_12": {
     "date": "שישי, 9 מאי 2025",
     "event_id": "12",
@@ -87,13 +80,6 @@
     "date": "שבת, 10 מאי 2025",
     "event_id": "10",
     "time": "16:00 - 18:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  "שבת, 10 מאי 2025_11": {
-    "date": "שבת, 10 מאי 2025",
-    "event_id": "11",
-    "time": "18:00 - 20:00",
     "service_type": "נאווה",
     "is_available": true
   },
@@ -773,13 +759,6 @@
     "date": "רביעי, 14 מאי 2025",
     "event_id": "10",
     "time": "16:00 - 18:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  "רביעי, 14 מאי 2025_11": {
-    "date": "רביעי, 14 מאי 2025",
-    "event_id": "11",
-    "time": "18:00 - 20:00",
     "service_type": "נאווה",
     "is_available": true
   },
@@ -2090,13 +2069,6 @@
     "event_id": "12",
     "time": "20:00 - 22:00",
     "service_type": "נאווה",
-    "is_available": true
-  },
-  "חמישי, 22 מאי 2025_13": {
-    "date": "חמישי, 22 מאי 2025",
-    "event_id": "13",
-    "time": "07:00 - 10:00",
-    "service_type": "רונית",
     "is_available": true
   },
   "חמישי, 22 מאי 2025_17": {
