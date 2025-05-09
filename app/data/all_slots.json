@@ -106,20 +106,6 @@
   },
   {
     "date": "שבת, 10 מאי 2025",
-    "event_id": "17",
-    "time": "19:00 - 22:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 10 מאי 2025",
-    "event_id": "24",
-    "time": "13:00 - 16:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 10 מאי 2025",
     "event_id": "25",
     "time": "16:00 - 19:00",
     "service_type": "ליאור",
@@ -2034,13 +2020,6 @@
     "event_id": "43",
     "time": "18:00 - 21:00",
     "service_type": "הרמוני",
-    "is_available": true
-  },
-  {
-    "date": "חמישי, 22 מאי 2025",
-    "event_id": "34",
-    "time": "08:00 - 11:00",
-    "service_type": "כרמן החדשה",
     "is_available": true
   },
   {
