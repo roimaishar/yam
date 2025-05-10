@@ -512,13 +512,6 @@
   },
   {
     "date": "שלישי, 13 מאי 2025",
-    "event_id": "40",
-    "time": "15:00 - 18:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 13 מאי 2025",
     "event_id": "32",
     "time": "08:00 - 11:00",
     "service_type": "כרמן החדשה",
@@ -879,13 +872,6 @@
     "event_id": "47",
     "time": "19:00 - 22:00",
     "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 17 מאי 2025",
-    "event_id": "58",
-    "time": "08:00 - 11:00",
-    "service_type": "רוני",
     "is_available": true
   },
   {
