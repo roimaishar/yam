@@ -685,13 +685,6 @@
     "service_type": "קטמנדו",
     "is_available": true
   },
-  "חמישי, 15 מאי 2025_50": {
-    "date": "חמישי, 15 מאי 2025",
-    "event_id": "50",
-    "time": "19:00 - 22:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
   "חמישי, 15 מאי 2025_65": {
     "date": "חמישי, 15 מאי 2025",
     "event_id": "65",
@@ -1985,13 +1978,6 @@
     "event_id": "23",
     "time": "17:00 - 19:00",
     "service_type": "קטמנדו",
-    "is_available": true
-  },
-  "שישי, 23 מאי 2025_44": {
-    "date": "שישי, 23 מאי 2025",
-    "event_id": "44",
-    "time": "07:00 - 10:00",
-    "service_type": "ושתי",
     "is_available": true
   },
   "שישי, 23 מאי 2025_48": {
