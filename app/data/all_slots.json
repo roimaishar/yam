@@ -15,13 +15,6 @@
   },
   {
     "date": "שני, 12 מאי 2025",
-    "event_id": "46",
-    "time": "19:00 - 22:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "שני, 12 מאי 2025",
     "event_id": "60",
     "time": "17:00 - 20:00",
     "service_type": "רוני",
