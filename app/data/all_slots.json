@@ -574,6 +574,13 @@
     "is_available": true
   },
   {
+    "date": "חמישי, 15 מאי 2025",
+    "event_id": "24",
+    "time": "17:00 - 19:00",
+    "service_type": "קטמנדו",
+    "is_available": true
+  },
+  {
     "date": "שישי, 16 מאי 2025",
     "event_id": "64",
     "time": "20:00 - 23:00",
@@ -787,13 +794,6 @@
     "date": "שבת, 17 מאי 2025",
     "event_id": "15",
     "time": "13:00 - 16:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 17 מאי 2025",
-    "event_id": "16",
-    "time": "16:00 - 19:00",
     "service_type": "רונית",
     "is_available": true
   },
