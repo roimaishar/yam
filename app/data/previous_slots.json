@@ -377,13 +377,6 @@
     "service_type": "אסתר",
     "is_available": true
   },
-  "רביעי, 14 מאי 2025_55": {
-    "date": "רביעי, 14 מאי 2025",
-    "event_id": "55",
-    "time": "15:00 - 18:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
   "רביעי, 14 מאי 2025_57": {
     "date": "רביעי, 14 מאי 2025",
     "event_id": "57",
@@ -543,6 +536,13 @@
     "event_id": "17",
     "time": "19:00 - 22:00",
     "service_type": "רונית",
+    "is_available": true
+  },
+  "חמישי, 15 מאי 2025_20": {
+    "date": "חמישי, 15 מאי 2025",
+    "event_id": "20",
+    "time": "09:00 - 11:00",
+    "service_type": "קטמנדו",
     "is_available": true
   },
   "חמישי, 15 מאי 2025_24": {
