@@ -1238,6 +1238,13 @@
     "service_type": "רוני",
     "is_available": true
   },
+  "שלישי, 20 מאי 2025_2": {
+    "date": "שלישי, 20 מאי 2025",
+    "event_id": "2",
+    "time": "11:00 - 14:00",
+    "service_type": "קרפה",
+    "is_available": true
+  },
   "שלישי, 20 מאי 2025_38": {
     "date": "שלישי, 20 מאי 2025",
     "event_id": "38",
