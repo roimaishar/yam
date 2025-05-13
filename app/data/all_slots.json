@@ -204,8 +204,8 @@
   },
   {
     "date": "חמישי, 15 מאי 2025",
-    "event_id": "21",
-    "time": "11:00 - 13:00",
+    "event_id": "23",
+    "time": "15:00 - 17:00",
     "service_type": "קטמנדו",
     "is_available": true
   },
@@ -323,6 +323,13 @@
   },
   {
     "date": "שבת, 17 מאי 2025",
+    "event_id": "11",
+    "time": "18:00 - 20:00",
+    "service_type": "נאווה",
+    "is_available": true
+  },
+  {
+    "date": "שבת, 17 מאי 2025",
     "event_id": "12",
     "time": "20:00 - 22:00",
     "service_type": "נאווה",
@@ -417,13 +424,6 @@
     "event_id": "5",
     "time": "20:00 - 23:00",
     "service_type": "קרפה",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 18 מאי 2025",
-    "event_id": "38",
-    "time": "06:00 - 09:00",
-    "service_type": "הרמוני",
     "is_available": true
   },
   {
