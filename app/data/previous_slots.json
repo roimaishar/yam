@@ -1252,6 +1252,13 @@
     "service_type": "מישל",
     "is_available": true
   },
+  "שישי, 23 מאי 2025_33": {
+    "date": "שישי, 23 מאי 2025",
+    "event_id": "33",
+    "time": "18:00 - 21:00",
+    "service_type": "מישל",
+    "is_available": true
+  },
   "שישי, 23 מאי 2025_11": {
     "date": "שישי, 23 מאי 2025",
     "event_id": "11",
