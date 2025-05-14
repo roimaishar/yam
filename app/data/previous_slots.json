@@ -62,6 +62,13 @@
     "service_type": "נאווה",
     "is_available": true
   },
+  "שישי, 16 מאי 2025_17": {
+    "date": "שישי, 16 מאי 2025",
+    "event_id": "17",
+    "time": "19:00 - 22:00",
+    "service_type": "רונית",
+    "is_available": true
+  },
   "שישי, 16 מאי 2025_18": {
     "date": "שישי, 16 מאי 2025",
     "event_id": "18",
