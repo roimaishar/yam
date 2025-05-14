@@ -204,6 +204,13 @@
   },
   {
     "date": "ראשון, 18 מאי 2025",
+    "event_id": "1",
+    "time": "08:00 - 11:00",
+    "service_type": "קרפה",
+    "is_available": true
+  },
+  {
+    "date": "ראשון, 18 מאי 2025",
     "event_id": "3",
     "time": "14:00 - 17:00",
     "service_type": "קרפה",
@@ -1515,13 +1522,6 @@
     "date": "שני, 26 מאי 2025",
     "event_id": "55",
     "time": "15:00 - 18:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "שני, 26 מאי 2025",
-    "event_id": "56",
-    "time": "18:00 - 21:00",
     "service_type": "אסתר",
     "is_available": true
   },
