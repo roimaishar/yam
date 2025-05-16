@@ -440,13 +440,6 @@
     "service_type": "ושתי",
     "is_available": true
   },
-  "שלישי, 20 מאי 2025_60": {
-    "date": "שלישי, 20 מאי 2025",
-    "event_id": "60",
-    "time": "11:00 - 14:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
   "שלישי, 20 מאי 2025_2": {
     "date": "שלישי, 20 מאי 2025",
     "event_id": "2",
