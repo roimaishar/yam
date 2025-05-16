@@ -29,13 +29,6 @@
   },
   {
     "date": "שבת, 17 מאי 2025",
-    "event_id": "41",
-    "time": "15:00 - 18:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 17 מאי 2025",
     "event_id": "33",
     "time": "08:00 - 11:00",
     "service_type": "כרמן החדשה",
