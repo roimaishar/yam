@@ -118,6 +118,13 @@
     "service_type": "קטמנדו",
     "is_available": true
   },
+  "ראשון, 18 מאי 2025_59": {
+    "date": "ראשון, 18 מאי 2025",
+    "event_id": "59",
+    "time": "08:00 - 11:00",
+    "service_type": "רוני",
+    "is_available": true
+  },
   "ראשון, 18 מאי 2025_61": {
     "date": "ראשון, 18 מאי 2025",
     "event_id": "61",
@@ -311,6 +318,13 @@
     "date": "שני, 19 מאי 2025",
     "event_id": "37",
     "time": "06:00 - 09:00",
+    "service_type": "הרמוני",
+    "is_available": true
+  },
+  "שני, 19 מאי 2025_41": {
+    "date": "שני, 19 מאי 2025",
+    "event_id": "41",
+    "time": "18:00 - 21:00",
     "service_type": "הרמוני",
     "is_available": true
   },
@@ -1067,13 +1081,6 @@
     "date": "ראשון, 25 מאי 2025",
     "event_id": "45",
     "time": "07:00 - 10:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  "ראשון, 25 מאי 2025_47": {
-    "date": "ראשון, 25 מאי 2025",
-    "event_id": "47",
-    "time": "13:00 - 16:00",
     "service_type": "ושתי",
     "is_available": true
   },
@@ -2111,13 +2118,6 @@
     "event_id": "66",
     "time": "20:00 - 23:00",
     "service_type": "רוני",
-    "is_available": true
-  },
-  "חמישי, 29 מאי 2025_3": {
-    "date": "חמישי, 29 מאי 2025",
-    "event_id": "3",
-    "time": "14:00 - 17:00",
-    "service_type": "קרפה",
     "is_available": true
   },
   "חמישי, 29 מאי 2025_4": {
