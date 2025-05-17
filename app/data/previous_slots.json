@@ -496,6 +496,13 @@
     "service_type": "קטמנדו",
     "is_available": true
   },
+  "חמישי, 22 מאי 2025_48": {
+    "date": "חמישי, 22 מאי 2025",
+    "event_id": "48",
+    "time": "19:00 - 22:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
   "חמישי, 22 מאי 2025_63": {
     "date": "חמישי, 22 מאי 2025",
     "event_id": "63",
@@ -1868,13 +1875,6 @@
     "service_type": "אסתר",
     "is_available": true
   },
-  "חמישי, 29 מאי 2025_65": {
-    "date": "חמישי, 29 מאי 2025",
-    "event_id": "65",
-    "time": "17:00 - 20:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
   "חמישי, 29 מאי 2025_66": {
     "date": "חמישי, 29 מאי 2025",
     "event_id": "66",
@@ -1977,6 +1977,13 @@
     "date": "חמישי, 29 מאי 2025",
     "event_id": "24",
     "time": "07:00 - 10:00",
+    "service_type": "ליאור",
+    "is_available": true
+  },
+  "חמישי, 29 מאי 2025_25": {
+    "date": "חמישי, 29 מאי 2025",
+    "event_id": "25",
+    "time": "10:00 - 13:00",
     "service_type": "ליאור",
     "is_available": true
   },

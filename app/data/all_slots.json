@@ -498,6 +498,13 @@
   },
   {
     "date": "חמישי, 22 מאי 2025",
+    "event_id": "48",
+    "time": "19:00 - 22:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
+  {
+    "date": "חמישי, 22 מאי 2025",
     "event_id": "63",
     "time": "20:00 - 23:00",
     "service_type": "רוני",
@@ -1870,13 +1877,6 @@
   },
   {
     "date": "חמישי, 29 מאי 2025",
-    "event_id": "65",
-    "time": "17:00 - 20:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
-  {
-    "date": "חמישי, 29 מאי 2025",
     "event_id": "66",
     "time": "20:00 - 23:00",
     "service_type": "רוני",
@@ -1977,6 +1977,13 @@
     "date": "חמישי, 29 מאי 2025",
     "event_id": "24",
     "time": "07:00 - 10:00",
+    "service_type": "ליאור",
+    "is_available": true
+  },
+  {
+    "date": "חמישי, 29 מאי 2025",
+    "event_id": "25",
+    "time": "10:00 - 13:00",
     "service_type": "ליאור",
     "is_available": true
   },
