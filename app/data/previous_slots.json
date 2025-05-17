@@ -300,13 +300,6 @@
     "service_type": "ושתי",
     "is_available": true
   },
-  "שלישי, 20 מאי 2025_2": {
-    "date": "שלישי, 20 מאי 2025",
-    "event_id": "2",
-    "time": "11:00 - 14:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
   "שלישי, 20 מאי 2025_38": {
     "date": "שלישי, 20 מאי 2025",
     "event_id": "38",
@@ -2141,13 +2134,6 @@
     "service_type": "מישל",
     "is_available": true
   },
-  "שישי, 30 מאי 2025_32": {
-    "date": "שישי, 30 מאי 2025",
-    "event_id": "32",
-    "time": "15:00 - 18:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
   "שישי, 30 מאי 2025_33": {
     "date": "שישי, 30 מאי 2025",
     "event_id": "33",
@@ -2159,13 +2145,6 @@
     "date": "שישי, 30 מאי 2025",
     "event_id": "6",
     "time": "08:00 - 10:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  "שישי, 30 מאי 2025_7": {
-    "date": "שישי, 30 מאי 2025",
-    "event_id": "7",
-    "time": "10:00 - 12:00",
     "service_type": "נאווה",
     "is_available": true
   },
