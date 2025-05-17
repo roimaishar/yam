@@ -106,13 +106,6 @@
   },
   {
     "date": "ראשון, 18 מאי 2025",
-    "event_id": "14",
-    "time": "10:00 - 13:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 18 מאי 2025",
     "event_id": "16",
     "time": "16:00 - 19:00",
     "service_type": "רונית",
@@ -535,13 +528,6 @@
     "date": "חמישי, 22 מאי 2025",
     "event_id": "39",
     "time": "06:00 - 09:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  {
-    "date": "חמישי, 22 מאי 2025",
-    "event_id": "43",
-    "time": "18:00 - 21:00",
     "service_type": "הרמוני",
     "is_available": true
   },
