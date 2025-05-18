@@ -596,6 +596,13 @@
   },
   {
     "date": "ראשון, 25 מאי 2025",
+    "event_id": "45",
+    "time": "07:00 - 10:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
+  {
+    "date": "ראשון, 25 מאי 2025",
     "event_id": "49",
     "time": "19:00 - 22:00",
     "service_type": "ושתי",
