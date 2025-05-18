@@ -160,13 +160,6 @@
     "service_type": "מישל",
     "is_available": true
   },
-  "שלישי, 20 מאי 2025_15": {
-    "date": "שלישי, 20 מאי 2025",
-    "event_id": "15",
-    "time": "10:00 - 13:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
   "שלישי, 20 מאי 2025_19": {
     "date": "שלישי, 20 מאי 2025",
     "event_id": "19",
@@ -1739,13 +1732,6 @@
     "date": "חמישי, 29 מאי 2025",
     "event_id": "25",
     "time": "10:00 - 13:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
-  "חמישי, 29 מאי 2025_26": {
-    "date": "חמישי, 29 מאי 2025",
-    "event_id": "26",
-    "time": "13:00 - 16:00",
     "service_type": "ליאור",
     "is_available": true
   },
