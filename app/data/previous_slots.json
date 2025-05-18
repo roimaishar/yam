@@ -209,13 +209,6 @@
     "service_type": "קרפה",
     "is_available": true
   },
-  "רביעי, 21 מאי 2025_37": {
-    "date": "רביעי, 21 מאי 2025",
-    "event_id": "37",
-    "time": "06:00 - 09:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
   "רביעי, 21 מאי 2025_32": {
     "date": "רביעי, 21 מאי 2025",
     "event_id": "32",
@@ -622,13 +615,6 @@
     "service_type": "קטמנדו",
     "is_available": true
   },
-  "ראשון, 25 מאי 2025_45": {
-    "date": "ראשון, 25 מאי 2025",
-    "event_id": "45",
-    "time": "07:00 - 10:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
   "ראשון, 25 מאי 2025_49": {
     "date": "ראשון, 25 מאי 2025",
     "event_id": "49",
@@ -704,13 +690,6 @@
     "event_id": "43",
     "time": "15:00 - 18:00",
     "service_type": "הרמוני",
-    "is_available": true
-  },
-  "ראשון, 25 מאי 2025_37": {
-    "date": "ראשון, 25 מאי 2025",
-    "event_id": "37",
-    "time": "17:00 - 20:00",
-    "service_type": "כרמן החדשה",
     "is_available": true
   },
   "ראשון, 25 מאי 2025_38": {
