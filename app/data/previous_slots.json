@@ -202,6 +202,13 @@
     "service_type": "ושתי",
     "is_available": true
   },
+  "רביעי, 21 מאי 2025_4": {
+    "date": "רביעי, 21 מאי 2025",
+    "event_id": "4",
+    "time": "17:00 - 20:00",
+    "service_type": "קרפה",
+    "is_available": true
+  },
   "רביעי, 21 מאי 2025_5": {
     "date": "רביעי, 21 מאי 2025",
     "event_id": "5",
@@ -458,13 +465,6 @@
     "date": "שבת, 24 מאי 2025",
     "event_id": "39",
     "time": "06:00 - 09:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  "שבת, 24 מאי 2025_40": {
-    "date": "שבת, 24 מאי 2025",
-    "event_id": "40",
-    "time": "09:00 - 12:00",
     "service_type": "הרמוני",
     "is_available": true
   },
