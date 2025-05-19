@@ -1,14 +1,14 @@
 [
   {
     "date": "שלישי, 20 מאי 2025",
-    "event_id": "44",
+    "event_id": "43",
     "time": "07:00 - 10:00",
     "service_type": "ושתי",
     "is_available": true
   },
   {
     "date": "שלישי, 20 מאי 2025",
-    "event_id": "48",
+    "event_id": "47",
     "time": "19:00 - 22:00",
     "service_type": "ושתי",
     "is_available": true
@@ -22,28 +22,35 @@
   },
   {
     "date": "שלישי, 20 מאי 2025",
-    "event_id": "40",
+    "event_id": "39",
     "time": "09:00 - 12:00",
     "service_type": "הרמוני",
     "is_available": true
   },
   {
     "date": "שלישי, 20 מאי 2025",
-    "event_id": "16",
+    "event_id": "8",
+    "time": "12:00 - 14:00",
+    "service_type": "נאווה",
+    "is_available": true
+  },
+  {
+    "date": "שלישי, 20 מאי 2025",
+    "event_id": "15",
     "time": "13:00 - 16:00",
     "service_type": "רונית",
     "is_available": true
   },
   {
     "date": "שלישי, 20 מאי 2025",
-    "event_id": "19",
+    "event_id": "18",
     "time": "07:00 - 10:00",
     "service_type": "קטמנדו",
     "is_available": true
   },
   {
     "date": "שלישי, 20 מאי 2025",
-    "event_id": "20",
+    "event_id": "19",
     "time": "10:00 - 13:00",
     "service_type": "קטמנדו",
     "is_available": true
@@ -1431,13 +1438,6 @@
     "date": "שישי, 30 מאי 2025",
     "event_id": "6",
     "time": "08:00 - 10:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 30 מאי 2025",
-    "event_id": "9",
-    "time": "14:00 - 16:00",
     "service_type": "נאווה",
     "is_available": true
   },
