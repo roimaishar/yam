@@ -379,13 +379,6 @@
   },
   {
     "date": "ראשון, 25 מאי 2025",
-    "event_id": "42",
-    "time": "09:00 - 12:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 25 מאי 2025",
     "event_id": "44",
     "time": "15:00 - 18:00",
     "service_type": "הרמוני",
@@ -507,6 +500,13 @@
     "date": "שני, 26 מאי 2025",
     "event_id": "44",
     "time": "13:00 - 16:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
+  {
+    "date": "שני, 26 מאי 2025",
+    "event_id": "46",
+    "time": "19:00 - 22:00",
     "service_type": "ושתי",
     "is_available": true
   },
