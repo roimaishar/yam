@@ -1182,20 +1182,6 @@
     "service_type": "נאווה",
     "is_available": true
   },
-  "רביעי, 28 מאי 2025_10": {
-    "date": "רביעי, 28 מאי 2025",
-    "event_id": "10",
-    "time": "16:00 - 18:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  "רביעי, 28 מאי 2025_11": {
-    "date": "רביעי, 28 מאי 2025",
-    "event_id": "11",
-    "time": "18:00 - 20:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
   "רביעי, 28 מאי 2025_12": {
     "date": "רביעי, 28 מאי 2025",
     "event_id": "12",
@@ -1235,6 +1221,13 @@
     "date": "רביעי, 28 מאי 2025",
     "event_id": "23",
     "time": "10:00 - 13:00",
+    "service_type": "ליאור",
+    "is_available": true
+  },
+  "רביעי, 28 מאי 2025_26": {
+    "date": "רביעי, 28 מאי 2025",
+    "event_id": "26",
+    "time": "19:00 - 22:00",
     "service_type": "ליאור",
     "is_available": true
   },
