@@ -22,13 +22,6 @@
   },
   {
     "date": "שלישי, 20 מאי 2025",
-    "event_id": "39",
-    "time": "09:00 - 12:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 20 מאי 2025",
     "event_id": "8",
     "time": "12:00 - 14:00",
     "service_type": "נאווה",
@@ -1229,13 +1222,6 @@
     "event_id": "26",
     "time": "19:00 - 22:00",
     "service_type": "ליאור",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 28 מאי 2025",
-    "event_id": "18",
-    "time": "07:00 - 10:00",
-    "service_type": "קטמנדו",
     "is_available": true
   },
   {
