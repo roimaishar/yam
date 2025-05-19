@@ -83,13 +83,6 @@
     "service_type": "נאווה",
     "is_available": true
   },
-  "רביעי, 21 מאי 2025_25": {
-    "date": "רביעי, 21 מאי 2025",
-    "event_id": "25",
-    "time": "13:00 - 16:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
   "רביעי, 21 מאי 2025_19": {
     "date": "רביעי, 21 מאי 2025",
     "event_id": "19",
@@ -815,13 +808,6 @@
     "date": "שלישי, 27 מאי 2025",
     "event_id": "52",
     "time": "06:00 - 09:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  "שלישי, 27 מאי 2025_53": {
-    "date": "שלישי, 27 מאי 2025",
-    "event_id": "53",
-    "time": "09:00 - 12:00",
     "service_type": "אסתר",
     "is_available": true
   },
