@@ -55,13 +55,6 @@
     "service_type": "ושתי",
     "is_available": true
   },
-  "רביעי, 21 מאי 2025_63": {
-    "date": "רביעי, 21 מאי 2025",
-    "event_id": "63",
-    "time": "20:00 - 23:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
   "רביעי, 21 מאי 2025_5": {
     "date": "רביעי, 21 מאי 2025",
     "event_id": "5",
@@ -1609,13 +1602,6 @@
     "service_type": "רונית",
     "is_available": true
   },
-  "שבת, 31 מאי 2025_15": {
-    "date": "שבת, 31 מאי 2025",
-    "event_id": "15",
-    "time": "13:00 - 16:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
   "שבת, 31 מאי 2025_16": {
     "date": "שבת, 31 מאי 2025",
     "event_id": "16",
@@ -1872,13 +1858,6 @@
     "date": "ראשון, 1 יוני 2025",
     "event_id": "15",
     "time": "13:00 - 16:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
-  "ראשון, 1 יוני 2025_16": {
-    "date": "ראשון, 1 יוני 2025",
-    "event_id": "16",
-    "time": "16:00 - 19:00",
     "service_type": "רונית",
     "is_available": true
   },
