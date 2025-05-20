@@ -1,14 +1,14 @@
 [
   {
     "date": "רביעי, 21 מאי 2025",
-    "event_id": "44",
+    "event_id": "43",
     "time": "07:00 - 10:00",
     "service_type": "ושתי",
     "is_available": true
   },
   {
     "date": "רביעי, 21 מאי 2025",
-    "event_id": "45",
+    "event_id": "44",
     "time": "10:00 - 13:00",
     "service_type": "ושתי",
     "is_available": true
@@ -22,9 +22,37 @@
   },
   {
     "date": "רביעי, 21 מאי 2025",
-    "event_id": "30",
+    "event_id": "29",
     "time": "12:00 - 15:00",
     "service_type": "מישל",
+    "is_available": true
+  },
+  {
+    "date": "רביעי, 21 מאי 2025",
+    "event_id": "6",
+    "time": "08:00 - 10:00",
+    "service_type": "נאווה",
+    "is_available": true
+  },
+  {
+    "date": "רביעי, 21 מאי 2025",
+    "event_id": "7",
+    "time": "10:00 - 12:00",
+    "service_type": "נאווה",
+    "is_available": true
+  },
+  {
+    "date": "רביעי, 21 מאי 2025",
+    "event_id": "8",
+    "time": "12:00 - 14:00",
+    "service_type": "נאווה",
+    "is_available": true
+  },
+  {
+    "date": "רביעי, 21 מאי 2025",
+    "event_id": "9",
+    "time": "14:00 - 16:00",
+    "service_type": "נאווה",
     "is_available": true
   },
   {
@@ -36,21 +64,21 @@
   },
   {
     "date": "רביעי, 21 מאי 2025",
-    "event_id": "23",
+    "event_id": "22",
     "time": "07:00 - 10:00",
     "service_type": "ליאור",
     "is_available": true
   },
   {
     "date": "רביעי, 21 מאי 2025",
-    "event_id": "19",
+    "event_id": "18",
     "time": "07:00 - 10:00",
     "service_type": "קטמנדו",
     "is_available": true
   },
   {
     "date": "רביעי, 21 מאי 2025",
-    "event_id": "20",
+    "event_id": "19",
     "time": "10:00 - 13:00",
     "service_type": "קטמנדו",
     "is_available": true
@@ -260,9 +288,9 @@
   },
   {
     "date": "ראשון, 25 מאי 2025",
-    "event_id": "50",
-    "time": "19:00 - 22:00",
-    "service_type": "ושתי",
+    "event_id": "61",
+    "time": "08:00 - 11:00",
+    "service_type": "רוני",
     "is_available": true
   },
   {
@@ -402,13 +430,6 @@
     "date": "ראשון, 25 מאי 2025",
     "event_id": "21",
     "time": "13:00 - 16:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 25 מאי 2025",
-    "event_id": "22",
-    "time": "16:00 - 19:00",
     "service_type": "קטמנדו",
     "is_available": true
   },
