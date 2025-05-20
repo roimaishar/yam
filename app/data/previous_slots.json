@@ -153,6 +153,13 @@
     "service_type": "ליאור",
     "is_available": true
   },
+  "שבת, 24 מאי 2025_62": {
+    "date": "שבת, 24 מאי 2025",
+    "event_id": "62",
+    "time": "14:00 - 17:00",
+    "service_type": "רוני",
+    "is_available": true
+  },
   "שבת, 24 מאי 2025_64": {
     "date": "שבת, 24 מאי 2025",
     "event_id": "64",
@@ -1096,13 +1103,6 @@
     "event_id": "61",
     "time": "18:00 - 21:00",
     "service_type": "אסתר",
-    "is_available": true
-  },
-  "חמישי, 29 מאי 2025_65": {
-    "date": "חמישי, 29 מאי 2025",
-    "event_id": "65",
-    "time": "17:00 - 20:00",
-    "service_type": "רוני",
     "is_available": true
   },
   "חמישי, 29 מאי 2025_66": {
