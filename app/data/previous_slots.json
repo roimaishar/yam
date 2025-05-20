@@ -55,13 +55,6 @@
     "service_type": "קרפה",
     "is_available": true
   },
-  "חמישי, 22 מאי 2025_40": {
-    "date": "חמישי, 22 מאי 2025",
-    "event_id": "40",
-    "time": "06:00 - 09:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
   "חמישי, 22 מאי 2025_12": {
     "date": "חמישי, 22 מאי 2025",
     "event_id": "12",
@@ -265,20 +258,6 @@
     "service_type": "ושתי",
     "is_available": true
   },
-  "ראשון, 25 מאי 2025_61": {
-    "date": "ראשון, 25 מאי 2025",
-    "event_id": "61",
-    "time": "08:00 - 11:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
-  "ראשון, 25 מאי 2025_63": {
-    "date": "ראשון, 25 מאי 2025",
-    "event_id": "63",
-    "time": "14:00 - 17:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
   "ראשון, 25 מאי 2025_65": {
     "date": "ראשון, 25 מאי 2025",
     "event_id": "65",
@@ -325,13 +304,6 @@
     "date": "ראשון, 25 מאי 2025",
     "event_id": "29",
     "time": "06:00 - 09:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  "ראשון, 25 מאי 2025_30": {
-    "date": "ראשון, 25 מאי 2025",
-    "event_id": "30",
-    "time": "09:00 - 12:00",
     "service_type": "מישל",
     "is_available": true
   },
