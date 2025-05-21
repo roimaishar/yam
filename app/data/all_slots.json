@@ -232,13 +232,6 @@
   },
   {
     "date": "ראשון, 25 מאי 2025",
-    "event_id": "44",
-    "time": "15:00 - 18:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 25 מאי 2025",
     "event_id": "29",
     "time": "06:00 - 09:00",
     "service_type": "מישל",
