@@ -615,13 +615,6 @@
     "service_type": "הרמוני",
     "is_available": true
   },
-  "שלישי, 27 מאי 2025_41": {
-    "date": "שלישי, 27 מאי 2025",
-    "event_id": "41",
-    "time": "18:00 - 21:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
   "שלישי, 27 מאי 2025_32": {
     "date": "שלישי, 27 מאי 2025",
     "event_id": "32",
@@ -1473,13 +1466,6 @@
     "date": "ראשון, 1 יוני 2025",
     "event_id": "41",
     "time": "15:00 - 18:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  "ראשון, 1 יוני 2025_42": {
-    "date": "ראשון, 1 יוני 2025",
-    "event_id": "42",
-    "time": "18:00 - 21:00",
     "service_type": "הרמוני",
     "is_available": true
   },
