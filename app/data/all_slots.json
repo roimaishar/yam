@@ -57,13 +57,6 @@
   },
   {
     "date": "שישי, 23 מאי 2025",
-    "event_id": "11",
-    "time": "18:00 - 20:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 23 מאי 2025",
     "event_id": "12",
     "time": "20:00 - 22:00",
     "service_type": "נאווה",
@@ -340,13 +333,6 @@
     "event_id": "46",
     "time": "19:00 - 22:00",
     "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "שני, 26 מאי 2025",
-    "event_id": "55",
-    "time": "15:00 - 18:00",
-    "service_type": "אסתר",
     "is_available": true
   },
   {
