@@ -532,6 +532,13 @@
     "is_available": true
   },
   {
+    "date": "שני, 26 מאי 2025",
+    "event_id": "21",
+    "time": "16:00 - 19:00",
+    "service_type": "קטמנדו",
+    "is_available": true
+  },
+  {
     "date": "שלישי, 27 מאי 2025",
     "event_id": "42",
     "time": "07:00 - 10:00",
@@ -612,6 +619,13 @@
     "date": "שלישי, 27 מאי 2025",
     "event_id": "39",
     "time": "12:00 - 15:00",
+    "service_type": "הרמוני",
+    "is_available": true
+  },
+  {
+    "date": "שלישי, 27 מאי 2025",
+    "event_id": "41",
+    "time": "18:00 - 21:00",
     "service_type": "הרמוני",
     "is_available": true
   },
