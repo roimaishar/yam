@@ -76,6 +76,13 @@
     "service_type": "מישל",
     "is_available": true
   },
+  "שבת, 24 מאי 2025_32": {
+    "date": "שבת, 24 מאי 2025",
+    "event_id": "32",
+    "time": "18:00 - 21:00",
+    "service_type": "מישל",
+    "is_available": true
+  },
   "שבת, 24 מאי 2025_9": {
     "date": "שבת, 24 מאי 2025",
     "event_id": "9",
