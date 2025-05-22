@@ -85,6 +85,13 @@
   },
   {
     "date": "שבת, 24 מאי 2025",
+    "event_id": "29",
+    "time": "09:00 - 12:00",
+    "service_type": "מישל",
+    "is_available": true
+  },
+  {
+    "date": "שבת, 24 מאי 2025",
     "event_id": "9",
     "time": "14:00 - 16:00",
     "service_type": "נאווה",
@@ -333,13 +340,6 @@
     "event_id": "36",
     "time": "20:00 - 23:00",
     "service_type": "כרמן החדשה",
-    "is_available": true
-  },
-  {
-    "date": "שני, 26 מאי 2025",
-    "event_id": "28",
-    "time": "09:00 - 12:00",
-    "service_type": "מישל",
     "is_available": true
   },
   {
@@ -816,13 +816,6 @@
     "event_id": "12",
     "time": "20:00 - 22:00",
     "service_type": "נאווה",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 28 מאי 2025",
-    "event_id": "14",
-    "time": "10:00 - 13:00",
-    "service_type": "רונית",
     "is_available": true
   },
   {
