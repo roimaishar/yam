@@ -92,6 +92,13 @@
   },
   {
     "date": "שבת, 24 מאי 2025",
+    "event_id": "9",
+    "time": "14:00 - 16:00",
+    "service_type": "נאווה",
+    "is_available": true
+  },
+  {
+    "date": "שבת, 24 מאי 2025",
     "event_id": "10",
     "time": "16:00 - 18:00",
     "service_type": "נאווה",
@@ -409,13 +416,6 @@
     "date": "שני, 26 מאי 2025",
     "event_id": "19",
     "time": "10:00 - 13:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
-  {
-    "date": "שני, 26 מאי 2025",
-    "event_id": "20",
-    "time": "13:00 - 16:00",
     "service_type": "קטמנדו",
     "is_available": true
   },
