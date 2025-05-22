@@ -412,6 +412,13 @@
     "service_type": "קטמנדו",
     "is_available": true
   },
+  "שני, 26 מאי 2025_20": {
+    "date": "שני, 26 מאי 2025",
+    "event_id": "20",
+    "time": "13:00 - 16:00",
+    "service_type": "קטמנדו",
+    "is_available": true
+  },
   "שלישי, 27 מאי 2025_42": {
     "date": "שלישי, 27 מאי 2025",
     "event_id": "42",
