@@ -146,13 +146,6 @@
     "service_type": "מישל",
     "is_available": true
   },
-  "ראשון, 25 מאי 2025_10": {
-    "date": "ראשון, 25 מאי 2025",
-    "event_id": "10",
-    "time": "14:00 - 16:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
   "ראשון, 25 מאי 2025_12": {
     "date": "ראשון, 25 מאי 2025",
     "event_id": "12",
@@ -773,6 +766,13 @@
     "date": "חמישי, 29 מאי 2025",
     "event_id": "18",
     "time": "07:00 - 09:00",
+    "service_type": "קטמנדו",
+    "is_available": true
+  },
+  "חמישי, 29 מאי 2025_22": {
+    "date": "חמישי, 29 מאי 2025",
+    "event_id": "22",
+    "time": "15:00 - 17:00",
     "service_type": "קטמנדו",
     "is_available": true
   },
@@ -2106,25 +2106,11 @@
     "service_type": "הרמוני",
     "is_available": true
   },
-  "חמישי, 5 יוני 2025_41": {
-    "date": "חמישי, 5 יוני 2025",
-    "event_id": "41",
-    "time": "12:00 - 15:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
   "חמישי, 5 יוני 2025_43": {
     "date": "חמישי, 5 יוני 2025",
     "event_id": "43",
     "time": "18:00 - 21:00",
     "service_type": "הרמוני",
-    "is_available": true
-  },
-  "חמישי, 5 יוני 2025_34": {
-    "date": "חמישי, 5 יוני 2025",
-    "event_id": "34",
-    "time": "08:00 - 11:00",
-    "service_type": "כרמן החדשה",
     "is_available": true
   },
   "חמישי, 5 יוני 2025_36": {
@@ -2265,13 +2251,6 @@
     "event_id": "28",
     "time": "19:00 - 22:00",
     "service_type": "ליאור",
-    "is_available": true
-  },
-  "חמישי, 5 יוני 2025_18": {
-    "date": "חמישי, 5 יוני 2025",
-    "event_id": "18",
-    "time": "07:00 - 09:00",
-    "service_type": "קטמנדו",
     "is_available": true
   },
   "חמישי, 5 יוני 2025_23": {
