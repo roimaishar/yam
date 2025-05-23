@@ -769,13 +769,6 @@
     "service_type": "מישל",
     "is_available": true
   },
-  "חמישי, 29 מאי 2025_33": {
-    "date": "חמישי, 29 מאי 2025",
-    "event_id": "33",
-    "time": "18:00 - 21:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
   "חמישי, 29 מאי 2025_11": {
     "date": "חמישי, 29 מאי 2025",
     "event_id": "11",
@@ -851,13 +844,6 @@
     "event_id": "17",
     "time": "19:00 - 22:00",
     "service_type": "רונית",
-    "is_available": true
-  },
-  "שישי, 30 מאי 2025_24": {
-    "date": "שישי, 30 מאי 2025",
-    "event_id": "24",
-    "time": "07:00 - 10:00",
-    "service_type": "ליאור",
     "is_available": true
   },
   "שישי, 30 מאי 2025_28": {
