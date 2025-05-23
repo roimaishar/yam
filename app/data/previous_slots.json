@@ -804,13 +804,6 @@
     "service_type": "נאווה",
     "is_available": true
   },
-  "חמישי, 29 מאי 2025_13": {
-    "date": "חמישי, 29 מאי 2025",
-    "event_id": "13",
-    "time": "07:00 - 10:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
   "חמישי, 29 מאי 2025_17": {
     "date": "חמישי, 29 מאי 2025",
     "event_id": "17",
@@ -920,13 +913,6 @@
     "date": "שבת, 31 מאי 2025",
     "event_id": "58",
     "time": "08:00 - 11:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
-  "שבת, 31 מאי 2025_60": {
-    "date": "שבת, 31 מאי 2025",
-    "event_id": "60",
-    "time": "14:00 - 17:00",
     "service_type": "רוני",
     "is_available": true
   },
