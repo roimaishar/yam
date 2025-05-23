@@ -601,20 +601,6 @@
     "service_type": "קרפה",
     "is_available": true
   },
-  "רביעי, 28 מאי 2025_2": {
-    "date": "רביעי, 28 מאי 2025",
-    "event_id": "2",
-    "time": "11:00 - 14:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
-  "רביעי, 28 מאי 2025_3": {
-    "date": "רביעי, 28 מאי 2025",
-    "event_id": "3",
-    "time": "14:00 - 17:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
   "רביעי, 28 מאי 2025_5": {
     "date": "רביעי, 28 מאי 2025",
     "event_id": "5",
