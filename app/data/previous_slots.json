@@ -594,13 +594,6 @@
     "service_type": "הרמוני",
     "is_available": true
   },
-  "רביעי, 28 מאי 2025_38": {
-    "date": "רביעי, 28 מאי 2025",
-    "event_id": "38",
-    "time": "09:00 - 12:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
   "רביעי, 28 מאי 2025_32": {
     "date": "רביעי, 28 מאי 2025",
     "event_id": "32",
@@ -913,6 +906,13 @@
     "date": "שבת, 31 מאי 2025",
     "event_id": "27",
     "time": "06:00 - 09:00",
+    "service_type": "מישל",
+    "is_available": true
+  },
+  "שבת, 31 מאי 2025_28": {
+    "date": "שבת, 31 מאי 2025",
+    "event_id": "28",
+    "time": "09:00 - 12:00",
     "service_type": "מישל",
     "is_available": true
   },
