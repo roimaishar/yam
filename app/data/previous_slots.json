@@ -69,6 +69,13 @@
     "service_type": "נאווה",
     "is_available": true
   },
+  "שבת, 24 מאי 2025_17": {
+    "date": "שבת, 24 מאי 2025",
+    "event_id": "17",
+    "time": "19:00 - 22:00",
+    "service_type": "רונית",
+    "is_available": true
+  },
   "שבת, 24 מאי 2025_25": {
     "date": "שבת, 24 מאי 2025",
     "event_id": "25",
@@ -146,20 +153,6 @@
     "service_type": "מישל",
     "is_available": true
   },
-  "ראשון, 25 מאי 2025_8": {
-    "date": "ראשון, 25 מאי 2025",
-    "event_id": "8",
-    "time": "10:00 - 12:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  "ראשון, 25 מאי 2025_9": {
-    "date": "ראשון, 25 מאי 2025",
-    "event_id": "9",
-    "time": "12:00 - 14:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
   "ראשון, 25 מאי 2025_10": {
     "date": "ראשון, 25 מאי 2025",
     "event_id": "10",
@@ -234,6 +227,13 @@
     "date": "שני, 26 מאי 2025",
     "event_id": "1",
     "time": "08:00 - 11:00",
+    "service_type": "קרפה",
+    "is_available": true
+  },
+  "שני, 26 מאי 2025_2": {
+    "date": "שני, 26 מאי 2025",
+    "event_id": "2",
+    "time": "11:00 - 14:00",
     "service_type": "קרפה",
     "is_available": true
   },
