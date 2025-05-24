@@ -482,13 +482,6 @@
     "service_type": "אסתר",
     "is_available": true
   },
-  "רביעי, 28 מאי 2025_57": {
-    "date": "רביעי, 28 מאי 2025",
-    "event_id": "57",
-    "time": "08:00 - 11:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
   "רביעי, 28 מאי 2025_59": {
     "date": "רביעי, 28 מאי 2025",
     "event_id": "59",
@@ -647,13 +640,6 @@
     "date": "חמישי, 29 מאי 2025",
     "event_id": "18",
     "time": "07:00 - 09:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
-  "חמישי, 29 מאי 2025_22": {
-    "date": "חמישי, 29 מאי 2025",
-    "event_id": "22",
-    "time": "15:00 - 17:00",
     "service_type": "קטמנדו",
     "is_available": true
   },
@@ -2131,13 +2117,6 @@
     "date": "שישי, 6 יוני 2025",
     "event_id": "1",
     "time": "08:00 - 11:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
-  "שישי, 6 יוני 2025_3": {
-    "date": "שישי, 6 יוני 2025",
-    "event_id": "3",
-    "time": "14:00 - 17:00",
     "service_type": "קרפה",
     "is_available": true
   },
