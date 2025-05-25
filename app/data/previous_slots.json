@@ -216,6 +216,13 @@
     "service_type": "ליאור",
     "is_available": true
   },
+  "שישי, 30 מאי 2025_45": {
+    "date": "שישי, 30 מאי 2025",
+    "event_id": "45",
+    "time": "10:00 - 13:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
   "שישי, 30 מאי 2025_48": {
     "date": "שישי, 30 מאי 2025",
     "event_id": "48",
