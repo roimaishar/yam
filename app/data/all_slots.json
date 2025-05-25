@@ -1352,13 +1352,6 @@
   },
   {
     "date": "שלישי, 3 יוני 2025",
-    "event_id": "17",
-    "time": "16:00 - 19:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 3 יוני 2025",
     "event_id": "18",
     "time": "19:00 - 22:00",
     "service_type": "רונית",
@@ -1669,13 +1662,6 @@
     "date": "חמישי, 5 יוני 2025",
     "event_id": "29",
     "time": "06:00 - 09:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  {
-    "date": "חמישי, 5 יוני 2025",
-    "event_id": "31",
-    "time": "12:00 - 15:00",
     "service_type": "מישל",
     "is_available": true
   },
@@ -1999,6 +1985,13 @@
     "event_id": "48",
     "time": "19:00 - 22:00",
     "service_type": "ושתי",
+    "is_available": true
+  },
+  {
+    "date": "שבת, 7 יוני 2025",
+    "event_id": "57",
+    "time": "15:00 - 18:00",
+    "service_type": "אסתר",
     "is_available": true
   },
   {
