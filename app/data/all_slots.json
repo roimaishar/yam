@@ -848,13 +848,6 @@
   },
   {
     "date": "ראשון, 1 יוני 2025",
-    "event_id": "15",
-    "time": "13:00 - 16:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 1 יוני 2025",
     "event_id": "17",
     "time": "19:00 - 22:00",
     "service_type": "רונית",
@@ -1088,13 +1081,6 @@
     "date": "שני, 2 יוני 2025",
     "event_id": "15",
     "time": "13:00 - 16:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
-  {
-    "date": "שני, 2 יוני 2025",
-    "event_id": "16",
-    "time": "16:00 - 19:00",
     "service_type": "רונית",
     "is_available": true
   },
