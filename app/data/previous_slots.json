@@ -384,13 +384,6 @@
     "service_type": "ליאור",
     "is_available": true
   },
-  "שבת, 31 מאי 2025_25": {
-    "date": "שבת, 31 מאי 2025",
-    "event_id": "25",
-    "time": "16:00 - 19:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
   "שבת, 31 מאי 2025_26": {
     "date": "שבת, 31 מאי 2025",
     "event_id": "26",
@@ -531,13 +524,6 @@
     "service_type": "קטמנדו",
     "is_available": true
   },
-  "ראשון, 1 יוני 2025_21": {
-    "date": "ראשון, 1 יוני 2025",
-    "event_id": "21",
-    "time": "16:00 - 19:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
   "שני, 2 יוני 2025_42": {
     "date": "שני, 2 יוני 2025",
     "event_id": "42",
@@ -619,13 +605,6 @@
     "date": "שני, 2 יוני 2025",
     "event_id": "33",
     "time": "11:00 - 14:00",
-    "service_type": "כרמן החדשה",
-    "is_available": true
-  },
-  "שני, 2 יוני 2025_34": {
-    "date": "שני, 2 יוני 2025",
-    "event_id": "34",
-    "time": "14:00 - 17:00",
     "service_type": "כרמן החדשה",
     "is_available": true
   },
