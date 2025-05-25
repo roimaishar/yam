@@ -20,13 +20,6 @@
     "service_type": "רוני",
     "is_available": true
   },
-  "שני, 26 מאי 2025_1": {
-    "date": "שני, 26 מאי 2025",
-    "event_id": "1",
-    "time": "08:00 - 11:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
   "שני, 26 מאי 2025_2": {
     "date": "שני, 26 מאי 2025",
     "event_id": "2",
@@ -55,6 +48,13 @@
     "service_type": "הרמוני",
     "is_available": true
   },
+  "שני, 26 מאי 2025_35": {
+    "date": "שני, 26 מאי 2025",
+    "event_id": "35",
+    "time": "17:00 - 20:00",
+    "service_type": "כרמן החדשה",
+    "is_available": true
+  },
   "שני, 26 מאי 2025_36": {
     "date": "שני, 26 מאי 2025",
     "event_id": "36",
@@ -66,13 +66,6 @@
     "date": "שני, 26 מאי 2025",
     "event_id": "27",
     "time": "06:00 - 09:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  "שני, 26 מאי 2025_29": {
-    "date": "שני, 26 מאי 2025",
-    "event_id": "29",
-    "time": "12:00 - 15:00",
     "service_type": "מישל",
     "is_available": true
   },
@@ -1504,13 +1497,6 @@
     "service_type": "הרמוני",
     "is_available": true
   },
-  "רביעי, 4 יוני 2025_41": {
-    "date": "רביעי, 4 יוני 2025",
-    "event_id": "41",
-    "time": "15:00 - 18:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
   "רביעי, 4 יוני 2025_42": {
     "date": "רביעי, 4 יוני 2025",
     "event_id": "42",
@@ -1901,13 +1887,6 @@
     "event_id": "38",
     "time": "20:00 - 23:00",
     "service_type": "כרמן החדשה",
-    "is_available": true
-  },
-  "שישי, 6 יוני 2025_29": {
-    "date": "שישי, 6 יוני 2025",
-    "event_id": "29",
-    "time": "06:00 - 09:00",
-    "service_type": "מישל",
     "is_available": true
   },
   "שישי, 6 יוני 2025_33": {
