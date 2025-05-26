@@ -244,6 +244,13 @@
     "service_type": "רונית",
     "is_available": true
   },
+  "שבת, 31 מאי 2025_22": {
+    "date": "שבת, 31 מאי 2025",
+    "event_id": "22",
+    "time": "07:00 - 10:00",
+    "service_type": "ליאור",
+    "is_available": true
+  },
   "שבת, 31 מאי 2025_26": {
     "date": "שבת, 31 מאי 2025",
     "event_id": "26",
