@@ -169,6 +169,13 @@
   },
   {
     "date": "שישי, 30 מאי 2025",
+    "event_id": "17",
+    "time": "19:00 - 22:00",
+    "service_type": "רונית",
+    "is_available": true
+  },
+  {
+    "date": "שישי, 30 מאי 2025",
     "event_id": "28",
     "time": "19:00 - 22:00",
     "service_type": "ליאור",
