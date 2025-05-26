@@ -6,6 +6,13 @@
     "service_type": "אסתר",
     "is_available": true
   },
+  "רביעי, 28 מאי 2025_56": {
+    "date": "רביעי, 28 מאי 2025",
+    "event_id": "56",
+    "time": "18:00 - 21:00",
+    "service_type": "אסתר",
+    "is_available": true
+  },
   "רביעי, 28 מאי 2025_1": {
     "date": "רביעי, 28 מאי 2025",
     "event_id": "1",
