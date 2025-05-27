@@ -363,13 +363,6 @@
     "service_type": "נאווה",
     "is_available": true
   },
-  "ראשון, 1 יוני 2025_8": {
-    "date": "ראשון, 1 יוני 2025",
-    "event_id": "8",
-    "time": "12:00 - 14:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
   "ראשון, 1 יוני 2025_9": {
     "date": "ראשון, 1 יוני 2025",
     "event_id": "9",
@@ -626,6 +619,13 @@
     "date": "שלישי, 3 יוני 2025",
     "event_id": "53",
     "time": "06:00 - 09:00",
+    "service_type": "אסתר",
+    "is_available": true
+  },
+  "שלישי, 3 יוני 2025_57": {
+    "date": "שלישי, 3 יוני 2025",
+    "event_id": "57",
+    "time": "18:00 - 21:00",
     "service_type": "אסתר",
     "is_available": true
   },
@@ -1252,13 +1252,6 @@
     "service_type": "נאווה",
     "is_available": true
   },
-  "שישי, 6 יוני 2025_13": {
-    "date": "שישי, 6 יוני 2025",
-    "event_id": "13",
-    "time": "07:00 - 10:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
   "שישי, 6 יוני 2025_17": {
     "date": "שישי, 6 יוני 2025",
     "event_id": "17",
@@ -1628,13 +1621,6 @@
     "event_id": "47",
     "time": "16:00 - 19:00",
     "service_type": "ושתי",
-    "is_available": true
-  },
-  "ראשון, 8 יוני 2025_56": {
-    "date": "ראשון, 8 יוני 2025",
-    "event_id": "56",
-    "time": "12:00 - 15:00",
-    "service_type": "אסתר",
     "is_available": true
   },
   "ראשון, 8 יוני 2025_59": {
