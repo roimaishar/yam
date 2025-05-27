@@ -111,6 +111,13 @@
     "service_type": "ליאור",
     "is_available": true
   },
+  "חמישי, 29 מאי 2025_50": {
+    "date": "חמישי, 29 מאי 2025",
+    "event_id": "50",
+    "time": "16:00 - 19:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
   "חמישי, 29 מאי 2025_66": {
     "date": "חמישי, 29 מאי 2025",
     "event_id": "66",
