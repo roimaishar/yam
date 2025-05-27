@@ -1,15 +1,15 @@
 {
-  "רביעי, 28 מאי 2025_44": {
-    "date": "רביעי, 28 מאי 2025",
-    "event_id": "44",
-    "time": "13:00 - 16:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
   "רביעי, 28 מאי 2025_52": {
     "date": "רביעי, 28 מאי 2025",
     "event_id": "52",
     "time": "06:00 - 09:00",
+    "service_type": "אסתר",
+    "is_available": true
+  },
+  "רביעי, 28 מאי 2025_55": {
+    "date": "רביעי, 28 מאי 2025",
+    "event_id": "55",
+    "time": "15:00 - 18:00",
     "service_type": "אסתר",
     "is_available": true
   },
@@ -445,13 +445,6 @@
     "event_id": "5",
     "time": "20:00 - 23:00",
     "service_type": "קרפה",
-    "is_available": true
-  },
-  "שני, 2 יוני 2025_39": {
-    "date": "שני, 2 יוני 2025",
-    "event_id": "39",
-    "time": "12:00 - 15:00",
-    "service_type": "הרמוני",
     "is_available": true
   },
   "שני, 2 יוני 2025_32": {
@@ -1277,6 +1270,13 @@
     "date": "שישי, 6 יוני 2025",
     "event_id": "18",
     "time": "07:00 - 09:00",
+    "service_type": "קטמנדו",
+    "is_available": true
+  },
+  "שישי, 6 יוני 2025_19": {
+    "date": "שישי, 6 יוני 2025",
+    "event_id": "19",
+    "time": "09:00 - 11:00",
     "service_type": "קטמנדו",
     "is_available": true
   },
