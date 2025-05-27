@@ -195,13 +195,6 @@
     "service_type": "נאווה",
     "is_available": true
   },
-  "שישי, 30 מאי 2025_17": {
-    "date": "שישי, 30 מאי 2025",
-    "event_id": "17",
-    "time": "19:00 - 22:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
   "שישי, 30 מאי 2025_28": {
     "date": "שישי, 30 מאי 2025",
     "event_id": "28",
@@ -615,13 +608,6 @@
     "service_type": "קרפה",
     "is_available": true
   },
-  "שלישי, 3 יוני 2025_3": {
-    "date": "שלישי, 3 יוני 2025",
-    "event_id": "3",
-    "time": "14:00 - 17:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
   "שלישי, 3 יוני 2025_5": {
     "date": "שלישי, 3 יוני 2025",
     "event_id": "5",
@@ -794,13 +780,6 @@
     "date": "רביעי, 4 יוני 2025",
     "event_id": "61",
     "time": "08:00 - 11:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
-  "רביעי, 4 יוני 2025_63": {
-    "date": "רביעי, 4 יוני 2025",
-    "event_id": "63",
-    "time": "14:00 - 17:00",
     "service_type": "רוני",
     "is_available": true
   },
