@@ -1086,13 +1086,6 @@
   },
   {
     "date": "חמישי, 5 יוני 2025",
-    "event_id": "26",
-    "time": "13:00 - 16:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
-  {
-    "date": "חמישי, 5 יוני 2025",
     "event_id": "27",
     "time": "16:00 - 19:00",
     "service_type": "ליאור",
@@ -1151,13 +1144,6 @@
     "date": "שישי, 6 יוני 2025",
     "event_id": "39",
     "time": "06:00 - 09:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 6 יוני 2025",
-    "event_id": "43",
-    "time": "18:00 - 21:00",
     "service_type": "הרמוני",
     "is_available": true
   },
