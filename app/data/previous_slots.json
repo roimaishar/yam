@@ -181,6 +181,13 @@
     "service_type": "קטמנדו",
     "is_available": true
   },
+  "שישי, 30 מאי 2025_44": {
+    "date": "שישי, 30 מאי 2025",
+    "event_id": "44",
+    "time": "07:00 - 10:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
   "שישי, 30 מאי 2025_48": {
     "date": "שישי, 30 מאי 2025",
     "event_id": "48",
