@@ -288,13 +288,6 @@
   },
   {
     "date": "שבת, 31 מאי 2025",
-    "event_id": "22",
-    "time": "07:00 - 10:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 31 מאי 2025",
     "event_id": "26",
     "time": "19:00 - 22:00",
     "service_type": "ליאור",
@@ -1501,13 +1494,6 @@
     "date": "ראשון, 8 יוני 2025",
     "event_id": "59",
     "time": "08:00 - 11:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 8 יוני 2025",
-    "event_id": "60",
-    "time": "11:00 - 14:00",
     "service_type": "רוני",
     "is_available": true
   },
