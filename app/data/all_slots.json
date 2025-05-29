@@ -106,6 +106,13 @@
   },
   {
     "date": "שבת, 31 מאי 2025",
+    "event_id": "6",
+    "time": "08:00 - 10:00",
+    "service_type": "נאווה",
+    "is_available": true
+  },
+  {
+    "date": "שבת, 31 מאי 2025",
     "event_id": "8",
     "time": "12:00 - 14:00",
     "service_type": "נאווה",
@@ -220,13 +227,6 @@
     "date": "ראשון, 1 יוני 2025",
     "event_id": "27",
     "time": "06:00 - 09:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 1 יוני 2025",
-    "event_id": "31",
-    "time": "18:00 - 21:00",
     "service_type": "מישל",
     "is_available": true
   },
@@ -486,13 +486,6 @@
     "date": "שלישי, 3 יוני 2025",
     "event_id": "29",
     "time": "09:00 - 12:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 3 יוני 2025",
-    "event_id": "32",
-    "time": "18:00 - 21:00",
     "service_type": "מישל",
     "is_available": true
   },
