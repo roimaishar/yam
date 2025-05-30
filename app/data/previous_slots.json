@@ -97,13 +97,6 @@
     "service_type": "רונית",
     "is_available": true
   },
-  "שבת, 31 מאי 2025_22": {
-    "date": "שבת, 31 מאי 2025",
-    "event_id": "22",
-    "time": "07:00 - 10:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
   "שבת, 31 מאי 2025_25": {
     "date": "שבת, 31 מאי 2025",
     "event_id": "25",
@@ -696,13 +689,6 @@
     "date": "חמישי, 5 יוני 2025",
     "event_id": "39",
     "time": "06:00 - 09:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  "חמישי, 5 יוני 2025_43": {
-    "date": "חמישי, 5 יוני 2025",
-    "event_id": "43",
-    "time": "18:00 - 21:00",
     "service_type": "הרמוני",
     "is_available": true
   },
