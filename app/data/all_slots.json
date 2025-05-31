@@ -638,13 +638,6 @@
   },
   {
     "date": "שישי, 6 יוני 2025",
-    "event_id": "10",
-    "time": "16:00 - 18:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 6 יוני 2025",
     "event_id": "11",
     "time": "18:00 - 20:00",
     "service_type": "נאווה",
@@ -794,6 +787,13 @@
     "date": "שבת, 7 יוני 2025",
     "event_id": "40",
     "time": "09:00 - 12:00",
+    "service_type": "הרמוני",
+    "is_available": true
+  },
+  {
+    "date": "שבת, 7 יוני 2025",
+    "event_id": "42",
+    "time": "15:00 - 18:00",
     "service_type": "הרמוני",
     "is_available": true
   },
@@ -2083,6 +2083,13 @@
     "event_id": "44",
     "time": "18:00 - 21:00",
     "service_type": "הרמוני",
+    "is_available": true
+  },
+  {
+    "date": "חמישי, 12 יוני 2025",
+    "event_id": "36",
+    "time": "11:00 - 14:00",
+    "service_type": "כרמן החדשה",
     "is_available": true
   },
   {
