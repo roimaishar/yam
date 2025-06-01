@@ -146,13 +146,6 @@
     "service_type": "קטמנדו",
     "is_available": true
   },
-  "שלישי, 3 יוני 2025_43": {
-    "date": "שלישי, 3 יוני 2025",
-    "event_id": "43",
-    "time": "07:00 - 10:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
   "שלישי, 3 יוני 2025_62": {
     "date": "שלישי, 3 יוני 2025",
     "event_id": "62",
@@ -2271,13 +2264,6 @@
     "date": "שבת, 14 יוני 2025",
     "event_id": "55",
     "time": "15:00 - 18:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  "שבת, 14 יוני 2025_56": {
-    "date": "שבת, 14 יוני 2025",
-    "event_id": "56",
-    "time": "18:00 - 21:00",
     "service_type": "אסתר",
     "is_available": true
   },
