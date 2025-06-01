@@ -447,13 +447,6 @@
     "service_type": "קטמנדו",
     "is_available": true
   },
-  "חמישי, 5 יוני 2025_23": {
-    "date": "חמישי, 5 יוני 2025",
-    "event_id": "23",
-    "time": "17:00 - 19:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
   "שישי, 6 יוני 2025_54": {
     "date": "שישי, 6 יוני 2025",
     "event_id": "54",
@@ -1921,13 +1914,6 @@
     "date": "חמישי, 12 יוני 2025",
     "event_id": "9",
     "time": "14:00 - 16:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  "חמישי, 12 יוני 2025_10": {
-    "date": "חמישי, 12 יוני 2025",
-    "event_id": "10",
-    "time": "16:00 - 18:00",
     "service_type": "נאווה",
     "is_available": true
   },
