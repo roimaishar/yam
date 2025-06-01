@@ -1891,6 +1891,13 @@
   },
   {
     "date": "חמישי, 12 יוני 2025",
+    "event_id": "32",
+    "time": "12:00 - 15:00",
+    "service_type": "מישל",
+    "is_available": true
+  },
+  {
+    "date": "חמישי, 12 יוני 2025",
     "event_id": "34",
     "time": "18:00 - 21:00",
     "service_type": "מישל",
