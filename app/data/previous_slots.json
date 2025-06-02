@@ -1133,13 +1133,6 @@
     "service_type": "אסתר",
     "is_available": true
   },
-  "שלישי, 10 יוני 2025_56": {
-    "date": "שלישי, 10 יוני 2025",
-    "event_id": "56",
-    "time": "18:00 - 21:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
   "שלישי, 10 יוני 2025_57": {
     "date": "שלישי, 10 יוני 2025",
     "event_id": "57",
@@ -1669,13 +1662,6 @@
     "date": "חמישי, 12 יוני 2025",
     "event_id": "2",
     "time": "11:00 - 14:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
-  "חמישי, 12 יוני 2025_3": {
-    "date": "חמישי, 12 יוני 2025",
-    "event_id": "3",
-    "time": "14:00 - 17:00",
     "service_type": "קרפה",
     "is_available": true
   },
