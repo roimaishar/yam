@@ -265,6 +265,13 @@
     "service_type": "קטמנדו",
     "is_available": true
   },
+  "שישי, 6 יוני 2025_48": {
+    "date": "שישי, 6 יוני 2025",
+    "event_id": "48",
+    "time": "19:00 - 22:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
   "שישי, 6 יוני 2025_54": {
     "date": "שישי, 6 יוני 2025",
     "event_id": "54",
