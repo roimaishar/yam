@@ -15,13 +15,6 @@
   },
   {
     "date": "רביעי, 4 יוני 2025",
-    "event_id": "3",
-    "time": "14:00 - 17:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 4 יוני 2025",
     "event_id": "5",
     "time": "20:00 - 23:00",
     "service_type": "קרפה",
