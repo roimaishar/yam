@@ -13,6 +13,13 @@
     "service_type": "רוני",
     "is_available": true
   },
+  "רביעי, 4 יוני 2025_62": {
+    "date": "רביעי, 4 יוני 2025",
+    "event_id": "62",
+    "time": "11:00 - 14:00",
+    "service_type": "רוני",
+    "is_available": true
+  },
   "רביעי, 4 יוני 2025_64": {
     "date": "רביעי, 4 יוני 2025",
     "event_id": "64",
@@ -32,13 +39,6 @@
     "event_id": "5",
     "time": "20:00 - 23:00",
     "service_type": "קרפה",
-    "is_available": true
-  },
-  "רביעי, 4 יוני 2025_42": {
-    "date": "רביעי, 4 יוני 2025",
-    "event_id": "42",
-    "time": "18:00 - 21:00",
-    "service_type": "הרמוני",
     "is_available": true
   },
   "רביעי, 4 יוני 2025_37": {
@@ -137,6 +137,13 @@
     "event_id": "38",
     "time": "20:00 - 23:00",
     "service_type": "כרמן החדשה",
+    "is_available": true
+  },
+  "חמישי, 5 יוני 2025_7": {
+    "date": "חמישי, 5 יוני 2025",
+    "event_id": "7",
+    "time": "10:00 - 12:00",
+    "service_type": "נאווה",
     "is_available": true
   },
   "חמישי, 5 יוני 2025_12": {
@@ -633,13 +640,6 @@
     "date": "ראשון, 8 יוני 2025",
     "event_id": "20",
     "time": "10:00 - 13:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
-  "ראשון, 8 יוני 2025_22": {
-    "date": "ראשון, 8 יוני 2025",
-    "event_id": "22",
-    "time": "16:00 - 19:00",
     "service_type": "קטמנדו",
     "is_available": true
   },
