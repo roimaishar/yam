@@ -426,13 +426,6 @@
     "service_type": "כרמן החדשה",
     "is_available": true
   },
-  "ראשון, 8 יוני 2025_37": {
-    "date": "ראשון, 8 יוני 2025",
-    "event_id": "37",
-    "time": "17:00 - 20:00",
-    "service_type": "כרמן החדשה",
-    "is_available": true
-  },
   "ראשון, 8 יוני 2025_38": {
     "date": "ראשון, 8 יוני 2025",
     "event_id": "38",
@@ -1396,13 +1389,6 @@
     "date": "שישי, 13 יוני 2025",
     "event_id": "54",
     "time": "06:00 - 09:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  "שישי, 13 יוני 2025_58": {
-    "date": "שישי, 13 יוני 2025",
-    "event_id": "58",
-    "time": "18:00 - 21:00",
     "service_type": "אסתר",
     "is_available": true
   },
