@@ -113,8 +113,8 @@
   },
   {
     "date": "שבת, 7 יוני 2025",
-    "event_id": "36",
-    "time": "17:00 - 20:00",
+    "event_id": "34",
+    "time": "11:00 - 14:00",
     "service_type": "כרמן החדשה",
     "is_available": true
   },
@@ -2187,13 +2187,6 @@
     "date": "שלישי, 17 יוני 2025",
     "event_id": "2",
     "time": "11:00 - 14:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 17 יוני 2025",
-    "event_id": "4",
-    "time": "17:00 - 20:00",
     "service_type": "קרפה",
     "is_available": true
   },
