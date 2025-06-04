@@ -90,13 +90,6 @@
     "service_type": "קרפה",
     "is_available": true
   },
-  "שבת, 7 יוני 2025_3": {
-    "date": "שבת, 7 יוני 2025",
-    "event_id": "3",
-    "time": "14:00 - 17:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
   "שבת, 7 יוני 2025_4": {
     "date": "שבת, 7 יוני 2025",
     "event_id": "4",
@@ -675,13 +668,6 @@
     "date": "שלישי, 10 יוני 2025",
     "event_id": "37",
     "time": "06:00 - 09:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  "שלישי, 10 יוני 2025_39": {
-    "date": "שלישי, 10 יוני 2025",
-    "event_id": "39",
-    "time": "12:00 - 15:00",
     "service_type": "הרמוני",
     "is_available": true
   },
