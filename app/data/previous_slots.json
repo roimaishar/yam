@@ -923,13 +923,6 @@
     "service_type": "רוני",
     "is_available": true
   },
-  "רביעי, 11 יוני 2025_59": {
-    "date": "רביעי, 11 יוני 2025",
-    "event_id": "59",
-    "time": "14:00 - 17:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
   "רביעי, 11 יוני 2025_61": {
     "date": "רביעי, 11 יוני 2025",
     "event_id": "61",
@@ -1221,13 +1214,6 @@
     "date": "חמישי, 12 יוני 2025",
     "event_id": "8",
     "time": "12:00 - 14:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  "חמישי, 12 יוני 2025_9": {
-    "date": "חמישי, 12 יוני 2025",
-    "event_id": "9",
-    "time": "14:00 - 16:00",
     "service_type": "נאווה",
     "is_available": true
   },
