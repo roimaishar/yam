@@ -853,13 +853,6 @@
     "service_type": "אסתר",
     "is_available": true
   },
-  "רביעי, 11 יוני 2025_55": {
-    "date": "רביעי, 11 יוני 2025",
-    "event_id": "55",
-    "time": "15:00 - 18:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
   "רביעי, 11 יוני 2025_57": {
     "date": "רביעי, 11 יוני 2025",
     "event_id": "57",
@@ -1292,13 +1285,6 @@
     "event_id": "12",
     "time": "20:00 - 22:00",
     "service_type": "נאווה",
-    "is_available": true
-  },
-  "שישי, 13 יוני 2025_13": {
-    "date": "שישי, 13 יוני 2025",
-    "event_id": "13",
-    "time": "07:00 - 10:00",
-    "service_type": "רונית",
     "is_available": true
   },
   "שישי, 13 יוני 2025_17": {
