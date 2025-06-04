@@ -13,13 +13,6 @@
     "service_type": "קרפה",
     "is_available": true
   },
-  "חמישי, 5 יוני 2025_39": {
-    "date": "חמישי, 5 יוני 2025",
-    "event_id": "39",
-    "time": "06:00 - 09:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
   "חמישי, 5 יוני 2025_38": {
     "date": "חמישי, 5 יוני 2025",
     "event_id": "38",
@@ -81,6 +74,13 @@
     "event_id": "12",
     "time": "20:00 - 22:00",
     "service_type": "נאווה",
+    "is_available": true
+  },
+  "שישי, 6 יוני 2025_18": {
+    "date": "שישי, 6 יוני 2025",
+    "event_id": "18",
+    "time": "07:00 - 09:00",
+    "service_type": "קטמנדו",
     "is_available": true
   },
   "שבת, 7 יוני 2025_63": {
@@ -563,13 +563,6 @@
     "date": "שני, 9 יוני 2025",
     "event_id": "30",
     "time": "15:00 - 18:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  "שני, 9 יוני 2025_31": {
-    "date": "שני, 9 יוני 2025",
-    "event_id": "31",
-    "time": "18:00 - 21:00",
     "service_type": "מישל",
     "is_available": true
   },
