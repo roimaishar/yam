@@ -251,13 +251,6 @@
     "service_type": "רוני",
     "is_available": true
   },
-  "ראשון, 8 יוני 2025_61": {
-    "date": "ראשון, 8 יוני 2025",
-    "event_id": "61",
-    "time": "14:00 - 17:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
   "ראשון, 8 יוני 2025_63": {
     "date": "ראשון, 8 יוני 2025",
     "event_id": "63",
@@ -298,13 +291,6 @@
     "event_id": "40",
     "time": "09:00 - 12:00",
     "service_type": "הרמוני",
-    "is_available": true
-  },
-  "ראשון, 8 יוני 2025_35": {
-    "date": "ראשון, 8 יוני 2025",
-    "event_id": "35",
-    "time": "11:00 - 14:00",
-    "service_type": "כרמן החדשה",
     "is_available": true
   },
   "ראשון, 8 יוני 2025_38": {
@@ -748,13 +734,6 @@
     "service_type": "נאווה",
     "is_available": true
   },
-  "שלישי, 10 יוני 2025_10": {
-    "date": "שלישי, 10 יוני 2025",
-    "event_id": "10",
-    "time": "16:00 - 18:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
   "שלישי, 10 יוני 2025_11": {
     "date": "שלישי, 10 יוני 2025",
     "event_id": "11",
@@ -1110,13 +1089,6 @@
     "event_id": "34",
     "time": "18:00 - 21:00",
     "service_type": "מישל",
-    "is_available": true
-  },
-  "חמישי, 12 יוני 2025_8": {
-    "date": "חמישי, 12 יוני 2025",
-    "event_id": "8",
-    "time": "12:00 - 14:00",
-    "service_type": "נאווה",
     "is_available": true
   },
   "חמישי, 12 יוני 2025_10": {
