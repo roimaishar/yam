@@ -42,21 +42,45 @@ jobs:
           if ! git diff --quiet || ! git diff --staged --quiet; then
             git commit -m "Update slot data [skip ci]"
             
-            # Stash any unstaged changes before pulling to ensure a clean working directory
-            git stash push --keep-index --include-untracked
+            # Stash any unstaged changes or untracked files before pulling
+            STASH_MADE=false
+            if ! git diff --quiet HEAD || [ -n "$(git ls-files --others --exclude-standard)" ]; then
+              echo "Unstaged changes or untracked files detected. Stashing..."
+              git stash push --keep-index --include-untracked
+              STASH_MADE=true
+            fi
             
             # Pull with rebase before pushing to handle concurrent updates
             echo "Pulling latest changes from origin..."
-            git pull --rebase origin ${GITHUB_REF#refs/heads/} || (
-              echo "Rebase failed, attempting merge instead..."
-              git stash pop
-              git merge origin/${GITHUB_REF#refs/heads/} --no-edit
-            )
+            if git pull --rebase origin ${GITHUB_REF#refs/heads/}; then
+              echo "Rebase successful."
+            else
+              echo "Rebase failed. Aborting rebase..."
+              git rebase --abort # IMPORTANT: Clean up from the failed rebase
+
+              echo "Fetching latest from origin after rebase abort..."
+              git fetch origin
+
+              echo "Attempting merge with origin/${GITHUB_REF#refs/heads/} using 'ours' strategy for conflicts..."
+              # The -Xours option will favor the current Action's changes in case of conflict.
+              if git merge -Xours origin/${GITHUB_REF#refs/heads/} -m "Merge remote-tracking branch 'origin/${GITHUB_REF#refs/heads/}' (favoring local changes on conflict)"; then
+                echo "Merge successful (favoring local changes on conflict)."
+              else
+                # This should be rare if -Xours is effective, but indicates a more severe merge problem.
+                echo "Merge failed even with -Xours. This is unexpected. Error: $?"
+                # Consider adding 'exit 1' here if this state is critical.
+              fi
+            fi
             
-            # Pop the stash if pull/rebase was successful
-            # Check if stash exists before popping
-            if [ -n "$(git stash list)" ]; then
-              git stash pop || echo "Stash pop failed, continuing push..."
+            # Pop the stash if one was made
+            if [ "$STASH_MADE" = true ]; then
+              echo "Attempting to pop stash..."
+              if git stash pop; then
+                echo "Stash popped successfully."
+              else
+                echo "Stash pop failed. This may be due to conflicts between stashed changes and the merged history."
+                echo "Continuing push. Manual inspection of stash may be needed if pop conflicts are critical."
+              fi
             fi
             
             # Push changes
