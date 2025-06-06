@@ -398,13 +398,6 @@
     "service_type": "קטמנדו",
     "is_available": true
   },
-  "שני, 9 יוני 2025_21": {
-    "date": "שני, 9 יוני 2025",
-    "event_id": "21",
-    "time": "16:00 - 19:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
   "שלישי, 10 יוני 2025_42": {
     "date": "שלישי, 10 יוני 2025",
     "event_id": "42",
@@ -801,13 +794,6 @@
     "date": "חמישי, 12 יוני 2025",
     "event_id": "19",
     "time": "07:00 - 09:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
-  "חמישי, 12 יוני 2025_23": {
-    "date": "חמישי, 12 יוני 2025",
-    "event_id": "23",
-    "time": "15:00 - 17:00",
     "service_type": "קטמנדו",
     "is_available": true
   },
@@ -2237,13 +2223,6 @@
     "event_id": "54",
     "time": "06:00 - 09:00",
     "service_type": "אסתר",
-    "is_available": true
-  },
-  "חמישי, 19 יוני 2025_62": {
-    "date": "חמישי, 19 יוני 2025",
-    "event_id": "62",
-    "time": "17:00 - 20:00",
-    "service_type": "רוני",
     "is_available": true
   },
   "חמישי, 19 יוני 2025_63": {
