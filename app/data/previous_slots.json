@@ -41,13 +41,6 @@
     "service_type": "כרמן החדשה",
     "is_available": true
   },
-  "שבת, 7 יוני 2025_28": {
-    "date": "שבת, 7 יוני 2025",
-    "event_id": "28",
-    "time": "06:00 - 09:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
   "שבת, 7 יוני 2025_6": {
     "date": "שבת, 7 יוני 2025",
     "event_id": "6",
@@ -580,13 +573,6 @@
     "service_type": "אסתר",
     "is_available": true
   },
-  "רביעי, 11 יוני 2025_54": {
-    "date": "רביעי, 11 יוני 2025",
-    "event_id": "54",
-    "time": "12:00 - 15:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
   "רביעי, 11 יוני 2025_57": {
     "date": "רביעי, 11 יוני 2025",
     "event_id": "57",
@@ -830,13 +816,6 @@
     "event_id": "12",
     "time": "20:00 - 22:00",
     "service_type": "נאווה",
-    "is_available": true
-  },
-  "חמישי, 12 יוני 2025_17": {
-    "date": "חמישי, 12 יוני 2025",
-    "event_id": "17",
-    "time": "16:00 - 19:00",
-    "service_type": "רונית",
     "is_available": true
   },
   "חמישי, 12 יוני 2025_18": {
