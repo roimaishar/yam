@@ -2325,13 +2325,6 @@
   },
   {
     "date": "שישי, 20 יוני 2025",
-    "event_id": "27",
-    "time": "13:00 - 16:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 20 יוני 2025",
     "event_id": "28",
     "time": "16:00 - 19:00",
     "service_type": "ליאור",
@@ -2355,13 +2348,6 @@
     "date": "שישי, 20 יוני 2025",
     "event_id": "20",
     "time": "09:00 - 11:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 20 יוני 2025",
-    "event_id": "21",
-    "time": "11:00 - 13:00",
     "service_type": "קטמנדו",
     "is_available": true
   },
