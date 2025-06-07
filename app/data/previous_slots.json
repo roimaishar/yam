@@ -2015,13 +2015,6 @@
     "service_type": "רונית",
     "is_available": true
   },
-  "רביעי, 18 יוני 2025_18": {
-    "date": "רביעי, 18 יוני 2025",
-    "event_id": "18",
-    "time": "19:00 - 22:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
   "רביעי, 18 יוני 2025_24": {
     "date": "רביעי, 18 יוני 2025",
     "event_id": "24",
@@ -2278,13 +2271,6 @@
     "date": "שישי, 20 יוני 2025",
     "event_id": "8",
     "time": "12:00 - 14:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  "שישי, 20 יוני 2025_9": {
-    "date": "שישי, 20 יוני 2025",
-    "event_id": "9",
-    "time": "14:00 - 16:00",
     "service_type": "נאווה",
     "is_available": true
   },
