@@ -427,6 +427,13 @@
     "is_available": true
   },
   {
+    "date": "רביעי, 11 יוני 2025",
+    "event_id": "21",
+    "time": "16:00 - 19:00",
+    "service_type": "קטמנדו",
+    "is_available": true
+  },
+  {
     "date": "חמישי, 12 יוני 2025",
     "event_id": "49",
     "time": "19:00 - 22:00",
@@ -522,13 +529,6 @@
     "event_id": "12",
     "time": "20:00 - 22:00",
     "service_type": "נאווה",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 13 יוני 2025",
-    "event_id": "28",
-    "time": "19:00 - 22:00",
-    "service_type": "ליאור",
     "is_available": true
   },
   {
