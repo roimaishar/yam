@@ -57,13 +57,6 @@
   },
   {
     "date": "שני, 9 יוני 2025",
-    "event_id": "27",
-    "time": "06:00 - 09:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  {
-    "date": "שני, 9 יוני 2025",
     "event_id": "28",
     "time": "09:00 - 12:00",
     "service_type": "מישל",
@@ -1151,13 +1144,6 @@
     "date": "שני, 16 יוני 2025",
     "event_id": "53",
     "time": "09:00 - 12:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "שני, 16 יוני 2025",
-    "event_id": "54",
-    "time": "12:00 - 15:00",
     "service_type": "אסתר",
     "is_available": true
   },
