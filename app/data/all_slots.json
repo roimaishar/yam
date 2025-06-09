@@ -99,13 +99,6 @@
   },
   {
     "date": "שלישי, 10 יוני 2025",
-    "event_id": "6",
-    "time": "08:00 - 10:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 10 יוני 2025",
     "event_id": "7",
     "time": "10:00 - 12:00",
     "service_type": "נאווה",
