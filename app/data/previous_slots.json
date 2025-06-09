@@ -328,13 +328,6 @@
     "service_type": "ליאור",
     "is_available": true
   },
-  "חמישי, 12 יוני 2025_19": {
-    "date": "חמישי, 12 יוני 2025",
-    "event_id": "19",
-    "time": "07:00 - 09:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
   "חמישי, 12 יוני 2025_23": {
     "date": "חמישי, 12 יוני 2025",
     "event_id": "23",
@@ -1789,13 +1782,6 @@
     "event_id": "24",
     "time": "17:00 - 19:00",
     "service_type": "קטמנדו",
-    "is_available": true
-  },
-  "שבת, 21 יוני 2025_45": {
-    "date": "שבת, 21 יוני 2025",
-    "event_id": "45",
-    "time": "10:00 - 13:00",
-    "service_type": "ושתי",
     "is_available": true
   },
   "שבת, 21 יוני 2025_46": {
