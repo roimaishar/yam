@@ -904,13 +904,6 @@
   },
   {
     "date": "שלישי, 17 יוני 2025",
-    "event_id": "59",
-    "time": "11:00 - 14:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 17 יוני 2025",
     "event_id": "62",
     "time": "20:00 - 23:00",
     "service_type": "רוני",
@@ -2040,13 +2033,6 @@
     "date": "שני, 23 יוני 2025",
     "event_id": "43",
     "time": "10:00 - 13:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "שני, 23 יוני 2025",
-    "event_id": "45",
-    "time": "16:00 - 19:00",
     "service_type": "ושתי",
     "is_available": true
   },
