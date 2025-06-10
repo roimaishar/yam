@@ -281,13 +281,6 @@
   },
   {
     "date": "שישי, 13 יוני 2025",
-    "event_id": "25",
-    "time": "10:00 - 13:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 13 יוני 2025",
     "event_id": "18",
     "time": "07:00 - 09:00",
     "service_type": "קטמנדו",
@@ -1737,6 +1730,13 @@
   },
   {
     "date": "שישי, 20 יוני 2025",
+    "event_id": "23",
+    "time": "15:00 - 17:00",
+    "service_type": "קטמנדו",
+    "is_available": true
+  },
+  {
+    "date": "שישי, 20 יוני 2025",
     "event_id": "24",
     "time": "17:00 - 19:00",
     "service_type": "קטמנדו",
@@ -2412,13 +2412,6 @@
     "event_id": "5",
     "time": "20:00 - 23:00",
     "service_type": "קרפה",
-    "is_available": true
-  },
-  {
-    "date": "שני, 23 יוני 2025",
-    "event_id": "37",
-    "time": "06:00 - 09:00",
-    "service_type": "הרמוני",
     "is_available": true
   },
   {
