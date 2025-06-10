@@ -1,21 +1,21 @@
 [
   {
     "date": "רביעי, 11 יוני 2025",
-    "event_id": "52",
+    "event_id": "56",
     "time": "06:00 - 09:00",
     "service_type": "אסתר",
     "is_available": true
   },
   {
     "date": "רביעי, 11 יוני 2025",
-    "event_id": "54",
+    "event_id": "58",
     "time": "12:00 - 15:00",
     "service_type": "אסתר",
     "is_available": true
   },
   {
     "date": "רביעי, 11 יוני 2025",
-    "event_id": "61",
+    "event_id": "65",
     "time": "20:00 - 23:00",
     "service_type": "רוני",
     "is_available": true
@@ -119,6 +119,34 @@
     "is_available": true
   },
   {
+    "date": "רביעי, 11 יוני 2025",
+    "event_id": "47",
+    "time": "07:00 - 10:00",
+    "service_type": "טיני",
+    "is_available": true
+  },
+  {
+    "date": "רביעי, 11 יוני 2025",
+    "event_id": "48",
+    "time": "10:00 - 13:00",
+    "service_type": "טיני",
+    "is_available": true
+  },
+  {
+    "date": "רביעי, 11 יוני 2025",
+    "event_id": "49",
+    "time": "13:00 - 16:00",
+    "service_type": "טיני",
+    "is_available": true
+  },
+  {
+    "date": "רביעי, 11 יוני 2025",
+    "event_id": "50",
+    "time": "16:00 - 19:00",
+    "service_type": "טיני",
+    "is_available": true
+  },
+  {
     "date": "חמישי, 12 יוני 2025",
     "event_id": "49",
     "time": "19:00 - 22:00",
@@ -127,7 +155,7 @@
   },
   {
     "date": "חמישי, 12 יוני 2025",
-    "event_id": "64",
+    "event_id": "68",
     "time": "20:00 - 23:00",
     "service_type": "רוני",
     "is_available": true
@@ -196,8 +224,36 @@
     "is_available": true
   },
   {
+    "date": "חמישי, 12 יוני 2025",
+    "event_id": "50",
+    "time": "07:00 - 10:00",
+    "service_type": "טיני",
+    "is_available": true
+  },
+  {
+    "date": "חמישי, 12 יוני 2025",
+    "event_id": "51",
+    "time": "10:00 - 13:00",
+    "service_type": "טיני",
+    "is_available": true
+  },
+  {
+    "date": "חמישי, 12 יוני 2025",
+    "event_id": "52",
+    "time": "13:00 - 16:00",
+    "service_type": "טיני",
+    "is_available": true
+  },
+  {
+    "date": "חמישי, 12 יוני 2025",
+    "event_id": "53",
+    "time": "16:00 - 19:00",
+    "service_type": "טיני",
+    "is_available": true
+  },
+  {
     "date": "שישי, 13 יוני 2025",
-    "event_id": "63",
+    "event_id": "67",
     "time": "20:00 - 23:00",
     "service_type": "רוני",
     "is_available": true
@@ -245,6 +301,34 @@
     "is_available": true
   },
   {
+    "date": "שישי, 13 יוני 2025",
+    "event_id": "49",
+    "time": "07:00 - 10:00",
+    "service_type": "טיני",
+    "is_available": true
+  },
+  {
+    "date": "שישי, 13 יוני 2025",
+    "event_id": "50",
+    "time": "10:00 - 13:00",
+    "service_type": "טיני",
+    "is_available": true
+  },
+  {
+    "date": "שישי, 13 יוני 2025",
+    "event_id": "51",
+    "time": "13:00 - 16:00",
+    "service_type": "טיני",
+    "is_available": true
+  },
+  {
+    "date": "שישי, 13 יוני 2025",
+    "event_id": "52",
+    "time": "16:00 - 19:00",
+    "service_type": "טיני",
+    "is_available": true
+  },
+  {
     "date": "שבת, 14 יוני 2025",
     "event_id": "42",
     "time": "07:00 - 10:00",
@@ -253,42 +337,42 @@
   },
   {
     "date": "שבת, 14 יוני 2025",
-    "event_id": "52",
+    "event_id": "56",
     "time": "06:00 - 09:00",
     "service_type": "אסתר",
     "is_available": true
   },
   {
     "date": "שבת, 14 יוני 2025",
-    "event_id": "54",
+    "event_id": "58",
     "time": "12:00 - 15:00",
     "service_type": "אסתר",
     "is_available": true
   },
   {
     "date": "שבת, 14 יוני 2025",
-    "event_id": "55",
+    "event_id": "59",
     "time": "15:00 - 18:00",
     "service_type": "אסתר",
     "is_available": true
   },
   {
     "date": "שבת, 14 יוני 2025",
-    "event_id": "57",
+    "event_id": "61",
     "time": "08:00 - 11:00",
     "service_type": "רוני",
     "is_available": true
   },
   {
     "date": "שבת, 14 יוני 2025",
-    "event_id": "59",
+    "event_id": "63",
     "time": "14:00 - 17:00",
     "service_type": "רוני",
     "is_available": true
   },
   {
     "date": "שבת, 14 יוני 2025",
-    "event_id": "61",
+    "event_id": "65",
     "time": "20:00 - 23:00",
     "service_type": "רוני",
     "is_available": true
@@ -448,6 +532,34 @@
     "is_available": true
   },
   {
+    "date": "שבת, 14 יוני 2025",
+    "event_id": "47",
+    "time": "07:00 - 10:00",
+    "service_type": "טיני",
+    "is_available": true
+  },
+  {
+    "date": "שבת, 14 יוני 2025",
+    "event_id": "48",
+    "time": "10:00 - 13:00",
+    "service_type": "טיני",
+    "is_available": true
+  },
+  {
+    "date": "שבת, 14 יוני 2025",
+    "event_id": "49",
+    "time": "13:00 - 16:00",
+    "service_type": "טיני",
+    "is_available": true
+  },
+  {
+    "date": "שבת, 14 יוני 2025",
+    "event_id": "50",
+    "time": "16:00 - 19:00",
+    "service_type": "טיני",
+    "is_available": true
+  },
+  {
     "date": "ראשון, 15 יוני 2025",
     "event_id": "43",
     "time": "07:00 - 10:00",
@@ -456,21 +568,21 @@
   },
   {
     "date": "ראשון, 15 יוני 2025",
-    "event_id": "59",
+    "event_id": "63",
     "time": "08:00 - 11:00",
     "service_type": "רוני",
     "is_available": true
   },
   {
     "date": "ראשון, 15 יוני 2025",
-    "event_id": "61",
+    "event_id": "65",
     "time": "14:00 - 17:00",
     "service_type": "רוני",
     "is_available": true
   },
   {
     "date": "ראשון, 15 יוני 2025",
-    "event_id": "63",
+    "event_id": "67",
     "time": "20:00 - 23:00",
     "service_type": "רוני",
     "is_available": true
@@ -630,6 +742,34 @@
     "is_available": true
   },
   {
+    "date": "ראשון, 15 יוני 2025",
+    "event_id": "49",
+    "time": "07:00 - 10:00",
+    "service_type": "טיני",
+    "is_available": true
+  },
+  {
+    "date": "ראשון, 15 יוני 2025",
+    "event_id": "50",
+    "time": "10:00 - 13:00",
+    "service_type": "טיני",
+    "is_available": true
+  },
+  {
+    "date": "ראשון, 15 יוני 2025",
+    "event_id": "51",
+    "time": "13:00 - 16:00",
+    "service_type": "טיני",
+    "is_available": true
+  },
+  {
+    "date": "ראשון, 15 יוני 2025",
+    "event_id": "52",
+    "time": "16:00 - 19:00",
+    "service_type": "טיני",
+    "is_available": true
+  },
+  {
     "date": "שני, 16 יוני 2025",
     "event_id": "42",
     "time": "07:00 - 10:00",
@@ -645,21 +785,21 @@
   },
   {
     "date": "שני, 16 יוני 2025",
-    "event_id": "53",
+    "event_id": "57",
     "time": "09:00 - 12:00",
     "service_type": "אסתר",
     "is_available": true
   },
   {
     "date": "שני, 16 יוני 2025",
-    "event_id": "57",
+    "event_id": "61",
     "time": "08:00 - 11:00",
     "service_type": "רוני",
     "is_available": true
   },
   {
     "date": "שני, 16 יוני 2025",
-    "event_id": "61",
+    "event_id": "65",
     "time": "20:00 - 23:00",
     "service_type": "רוני",
     "is_available": true
@@ -875,6 +1015,34 @@
     "is_available": true
   },
   {
+    "date": "שני, 16 יוני 2025",
+    "event_id": "47",
+    "time": "07:00 - 10:00",
+    "service_type": "טיני",
+    "is_available": true
+  },
+  {
+    "date": "שני, 16 יוני 2025",
+    "event_id": "48",
+    "time": "10:00 - 13:00",
+    "service_type": "טיני",
+    "is_available": true
+  },
+  {
+    "date": "שני, 16 יוני 2025",
+    "event_id": "49",
+    "time": "13:00 - 16:00",
+    "service_type": "טיני",
+    "is_available": true
+  },
+  {
+    "date": "שני, 16 יוני 2025",
+    "event_id": "50",
+    "time": "16:00 - 19:00",
+    "service_type": "טיני",
+    "is_available": true
+  },
+  {
     "date": "שלישי, 17 יוני 2025",
     "event_id": "43",
     "time": "07:00 - 10:00",
@@ -890,21 +1058,21 @@
   },
   {
     "date": "שלישי, 17 יוני 2025",
-    "event_id": "53",
+    "event_id": "57",
     "time": "06:00 - 09:00",
     "service_type": "אסתר",
     "is_available": true
   },
   {
     "date": "שלישי, 17 יוני 2025",
-    "event_id": "55",
+    "event_id": "59",
     "time": "12:00 - 15:00",
     "service_type": "אסתר",
     "is_available": true
   },
   {
     "date": "שלישי, 17 יוני 2025",
-    "event_id": "62",
+    "event_id": "66",
     "time": "20:00 - 23:00",
     "service_type": "רוני",
     "is_available": true
@@ -1082,6 +1250,34 @@
     "event_id": "22",
     "time": "16:00 - 19:00",
     "service_type": "קטמנדו",
+    "is_available": true
+  },
+  {
+    "date": "שלישי, 17 יוני 2025",
+    "event_id": "48",
+    "time": "07:00 - 10:00",
+    "service_type": "טיני",
+    "is_available": true
+  },
+  {
+    "date": "שלישי, 17 יוני 2025",
+    "event_id": "49",
+    "time": "10:00 - 13:00",
+    "service_type": "טיני",
+    "is_available": true
+  },
+  {
+    "date": "שלישי, 17 יוני 2025",
+    "event_id": "50",
+    "time": "13:00 - 16:00",
+    "service_type": "טיני",
+    "is_available": true
+  },
+  {
+    "date": "שלישי, 17 יוני 2025",
+    "event_id": "51",
+    "time": "16:00 - 19:00",
+    "service_type": "טיני",
     "is_available": true
   },
   {
@@ -1100,28 +1296,28 @@
   },
   {
     "date": "רביעי, 18 יוני 2025",
-    "event_id": "54",
+    "event_id": "58",
     "time": "06:00 - 09:00",
     "service_type": "אסתר",
     "is_available": true
   },
   {
     "date": "רביעי, 18 יוני 2025",
-    "event_id": "55",
+    "event_id": "59",
     "time": "09:00 - 12:00",
     "service_type": "אסתר",
     "is_available": true
   },
   {
     "date": "רביעי, 18 יוני 2025",
-    "event_id": "59",
+    "event_id": "63",
     "time": "08:00 - 11:00",
     "service_type": "רוני",
     "is_available": true
   },
   {
     "date": "רביעי, 18 יוני 2025",
-    "event_id": "63",
+    "event_id": "67",
     "time": "20:00 - 23:00",
     "service_type": "רוני",
     "is_available": true
@@ -1309,15 +1505,43 @@
     "is_available": true
   },
   {
+    "date": "רביעי, 18 יוני 2025",
+    "event_id": "49",
+    "time": "07:00 - 10:00",
+    "service_type": "טיני",
+    "is_available": true
+  },
+  {
+    "date": "רביעי, 18 יוני 2025",
+    "event_id": "50",
+    "time": "10:00 - 13:00",
+    "service_type": "טיני",
+    "is_available": true
+  },
+  {
+    "date": "רביעי, 18 יוני 2025",
+    "event_id": "51",
+    "time": "13:00 - 16:00",
+    "service_type": "טיני",
+    "is_available": true
+  },
+  {
+    "date": "רביעי, 18 יוני 2025",
+    "event_id": "52",
+    "time": "16:00 - 19:00",
+    "service_type": "טיני",
+    "is_available": true
+  },
+  {
     "date": "חמישי, 19 יוני 2025",
-    "event_id": "58",
+    "event_id": "62",
     "time": "18:00 - 21:00",
     "service_type": "אסתר",
     "is_available": true
   },
   {
     "date": "חמישי, 19 יוני 2025",
-    "event_id": "63",
+    "event_id": "67",
     "time": "20:00 - 23:00",
     "service_type": "רוני",
     "is_available": true
@@ -1407,6 +1631,34 @@
     "is_available": true
   },
   {
+    "date": "חמישי, 19 יוני 2025",
+    "event_id": "49",
+    "time": "07:00 - 10:00",
+    "service_type": "טיני",
+    "is_available": true
+  },
+  {
+    "date": "חמישי, 19 יוני 2025",
+    "event_id": "50",
+    "time": "10:00 - 13:00",
+    "service_type": "טיני",
+    "is_available": true
+  },
+  {
+    "date": "חמישי, 19 יוני 2025",
+    "event_id": "51",
+    "time": "13:00 - 16:00",
+    "service_type": "טיני",
+    "is_available": true
+  },
+  {
+    "date": "חמישי, 19 יוני 2025",
+    "event_id": "52",
+    "time": "16:00 - 19:00",
+    "service_type": "טיני",
+    "is_available": true
+  },
+  {
     "date": "שישי, 20 יוני 2025",
     "event_id": "49",
     "time": "19:00 - 22:00",
@@ -1415,14 +1667,14 @@
   },
   {
     "date": "שישי, 20 יוני 2025",
-    "event_id": "55",
+    "event_id": "59",
     "time": "06:00 - 09:00",
     "service_type": "אסתר",
     "is_available": true
   },
   {
     "date": "שישי, 20 יוני 2025",
-    "event_id": "64",
+    "event_id": "68",
     "time": "20:00 - 23:00",
     "service_type": "רוני",
     "is_available": true
@@ -1519,6 +1771,34 @@
     "is_available": true
   },
   {
+    "date": "שישי, 20 יוני 2025",
+    "event_id": "50",
+    "time": "07:00 - 10:00",
+    "service_type": "טיני",
+    "is_available": true
+  },
+  {
+    "date": "שישי, 20 יוני 2025",
+    "event_id": "51",
+    "time": "10:00 - 13:00",
+    "service_type": "טיני",
+    "is_available": true
+  },
+  {
+    "date": "שישי, 20 יוני 2025",
+    "event_id": "52",
+    "time": "13:00 - 16:00",
+    "service_type": "טיני",
+    "is_available": true
+  },
+  {
+    "date": "שישי, 20 יוני 2025",
+    "event_id": "53",
+    "time": "16:00 - 19:00",
+    "service_type": "טיני",
+    "is_available": true
+  },
+  {
     "date": "שבת, 21 יוני 2025",
     "event_id": "46",
     "time": "13:00 - 16:00",
@@ -1534,21 +1814,21 @@
   },
   {
     "date": "שבת, 21 יוני 2025",
-    "event_id": "57",
+    "event_id": "61",
     "time": "15:00 - 18:00",
     "service_type": "אסתר",
     "is_available": true
   },
   {
     "date": "שבת, 21 יוני 2025",
-    "event_id": "59",
+    "event_id": "63",
     "time": "08:00 - 11:00",
     "service_type": "רוני",
     "is_available": true
   },
   {
     "date": "שבת, 21 יוני 2025",
-    "event_id": "63",
+    "event_id": "67",
     "time": "20:00 - 23:00",
     "service_type": "רוני",
     "is_available": true
@@ -1768,6 +2048,34 @@
     "event_id": "22",
     "time": "16:00 - 19:00",
     "service_type": "קטמנדו",
+    "is_available": true
+  },
+  {
+    "date": "שבת, 21 יוני 2025",
+    "event_id": "49",
+    "time": "07:00 - 10:00",
+    "service_type": "טיני",
+    "is_available": true
+  },
+  {
+    "date": "שבת, 21 יוני 2025",
+    "event_id": "50",
+    "time": "10:00 - 13:00",
+    "service_type": "טיני",
+    "is_available": true
+  },
+  {
+    "date": "שבת, 21 יוני 2025",
+    "event_id": "51",
+    "time": "13:00 - 16:00",
+    "service_type": "טיני",
+    "is_available": true
+  },
+  {
+    "date": "שבת, 21 יוני 2025",
+    "event_id": "52",
+    "time": "16:00 - 19:00",
+    "service_type": "טיני",
     "is_available": true
   },
   {
@@ -1800,42 +2108,49 @@
   },
   {
     "date": "ראשון, 22 יוני 2025",
-    "event_id": "56",
+    "event_id": "60",
     "time": "12:00 - 15:00",
     "service_type": "אסתר",
     "is_available": true
   },
   {
     "date": "ראשון, 22 יוני 2025",
-    "event_id": "59",
+    "event_id": "61",
+    "time": "15:00 - 18:00",
+    "service_type": "אסתר",
+    "is_available": true
+  },
+  {
+    "date": "ראשון, 22 יוני 2025",
+    "event_id": "63",
     "time": "08:00 - 11:00",
     "service_type": "רוני",
     "is_available": true
   },
   {
     "date": "ראשון, 22 יוני 2025",
-    "event_id": "60",
+    "event_id": "64",
     "time": "11:00 - 14:00",
     "service_type": "רוני",
     "is_available": true
   },
   {
     "date": "ראשון, 22 יוני 2025",
-    "event_id": "61",
+    "event_id": "65",
     "time": "14:00 - 17:00",
     "service_type": "רוני",
     "is_available": true
   },
   {
     "date": "ראשון, 22 יוני 2025",
-    "event_id": "62",
+    "event_id": "66",
     "time": "17:00 - 20:00",
     "service_type": "רוני",
     "is_available": true
   },
   {
     "date": "ראשון, 22 יוני 2025",
-    "event_id": "63",
+    "event_id": "67",
     "time": "20:00 - 23:00",
     "service_type": "רוני",
     "is_available": true
@@ -2023,6 +2338,34 @@
     "is_available": true
   },
   {
+    "date": "ראשון, 22 יוני 2025",
+    "event_id": "49",
+    "time": "07:00 - 10:00",
+    "service_type": "טיני",
+    "is_available": true
+  },
+  {
+    "date": "ראשון, 22 יוני 2025",
+    "event_id": "50",
+    "time": "10:00 - 13:00",
+    "service_type": "טיני",
+    "is_available": true
+  },
+  {
+    "date": "ראשון, 22 יוני 2025",
+    "event_id": "51",
+    "time": "13:00 - 16:00",
+    "service_type": "טיני",
+    "is_available": true
+  },
+  {
+    "date": "ראשון, 22 יוני 2025",
+    "event_id": "52",
+    "time": "16:00 - 19:00",
+    "service_type": "טיני",
+    "is_available": true
+  },
+  {
     "date": "שני, 23 יוני 2025",
     "event_id": "42",
     "time": "07:00 - 10:00",
@@ -2045,28 +2388,28 @@
   },
   {
     "date": "שני, 23 יוני 2025",
-    "event_id": "53",
+    "event_id": "57",
     "time": "09:00 - 12:00",
     "service_type": "אסתר",
     "is_available": true
   },
   {
     "date": "שני, 23 יוני 2025",
-    "event_id": "55",
+    "event_id": "59",
     "time": "15:00 - 18:00",
     "service_type": "אסתר",
     "is_available": true
   },
   {
     "date": "שני, 23 יוני 2025",
-    "event_id": "59",
+    "event_id": "63",
     "time": "14:00 - 17:00",
     "service_type": "רוני",
     "is_available": true
   },
   {
     "date": "שני, 23 יוני 2025",
-    "event_id": "61",
+    "event_id": "65",
     "time": "20:00 - 23:00",
     "service_type": "רוני",
     "is_available": true
@@ -2335,6 +2678,34 @@
     "event_id": "21",
     "time": "16:00 - 19:00",
     "service_type": "קטמנדו",
+    "is_available": true
+  },
+  {
+    "date": "שני, 23 יוני 2025",
+    "event_id": "47",
+    "time": "07:00 - 10:00",
+    "service_type": "טיני",
+    "is_available": true
+  },
+  {
+    "date": "שני, 23 יוני 2025",
+    "event_id": "48",
+    "time": "10:00 - 13:00",
+    "service_type": "טיני",
+    "is_available": true
+  },
+  {
+    "date": "שני, 23 יוני 2025",
+    "event_id": "49",
+    "time": "13:00 - 16:00",
+    "service_type": "טיני",
+    "is_available": true
+  },
+  {
+    "date": "שני, 23 יוני 2025",
+    "event_id": "50",
+    "time": "16:00 - 19:00",
+    "service_type": "טיני",
     "is_available": true
   }
 ]
