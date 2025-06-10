@@ -1000,6 +1000,13 @@
     "service_type": "קטמנדו",
     "is_available": true
   },
+  "שני, 16 יוני 2025_21": {
+    "date": "שני, 16 יוני 2025",
+    "event_id": "21",
+    "time": "16:00 - 19:00",
+    "service_type": "קטמנדו",
+    "is_available": true
+  },
   "שני, 16 יוני 2025_47": {
     "date": "שני, 16 יוני 2025",
     "event_id": "47",
@@ -1231,13 +1238,6 @@
     "service_type": "קטמנדו",
     "is_available": true
   },
-  "שלישי, 17 יוני 2025_22": {
-    "date": "שלישי, 17 יוני 2025",
-    "event_id": "22",
-    "time": "16:00 - 19:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
   "שלישי, 17 יוני 2025_48": {
     "date": "שלישי, 17 יוני 2025",
     "event_id": "48",
@@ -1312,13 +1312,6 @@
     "date": "רביעי, 18 יוני 2025",
     "event_id": "3",
     "time": "14:00 - 17:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
-  "רביעי, 18 יוני 2025_4": {
-    "date": "רביעי, 18 יוני 2025",
-    "event_id": "4",
-    "time": "17:00 - 20:00",
     "service_type": "קרפה",
     "is_available": true
   },
@@ -1518,6 +1511,13 @@
     "service_type": "טיני",
     "is_available": true
   },
+  "חמישי, 19 יוני 2025_60": {
+    "date": "חמישי, 19 יוני 2025",
+    "event_id": "60",
+    "time": "12:00 - 15:00",
+    "service_type": "אסתר",
+    "is_available": true
+  },
   "חמישי, 19 יוני 2025_62": {
     "date": "חמישי, 19 יוני 2025",
     "event_id": "62",
@@ -1599,13 +1599,6 @@
     "date": "חמישי, 19 יוני 2025",
     "event_id": "21",
     "time": "13:00 - 15:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
-  "חמישי, 19 יוני 2025_22": {
-    "date": "חמישי, 19 יוני 2025",
-    "event_id": "22",
-    "time": "15:00 - 17:00",
     "service_type": "קטמנדו",
     "is_available": true
   },
@@ -1742,13 +1735,6 @@
     "service_type": "קטמנדו",
     "is_available": true
   },
-  "שישי, 20 יוני 2025_23": {
-    "date": "שישי, 20 יוני 2025",
-    "event_id": "23",
-    "time": "15:00 - 17:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
   "שישי, 20 יוני 2025_24": {
     "date": "שישי, 20 יוני 2025",
     "event_id": "24",
@@ -1782,13 +1768,6 @@
     "event_id": "53",
     "time": "16:00 - 19:00",
     "service_type": "טיני",
-    "is_available": true
-  },
-  "שבת, 21 יוני 2025_46": {
-    "date": "שבת, 21 יוני 2025",
-    "event_id": "46",
-    "time": "13:00 - 16:00",
-    "service_type": "ושתי",
     "is_available": true
   },
   "שבת, 21 יוני 2025_47": {
