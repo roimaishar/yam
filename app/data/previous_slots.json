@@ -139,6 +139,13 @@
     "service_type": "קרפה",
     "is_available": true
   },
+  "חמישי, 12 יוני 2025_42": {
+    "date": "חמישי, 12 יוני 2025",
+    "event_id": "42",
+    "time": "12:00 - 15:00",
+    "service_type": "הרמוני",
+    "is_available": true
+  },
   "חמישי, 12 יוני 2025_39": {
     "date": "חמישי, 12 יוני 2025",
     "event_id": "39",
@@ -214,6 +221,13 @@
     "event_id": "12",
     "time": "20:00 - 22:00",
     "service_type": "נאווה",
+    "is_available": true
+  },
+  "שישי, 13 יוני 2025_25": {
+    "date": "שישי, 13 יוני 2025",
+    "event_id": "25",
+    "time": "10:00 - 13:00",
+    "service_type": "ליאור",
     "is_available": true
   },
   "שישי, 13 יוני 2025_18": {
@@ -640,13 +654,6 @@
     "date": "שני, 16 יוני 2025",
     "event_id": "57",
     "time": "08:00 - 11:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
-  "שני, 16 יוני 2025_59": {
-    "date": "שני, 16 יוני 2025",
-    "event_id": "59",
-    "time": "14:00 - 17:00",
     "service_type": "רוני",
     "is_available": true
   },
@@ -1802,13 +1809,6 @@
     "date": "ראשון, 22 יוני 2025",
     "event_id": "56",
     "time": "12:00 - 15:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  "ראשון, 22 יוני 2025_57": {
-    "date": "ראשון, 22 יוני 2025",
-    "event_id": "57",
-    "time": "15:00 - 18:00",
     "service_type": "אסתר",
     "is_available": true
   },
