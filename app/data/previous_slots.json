@@ -755,13 +755,6 @@
     "service_type": "רונית",
     "is_available": true
   },
-  "שני, 16 יוני 2025_16": {
-    "date": "שני, 16 יוני 2025",
-    "event_id": "16",
-    "time": "16:00 - 19:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
   "שני, 16 יוני 2025_17": {
     "date": "שני, 16 יוני 2025",
     "event_id": "17",
@@ -1098,13 +1091,6 @@
     "service_type": "קרפה",
     "is_available": true
   },
-  "רביעי, 18 יוני 2025_5": {
-    "date": "רביעי, 18 יוני 2025",
-    "event_id": "5",
-    "time": "20:00 - 23:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
   "רביעי, 18 יוני 2025_39": {
     "date": "רביעי, 18 יוני 2025",
     "event_id": "39",
@@ -1375,13 +1361,6 @@
     "date": "חמישי, 19 יוני 2025",
     "event_id": "21",
     "time": "13:00 - 15:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
-  "חמישי, 19 יוני 2025_23": {
-    "date": "חמישי, 19 יוני 2025",
-    "event_id": "23",
-    "time": "17:00 - 19:00",
     "service_type": "קטמנדו",
     "is_available": true
   },
