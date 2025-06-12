@@ -27,13 +27,6 @@
     "service_type": "נאווה",
     "is_available": true
   },
-  "שישי, 13 יוני 2025_17": {
-    "date": "שישי, 13 יוני 2025",
-    "event_id": "17",
-    "time": "19:00 - 22:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
   "שישי, 13 יוני 2025_28": {
     "date": "שישי, 13 יוני 2025",
     "event_id": "28",
@@ -626,13 +619,6 @@
     "date": "שלישי, 17 יוני 2025",
     "event_id": "30",
     "time": "12:00 - 15:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  "שלישי, 17 יוני 2025_31": {
-    "date": "שלישי, 17 יוני 2025",
-    "event_id": "31",
-    "time": "15:00 - 18:00",
     "service_type": "מישל",
     "is_available": true
   },
