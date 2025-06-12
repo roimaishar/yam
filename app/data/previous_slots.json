@@ -1070,13 +1070,6 @@
     "service_type": "הרמוני",
     "is_available": true
   },
-  "שבת, 21 יוני 2025_40": {
-    "date": "שבת, 21 יוני 2025",
-    "event_id": "40",
-    "time": "09:00 - 12:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
   "שבת, 21 יוני 2025_41": {
     "date": "שבת, 21 יוני 2025",
     "event_id": "41",
@@ -1564,13 +1557,6 @@
     "date": "שני, 23 יוני 2025",
     "event_id": "37",
     "time": "06:00 - 09:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  "שני, 23 יוני 2025_38": {
-    "date": "שני, 23 יוני 2025",
-    "event_id": "38",
-    "time": "09:00 - 12:00",
     "service_type": "הרמוני",
     "is_available": true
   },
