@@ -48,6 +48,13 @@
     "service_type": "רוני",
     "is_available": true
   },
+  "שבת, 14 יוני 2025_60": {
+    "date": "שבת, 14 יוני 2025",
+    "event_id": "60",
+    "time": "17:00 - 20:00",
+    "service_type": "רוני",
+    "is_available": true
+  },
   "שבת, 14 יוני 2025_61": {
     "date": "שבת, 14 יוני 2025",
     "event_id": "61",
