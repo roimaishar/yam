@@ -2178,13 +2178,6 @@
   },
   {
     "date": "שישי, 27 יוני 2025",
-    "event_id": "34",
-    "time": "18:00 - 21:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 27 יוני 2025",
     "event_id": "6",
     "time": "08:00 - 10:00",
     "service_type": "נאווה",
