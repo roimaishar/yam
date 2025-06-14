@@ -155,6 +155,13 @@
   },
   {
     "date": "שני, 16 יוני 2025",
+    "event_id": "52",
+    "time": "06:00 - 09:00",
+    "service_type": "אסתר",
+    "is_available": true
+  },
+  {
+    "date": "שני, 16 יוני 2025",
     "event_id": "57",
     "time": "08:00 - 11:00",
     "service_type": "רוני",
