@@ -195,6 +195,13 @@
     "service_type": "ושתי",
     "is_available": true
   },
+  "שלישי, 17 יוני 2025_45": {
+    "date": "שלישי, 17 יוני 2025",
+    "event_id": "45",
+    "time": "13:00 - 16:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
   "שלישי, 17 יוני 2025_47": {
     "date": "שלישי, 17 יוני 2025",
     "event_id": "47",
@@ -409,6 +416,13 @@
     "date": "רביעי, 18 יוני 2025",
     "event_id": "34",
     "time": "08:00 - 11:00",
+    "service_type": "כרמן החדשה",
+    "is_available": true
+  },
+  "רביעי, 18 יוני 2025_37": {
+    "date": "רביעי, 18 יוני 2025",
+    "event_id": "37",
+    "time": "17:00 - 20:00",
     "service_type": "כרמן החדשה",
     "is_available": true
   },
