@@ -69,6 +69,13 @@
     "service_type": "הרמוני",
     "is_available": true
   },
+  "שבת, 21 יוני 2025_34": {
+    "date": "שבת, 21 יוני 2025",
+    "event_id": "34",
+    "time": "11:00 - 14:00",
+    "service_type": "כרמן החדשה",
+    "is_available": true
+  },
   "שבת, 21 יוני 2025_36": {
     "date": "שבת, 21 יוני 2025",
     "event_id": "36",
