@@ -972,13 +972,6 @@
     "service_type": "קרפה",
     "is_available": true
   },
-  "רביעי, 25 יוני 2025_2": {
-    "date": "רביעי, 25 יוני 2025",
-    "event_id": "2",
-    "time": "11:00 - 14:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
   "רביעי, 25 יוני 2025_3": {
     "date": "רביעי, 25 יוני 2025",
     "event_id": "3",
@@ -1292,13 +1285,6 @@
     "event_id": "30",
     "time": "06:00 - 09:00",
     "service_type": "מישל",
-    "is_available": true
-  },
-  "שישי, 27 יוני 2025_6": {
-    "date": "שישי, 27 יוני 2025",
-    "event_id": "6",
-    "time": "08:00 - 10:00",
-    "service_type": "נאווה",
     "is_available": true
   },
   "שישי, 27 יוני 2025_10": {
