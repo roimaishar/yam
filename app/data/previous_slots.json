@@ -83,13 +83,6 @@
     "service_type": "אסתר",
     "is_available": true
   },
-  "שישי, 27 יוני 2025_64": {
-    "date": "שישי, 27 יוני 2025",
-    "event_id": "64",
-    "time": "20:00 - 23:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
   "שישי, 27 יוני 2025_5": {
     "date": "שישי, 27 יוני 2025",
     "event_id": "5",
@@ -206,13 +199,6 @@
     "date": "שבת, 28 יוני 2025",
     "event_id": "43",
     "time": "10:00 - 13:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  "שבת, 28 יוני 2025_45": {
-    "date": "שבת, 28 יוני 2025",
-    "event_id": "45",
-    "time": "16:00 - 19:00",
     "service_type": "ושתי",
     "is_available": true
   },
