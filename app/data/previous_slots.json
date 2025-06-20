@@ -629,6 +629,13 @@
     "service_type": "ושתי",
     "is_available": true
   },
+  "שלישי, 24 יוני 2025_44": {
+    "date": "שלישי, 24 יוני 2025",
+    "event_id": "44",
+    "time": "13:00 - 16:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
   "שלישי, 24 יוני 2025_45": {
     "date": "שלישי, 24 יוני 2025",
     "event_id": "45",
@@ -1147,13 +1154,6 @@
     "service_type": "ושתי",
     "is_available": true
   },
-  "חמישי, 26 יוני 2025_49": {
-    "date": "חמישי, 26 יוני 2025",
-    "event_id": "49",
-    "time": "13:00 - 16:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
   "חמישי, 26 יוני 2025_58": {
     "date": "חמישי, 26 יוני 2025",
     "event_id": "58",
@@ -1165,13 +1165,6 @@
     "date": "חמישי, 26 יוני 2025",
     "event_id": "59",
     "time": "09:00 - 12:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  "חמישי, 26 יוני 2025_60": {
-    "date": "חמישי, 26 יוני 2025",
-    "event_id": "60",
-    "time": "12:00 - 15:00",
     "service_type": "אסתר",
     "is_available": true
   },
