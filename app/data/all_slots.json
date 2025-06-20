@@ -1730,13 +1730,6 @@
   },
   {
     "date": "ראשון, 29 יוני 2025",
-    "event_id": "57",
-    "time": "15:00 - 18:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 29 יוני 2025",
     "event_id": "59",
     "time": "08:00 - 11:00",
     "service_type": "רוני",
