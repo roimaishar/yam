@@ -218,6 +218,13 @@
   },
   {
     "date": "ראשון, 22 יוני 2025",
+    "event_id": "18",
+    "time": "19:00 - 22:00",
+    "service_type": "רונית",
+    "is_available": true
+  },
+  {
+    "date": "ראשון, 22 יוני 2025",
     "event_id": "26",
     "time": "13:00 - 16:00",
     "service_type": "ליאור",
