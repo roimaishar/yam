@@ -1121,13 +1121,6 @@
   },
   {
     "date": "חמישי, 26 יוני 2025",
-    "event_id": "49",
-    "time": "13:00 - 16:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "חמישי, 26 יוני 2025",
     "event_id": "58",
     "time": "06:00 - 09:00",
     "service_type": "אסתר",
