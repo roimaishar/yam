@@ -300,13 +300,6 @@
     "service_type": "אסתר",
     "is_available": true
   },
-  "שני, 23 יוני 2025_54": {
-    "date": "שני, 23 יוני 2025",
-    "event_id": "54",
-    "time": "09:00 - 12:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
   "שני, 23 יוני 2025_55": {
     "date": "שני, 23 יוני 2025",
     "event_id": "55",
@@ -1144,13 +1137,6 @@
     "date": "חמישי, 26 יוני 2025",
     "event_id": "63",
     "time": "08:00 - 11:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
-  "חמישי, 26 יוני 2025_64": {
-    "date": "חמישי, 26 יוני 2025",
-    "event_id": "64",
-    "time": "11:00 - 14:00",
     "service_type": "רוני",
     "is_available": true
   },
@@ -2916,13 +2902,6 @@
     "event_id": "48",
     "time": "19:00 - 22:00",
     "service_type": "ושתי",
-    "is_available": true
-  },
-  "שישי, 4 יולי 2025_59": {
-    "date": "שישי, 4 יולי 2025",
-    "event_id": "59",
-    "time": "08:00 - 11:00",
-    "service_type": "רוני",
     "is_available": true
   },
   "שישי, 4 יולי 2025_63": {
