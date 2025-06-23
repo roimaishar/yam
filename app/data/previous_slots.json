@@ -6,6 +6,20 @@
     "service_type": "ושתי",
     "is_available": true
   },
+  "שלישי, 24 יוני 2025_43": {
+    "date": "שלישי, 24 יוני 2025",
+    "event_id": "43",
+    "time": "10:00 - 13:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
+  "שלישי, 24 יוני 2025_44": {
+    "date": "שלישי, 24 יוני 2025",
+    "event_id": "44",
+    "time": "13:00 - 16:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
   "שלישי, 24 יוני 2025_46": {
     "date": "שלישי, 24 יוני 2025",
     "event_id": "46",
