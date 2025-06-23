@@ -335,6 +335,13 @@
     "service_type": "הרמוני",
     "is_available": true
   },
+  "רביעי, 25 יוני 2025_41": {
+    "date": "רביעי, 25 יוני 2025",
+    "event_id": "41",
+    "time": "18:00 - 21:00",
+    "service_type": "הרמוני",
+    "is_available": true
+  },
   "רביעי, 25 יוני 2025_32": {
     "date": "רביעי, 25 יוני 2025",
     "event_id": "32",
@@ -2197,13 +2204,6 @@
     "service_type": "נאווה",
     "is_available": true
   },
-  "חמישי, 3 יולי 2025_7": {
-    "date": "חמישי, 3 יולי 2025",
-    "event_id": "7",
-    "time": "10:00 - 12:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
   "חמישי, 3 יולי 2025_8": {
     "date": "חמישי, 3 יולי 2025",
     "event_id": "8",
@@ -2355,13 +2355,6 @@
     "date": "שישי, 4 יולי 2025",
     "event_id": "6",
     "time": "08:00 - 10:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  "שישי, 4 יולי 2025_8": {
-    "date": "שישי, 4 יולי 2025",
-    "event_id": "8",
-    "time": "12:00 - 14:00",
     "service_type": "נאווה",
     "is_available": true
   },
