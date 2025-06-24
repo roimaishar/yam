@@ -57,13 +57,6 @@
   },
   {
     "date": "רביעי, 25 יוני 2025",
-    "event_id": "60",
-    "time": "14:00 - 17:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 25 יוני 2025",
     "event_id": "62",
     "time": "20:00 - 23:00",
     "service_type": "רוני",
@@ -73,13 +66,6 @@
     "date": "רביעי, 25 יוני 2025",
     "event_id": "1",
     "time": "08:00 - 11:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 25 יוני 2025",
-    "event_id": "2",
-    "time": "11:00 - 14:00",
     "service_type": "קרפה",
     "is_available": true
   },
@@ -102,13 +88,6 @@
     "event_id": "5",
     "time": "20:00 - 23:00",
     "service_type": "קרפה",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 25 יוני 2025",
-    "event_id": "38",
-    "time": "09:00 - 12:00",
-    "service_type": "הרמוני",
     "is_available": true
   },
   {
@@ -379,8 +358,8 @@
   },
   {
     "date": "חמישי, 26 יוני 2025",
-    "event_id": "25",
-    "time": "10:00 - 13:00",
+    "event_id": "27",
+    "time": "16:00 - 19:00",
     "service_type": "ליאור",
     "is_available": true
   },
@@ -1429,13 +1408,6 @@
   },
   {
     "date": "רביעי, 2 יולי 2025",
-    "event_id": "61",
-    "time": "17:00 - 20:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 2 יולי 2025",
     "event_id": "62",
     "time": "20:00 - 23:00",
     "service_type": "רוני",
@@ -1870,13 +1842,6 @@
   },
   {
     "date": "שישי, 4 יולי 2025",
-    "event_id": "29",
-    "time": "06:00 - 09:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 4 יולי 2025",
     "event_id": "33",
     "time": "18:00 - 21:00",
     "service_type": "מישל",
@@ -1954,22 +1919,8 @@
   },
   {
     "date": "שישי, 4 יולי 2025",
-    "event_id": "19",
-    "time": "09:00 - 11:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 4 יולי 2025",
     "event_id": "22",
     "time": "15:00 - 17:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 4 יולי 2025",
-    "event_id": "23",
-    "time": "17:00 - 19:00",
     "service_type": "קטמנדו",
     "is_available": true
   },
