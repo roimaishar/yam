@@ -223,13 +223,6 @@
     "service_type": "מישל",
     "is_available": true
   },
-  "חמישי, 26 יוני 2025_11": {
-    "date": "חמישי, 26 יוני 2025",
-    "event_id": "11",
-    "time": "18:00 - 20:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
   "חמישי, 26 יוני 2025_12": {
     "date": "חמישי, 26 יוני 2025",
     "event_id": "12",
@@ -444,13 +437,6 @@
     "date": "שבת, 28 יוני 2025",
     "event_id": "30",
     "time": "15:00 - 18:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  "שבת, 28 יוני 2025_31": {
-    "date": "שבת, 28 יוני 2025",
-    "event_id": "31",
-    "time": "18:00 - 21:00",
     "service_type": "מישל",
     "is_available": true
   },
@@ -1497,13 +1483,6 @@
     "service_type": "קרפה",
     "is_available": true
   },
-  "חמישי, 3 יולי 2025_4": {
-    "date": "חמישי, 3 יולי 2025",
-    "event_id": "4",
-    "time": "17:00 - 20:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
   "חמישי, 3 יולי 2025_5": {
     "date": "חמישי, 3 יולי 2025",
     "event_id": "5",
@@ -1592,13 +1571,6 @@
     "date": "חמישי, 3 יולי 2025",
     "event_id": "13",
     "time": "07:00 - 10:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
-  "חמישי, 3 יולי 2025_16": {
-    "date": "חמישי, 3 יולי 2025",
-    "event_id": "16",
-    "time": "16:00 - 19:00",
     "service_type": "רונית",
     "is_available": true
   },
@@ -1774,13 +1746,6 @@
     "date": "שבת, 5 יולי 2025",
     "event_id": "46",
     "time": "16:00 - 19:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  "שבת, 5 יולי 2025_47": {
-    "date": "שבת, 5 יולי 2025",
-    "event_id": "47",
-    "time": "19:00 - 22:00",
     "service_type": "ושתי",
     "is_available": true
   },
