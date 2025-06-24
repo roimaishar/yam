@@ -538,13 +538,6 @@
     "service_type": "נאווה",
     "is_available": true
   },
-  "חמישי, 26 יוני 2025_7": {
-    "date": "חמישי, 26 יוני 2025",
-    "event_id": "7",
-    "time": "10:00 - 12:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
   "חמישי, 26 יוני 2025_8": {
     "date": "חמישי, 26 יוני 2025",
     "event_id": "8",
@@ -643,6 +636,13 @@
     "service_type": "קטמנדו",
     "is_available": true
   },
+  "שישי, 27 יוני 2025_46": {
+    "date": "שישי, 27 יוני 2025",
+    "event_id": "46",
+    "time": "10:00 - 13:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
   "שישי, 27 יוני 2025_49": {
     "date": "שישי, 27 יוני 2025",
     "event_id": "49",
@@ -727,13 +727,6 @@
     "service_type": "קטמנדו",
     "is_available": true
   },
-  "שבת, 28 יוני 2025_43": {
-    "date": "שבת, 28 יוני 2025",
-    "event_id": "43",
-    "time": "10:00 - 13:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
   "שבת, 28 יוני 2025_46": {
     "date": "שבת, 28 יוני 2025",
     "event_id": "46",
@@ -766,13 +759,6 @@
     "date": "שבת, 28 יוני 2025",
     "event_id": "1",
     "time": "08:00 - 11:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
-  "שבת, 28 יוני 2025_2": {
-    "date": "שבת, 28 יוני 2025",
-    "event_id": "2",
-    "time": "11:00 - 14:00",
     "service_type": "קרפה",
     "is_available": true
   },
