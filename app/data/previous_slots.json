@@ -272,13 +272,6 @@
     "service_type": "ליאור",
     "is_available": true
   },
-  "חמישי, 26 יוני 2025_27": {
-    "date": "חמישי, 26 יוני 2025",
-    "event_id": "27",
-    "time": "16:00 - 19:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
   "חמישי, 26 יוני 2025_28": {
     "date": "חמישי, 26 יוני 2025",
     "event_id": "28",
@@ -1238,13 +1231,6 @@
     "service_type": "ליאור",
     "is_available": true
   },
-  "שלישי, 1 יולי 2025_26": {
-    "date": "שלישי, 1 יולי 2025",
-    "event_id": "26",
-    "time": "16:00 - 19:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
   "שלישי, 1 יולי 2025_27": {
     "date": "שלישי, 1 יולי 2025",
     "event_id": "27",
@@ -1684,13 +1670,6 @@
     "event_id": "5",
     "time": "20:00 - 23:00",
     "service_type": "קרפה",
-    "is_available": true
-  },
-  "שישי, 4 יולי 2025_39": {
-    "date": "שישי, 4 יולי 2025",
-    "event_id": "39",
-    "time": "06:00 - 09:00",
-    "service_type": "הרמוני",
     "is_available": true
   },
   "שישי, 4 יולי 2025_43": {
