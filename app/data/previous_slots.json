@@ -20,13 +20,6 @@
     "service_type": "כרמן החדשה",
     "is_available": true
   },
-  "שלישי, 24 יוני 2025_34": {
-    "date": "שלישי, 24 יוני 2025",
-    "event_id": "34",
-    "time": "12:00 - 15:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
   "שלישי, 24 יוני 2025_36": {
     "date": "שלישי, 24 יוני 2025",
     "event_id": "36",
@@ -626,13 +619,6 @@
     "date": "שבת, 28 יוני 2025",
     "event_id": "28",
     "time": "09:00 - 12:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  "שבת, 28 יוני 2025_30": {
-    "date": "שבת, 28 יוני 2025",
-    "event_id": "30",
-    "time": "15:00 - 18:00",
     "service_type": "מישל",
     "is_available": true
   },
