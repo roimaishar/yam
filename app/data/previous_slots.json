@@ -41,13 +41,6 @@
     "service_type": "אסתר",
     "is_available": true
   },
-  "שלישי, 24 יוני 2025_57": {
-    "date": "שלישי, 24 יוני 2025",
-    "event_id": "57",
-    "time": "12:00 - 15:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
   "שלישי, 24 יוני 2025_60": {
     "date": "שלישי, 24 יוני 2025",
     "event_id": "60",
@@ -377,13 +370,6 @@
     "service_type": "מישל",
     "is_available": true
   },
-  "רביעי, 25 יוני 2025_31": {
-    "date": "רביעי, 25 יוני 2025",
-    "event_id": "31",
-    "time": "18:00 - 21:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
   "רביעי, 25 יוני 2025_6": {
     "date": "רביעי, 25 יוני 2025",
     "event_id": "6",
@@ -416,13 +402,6 @@
     "date": "רביעי, 25 יוני 2025",
     "event_id": "10",
     "time": "16:00 - 18:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  "רביעי, 25 יוני 2025_11": {
-    "date": "רביעי, 25 יוני 2025",
-    "event_id": "11",
-    "time": "18:00 - 20:00",
     "service_type": "נאווה",
     "is_available": true
   },
@@ -2866,6 +2845,13 @@
     "date": "ראשון, 6 יולי 2025",
     "event_id": "9",
     "time": "12:00 - 14:00",
+    "service_type": "נאווה",
+    "is_available": true
+  },
+  "ראשון, 6 יולי 2025_10": {
+    "date": "ראשון, 6 יולי 2025",
+    "event_id": "10",
+    "time": "14:00 - 16:00",
     "service_type": "נאווה",
     "is_available": true
   },
