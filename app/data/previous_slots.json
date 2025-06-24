@@ -545,13 +545,6 @@
     "service_type": "קרפה",
     "is_available": true
   },
-  "חמישי, 26 יוני 2025_2": {
-    "date": "חמישי, 26 יוני 2025",
-    "event_id": "2",
-    "time": "11:00 - 14:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
   "חמישי, 26 יוני 2025_5": {
     "date": "חמישי, 26 יוני 2025",
     "event_id": "5",
@@ -640,13 +633,6 @@
     "date": "חמישי, 26 יוני 2025",
     "event_id": "14",
     "time": "10:00 - 13:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
-  "חמישי, 26 יוני 2025_15": {
-    "date": "חמישי, 26 יוני 2025",
-    "event_id": "15",
-    "time": "13:00 - 16:00",
     "service_type": "רונית",
     "is_available": true
   },
