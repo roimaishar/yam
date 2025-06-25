@@ -300,13 +300,6 @@
     "service_type": "קרפה",
     "is_available": true
   },
-  "ראשון, 29 יוני 2025_3": {
-    "date": "ראשון, 29 יוני 2025",
-    "event_id": "3",
-    "time": "14:00 - 17:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
   "ראשון, 29 יוני 2025_4": {
     "date": "ראשון, 29 יוני 2025",
     "event_id": "4",
@@ -493,13 +486,6 @@
     "date": "שני, 30 יוני 2025",
     "event_id": "1",
     "time": "08:00 - 11:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
-  "שני, 30 יוני 2025_3": {
-    "date": "שני, 30 יוני 2025",
-    "event_id": "3",
-    "time": "14:00 - 17:00",
     "service_type": "קרפה",
     "is_available": true
   },
@@ -1392,13 +1378,6 @@
     "service_type": "הרמוני",
     "is_available": true
   },
-  "שבת, 5 יולי 2025_41": {
-    "date": "שבת, 5 יולי 2025",
-    "event_id": "41",
-    "time": "15:00 - 18:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
   "שבת, 5 יולי 2025_42": {
     "date": "שבת, 5 יולי 2025",
     "event_id": "42",
@@ -1882,23 +1861,23 @@
     "service_type": "ושתי",
     "is_available": true
   },
-  "שני, 7 יולי 2025_59": {
-    "date": "שני, 7 יולי 2025",
-    "event_id": "59",
-    "time": "14:00 - 17:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
   "שני, 7 יולי 2025_60": {
     "date": "שני, 7 יולי 2025",
     "event_id": "60",
-    "time": "17:00 - 20:00",
+    "time": "14:00 - 17:00",
     "service_type": "רוני",
     "is_available": true
   },
   "שני, 7 יולי 2025_61": {
     "date": "שני, 7 יולי 2025",
     "event_id": "61",
+    "time": "17:00 - 20:00",
+    "service_type": "רוני",
+    "is_available": true
+  },
+  "שני, 7 יולי 2025_62": {
+    "date": "שני, 7 יולי 2025",
+    "event_id": "62",
     "time": "20:00 - 23:00",
     "service_type": "רוני",
     "is_available": true
