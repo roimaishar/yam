@@ -62,13 +62,6 @@
     "service_type": "קטמנדו",
     "is_available": true
   },
-  "חמישי, 26 יוני 2025_22": {
-    "date": "חמישי, 26 יוני 2025",
-    "event_id": "22",
-    "time": "15:00 - 17:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
   "חמישי, 26 יוני 2025_23": {
     "date": "חמישי, 26 יוני 2025",
     "event_id": "23",
@@ -591,13 +584,6 @@
     "date": "שני, 30 יוני 2025",
     "event_id": "13",
     "time": "07:00 - 10:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
-  "שני, 30 יוני 2025_14": {
-    "date": "שני, 30 יוני 2025",
-    "event_id": "14",
-    "time": "10:00 - 13:00",
     "service_type": "רונית",
     "is_available": true
   },
