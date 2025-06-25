@@ -41,13 +41,6 @@
     "service_type": "נאווה",
     "is_available": true
   },
-  "חמישי, 26 יוני 2025_13": {
-    "date": "חמישי, 26 יוני 2025",
-    "event_id": "13",
-    "time": "07:00 - 10:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
   "חמישי, 26 יוני 2025_24": {
     "date": "חמישי, 26 יוני 2025",
     "event_id": "24",
@@ -283,13 +276,6 @@
     "date": "ראשון, 29 יוני 2025",
     "event_id": "44",
     "time": "10:00 - 13:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  "ראשון, 29 יוני 2025_46": {
-    "date": "ראשון, 29 יוני 2025",
-    "event_id": "46",
-    "time": "16:00 - 19:00",
     "service_type": "ושתי",
     "is_available": true
   },
@@ -734,6 +720,13 @@
     "service_type": "ושתי",
     "is_available": true
   },
+  "שלישי, 1 יולי 2025_53": {
+    "date": "שלישי, 1 יולי 2025",
+    "event_id": "53",
+    "time": "06:00 - 09:00",
+    "service_type": "אסתר",
+    "is_available": true
+  },
   "שלישי, 1 יולי 2025_58": {
     "date": "שלישי, 1 יולי 2025",
     "event_id": "58",
@@ -846,13 +839,6 @@
     "service_type": "מישל",
     "is_available": true
   },
-  "שלישי, 1 יולי 2025_32": {
-    "date": "שלישי, 1 יולי 2025",
-    "event_id": "32",
-    "time": "18:00 - 21:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
   "שלישי, 1 יולי 2025_9": {
     "date": "שלישי, 1 יולי 2025",
     "event_id": "9",
@@ -885,13 +871,6 @@
     "date": "שלישי, 1 יולי 2025",
     "event_id": "14",
     "time": "07:00 - 10:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
-  "שלישי, 1 יולי 2025_15": {
-    "date": "שלישי, 1 יולי 2025",
-    "event_id": "15",
-    "time": "10:00 - 13:00",
     "service_type": "רונית",
     "is_available": true
   },
@@ -1203,13 +1182,6 @@
     "service_type": "הרמוני",
     "is_available": true
   },
-  "חמישי, 3 יולי 2025_44": {
-    "date": "חמישי, 3 יולי 2025",
-    "event_id": "44",
-    "time": "18:00 - 21:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
   "חמישי, 3 יולי 2025_39": {
     "date": "חמישי, 3 יולי 2025",
     "event_id": "39",
@@ -1420,13 +1392,6 @@
     "service_type": "ושתי",
     "is_available": true
   },
-  "שבת, 5 יולי 2025_46": {
-    "date": "שבת, 5 יולי 2025",
-    "event_id": "46",
-    "time": "16:00 - 19:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
   "שבת, 5 יולי 2025_58": {
     "date": "שבת, 5 יולי 2025",
     "event_id": "58",
@@ -1438,13 +1403,6 @@
     "date": "שבת, 5 יולי 2025",
     "event_id": "60",
     "time": "14:00 - 17:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
-  "שבת, 5 יולי 2025_61": {
-    "date": "שבת, 5 יולי 2025",
-    "event_id": "61",
-    "time": "17:00 - 20:00",
     "service_type": "רוני",
     "is_available": true
   },
