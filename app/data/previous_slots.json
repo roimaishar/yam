@@ -195,13 +195,6 @@
     "service_type": "כרמן החדשה",
     "is_available": true
   },
-  "שבת, 28 יוני 2025_27": {
-    "date": "שבת, 28 יוני 2025",
-    "event_id": "27",
-    "time": "06:00 - 09:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
   "שבת, 28 יוני 2025_30": {
     "date": "שבת, 28 יוני 2025",
     "event_id": "30",
@@ -284,13 +277,6 @@
     "event_id": "54",
     "time": "06:00 - 09:00",
     "service_type": "אסתר",
-    "is_available": true
-  },
-  "ראשון, 29 יוני 2025_59": {
-    "date": "ראשון, 29 יוני 2025",
-    "event_id": "59",
-    "time": "08:00 - 11:00",
-    "service_type": "רוני",
     "is_available": true
   },
   "ראשון, 29 יוני 2025_63": {
@@ -643,13 +629,6 @@
     "service_type": "רונית",
     "is_available": true
   },
-  "שני, 30 יוני 2025_26": {
-    "date": "שני, 30 יוני 2025",
-    "event_id": "26",
-    "time": "19:00 - 22:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
   "שני, 30 יוני 2025_18": {
     "date": "שני, 30 יוני 2025",
     "event_id": "18",
@@ -752,13 +731,6 @@
     "date": "שלישי, 1 יולי 2025",
     "event_id": "38",
     "time": "06:00 - 09:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  "שלישי, 1 יולי 2025_39": {
-    "date": "שלישי, 1 יולי 2025",
-    "event_id": "39",
-    "time": "09:00 - 12:00",
     "service_type": "הרמוני",
     "is_available": true
   },
@@ -1189,13 +1161,6 @@
     "service_type": "מישל",
     "is_available": true
   },
-  "חמישי, 3 יולי 2025_34": {
-    "date": "חמישי, 3 יולי 2025",
-    "event_id": "34",
-    "time": "18:00 - 21:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
   "חמישי, 3 יולי 2025_6": {
     "date": "חמישי, 3 יולי 2025",
     "event_id": "6",
@@ -1298,13 +1263,6 @@
     "date": "שישי, 4 יולי 2025",
     "event_id": "6",
     "time": "08:00 - 10:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  "שישי, 4 יולי 2025_9": {
-    "date": "שישי, 4 יולי 2025",
-    "event_id": "9",
-    "time": "14:00 - 16:00",
     "service_type": "נאווה",
     "is_available": true
   },
