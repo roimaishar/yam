@@ -582,13 +582,6 @@
   },
   {
     "date": "שלישי, 1 יולי 2025",
-    "event_id": "32",
-    "time": "18:00 - 21:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 1 יולי 2025",
     "event_id": "9",
     "time": "14:00 - 16:00",
     "service_type": "נאווה",
