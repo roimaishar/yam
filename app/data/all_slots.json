@@ -148,13 +148,6 @@
   },
   {
     "date": "ראשון, 29 יוני 2025",
-    "event_id": "44",
-    "time": "10:00 - 13:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 29 יוני 2025",
     "event_id": "47",
     "time": "19:00 - 22:00",
     "service_type": "ושתי",
@@ -745,13 +738,6 @@
     "date": "רביעי, 2 יולי 2025",
     "event_id": "38",
     "time": "06:00 - 09:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 2 יולי 2025",
-    "event_id": "41",
-    "time": "15:00 - 18:00",
     "service_type": "הרמוני",
     "is_available": true
   },
