@@ -657,6 +657,13 @@
     "service_type": "ושתי",
     "is_available": true
   },
+  "רביעי, 2 יולי 2025_46": {
+    "date": "רביעי, 2 יולי 2025",
+    "event_id": "46",
+    "time": "16:00 - 19:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
   "רביעי, 2 יולי 2025_53": {
     "date": "רביעי, 2 יולי 2025",
     "event_id": "53",
@@ -865,13 +872,6 @@
     "event_id": "55",
     "time": "06:00 - 09:00",
     "service_type": "אסתר",
-    "is_available": true
-  },
-  "חמישי, 3 יולי 2025_62": {
-    "date": "חמישי, 3 יולי 2025",
-    "event_id": "62",
-    "time": "14:00 - 17:00",
-    "service_type": "רוני",
     "is_available": true
   },
   "חמישי, 3 יולי 2025_64": {
