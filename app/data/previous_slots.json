@@ -202,6 +202,13 @@
     "service_type": "קרפה",
     "is_available": true
   },
+  "ראשון, 29 יוני 2025_2": {
+    "date": "ראשון, 29 יוני 2025",
+    "event_id": "2",
+    "time": "11:00 - 14:00",
+    "service_type": "קרפה",
+    "is_available": true
+  },
   "ראשון, 29 יוני 2025_5": {
     "date": "ראשון, 29 יוני 2025",
     "event_id": "5",
@@ -1235,13 +1242,6 @@
     "date": "שבת, 5 יולי 2025",
     "event_id": "28",
     "time": "09:00 - 12:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  "שבת, 5 יולי 2025_29": {
-    "date": "שבת, 5 יולי 2025",
-    "event_id": "29",
-    "time": "12:00 - 15:00",
     "service_type": "מישל",
     "is_available": true
   },
