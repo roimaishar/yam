@@ -188,13 +188,6 @@
     "service_type": "קרפה",
     "is_available": true
   },
-  "ראשון, 29 יוני 2025_2": {
-    "date": "ראשון, 29 יוני 2025",
-    "event_id": "2",
-    "time": "11:00 - 14:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
   "ראשון, 29 יוני 2025_5": {
     "date": "ראשון, 29 יוני 2025",
     "event_id": "5",
@@ -1012,13 +1005,6 @@
     "event_id": "29",
     "time": "19:00 - 22:00",
     "service_type": "ליאור",
-    "is_available": true
-  },
-  "חמישי, 3 יולי 2025_22": {
-    "date": "חמישי, 3 יולי 2025",
-    "event_id": "22",
-    "time": "13:00 - 15:00",
-    "service_type": "קטמנדו",
     "is_available": true
   },
   "שישי, 4 יולי 2025_48": {
