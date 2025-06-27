@@ -43,13 +43,6 @@
   },
   {
     "date": "שבת, 28 יוני 2025",
-    "event_id": "6",
-    "time": "08:00 - 10:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 28 יוני 2025",
     "event_id": "8",
     "time": "12:00 - 14:00",
     "service_type": "נאווה",
@@ -1928,13 +1921,6 @@
     "date": "שלישי, 8 יולי 2025",
     "event_id": "20",
     "time": "13:00 - 16:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 8 יולי 2025",
-    "event_id": "21",
-    "time": "16:00 - 19:00",
     "service_type": "קטמנדו",
     "is_available": true
   },
