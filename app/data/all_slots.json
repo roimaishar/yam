@@ -589,13 +589,6 @@
   },
   {
     "date": "רביעי, 2 יולי 2025",
-    "event_id": "46",
-    "time": "16:00 - 19:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 2 יולי 2025",
     "event_id": "55",
     "time": "06:00 - 09:00",
     "service_type": "אסתר",
