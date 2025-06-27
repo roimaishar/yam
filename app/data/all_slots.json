@@ -78,6 +78,13 @@
   },
   {
     "date": "ראשון, 29 יוני 2025",
+    "event_id": "58",
+    "time": "12:00 - 15:00",
+    "service_type": "אסתר",
+    "is_available": true
+  },
+  {
+    "date": "ראשון, 29 יוני 2025",
     "event_id": "64",
     "time": "17:00 - 20:00",
     "service_type": "רוני",
@@ -654,6 +661,13 @@
     "date": "רביעי, 2 יולי 2025",
     "event_id": "10",
     "time": "14:00 - 16:00",
+    "service_type": "נאווה",
+    "is_available": true
+  },
+  {
+    "date": "רביעי, 2 יולי 2025",
+    "event_id": "11",
+    "time": "16:00 - 18:00",
     "service_type": "נאווה",
     "is_available": true
   },
