@@ -106,6 +106,13 @@
   },
   {
     "date": "ראשון, 29 יוני 2025",
+    "event_id": "39",
+    "time": "09:00 - 12:00",
+    "service_type": "הרמוני",
+    "is_available": true
+  },
+  {
+    "date": "ראשון, 29 יוני 2025",
     "event_id": "32",
     "time": "08:00 - 11:00",
     "service_type": "כרמן החדשה",
@@ -773,13 +780,6 @@
     "date": "חמישי, 3 יולי 2025",
     "event_id": "30",
     "time": "06:00 - 09:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  {
-    "date": "חמישי, 3 יולי 2025",
-    "event_id": "32",
-    "time": "12:00 - 15:00",
     "service_type": "מישל",
     "is_available": true
   },
