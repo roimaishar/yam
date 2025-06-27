@@ -1,5 +1,26 @@
 [
   {
+    "date": "שישי, 27 יוני 2025",
+    "event_id": "12",
+    "time": "20:00 - 22:00",
+    "service_type": "נאווה",
+    "is_available": true
+  },
+  {
+    "date": "שישי, 27 יוני 2025",
+    "event_id": "19",
+    "time": "07:00 - 09:00",
+    "service_type": "קטמנדו",
+    "is_available": true
+  },
+  {
+    "date": "שישי, 27 יוני 2025",
+    "event_id": "24",
+    "time": "17:00 - 19:00",
+    "service_type": "קטמנדו",
+    "is_available": true
+  },
+  {
     "date": "שבת, 28 יוני 2025",
     "event_id": "46",
     "time": "19:00 - 22:00",
@@ -554,13 +575,6 @@
   },
   {
     "date": "שלישי, 1 יולי 2025",
-    "event_id": "20",
-    "time": "10:00 - 13:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 1 יולי 2025",
     "event_id": "22",
     "time": "16:00 - 19:00",
     "service_type": "קטמנדו",
@@ -612,13 +626,6 @@
     "date": "רביעי, 2 יולי 2025",
     "event_id": "28",
     "time": "06:00 - 09:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 2 יולי 2025",
-    "event_id": "29",
-    "time": "09:00 - 12:00",
     "service_type": "מישל",
     "is_available": true
   },
