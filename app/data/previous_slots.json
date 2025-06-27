@@ -776,6 +776,13 @@
     "service_type": "מישל",
     "is_available": true
   },
+  "חמישי, 3 יולי 2025_32": {
+    "date": "חמישי, 3 יולי 2025",
+    "event_id": "32",
+    "time": "12:00 - 15:00",
+    "service_type": "מישל",
+    "is_available": true
+  },
   "חמישי, 3 יולי 2025_6": {
     "date": "חמישי, 3 יולי 2025",
     "event_id": "6",
@@ -1144,20 +1151,6 @@
     "date": "ראשון, 6 יולי 2025",
     "event_id": "45",
     "time": "07:00 - 10:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  "ראשון, 6 יולי 2025_47": {
-    "date": "ראשון, 6 יולי 2025",
-    "event_id": "47",
-    "time": "13:00 - 16:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  "ראשון, 6 יולי 2025_48": {
-    "date": "ראשון, 6 יולי 2025",
-    "event_id": "48",
-    "time": "16:00 - 19:00",
     "service_type": "ושתי",
     "is_available": true
   },
