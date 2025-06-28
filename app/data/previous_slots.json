@@ -349,13 +349,6 @@
     "service_type": "הרמוני",
     "is_available": true
   },
-  "שלישי, 1 יולי 2025_40": {
-    "date": "שלישי, 1 יולי 2025",
-    "event_id": "40",
-    "time": "12:00 - 15:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
   "שלישי, 1 יולי 2025_35": {
     "date": "שלישי, 1 יולי 2025",
     "event_id": "35",
@@ -410,20 +403,6 @@
     "event_id": "14",
     "time": "07:00 - 10:00",
     "service_type": "רונית",
-    "is_available": true
-  },
-  "שלישי, 1 יולי 2025_24": {
-    "date": "שלישי, 1 יולי 2025",
-    "event_id": "24",
-    "time": "10:00 - 13:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
-  "שלישי, 1 יולי 2025_25": {
-    "date": "שלישי, 1 יולי 2025",
-    "event_id": "25",
-    "time": "13:00 - 16:00",
-    "service_type": "ליאור",
     "is_available": true
   },
   "שלישי, 1 יולי 2025_27": {
@@ -2264,13 +2243,6 @@
     "date": "שישי, 11 יולי 2025",
     "event_id": "40",
     "time": "06:00 - 09:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  "שישי, 11 יולי 2025_44": {
-    "date": "שישי, 11 יולי 2025",
-    "event_id": "44",
-    "time": "18:00 - 21:00",
     "service_type": "הרמוני",
     "is_available": true
   },
