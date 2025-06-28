@@ -337,13 +337,6 @@
   },
   {
     "date": "שלישי, 1 יולי 2025",
-    "event_id": "47",
-    "time": "19:00 - 22:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 1 יולי 2025",
     "event_id": "55",
     "time": "06:00 - 09:00",
     "service_type": "אסתר",
@@ -2321,13 +2314,6 @@
     "event_id": "65",
     "time": "20:00 - 23:00",
     "service_type": "רוני",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 11 יולי 2025",
-    "event_id": "1",
-    "time": "08:00 - 11:00",
-    "service_type": "קרפה",
     "is_available": true
   },
   {
