@@ -659,13 +659,6 @@
   },
   {
     "date": "שישי, 4 יולי 2025",
-    "event_id": "48",
-    "time": "19:00 - 22:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 4 יולי 2025",
     "event_id": "65",
     "time": "20:00 - 23:00",
     "service_type": "רוני",
