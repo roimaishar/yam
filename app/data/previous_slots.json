@@ -307,6 +307,13 @@
     "service_type": "רונית",
     "is_available": true
   },
+  "שני, 30 יוני 2025_23": {
+    "date": "שני, 30 יוני 2025",
+    "event_id": "23",
+    "time": "10:00 - 13:00",
+    "service_type": "ליאור",
+    "is_available": true
+  },
   "שני, 30 יוני 2025_18": {
     "date": "שני, 30 יוני 2025",
     "event_id": "18",
