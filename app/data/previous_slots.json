@@ -1056,13 +1056,6 @@
     "service_type": "הרמוני",
     "is_available": true
   },
-  "שני, 7 יולי 2025_41": {
-    "date": "שני, 7 יולי 2025",
-    "event_id": "41",
-    "time": "18:00 - 21:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
   "שני, 7 יולי 2025_32": {
     "date": "שני, 7 יולי 2025",
     "event_id": "32",
@@ -1774,13 +1767,6 @@
     "date": "חמישי, 10 יולי 2025",
     "event_id": "61",
     "time": "08:00 - 11:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
-  "חמישי, 10 יולי 2025_64": {
-    "date": "חמישי, 10 יולי 2025",
-    "event_id": "64",
-    "time": "17:00 - 20:00",
     "service_type": "רוני",
     "is_available": true
   },
