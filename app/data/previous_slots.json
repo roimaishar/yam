@@ -97,13 +97,6 @@
     "service_type": "רונית",
     "is_available": true
   },
-  "שני, 30 יוני 2025_17": {
-    "date": "שני, 30 יוני 2025",
-    "event_id": "17",
-    "time": "19:00 - 22:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
   "שני, 30 יוני 2025_22": {
     "date": "שני, 30 יוני 2025",
     "event_id": "22",
@@ -290,13 +283,6 @@
     "date": "רביעי, 2 יולי 2025",
     "event_id": "30",
     "time": "12:00 - 15:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  "רביעי, 2 יולי 2025_31": {
-    "date": "רביעי, 2 יולי 2025",
-    "event_id": "31",
-    "time": "15:00 - 18:00",
     "service_type": "מישל",
     "is_available": true
   },
