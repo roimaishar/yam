@@ -62,13 +62,6 @@
     "service_type": "קטמנדו",
     "is_available": true
   },
-  "רביעי, 2 יולי 2025_43": {
-    "date": "רביעי, 2 יולי 2025",
-    "event_id": "43",
-    "time": "07:00 - 10:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
   "רביעי, 2 יולי 2025_55": {
     "date": "רביעי, 2 יולי 2025",
     "event_id": "55",
@@ -300,13 +293,6 @@
     "service_type": "קרפה",
     "is_available": true
   },
-  "שבת, 5 יולי 2025_4": {
-    "date": "שבת, 5 יולי 2025",
-    "event_id": "4",
-    "time": "17:00 - 20:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
   "שבת, 5 יולי 2025_5": {
     "date": "שבת, 5 יולי 2025",
     "event_id": "5",
@@ -333,13 +319,6 @@
     "event_id": "40",
     "time": "12:00 - 15:00",
     "service_type": "הרמוני",
-    "is_available": true
-  },
-  "שבת, 5 יולי 2025_33": {
-    "date": "שבת, 5 יולי 2025",
-    "event_id": "33",
-    "time": "11:00 - 14:00",
-    "service_type": "כרמן החדשה",
     "is_available": true
   },
   "שבת, 5 יולי 2025_36": {
