@@ -27,6 +27,13 @@
     "service_type": "קרפה",
     "is_available": true
   },
+  "שלישי, 1 יולי 2025_33": {
+    "date": "שלישי, 1 יולי 2025",
+    "event_id": "33",
+    "time": "08:00 - 11:00",
+    "service_type": "כרמן החדשה",
+    "is_available": true
+  },
   "שלישי, 1 יולי 2025_37": {
     "date": "שלישי, 1 יולי 2025",
     "event_id": "37",
@@ -1112,13 +1119,6 @@
     "service_type": "הרמוני",
     "is_available": true
   },
-  "רביעי, 9 יולי 2025_40": {
-    "date": "רביעי, 9 יולי 2025",
-    "event_id": "40",
-    "time": "12:00 - 15:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
   "רביעי, 9 יולי 2025_41": {
     "date": "רביעי, 9 יולי 2025",
     "event_id": "41",
@@ -1704,6 +1704,13 @@
     "date": "שבת, 12 יולי 2025",
     "event_id": "53",
     "time": "06:00 - 09:00",
+    "service_type": "אסתר",
+    "is_available": true
+  },
+  "שבת, 12 יולי 2025_54": {
+    "date": "שבת, 12 יולי 2025",
+    "event_id": "54",
+    "time": "09:00 - 12:00",
     "service_type": "אסתר",
     "is_available": true
   },
