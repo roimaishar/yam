@@ -174,13 +174,6 @@
     "service_type": "ושתי",
     "is_available": true
   },
-  "חמישי, 3 יולי 2025_57": {
-    "date": "חמישי, 3 יולי 2025",
-    "event_id": "57",
-    "time": "06:00 - 09:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
   "חמישי, 3 יולי 2025_66": {
     "date": "חמישי, 3 יולי 2025",
     "event_id": "66",
@@ -948,13 +941,6 @@
     "date": "שלישי, 8 יולי 2025",
     "event_id": "27",
     "time": "06:00 - 09:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  "שלישי, 8 יולי 2025_28": {
-    "date": "שלישי, 8 יולי 2025",
-    "event_id": "28",
-    "time": "09:00 - 12:00",
     "service_type": "מישל",
     "is_available": true
   },
