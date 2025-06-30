@@ -188,13 +188,6 @@
     "service_type": "קטמנדו",
     "is_available": true
   },
-  "רביעי, 2 יולי 2025_22": {
-    "date": "רביעי, 2 יולי 2025",
-    "event_id": "22",
-    "time": "16:00 - 19:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
   "חמישי, 3 יולי 2025_49": {
     "date": "חמישי, 3 יולי 2025",
     "event_id": "49",
@@ -1691,13 +1684,6 @@
     "event_id": "17",
     "time": "19:00 - 22:00",
     "service_type": "רונית",
-    "is_available": true
-  },
-  "שישי, 11 יולי 2025_25": {
-    "date": "שישי, 11 יולי 2025",
-    "event_id": "25",
-    "time": "07:00 - 10:00",
-    "service_type": "ליאור",
     "is_available": true
   },
   "שישי, 11 יולי 2025_29": {
