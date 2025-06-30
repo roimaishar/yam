@@ -239,13 +239,6 @@
   },
   {
     "date": "שישי, 4 יולי 2025",
-    "event_id": "10",
-    "time": "16:00 - 18:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 4 יולי 2025",
     "event_id": "12",
     "time": "20:00 - 22:00",
     "service_type": "נאווה",
@@ -724,6 +717,13 @@
     "date": "שני, 7 יולי 2025",
     "event_id": "34",
     "time": "14:00 - 17:00",
+    "service_type": "כרמן החדשה",
+    "is_available": true
+  },
+  {
+    "date": "שני, 7 יולי 2025",
+    "event_id": "35",
+    "time": "17:00 - 20:00",
     "service_type": "כרמן החדשה",
     "is_available": true
   },
