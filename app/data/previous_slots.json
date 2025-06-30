@@ -6,6 +6,13 @@
     "service_type": "ושתי",
     "is_available": true
   },
+  "שלישי, 1 יולי 2025_47": {
+    "date": "שלישי, 1 יולי 2025",
+    "event_id": "47",
+    "time": "19:00 - 22:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
   "שלישי, 1 יולי 2025_64": {
     "date": "שלישי, 1 יולי 2025",
     "event_id": "64",
