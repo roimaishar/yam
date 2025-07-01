@@ -118,6 +118,13 @@
     "service_type": "נאווה",
     "is_available": true
   },
+  "חמישי, 3 יולי 2025_17": {
+    "date": "חמישי, 3 יולי 2025",
+    "event_id": "17",
+    "time": "19:00 - 22:00",
+    "service_type": "רונית",
+    "is_available": true
+  },
   "חמישי, 3 יולי 2025_29": {
     "date": "חמישי, 3 יולי 2025",
     "event_id": "29",
@@ -2194,13 +2201,6 @@
     "date": "שני, 14 יולי 2025",
     "event_id": "34",
     "time": "14:00 - 17:00",
-    "service_type": "כרמן החדשה",
-    "is_available": true
-  },
-  "שני, 14 יולי 2025_35": {
-    "date": "שני, 14 יולי 2025",
-    "event_id": "35",
-    "time": "17:00 - 20:00",
     "service_type": "כרמן החדשה",
     "is_available": true
   },
