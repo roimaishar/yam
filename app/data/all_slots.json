@@ -148,13 +148,6 @@
   },
   {
     "date": "שישי, 4 יולי 2025",
-    "event_id": "11",
-    "time": "18:00 - 20:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 4 יולי 2025",
     "event_id": "12",
     "time": "20:00 - 22:00",
     "service_type": "נאווה",
@@ -381,13 +374,6 @@
     "date": "ראשון, 6 יולי 2025",
     "event_id": "31",
     "time": "12:00 - 15:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 6 יולי 2025",
-    "event_id": "32",
-    "time": "15:00 - 18:00",
     "service_type": "מישל",
     "is_available": true
   },
