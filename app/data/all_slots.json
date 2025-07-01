@@ -484,13 +484,6 @@
   },
   {
     "date": "ראשון, 6 יולי 2025",
-    "event_id": "16",
-    "time": "13:00 - 16:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 6 יולי 2025",
     "event_id": "17",
     "time": "16:00 - 19:00",
     "service_type": "רונית",
