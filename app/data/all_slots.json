@@ -154,13 +154,6 @@
     "is_available": true
   },
   {
-    "date": "שישי, 4 יולי 2025",
-    "event_id": "28",
-    "time": "19:00 - 22:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
-  {
     "date": "שבת, 5 יולי 2025",
     "event_id": "60",
     "time": "08:00 - 11:00",
@@ -2124,13 +2117,6 @@
     "date": "שני, 14 יולי 2025",
     "event_id": "43",
     "time": "10:00 - 13:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "שני, 14 יולי 2025",
-    "event_id": "45",
-    "time": "16:00 - 19:00",
     "service_type": "ושתי",
     "is_available": true
   },
