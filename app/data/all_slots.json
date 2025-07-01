@@ -435,13 +435,6 @@
   },
   {
     "date": "ראשון, 6 יולי 2025",
-    "event_id": "19",
-    "time": "07:00 - 10:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 6 יולי 2025",
     "event_id": "20",
     "time": "10:00 - 13:00",
     "service_type": "קטמנדו",
@@ -2166,13 +2159,6 @@
     "date": "שני, 14 יולי 2025",
     "event_id": "60",
     "time": "14:00 - 17:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
-  {
-    "date": "שני, 14 יולי 2025",
-    "event_id": "61",
-    "time": "17:00 - 20:00",
     "service_type": "רוני",
     "is_available": true
   },
