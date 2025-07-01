@@ -29,13 +29,6 @@
   },
   {
     "date": "רביעי, 2 יולי 2025",
-    "event_id": "39",
-    "time": "09:00 - 12:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 2 יולי 2025",
     "event_id": "28",
     "time": "06:00 - 09:00",
     "service_type": "מישל",
