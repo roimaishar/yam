@@ -253,13 +253,6 @@
   },
   {
     "date": "ראשון, 6 יולי 2025",
-    "event_id": "63",
-    "time": "11:00 - 14:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 6 יולי 2025",
     "event_id": "2",
     "time": "11:00 - 14:00",
     "service_type": "קרפה",
