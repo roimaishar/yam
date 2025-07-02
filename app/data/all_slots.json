@@ -1534,13 +1534,6 @@
   },
   {
     "date": "ראשון, 13 יולי 2025",
-    "event_id": "44",
-    "time": "10:00 - 13:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 13 יולי 2025",
     "event_id": "55",
     "time": "06:00 - 09:00",
     "service_type": "אסתר",
