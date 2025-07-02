@@ -531,6 +531,13 @@
     "service_type": "ושתי",
     "is_available": true
   },
+  "שלישי, 8 יולי 2025_46": {
+    "date": "שלישי, 8 יולי 2025",
+    "event_id": "46",
+    "time": "19:00 - 22:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
   "שלישי, 8 יולי 2025_58": {
     "date": "שלישי, 8 יולי 2025",
     "event_id": "58",
@@ -640,13 +647,6 @@
     "date": "שלישי, 8 יולי 2025",
     "event_id": "14",
     "time": "10:00 - 13:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
-  "שלישי, 8 יולי 2025_17": {
-    "date": "שלישי, 8 יולי 2025",
-    "event_id": "17",
-    "time": "19:00 - 22:00",
     "service_type": "רונית",
     "is_available": true
   },
@@ -963,13 +963,6 @@
     "event_id": "65",
     "time": "20:00 - 23:00",
     "service_type": "רוני",
-    "is_available": true
-  },
-  "חמישי, 10 יולי 2025_1": {
-    "date": "חמישי, 10 יולי 2025",
-    "event_id": "1",
-    "time": "08:00 - 11:00",
-    "service_type": "קרפה",
     "is_available": true
   },
   "חמישי, 10 יולי 2025_5": {
