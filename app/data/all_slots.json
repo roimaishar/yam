@@ -260,13 +260,6 @@
   },
   {
     "date": "ראשון, 6 יולי 2025",
-    "event_id": "37",
-    "time": "17:00 - 20:00",
-    "service_type": "כרמן החדשה",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 6 יולי 2025",
     "event_id": "38",
     "time": "20:00 - 23:00",
     "service_type": "כרמן החדשה",
@@ -416,13 +409,6 @@
     "date": "שני, 7 יולי 2025",
     "event_id": "41",
     "time": "06:00 - 09:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  {
-    "date": "שני, 7 יולי 2025",
-    "event_id": "42",
-    "time": "09:00 - 12:00",
     "service_type": "הרמוני",
     "is_available": true
   },
