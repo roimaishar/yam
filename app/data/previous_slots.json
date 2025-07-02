@@ -34,13 +34,6 @@
     "service_type": "נאווה",
     "is_available": true
   },
-  "חמישי, 3 יולי 2025_29": {
-    "date": "חמישי, 3 יולי 2025",
-    "event_id": "29",
-    "time": "19:00 - 22:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
   "שישי, 4 יולי 2025_56": {
     "date": "שישי, 4 יולי 2025",
     "event_id": "56",
@@ -1103,6 +1096,13 @@
     "event_id": "30",
     "time": "06:00 - 09:00",
     "service_type": "מישל",
+    "is_available": true
+  },
+  "שישי, 11 יולי 2025_10": {
+    "date": "שישי, 11 יולי 2025",
+    "event_id": "10",
+    "time": "16:00 - 18:00",
+    "service_type": "נאווה",
     "is_available": true
   },
   "שישי, 11 יולי 2025_12": {
