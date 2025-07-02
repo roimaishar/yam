@@ -365,13 +365,6 @@
   },
   {
     "date": "שני, 7 יולי 2025",
-    "event_id": "65",
-    "time": "17:00 - 20:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
-  {
-    "date": "שני, 7 יולי 2025",
     "event_id": "66",
     "time": "20:00 - 23:00",
     "service_type": "רוני",
