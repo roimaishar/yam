@@ -167,13 +167,6 @@
     "service_type": "קטמנדו",
     "is_available": true
   },
-  "ראשון, 6 יולי 2025_2": {
-    "date": "ראשון, 6 יולי 2025",
-    "event_id": "2",
-    "time": "11:00 - 14:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
   "ראשון, 6 יולי 2025_3": {
     "date": "ראשון, 6 יולי 2025",
     "event_id": "3",
@@ -2096,13 +2089,6 @@
     "date": "שלישי, 15 יולי 2025",
     "event_id": "3",
     "time": "14:00 - 17:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
-  "שלישי, 15 יולי 2025_4": {
-    "date": "שלישי, 15 יולי 2025",
-    "event_id": "4",
-    "time": "17:00 - 20:00",
     "service_type": "קרפה",
     "is_available": true
   },
