@@ -489,13 +489,6 @@
     "service_type": "הרמוני",
     "is_available": true
   },
-  "שלישי, 8 יולי 2025_32": {
-    "date": "שלישי, 8 יולי 2025",
-    "event_id": "32",
-    "time": "08:00 - 11:00",
-    "service_type": "כרמן החדשה",
-    "is_available": true
-  },
   "שלישי, 8 יולי 2025_36": {
     "date": "שלישי, 8 יולי 2025",
     "event_id": "36",
@@ -570,13 +563,6 @@
     "date": "שלישי, 8 יולי 2025",
     "event_id": "25",
     "time": "16:00 - 19:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
-  "שלישי, 8 יולי 2025_26": {
-    "date": "שלישי, 8 יולי 2025",
-    "event_id": "26",
-    "time": "19:00 - 22:00",
     "service_type": "ליאור",
     "is_available": true
   },
