@@ -8,6 +8,13 @@
   },
   {
     "date": "שישי, 4 יולי 2025",
+    "event_id": "1",
+    "time": "08:00 - 11:00",
+    "service_type": "קרפה",
+    "is_available": true
+  },
+  {
+    "date": "שישי, 4 יולי 2025",
     "event_id": "5",
     "time": "20:00 - 23:00",
     "service_type": "קרפה",
@@ -148,13 +155,6 @@
   },
   {
     "date": "ראשון, 6 יולי 2025",
-    "event_id": "3",
-    "time": "14:00 - 17:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 6 יולי 2025",
     "event_id": "5",
     "time": "20:00 - 23:00",
     "service_type": "קרפה",
@@ -185,13 +185,6 @@
     "date": "ראשון, 6 יולי 2025",
     "event_id": "10",
     "time": "14:00 - 16:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 6 יולי 2025",
-    "event_id": "12",
-    "time": "18:00 - 20:00",
     "service_type": "נאווה",
     "is_available": true
   },
