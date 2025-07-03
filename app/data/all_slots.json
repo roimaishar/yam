@@ -617,13 +617,6 @@
   },
   {
     "date": "רביעי, 9 יולי 2025",
-    "event_id": "32",
-    "time": "18:00 - 21:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 9 יולי 2025",
     "event_id": "7",
     "time": "10:00 - 12:00",
     "service_type": "נאווה",
