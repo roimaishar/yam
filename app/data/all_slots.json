@@ -197,13 +197,6 @@
   },
   {
     "date": "ראשון, 6 יולי 2025",
-    "event_id": "32",
-    "time": "15:00 - 18:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 6 יולי 2025",
     "event_id": "8",
     "time": "10:00 - 12:00",
     "service_type": "נאווה",
