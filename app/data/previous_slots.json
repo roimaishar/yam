@@ -167,13 +167,6 @@
     "service_type": "נאווה",
     "is_available": true
   },
-  "ראשון, 6 יולי 2025_9": {
-    "date": "ראשון, 6 יולי 2025",
-    "event_id": "9",
-    "time": "12:00 - 14:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
   "ראשון, 6 יולי 2025_10": {
     "date": "ראשון, 6 יולי 2025",
     "event_id": "10",
@@ -389,13 +382,6 @@
     "event_id": "62",
     "time": "20:00 - 23:00",
     "service_type": "רוני",
-    "is_available": true
-  },
-  "שלישי, 8 יולי 2025_2": {
-    "date": "שלישי, 8 יולי 2025",
-    "event_id": "2",
-    "time": "11:00 - 14:00",
-    "service_type": "קרפה",
     "is_available": true
   },
   "שלישי, 8 יולי 2025_5": {
