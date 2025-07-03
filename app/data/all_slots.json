@@ -526,6 +526,13 @@
   },
   {
     "date": "רביעי, 9 יולי 2025",
+    "event_id": "46",
+    "time": "16:00 - 19:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
+  {
+    "date": "רביעי, 9 יולי 2025",
     "event_id": "59",
     "time": "08:00 - 11:00",
     "service_type": "רוני",
@@ -1165,13 +1172,6 @@
     "date": "שבת, 12 יולי 2025",
     "event_id": "30",
     "time": "15:00 - 18:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 12 יולי 2025",
-    "event_id": "31",
-    "time": "18:00 - 21:00",
     "service_type": "מישל",
     "is_available": true
   },
