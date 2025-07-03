@@ -118,13 +118,6 @@
     "service_type": "נאווה",
     "is_available": true
   },
-  "שבת, 5 יולי 2025_11": {
-    "date": "שבת, 5 יולי 2025",
-    "event_id": "11",
-    "time": "18:00 - 20:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
   "שבת, 5 יולי 2025_12": {
     "date": "שבת, 5 יולי 2025",
     "event_id": "12",
@@ -1420,6 +1413,13 @@
     "service_type": "אסתר",
     "is_available": true
   },
+  "ראשון, 13 יולי 2025_59": {
+    "date": "ראשון, 13 יולי 2025",
+    "event_id": "59",
+    "time": "18:00 - 21:00",
+    "service_type": "אסתר",
+    "is_available": true
+  },
   "ראשון, 13 יולי 2025_60": {
     "date": "ראשון, 13 יולי 2025",
     "event_id": "60",
@@ -1998,13 +1998,6 @@
     "date": "שלישי, 15 יולי 2025",
     "event_id": "56",
     "time": "12:00 - 15:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  "שלישי, 15 יולי 2025_57": {
-    "date": "שלישי, 15 יולי 2025",
-    "event_id": "57",
-    "time": "15:00 - 18:00",
     "service_type": "אסתר",
     "is_available": true
   },
