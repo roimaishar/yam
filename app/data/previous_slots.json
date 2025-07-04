@@ -146,6 +146,13 @@
     "service_type": "ליאור",
     "is_available": true
   },
+  "ראשון, 6 יולי 2025_27": {
+    "date": "ראשון, 6 יולי 2025",
+    "event_id": "27",
+    "time": "19:00 - 22:00",
+    "service_type": "ליאור",
+    "is_available": true
+  },
   "ראשון, 6 יולי 2025_20": {
     "date": "ראשון, 6 יולי 2025",
     "event_id": "20",
@@ -648,13 +655,6 @@
     "event_id": "55",
     "time": "18:00 - 20:00",
     "service_type": "עידו",
-    "is_available": true
-  },
-  "חמישי, 10 יולי 2025_49": {
-    "date": "חמישי, 10 יולי 2025",
-    "event_id": "49",
-    "time": "19:00 - 22:00",
-    "service_type": "ושתי",
     "is_available": true
   },
   "חמישי, 10 יולי 2025_56": {
