@@ -302,13 +302,6 @@
   },
   {
     "date": "שלישי, 8 יולי 2025",
-    "event_id": "2",
-    "time": "11:00 - 14:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 8 יולי 2025",
     "event_id": "5",
     "time": "20:00 - 23:00",
     "service_type": "קרפה",
@@ -627,6 +620,13 @@
     "event_id": "39",
     "time": "20:00 - 23:00",
     "service_type": "כרמן החדשה",
+    "is_available": true
+  },
+  {
+    "date": "חמישי, 10 יולי 2025",
+    "event_id": "30",
+    "time": "06:00 - 09:00",
+    "service_type": "מישל",
     "is_available": true
   },
   {
@@ -990,6 +990,13 @@
     "date": "שבת, 12 יולי 2025",
     "event_id": "30",
     "time": "15:00 - 18:00",
+    "service_type": "מישל",
+    "is_available": true
+  },
+  {
+    "date": "שבת, 12 יולי 2025",
+    "event_id": "31",
+    "time": "18:00 - 21:00",
     "service_type": "מישל",
     "is_available": true
   },
