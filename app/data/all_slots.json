@@ -1527,13 +1527,6 @@
   },
   {
     "date": "שלישי, 15 יולי 2025",
-    "event_id": "56",
-    "time": "12:00 - 15:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 15 יולי 2025",
     "event_id": "59",
     "time": "08:00 - 11:00",
     "service_type": "רוני",
