@@ -36,13 +36,6 @@
   },
   {
     "date": "ראשון, 6 יולי 2025",
-    "event_id": "23",
-    "time": "07:00 - 10:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 6 יולי 2025",
     "event_id": "24",
     "time": "10:00 - 13:00",
     "service_type": "ליאור",
@@ -2300,6 +2293,13 @@
     "event_id": "49",
     "time": "19:00 - 22:00",
     "service_type": "ושתי",
+    "is_available": true
+  },
+  {
+    "date": "שישי, 18 יולי 2025",
+    "event_id": "56",
+    "time": "06:00 - 09:00",
+    "service_type": "אסתר",
     "is_available": true
   },
   {
