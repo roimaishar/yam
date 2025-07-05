@@ -2323,13 +2323,6 @@
     "service_type": "עידו",
     "is_available": true
   },
-  "שישי, 18 יולי 2025_45": {
-    "date": "שישי, 18 יולי 2025",
-    "event_id": "45",
-    "time": "07:00 - 10:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
   "שישי, 18 יולי 2025_49": {
     "date": "שישי, 18 יולי 2025",
     "event_id": "49",
@@ -2384,13 +2377,6 @@
     "event_id": "30",
     "time": "06:00 - 09:00",
     "service_type": "מישל",
-    "is_available": true
-  },
-  "שישי, 18 יולי 2025_6": {
-    "date": "שישי, 18 יולי 2025",
-    "event_id": "6",
-    "time": "08:00 - 10:00",
-    "service_type": "נאווה",
     "is_available": true
   },
   "שישי, 18 יולי 2025_8": {
