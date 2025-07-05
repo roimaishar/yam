@@ -34,13 +34,6 @@
     "service_type": "נאווה",
     "is_available": true
   },
-  "ראשון, 6 יולי 2025_24": {
-    "date": "ראשון, 6 יולי 2025",
-    "event_id": "24",
-    "time": "10:00 - 13:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
   "ראשון, 6 יולי 2025_20": {
     "date": "ראשון, 6 יולי 2025",
     "event_id": "20",
@@ -395,6 +388,13 @@
     "date": "רביעי, 9 יולי 2025",
     "event_id": "23",
     "time": "07:00 - 10:00",
+    "service_type": "ליאור",
+    "is_available": true
+  },
+  "רביעי, 9 יולי 2025_27": {
+    "date": "רביעי, 9 יולי 2025",
+    "event_id": "27",
+    "time": "19:00 - 22:00",
     "service_type": "ליאור",
     "is_available": true
   },
@@ -2173,13 +2173,6 @@
     "date": "חמישי, 17 יולי 2025",
     "event_id": "25",
     "time": "07:00 - 10:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
-  "חמישי, 17 יולי 2025_26": {
-    "date": "חמישי, 17 יולי 2025",
-    "event_id": "26",
-    "time": "10:00 - 13:00",
     "service_type": "ליאור",
     "is_available": true
   },
