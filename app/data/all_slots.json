@@ -267,6 +267,13 @@
   },
   {
     "date": "רביעי, 9 יולי 2025",
+    "event_id": "11",
+    "time": "18:00 - 20:00",
+    "service_type": "נאווה",
+    "is_available": true
+  },
+  {
+    "date": "רביעי, 9 יולי 2025",
     "event_id": "12",
     "time": "20:00 - 22:00",
     "service_type": "נאווה",
@@ -2250,13 +2257,6 @@
     "date": "שבת, 19 יולי 2025",
     "event_id": "45",
     "time": "13:00 - 16:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 19 יולי 2025",
-    "event_id": "46",
-    "time": "16:00 - 19:00",
     "service_type": "ושתי",
     "is_available": true
   },
