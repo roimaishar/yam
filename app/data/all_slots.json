@@ -22,13 +22,6 @@
   },
   {
     "date": "שני, 7 יולי 2025",
-    "event_id": "66",
-    "time": "20:00 - 23:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
-  {
-    "date": "שני, 7 יולי 2025",
     "event_id": "5",
     "time": "20:00 - 23:00",
     "service_type": "קרפה",
@@ -297,13 +290,6 @@
     "date": "רביעי, 9 יולי 2025",
     "event_id": "23",
     "time": "07:00 - 10:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 9 יולי 2025",
-    "event_id": "27",
-    "time": "19:00 - 22:00",
     "service_type": "ליאור",
     "is_available": true
   },
