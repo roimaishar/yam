@@ -545,13 +545,6 @@
     "service_type": "אסתר",
     "is_available": true
   },
-  "שבת, 12 יולי 2025_55": {
-    "date": "שבת, 12 יולי 2025",
-    "event_id": "55",
-    "time": "12:00 - 15:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
   "שבת, 12 יולי 2025_56": {
     "date": "שבת, 12 יולי 2025",
     "event_id": "56",
@@ -1343,13 +1336,6 @@
     "service_type": "ושתי",
     "is_available": true
   },
-  "שלישי, 15 יולי 2025_54": {
-    "date": "שלישי, 15 יולי 2025",
-    "event_id": "54",
-    "time": "06:00 - 09:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
   "שלישי, 15 יולי 2025_55": {
     "date": "שלישי, 15 יולי 2025",
     "event_id": "55",
@@ -1494,13 +1480,6 @@
     "date": "שלישי, 15 יולי 2025",
     "event_id": "9",
     "time": "14:00 - 16:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  "שלישי, 15 יולי 2025_10": {
-    "date": "שלישי, 15 יולי 2025",
-    "event_id": "10",
-    "time": "16:00 - 18:00",
     "service_type": "נאווה",
     "is_available": true
   },
@@ -1746,13 +1725,6 @@
     "date": "רביעי, 16 יולי 2025",
     "event_id": "29",
     "time": "09:00 - 12:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  "רביעי, 16 יולי 2025_30": {
-    "date": "רביעי, 16 יולי 2025",
-    "event_id": "30",
-    "time": "12:00 - 15:00",
     "service_type": "מישל",
     "is_available": true
   },
