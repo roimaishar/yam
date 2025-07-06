@@ -1,46 +1,4 @@
 {
-  "שני, 7 יולי 2025_51": {
-    "date": "שני, 7 יולי 2025",
-    "event_id": "51",
-    "time": "07:00 - 09:00",
-    "service_type": "עידו",
-    "is_available": true
-  },
-  "שני, 7 יולי 2025_52": {
-    "date": "שני, 7 יולי 2025",
-    "event_id": "52",
-    "time": "09:00 - 11:00",
-    "service_type": "עידו",
-    "is_available": true
-  },
-  "שני, 7 יולי 2025_53": {
-    "date": "שני, 7 יולי 2025",
-    "event_id": "53",
-    "time": "11:00 - 13:00",
-    "service_type": "עידו",
-    "is_available": true
-  },
-  "שני, 7 יולי 2025_54": {
-    "date": "שני, 7 יולי 2025",
-    "event_id": "54",
-    "time": "14:00 - 16:00",
-    "service_type": "עידו",
-    "is_available": true
-  },
-  "שני, 7 יולי 2025_55": {
-    "date": "שני, 7 יולי 2025",
-    "event_id": "55",
-    "time": "16:00 - 18:00",
-    "service_type": "עידו",
-    "is_available": true
-  },
-  "שני, 7 יולי 2025_56": {
-    "date": "שני, 7 יולי 2025",
-    "event_id": "56",
-    "time": "18:00 - 20:00",
-    "service_type": "עידו",
-    "is_available": true
-  },
   "שני, 7 יולי 2025_3": {
     "date": "שני, 7 יולי 2025",
     "event_id": "3",
@@ -459,13 +417,6 @@
     "event_id": "29",
     "time": "19:00 - 22:00",
     "service_type": "ליאור",
-    "is_available": true
-  },
-  "שישי, 11 יולי 2025_19": {
-    "date": "שישי, 11 יולי 2025",
-    "event_id": "19",
-    "time": "07:00 - 09:00",
-    "service_type": "קטמנדו",
     "is_available": true
   },
   "שישי, 11 יולי 2025_23": {
