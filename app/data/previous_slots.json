@@ -293,13 +293,6 @@
     "service_type": "עידו",
     "is_available": true
   },
-  "שישי, 11 יולי 2025_61": {
-    "date": "שישי, 11 יולי 2025",
-    "event_id": "61",
-    "time": "08:00 - 11:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
   "שישי, 11 יולי 2025_65": {
     "date": "שישי, 11 יולי 2025",
     "event_id": "65",
@@ -475,13 +468,6 @@
     "service_type": "מישל",
     "is_available": true
   },
-  "שבת, 12 יולי 2025_30": {
-    "date": "שבת, 12 יולי 2025",
-    "event_id": "30",
-    "time": "15:00 - 18:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
   "שבת, 12 יולי 2025_6": {
     "date": "שבת, 12 יולי 2025",
     "event_id": "6",
@@ -500,13 +486,6 @@
     "date": "שבת, 12 יולי 2025",
     "event_id": "10",
     "time": "16:00 - 18:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  "שבת, 12 יולי 2025_11": {
-    "date": "שבת, 12 יולי 2025",
-    "event_id": "11",
-    "time": "18:00 - 20:00",
     "service_type": "נאווה",
     "is_available": true
   },
