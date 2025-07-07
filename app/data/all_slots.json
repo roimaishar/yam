@@ -239,13 +239,6 @@
   },
   {
     "date": "חמישי, 10 יולי 2025",
-    "event_id": "29",
-    "time": "19:00 - 22:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
-  {
-    "date": "חמישי, 10 יולי 2025",
     "event_id": "19",
     "time": "07:00 - 09:00",
     "service_type": "קטמנדו",
