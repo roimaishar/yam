@@ -244,6 +244,13 @@
     "service_type": "רונית",
     "is_available": true
   },
+  "חמישי, 10 יולי 2025_29": {
+    "date": "חמישי, 10 יולי 2025",
+    "event_id": "29",
+    "time": "19:00 - 22:00",
+    "service_type": "ליאור",
+    "is_available": true
+  },
   "חמישי, 10 יולי 2025_19": {
     "date": "חמישי, 10 יולי 2025",
     "event_id": "19",
@@ -284,6 +291,13 @@
     "event_id": "65",
     "time": "20:00 - 23:00",
     "service_type": "רוני",
+    "is_available": true
+  },
+  "שישי, 11 יולי 2025_1": {
+    "date": "שישי, 11 יולי 2025",
+    "event_id": "1",
+    "time": "08:00 - 11:00",
+    "service_type": "קרפה",
     "is_available": true
   },
   "שישי, 11 יולי 2025_5": {
