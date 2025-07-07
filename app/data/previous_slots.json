@@ -48,13 +48,6 @@
     "service_type": "נאווה",
     "is_available": true
   },
-  "שלישי, 8 יולי 2025_12": {
-    "date": "שלישי, 8 יולי 2025",
-    "event_id": "12",
-    "time": "20:00 - 22:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
   "שלישי, 8 יולי 2025_24": {
     "date": "שלישי, 8 יולי 2025",
     "event_id": "24",
@@ -298,13 +291,6 @@
     "event_id": "55",
     "time": "18:00 - 20:00",
     "service_type": "עידו",
-    "is_available": true
-  },
-  "שישי, 11 יולי 2025_48": {
-    "date": "שישי, 11 יולי 2025",
-    "event_id": "48",
-    "time": "16:00 - 19:00",
-    "service_type": "ושתי",
     "is_available": true
   },
   "שישי, 11 יולי 2025_65": {
