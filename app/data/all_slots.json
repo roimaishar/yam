@@ -484,13 +484,6 @@
   },
   {
     "date": "ראשון, 13 יולי 2025",
-    "event_id": "59",
-    "time": "18:00 - 21:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 13 יולי 2025",
     "event_id": "60",
     "time": "08:00 - 11:00",
     "service_type": "רוני",
