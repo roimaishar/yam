@@ -426,13 +426,6 @@
     "service_type": "רונית",
     "is_available": true
   },
-  "שבת, 12 יולי 2025_17": {
-    "date": "שבת, 12 יולי 2025",
-    "event_id": "17",
-    "time": "19:00 - 22:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
   "שבת, 12 יולי 2025_22": {
     "date": "שבת, 12 יולי 2025",
     "event_id": "22",
@@ -668,13 +661,6 @@
     "date": "ראשון, 13 יולי 2025",
     "event_id": "14",
     "time": "10:00 - 13:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
-  "ראשון, 13 יולי 2025_15": {
-    "date": "ראשון, 13 יולי 2025",
-    "event_id": "15",
-    "time": "13:00 - 16:00",
     "service_type": "רונית",
     "is_available": true
   },
