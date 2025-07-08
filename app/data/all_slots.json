@@ -197,6 +197,13 @@
   },
   {
     "date": "שישי, 11 יולי 2025",
+    "event_id": "64",
+    "time": "17:00 - 20:00",
+    "service_type": "רוני",
+    "is_available": true
+  },
+  {
+    "date": "שישי, 11 יולי 2025",
     "event_id": "65",
     "time": "20:00 - 23:00",
     "service_type": "רוני",
@@ -633,13 +640,6 @@
     "date": "ראשון, 13 יולי 2025",
     "event_id": "19",
     "time": "10:00 - 13:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 13 יולי 2025",
-    "event_id": "20",
-    "time": "13:00 - 16:00",
     "service_type": "קטמנדו",
     "is_available": true
   },
