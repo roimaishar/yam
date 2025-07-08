@@ -1,5 +1,75 @@
 [
   {
+    "date": "שלישי, 8 יולי 2025",
+    "event_id": "48",
+    "time": "07:00 - 09:00",
+    "service_type": "עידו",
+    "is_available": true
+  },
+  {
+    "date": "שלישי, 8 יולי 2025",
+    "event_id": "49",
+    "time": "09:00 - 11:00",
+    "service_type": "עידו",
+    "is_available": true
+  },
+  {
+    "date": "שלישי, 8 יולי 2025",
+    "event_id": "50",
+    "time": "11:00 - 13:00",
+    "service_type": "עידו",
+    "is_available": true
+  },
+  {
+    "date": "שלישי, 8 יולי 2025",
+    "event_id": "51",
+    "time": "14:00 - 16:00",
+    "service_type": "עידו",
+    "is_available": true
+  },
+  {
+    "date": "שלישי, 8 יולי 2025",
+    "event_id": "52",
+    "time": "16:00 - 18:00",
+    "service_type": "עידו",
+    "is_available": true
+  },
+  {
+    "date": "שלישי, 8 יולי 2025",
+    "event_id": "53",
+    "time": "18:00 - 20:00",
+    "service_type": "עידו",
+    "is_available": true
+  },
+  {
+    "date": "שלישי, 8 יולי 2025",
+    "event_id": "5",
+    "time": "20:00 - 23:00",
+    "service_type": "קרפה",
+    "is_available": true
+  },
+  {
+    "date": "שלישי, 8 יולי 2025",
+    "event_id": "28",
+    "time": "06:00 - 09:00",
+    "service_type": "מישל",
+    "is_available": true
+  },
+  {
+    "date": "שלישי, 8 יולי 2025",
+    "event_id": "19",
+    "time": "07:00 - 10:00",
+    "service_type": "קטמנדו",
+    "is_available": true
+  },
+  {
+    "date": "שלישי, 8 יולי 2025",
+    "event_id": "21",
+    "time": "13:00 - 16:00",
+    "service_type": "קטמנדו",
+    "is_available": true
+  },
+  {
     "date": "רביעי, 9 יולי 2025",
     "event_id": "48",
     "time": "07:00 - 09:00",
@@ -682,13 +752,6 @@
     "date": "שני, 14 יולי 2025",
     "event_id": "43",
     "time": "10:00 - 13:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "שני, 14 יולי 2025",
-    "event_id": "46",
-    "time": "19:00 - 22:00",
     "service_type": "ושתי",
     "is_available": true
   },
