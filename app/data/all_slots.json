@@ -1373,6 +1373,13 @@
   },
   {
     "date": "שישי, 18 יולי 2025",
+    "event_id": "57",
+    "time": "09:00 - 12:00",
+    "service_type": "אסתר",
+    "is_available": true
+  },
+  {
+    "date": "שישי, 18 יולי 2025",
     "event_id": "65",
     "time": "20:00 - 23:00",
     "service_type": "רוני",
