@@ -197,13 +197,6 @@
   },
   {
     "date": "שבת, 12 יולי 2025",
-    "event_id": "56",
-    "time": "15:00 - 18:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 12 יולי 2025",
     "event_id": "58",
     "time": "08:00 - 11:00",
     "service_type": "רוני",
@@ -2516,13 +2509,6 @@
     "date": "שלישי, 22 יולי 2025",
     "event_id": "55",
     "time": "12:00 - 15:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 22 יולי 2025",
-    "event_id": "57",
-    "time": "18:00 - 21:00",
     "service_type": "אסתר",
     "is_available": true
   },
