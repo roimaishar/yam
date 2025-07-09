@@ -134,6 +134,13 @@
   },
   {
     "date": "שישי, 11 יולי 2025",
+    "event_id": "46",
+    "time": "10:00 - 13:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
+  {
+    "date": "שישי, 11 יולי 2025",
     "event_id": "65",
     "time": "20:00 - 23:00",
     "service_type": "רוני",
