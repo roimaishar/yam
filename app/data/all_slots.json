@@ -64,6 +64,13 @@
   },
   {
     "date": "שישי, 11 יולי 2025",
+    "event_id": "8",
+    "time": "12:00 - 14:00",
+    "service_type": "נאווה",
+    "is_available": true
+  },
+  {
+    "date": "שישי, 11 יולי 2025",
     "event_id": "10",
     "time": "16:00 - 18:00",
     "service_type": "נאווה",
@@ -1275,13 +1282,6 @@
   },
   {
     "date": "שישי, 18 יולי 2025",
-    "event_id": "57",
-    "time": "09:00 - 12:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 18 יולי 2025",
     "event_id": "65",
     "time": "20:00 - 23:00",
     "service_type": "רוני",
@@ -1942,13 +1942,6 @@
     "date": "שני, 21 יולי 2025",
     "event_id": "43",
     "time": "10:00 - 13:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "שני, 21 יולי 2025",
-    "event_id": "44",
-    "time": "13:00 - 16:00",
     "service_type": "ושתי",
     "is_available": true
   },
