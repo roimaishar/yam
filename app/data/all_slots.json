@@ -239,13 +239,6 @@
   },
   {
     "date": "שבת, 12 יולי 2025",
-    "event_id": "26",
-    "time": "19:00 - 22:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 12 יולי 2025",
     "event_id": "18",
     "time": "07:00 - 10:00",
     "service_type": "קטמנדו",
@@ -409,13 +402,6 @@
     "date": "ראשון, 13 יולי 2025",
     "event_id": "14",
     "time": "10:00 - 13:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 13 יולי 2025",
-    "event_id": "16",
-    "time": "16:00 - 19:00",
     "service_type": "רונית",
     "is_available": true
   },
@@ -1947,6 +1933,13 @@
   },
   {
     "date": "שני, 21 יולי 2025",
+    "event_id": "44",
+    "time": "13:00 - 16:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
+  {
+    "date": "שני, 21 יולי 2025",
     "event_id": "46",
     "time": "19:00 - 22:00",
     "service_type": "ושתי",
@@ -2278,13 +2271,6 @@
     "date": "שלישי, 22 יולי 2025",
     "event_id": "59",
     "time": "11:00 - 14:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 22 יולי 2025",
-    "event_id": "60",
-    "time": "14:00 - 17:00",
     "service_type": "רוני",
     "is_available": true
   },
