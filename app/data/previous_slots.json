@@ -951,13 +951,6 @@
     "service_type": "קרפה",
     "is_available": true
   },
-  "חמישי, 17 יולי 2025_40": {
-    "date": "חמישי, 17 יולי 2025",
-    "event_id": "40",
-    "time": "06:00 - 09:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
   "חמישי, 17 יולי 2025_39": {
     "date": "חמישי, 17 יולי 2025",
     "event_id": "39",
@@ -1410,13 +1403,6 @@
     "date": "שבת, 19 יולי 2025",
     "event_id": "19",
     "time": "10:00 - 13:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
-  "שבת, 19 יולי 2025_20": {
-    "date": "שבת, 19 יולי 2025",
-    "event_id": "20",
-    "time": "13:00 - 16:00",
     "service_type": "קטמנדו",
     "is_available": true
   },
