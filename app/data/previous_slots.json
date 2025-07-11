@@ -2386,13 +2386,6 @@
     "service_type": "הרמוני",
     "is_available": true
   },
-  "רביעי, 23 יולי 2025_38": {
-    "date": "רביעי, 23 יולי 2025",
-    "event_id": "38",
-    "time": "09:00 - 12:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
   "רביעי, 23 יולי 2025_39": {
     "date": "רביעי, 23 יולי 2025",
     "event_id": "39",
@@ -2691,13 +2684,6 @@
     "date": "חמישי, 24 יולי 2025",
     "event_id": "39",
     "time": "06:00 - 09:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  "חמישי, 24 יולי 2025_41": {
-    "date": "חמישי, 24 יולי 2025",
-    "event_id": "41",
-    "time": "12:00 - 15:00",
     "service_type": "הרמוני",
     "is_available": true
   },
