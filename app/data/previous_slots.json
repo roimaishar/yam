@@ -559,6 +559,13 @@
     "service_type": "רוני",
     "is_available": true
   },
+  "רביעי, 16 יולי 2025_3": {
+    "date": "רביעי, 16 יולי 2025",
+    "event_id": "3",
+    "time": "14:00 - 17:00",
+    "service_type": "קרפה",
+    "is_available": true
+  },
   "רביעי, 16 יולי 2025_5": {
     "date": "רביעי, 16 יולי 2025",
     "event_id": "5",
