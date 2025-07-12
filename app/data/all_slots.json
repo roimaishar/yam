@@ -834,13 +834,6 @@
   },
   {
     "date": "שישי, 18 יולי 2025",
-    "event_id": "17",
-    "time": "19:00 - 22:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 18 יולי 2025",
     "event_id": "21",
     "time": "11:00 - 13:00",
     "service_type": "קטמנדו",
