@@ -1898,6 +1898,13 @@
   },
   {
     "date": "רביעי, 23 יולי 2025",
+    "event_id": "56",
+    "time": "15:00 - 18:00",
+    "service_type": "אסתר",
+    "is_available": true
+  },
+  {
+    "date": "רביעי, 23 יולי 2025",
     "event_id": "58",
     "time": "08:00 - 11:00",
     "service_type": "רוני",
