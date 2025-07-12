@@ -2288,20 +2288,6 @@
     "service_type": "אסתר",
     "is_available": true
   },
-  "חמישי, 24 יולי 2025_64": {
-    "date": "חמישי, 24 יולי 2025",
-    "event_id": "64",
-    "time": "20:00 - 23:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
-  "חמישי, 24 יולי 2025_2": {
-    "date": "חמישי, 24 יולי 2025",
-    "event_id": "2",
-    "time": "11:00 - 14:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
   "חמישי, 24 יולי 2025_4": {
     "date": "חמישי, 24 יולי 2025",
     "event_id": "4",
