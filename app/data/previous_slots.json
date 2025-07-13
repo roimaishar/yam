@@ -181,13 +181,6 @@
     "service_type": "ליאור",
     "is_available": true
   },
-  "שני, 14 יולי 2025_26": {
-    "date": "שני, 14 יולי 2025",
-    "event_id": "26",
-    "time": "19:00 - 22:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
   "שני, 14 יולי 2025_18": {
     "date": "שני, 14 יולי 2025",
     "event_id": "18",
@@ -200,20 +193,6 @@
     "event_id": "20",
     "time": "13:00 - 16:00",
     "service_type": "קטמנדו",
-    "is_available": true
-  },
-  "שלישי, 15 יולי 2025_48": {
-    "date": "שלישי, 15 יולי 2025",
-    "event_id": "48",
-    "time": "07:00 - 09:00",
-    "service_type": "עידו",
-    "is_available": true
-  },
-  "שלישי, 15 יולי 2025_49": {
-    "date": "שלישי, 15 יולי 2025",
-    "event_id": "49",
-    "time": "09:00 - 11:00",
-    "service_type": "עידו",
     "is_available": true
   },
   "שלישי, 15 יולי 2025_50": {
@@ -326,20 +305,6 @@
     "event_id": "20",
     "time": "10:00 - 13:00",
     "service_type": "קטמנדו",
-    "is_available": true
-  },
-  "רביעי, 16 יולי 2025_48": {
-    "date": "רביעי, 16 יולי 2025",
-    "event_id": "48",
-    "time": "07:00 - 09:00",
-    "service_type": "עידו",
-    "is_available": true
-  },
-  "רביעי, 16 יולי 2025_49": {
-    "date": "רביעי, 16 יולי 2025",
-    "event_id": "49",
-    "time": "09:00 - 11:00",
-    "service_type": "עידו",
     "is_available": true
   },
   "רביעי, 16 יולי 2025_50": {
@@ -846,13 +811,6 @@
     "service_type": "קטמנדו",
     "is_available": true
   },
-  "ראשון, 20 יולי 2025_49": {
-    "date": "ראשון, 20 יולי 2025",
-    "event_id": "49",
-    "time": "07:00 - 09:00",
-    "service_type": "עידו",
-    "is_available": true
-  },
   "ראשון, 20 יולי 2025_54": {
     "date": "ראשון, 20 יולי 2025",
     "event_id": "54",
@@ -1089,6 +1047,13 @@
     "event_id": "53",
     "time": "06:00 - 09:00",
     "service_type": "אסתר",
+    "is_available": true
+  },
+  "שני, 21 יולי 2025_60": {
+    "date": "שני, 21 יולי 2025",
+    "event_id": "60",
+    "time": "14:00 - 17:00",
+    "service_type": "רוני",
     "is_available": true
   },
   "שני, 21 יולי 2025_62": {
