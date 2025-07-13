@@ -596,13 +596,6 @@
   },
   {
     "date": "שישי, 18 יולי 2025",
-    "event_id": "21",
-    "time": "11:00 - 13:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 18 יולי 2025",
     "event_id": "22",
     "time": "13:00 - 15:00",
     "service_type": "קטמנדו",
