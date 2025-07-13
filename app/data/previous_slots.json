@@ -244,13 +244,6 @@
     "service_type": "רוני",
     "is_available": true
   },
-  "שלישי, 15 יולי 2025_2": {
-    "date": "שלישי, 15 יולי 2025",
-    "event_id": "2",
-    "time": "11:00 - 14:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
   "שלישי, 15 יולי 2025_5": {
     "date": "שלישי, 15 יולי 2025",
     "event_id": "5",
@@ -2320,13 +2313,6 @@
     "date": "שישי, 25 יולי 2025",
     "event_id": "24",
     "time": "07:00 - 10:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
-  "שישי, 25 יולי 2025_25": {
-    "date": "שישי, 25 יולי 2025",
-    "event_id": "25",
-    "time": "10:00 - 13:00",
     "service_type": "ליאור",
     "is_available": true
   },
