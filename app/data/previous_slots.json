@@ -1994,6 +1994,13 @@
     "service_type": "עידו",
     "is_available": true
   },
+  "שישי, 25 יולי 2025_44": {
+    "date": "שישי, 25 יולי 2025",
+    "event_id": "44",
+    "time": "07:00 - 10:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
   "שישי, 25 יולי 2025_48": {
     "date": "שישי, 25 יולי 2025",
     "event_id": "48",
@@ -2054,13 +2061,6 @@
     "date": "שישי, 25 יולי 2025",
     "event_id": "6",
     "time": "08:00 - 10:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  "שישי, 25 יולי 2025_9": {
-    "date": "שישי, 25 יולי 2025",
-    "event_id": "9",
-    "time": "14:00 - 16:00",
     "service_type": "נאווה",
     "is_available": true
   },
