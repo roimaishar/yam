@@ -176,35 +176,35 @@
   },
   {
     "date": "שלישי, 15 יולי 2025",
-    "event_id": "50",
+    "event_id": "51",
     "time": "11:00 - 13:00",
     "service_type": "עידו",
     "is_available": true
   },
   {
     "date": "שלישי, 15 יולי 2025",
-    "event_id": "53",
+    "event_id": "54",
     "time": "18:00 - 20:00",
     "service_type": "עידו",
     "is_available": true
   },
   {
     "date": "שלישי, 15 יולי 2025",
-    "event_id": "59",
+    "event_id": "60",
     "time": "08:00 - 11:00",
     "service_type": "רוני",
     "is_available": true
   },
   {
     "date": "שלישי, 15 יולי 2025",
-    "event_id": "61",
+    "event_id": "62",
     "time": "14:00 - 17:00",
     "service_type": "רוני",
     "is_available": true
   },
   {
     "date": "שלישי, 15 יולי 2025",
-    "event_id": "63",
+    "event_id": "64",
     "time": "20:00 - 23:00",
     "service_type": "רוני",
     "is_available": true
@@ -218,14 +218,7 @@
   },
   {
     "date": "שלישי, 15 יולי 2025",
-    "event_id": "38",
-    "time": "06:00 - 09:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 15 יולי 2025",
-    "event_id": "39",
+    "event_id": "40",
     "time": "09:00 - 12:00",
     "service_type": "הרמוני",
     "is_available": true
@@ -288,42 +281,42 @@
   },
   {
     "date": "רביעי, 16 יולי 2025",
-    "event_id": "50",
+    "event_id": "52",
     "time": "11:00 - 13:00",
     "service_type": "עידו",
     "is_available": true
   },
   {
     "date": "רביעי, 16 יולי 2025",
-    "event_id": "52",
+    "event_id": "54",
     "time": "16:00 - 18:00",
     "service_type": "עידו",
     "is_available": true
   },
   {
     "date": "רביעי, 16 יולי 2025",
-    "event_id": "53",
+    "event_id": "55",
     "time": "18:00 - 20:00",
     "service_type": "עידו",
     "is_available": true
   },
   {
     "date": "רביעי, 16 יולי 2025",
-    "event_id": "43",
+    "event_id": "44",
     "time": "07:00 - 10:00",
     "service_type": "ושתי",
     "is_available": true
   },
   {
     "date": "רביעי, 16 יולי 2025",
-    "event_id": "59",
+    "event_id": "61",
     "time": "08:00 - 11:00",
     "service_type": "רוני",
     "is_available": true
   },
   {
     "date": "רביעי, 16 יולי 2025",
-    "event_id": "63",
+    "event_id": "65",
     "time": "20:00 - 23:00",
     "service_type": "רוני",
     "is_available": true
@@ -337,21 +330,14 @@
   },
   {
     "date": "רביעי, 16 יולי 2025",
-    "event_id": "28",
-    "time": "06:00 - 09:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 16 יולי 2025",
-    "event_id": "29",
+    "event_id": "30",
     "time": "09:00 - 12:00",
     "service_type": "מישל",
     "is_available": true
   },
   {
     "date": "רביעי, 16 יולי 2025",
-    "event_id": "31",
+    "event_id": "32",
     "time": "15:00 - 18:00",
     "service_type": "מישל",
     "is_available": true
@@ -372,21 +358,21 @@
   },
   {
     "date": "רביעי, 16 יולי 2025",
-    "event_id": "25",
+    "event_id": "26",
     "time": "13:00 - 16:00",
     "service_type": "ליאור",
     "is_available": true
   },
   {
     "date": "רביעי, 16 יולי 2025",
-    "event_id": "20",
+    "event_id": "21",
     "time": "10:00 - 13:00",
     "service_type": "קטמנדו",
     "is_available": true
   },
   {
     "date": "רביעי, 16 יולי 2025",
-    "event_id": "21",
+    "event_id": "22",
     "time": "13:00 - 16:00",
     "service_type": "קטמנדו",
     "is_available": true
@@ -449,6 +435,13 @@
   },
   {
     "date": "חמישי, 17 יולי 2025",
+    "event_id": "34",
+    "time": "18:00 - 21:00",
+    "service_type": "מישל",
+    "is_available": true
+  },
+  {
+    "date": "חמישי, 17 יולי 2025",
     "event_id": "12",
     "time": "20:00 - 22:00",
     "service_type": "נאווה",
@@ -486,13 +479,6 @@
     "date": "שישי, 18 יולי 2025",
     "event_id": "52",
     "time": "11:00 - 13:00",
-    "service_type": "עידו",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 18 יולי 2025",
-    "event_id": "53",
-    "time": "14:00 - 16:00",
     "service_type": "עידו",
     "is_available": true
   },
@@ -1340,13 +1326,6 @@
     "date": "שלישי, 22 יולי 2025",
     "event_id": "39",
     "time": "12:00 - 15:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 22 יולי 2025",
-    "event_id": "40",
-    "time": "15:00 - 18:00",
     "service_type": "הרמוני",
     "is_available": true
   },
