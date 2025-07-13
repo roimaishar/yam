@@ -414,13 +414,6 @@
   },
   {
     "date": "רביעי, 16 יולי 2025",
-    "event_id": "31",
-    "time": "15:00 - 18:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 16 יולי 2025",
     "event_id": "10",
     "time": "14:00 - 16:00",
     "service_type": "נאווה",
@@ -1072,20 +1065,6 @@
   },
   {
     "date": "שני, 21 יולי 2025",
-    "event_id": "50",
-    "time": "14:00 - 16:00",
-    "service_type": "עידו",
-    "is_available": true
-  },
-  {
-    "date": "שני, 21 יולי 2025",
-    "event_id": "51",
-    "time": "16:00 - 18:00",
-    "service_type": "עידו",
-    "is_available": true
-  },
-  {
-    "date": "שני, 21 יולי 2025",
     "event_id": "52",
     "time": "18:00 - 20:00",
     "service_type": "עידו",
@@ -1368,20 +1347,6 @@
     "date": "שלישי, 22 יולי 2025",
     "event_id": "47",
     "time": "07:00 - 09:00",
-    "service_type": "עידו",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 22 יולי 2025",
-    "event_id": "50",
-    "time": "14:00 - 16:00",
-    "service_type": "עידו",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 22 יולי 2025",
-    "event_id": "51",
-    "time": "16:00 - 18:00",
     "service_type": "עידו",
     "is_available": true
   },
