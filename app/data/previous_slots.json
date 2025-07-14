@@ -272,13 +272,6 @@
     "service_type": "קטמנדו",
     "is_available": true
   },
-  "חמישי, 17 יולי 2025_23": {
-    "date": "חמישי, 17 יולי 2025",
-    "event_id": "23",
-    "time": "15:00 - 17:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
   "שישי, 18 יולי 2025_50": {
     "date": "שישי, 18 יולי 2025",
     "event_id": "50",
@@ -319,13 +312,6 @@
     "event_id": "12",
     "time": "20:00 - 22:00",
     "service_type": "נאווה",
-    "is_available": true
-  },
-  "שישי, 18 יולי 2025_22": {
-    "date": "שישי, 18 יולי 2025",
-    "event_id": "22",
-    "time": "13:00 - 15:00",
-    "service_type": "קטמנדו",
     "is_available": true
   },
   "שבת, 19 יולי 2025_53": {
