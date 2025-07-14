@@ -2234,13 +2234,6 @@
   },
   {
     "date": "ראשון, 27 יולי 2025",
-    "event_id": "47",
-    "time": "19:00 - 22:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 27 יולי 2025",
     "event_id": "55",
     "time": "06:00 - 09:00",
     "service_type": "אסתר",
@@ -2398,13 +2391,6 @@
     "event_id": "31",
     "time": "18:00 - 21:00",
     "service_type": "מישל",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 27 יולי 2025",
-    "event_id": "6",
-    "time": "08:00 - 10:00",
-    "service_type": "נאווה",
     "is_available": true
   },
   {
