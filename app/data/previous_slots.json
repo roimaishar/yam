@@ -454,13 +454,6 @@
     "service_type": "נאווה",
     "is_available": true
   },
-  "שבת, 19 יולי 2025_13": {
-    "date": "שבת, 19 יולי 2025",
-    "event_id": "13",
-    "time": "07:00 - 10:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
   "שבת, 19 יולי 2025_22": {
     "date": "שבת, 19 יולי 2025",
     "event_id": "22",
@@ -1509,6 +1502,13 @@
     "event_id": "55",
     "time": "06:00 - 09:00",
     "service_type": "אסתר",
+    "is_available": true
+  },
+  "חמישי, 24 יולי 2025_3": {
+    "date": "חמישי, 24 יולי 2025",
+    "event_id": "3",
+    "time": "14:00 - 17:00",
+    "service_type": "קרפה",
     "is_available": true
   },
   "חמישי, 24 יולי 2025_4": {
