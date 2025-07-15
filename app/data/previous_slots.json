@@ -20,13 +20,6 @@
     "service_type": "עידו",
     "is_available": true
   },
-  "רביעי, 16 יולי 2025_44": {
-    "date": "רביעי, 16 יולי 2025",
-    "event_id": "44",
-    "time": "07:00 - 10:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
   "רביעי, 16 יולי 2025_61": {
     "date": "רביעי, 16 יולי 2025",
     "event_id": "61",
@@ -522,13 +515,6 @@
     "event_id": "13",
     "time": "20:00 - 22:00",
     "service_type": "נאווה",
-    "is_available": true
-  },
-  "ראשון, 20 יולי 2025_16": {
-    "date": "ראשון, 20 יולי 2025",
-    "event_id": "16",
-    "time": "13:00 - 16:00",
-    "service_type": "רונית",
     "is_available": true
   },
   "ראשון, 20 יולי 2025_23": {
