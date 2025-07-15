@@ -1001,13 +1001,6 @@
     "is_available": true
   },
   {
-    "date": "שלישי, 22 יולי 2025",
-    "event_id": "21",
-    "time": "16:00 - 19:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
-  {
     "date": "רביעי, 23 יולי 2025",
     "event_id": "47",
     "time": "07:00 - 09:00",
@@ -1516,13 +1509,6 @@
     "event_id": "54",
     "time": "18:00 - 20:00",
     "service_type": "עידו",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 25 יולי 2025",
-    "event_id": "44",
-    "time": "07:00 - 10:00",
-    "service_type": "ושתי",
     "is_available": true
   },
   {
