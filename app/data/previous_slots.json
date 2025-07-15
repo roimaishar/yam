@@ -2071,13 +2071,6 @@
     "service_type": "אסתר",
     "is_available": true
   },
-  "ראשון, 27 יולי 2025_56": {
-    "date": "ראשון, 27 יולי 2025",
-    "event_id": "56",
-    "time": "09:00 - 12:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
   "ראשון, 27 יולי 2025_57": {
     "date": "ראשון, 27 יולי 2025",
     "event_id": "57",
@@ -2145,13 +2138,6 @@
     "date": "ראשון, 27 יולי 2025",
     "event_id": "39",
     "time": "09:00 - 12:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  "ראשון, 27 יולי 2025_40": {
-    "date": "ראשון, 27 יולי 2025",
-    "event_id": "40",
-    "time": "12:00 - 15:00",
     "service_type": "הרמוני",
     "is_available": true
   },
