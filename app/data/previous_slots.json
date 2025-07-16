@@ -265,13 +265,6 @@
     "service_type": "עידו",
     "is_available": true
   },
-  "ראשון, 20 יולי 2025_60": {
-    "date": "ראשון, 20 יולי 2025",
-    "event_id": "60",
-    "time": "08:00 - 11:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
   "ראשון, 20 יולי 2025_64": {
     "date": "ראשון, 20 יולי 2025",
     "event_id": "64",
@@ -1299,6 +1292,13 @@
     "event_id": "5",
     "time": "20:00 - 23:00",
     "service_type": "קרפה",
+    "is_available": true
+  },
+  "שישי, 25 יולי 2025_39": {
+    "date": "שישי, 25 יולי 2025",
+    "event_id": "39",
+    "time": "06:00 - 09:00",
+    "service_type": "הרמוני",
     "is_available": true
   },
   "שישי, 25 יולי 2025_38": {
