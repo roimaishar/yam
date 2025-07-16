@@ -41,6 +41,13 @@
     "service_type": "נאווה",
     "is_available": true
   },
+  "חמישי, 17 יולי 2025_18": {
+    "date": "חמישי, 17 יולי 2025",
+    "event_id": "18",
+    "time": "19:00 - 22:00",
+    "service_type": "רונית",
+    "is_available": true
+  },
   "שישי, 18 יולי 2025_50": {
     "date": "שישי, 18 יולי 2025",
     "event_id": "50",
@@ -286,6 +293,13 @@
     "service_type": "כרמן החדשה",
     "is_available": true
   },
+  "ראשון, 20 יולי 2025_35": {
+    "date": "ראשון, 20 יולי 2025",
+    "event_id": "35",
+    "time": "11:00 - 14:00",
+    "service_type": "כרמן החדשה",
+    "is_available": true
+  },
   "ראשון, 20 יולי 2025_36": {
     "date": "ראשון, 20 יולי 2025",
     "event_id": "36",
@@ -368,13 +382,6 @@
     "event_id": "27",
     "time": "19:00 - 22:00",
     "service_type": "ליאור",
-    "is_available": true
-  },
-  "ראשון, 20 יולי 2025_19": {
-    "date": "ראשון, 20 יולי 2025",
-    "event_id": "19",
-    "time": "07:00 - 10:00",
-    "service_type": "קטמנדו",
     "is_available": true
   },
   "ראשון, 20 יולי 2025_20": {
@@ -622,13 +629,6 @@
     "service_type": "עידו",
     "is_available": true
   },
-  "שלישי, 22 יולי 2025_42": {
-    "date": "שלישי, 22 יולי 2025",
-    "event_id": "42",
-    "time": "07:00 - 10:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
   "שלישי, 22 יולי 2025_56": {
     "date": "שלישי, 22 יולי 2025",
     "event_id": "56",
@@ -640,6 +640,13 @@
     "date": "שלישי, 22 יולי 2025",
     "event_id": "58",
     "time": "08:00 - 11:00",
+    "service_type": "רוני",
+    "is_available": true
+  },
+  "שלישי, 22 יולי 2025_59": {
+    "date": "שלישי, 22 יולי 2025",
+    "event_id": "59",
+    "time": "11:00 - 14:00",
     "service_type": "רוני",
     "is_available": true
   },
@@ -1840,6 +1847,13 @@
     "service_type": "כרמן החדשה",
     "is_available": true
   },
+  "ראשון, 27 יולי 2025_33": {
+    "date": "ראשון, 27 יולי 2025",
+    "event_id": "33",
+    "time": "11:00 - 14:00",
+    "service_type": "כרמן החדשה",
+    "is_available": true
+  },
   "ראשון, 27 יולי 2025_34": {
     "date": "ראשון, 27 יולי 2025",
     "event_id": "34",
@@ -2369,6 +2383,13 @@
     "date": "שלישי, 29 יולי 2025",
     "event_id": "54",
     "time": "06:00 - 09:00",
+    "service_type": "אסתר",
+    "is_available": true
+  },
+  "שלישי, 29 יולי 2025_56": {
+    "date": "שלישי, 29 יולי 2025",
+    "event_id": "56",
+    "time": "12:00 - 15:00",
     "service_type": "אסתר",
     "is_available": true
   },
