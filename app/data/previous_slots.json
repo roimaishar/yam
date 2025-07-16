@@ -20,6 +20,13 @@
     "service_type": "עידו",
     "is_available": true
   },
+  "חמישי, 17 יולי 2025_65": {
+    "date": "חמישי, 17 יולי 2025",
+    "event_id": "65",
+    "time": "20:00 - 23:00",
+    "service_type": "רוני",
+    "is_available": true
+  },
   "חמישי, 17 יולי 2025_5": {
     "date": "חמישי, 17 יולי 2025",
     "event_id": "5",
