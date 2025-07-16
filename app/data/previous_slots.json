@@ -41,24 +41,10 @@
     "service_type": "נאווה",
     "is_available": true
   },
-  "חמישי, 17 יולי 2025_22": {
-    "date": "חמישי, 17 יולי 2025",
-    "event_id": "22",
-    "time": "13:00 - 15:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
   "שישי, 18 יולי 2025_50": {
     "date": "שישי, 18 יולי 2025",
     "event_id": "50",
     "time": "07:00 - 09:00",
-    "service_type": "עידו",
-    "is_available": true
-  },
-  "שישי, 18 יולי 2025_54": {
-    "date": "שישי, 18 יולי 2025",
-    "event_id": "54",
-    "time": "16:00 - 18:00",
     "service_type": "עידו",
     "is_available": true
   },
@@ -207,6 +193,13 @@
     "event_id": "12",
     "time": "20:00 - 22:00",
     "service_type": "נאווה",
+    "is_available": true
+  },
+  "שבת, 19 יולי 2025_13": {
+    "date": "שבת, 19 יולי 2025",
+    "event_id": "13",
+    "time": "07:00 - 10:00",
+    "service_type": "רונית",
     "is_available": true
   },
   "שבת, 19 יולי 2025_22": {
@@ -444,13 +437,6 @@
     "date": "שני, 21 יולי 2025",
     "event_id": "2",
     "time": "11:00 - 14:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
-  "שני, 21 יולי 2025_3": {
-    "date": "שני, 21 יולי 2025",
-    "event_id": "3",
-    "time": "14:00 - 17:00",
     "service_type": "קרפה",
     "is_available": true
   },
