@@ -419,6 +419,13 @@
     "service_type": "אסתר",
     "is_available": true
   },
+  "שני, 21 יולי 2025_60": {
+    "date": "שני, 21 יולי 2025",
+    "event_id": "60",
+    "time": "14:00 - 17:00",
+    "service_type": "רוני",
+    "is_available": true
+  },
   "שני, 21 יולי 2025_62": {
     "date": "שני, 21 יולי 2025",
     "event_id": "62",
@@ -451,13 +458,6 @@
     "date": "שני, 21 יולי 2025",
     "event_id": "37",
     "time": "06:00 - 09:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  "שני, 21 יולי 2025_38": {
-    "date": "שני, 21 יולי 2025",
-    "event_id": "38",
-    "time": "09:00 - 12:00",
     "service_type": "הרמוני",
     "is_available": true
   },
@@ -986,13 +986,6 @@
     "service_type": "נאווה",
     "is_available": true
   },
-  "רביעי, 23 יולי 2025_11": {
-    "date": "רביעי, 23 יולי 2025",
-    "event_id": "11",
-    "time": "18:00 - 20:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
   "רביעי, 23 יולי 2025_12": {
     "date": "רביעי, 23 יולי 2025",
     "event_id": "12",
@@ -1215,13 +1208,6 @@
     "event_id": "17",
     "time": "19:00 - 22:00",
     "service_type": "רונית",
-    "is_available": true
-  },
-  "חמישי, 24 יולי 2025_27": {
-    "date": "חמישי, 24 יולי 2025",
-    "event_id": "27",
-    "time": "16:00 - 19:00",
-    "service_type": "ליאור",
     "is_available": true
   },
   "חמישי, 24 יולי 2025_28": {
