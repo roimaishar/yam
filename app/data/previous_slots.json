@@ -552,13 +552,6 @@
     "service_type": "רונית",
     "is_available": true
   },
-  "שני, 21 יולי 2025_17": {
-    "date": "שני, 21 יולי 2025",
-    "event_id": "17",
-    "time": "19:00 - 22:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
   "שני, 21 יולי 2025_22": {
     "date": "שני, 21 יולי 2025",
     "event_id": "22",
@@ -836,13 +829,6 @@
     "date": "רביעי, 23 יולי 2025",
     "event_id": "53",
     "time": "06:00 - 09:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  "רביעי, 23 יולי 2025_55": {
-    "date": "רביעי, 23 יולי 2025",
-    "event_id": "55",
-    "time": "12:00 - 15:00",
     "service_type": "אסתר",
     "is_available": true
   },
