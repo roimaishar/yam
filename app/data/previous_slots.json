@@ -174,6 +174,13 @@
     "service_type": "נאווה",
     "is_available": true
   },
+  "שבת, 19 יולי 2025_11": {
+    "date": "שבת, 19 יולי 2025",
+    "event_id": "11",
+    "time": "18:00 - 20:00",
+    "service_type": "נאווה",
+    "is_available": true
+  },
   "שבת, 19 יולי 2025_12": {
     "date": "שבת, 19 יולי 2025",
     "event_id": "12",
