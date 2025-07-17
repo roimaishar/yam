@@ -55,13 +55,6 @@
     "service_type": "רוני",
     "is_available": true
   },
-  "שבת, 19 יולי 2025_1": {
-    "date": "שבת, 19 יולי 2025",
-    "event_id": "1",
-    "time": "08:00 - 11:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
   "שבת, 19 יולי 2025_5": {
     "date": "שבת, 19 יולי 2025",
     "event_id": "5",
@@ -1921,13 +1914,6 @@
     "date": "שני, 28 יולי 2025",
     "event_id": "60",
     "time": "14:00 - 17:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
-  "שני, 28 יולי 2025_61": {
-    "date": "שני, 28 יולי 2025",
-    "event_id": "61",
-    "time": "17:00 - 20:00",
     "service_type": "רוני",
     "is_available": true
   },
