@@ -608,13 +608,6 @@
     "service_type": "קרפה",
     "is_available": true
   },
-  "רביעי, 23 יולי 2025_3": {
-    "date": "רביעי, 23 יולי 2025",
-    "event_id": "3",
-    "time": "14:00 - 17:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
   "רביעי, 23 יולי 2025_5": {
     "date": "רביעי, 23 יולי 2025",
     "event_id": "5",
@@ -710,13 +703,6 @@
     "date": "רביעי, 23 יולי 2025",
     "event_id": "14",
     "time": "10:00 - 13:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
-  "רביעי, 23 יולי 2025_15": {
-    "date": "רביעי, 23 יולי 2025",
-    "event_id": "15",
-    "time": "13:00 - 16:00",
     "service_type": "רונית",
     "is_available": true
   },
