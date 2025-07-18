@@ -888,6 +888,13 @@
     "service_type": "נאווה",
     "is_available": true
   },
+  "חמישי, 24 יולי 2025_10": {
+    "date": "חמישי, 24 יולי 2025",
+    "event_id": "10",
+    "time": "16:00 - 18:00",
+    "service_type": "נאווה",
+    "is_available": true
+  },
   "חמישי, 24 יולי 2025_11": {
     "date": "חמישי, 24 יולי 2025",
     "event_id": "11",
@@ -1116,6 +1123,13 @@
     "date": "שבת, 26 יולי 2025",
     "event_id": "43",
     "time": "10:00 - 13:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
+  "שבת, 26 יולי 2025_46": {
+    "date": "שבת, 26 יולי 2025",
+    "event_id": "46",
+    "time": "19:00 - 22:00",
     "service_type": "ושתי",
     "is_available": true
   },
