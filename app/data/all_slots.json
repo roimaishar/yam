@@ -64,6 +64,13 @@
   },
   {
     "date": "שבת, 19 יולי 2025",
+    "event_id": "30",
+    "time": "15:00 - 18:00",
+    "service_type": "מישל",
+    "is_available": true
+  },
+  {
+    "date": "שבת, 19 יולי 2025",
     "event_id": "6",
     "time": "08:00 - 10:00",
     "service_type": "נאווה",
@@ -1403,13 +1410,6 @@
     "date": "ראשון, 27 יולי 2025",
     "event_id": "60",
     "time": "08:00 - 11:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 27 יולי 2025",
-    "event_id": "61",
-    "time": "11:00 - 14:00",
     "service_type": "רוני",
     "is_available": true
   },
