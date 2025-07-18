@@ -608,6 +608,13 @@
     "service_type": "רוני",
     "is_available": true
   },
+  "רביעי, 23 יולי 2025_62": {
+    "date": "רביעי, 23 יולי 2025",
+    "event_id": "62",
+    "time": "20:00 - 23:00",
+    "service_type": "רוני",
+    "is_available": true
+  },
   "רביעי, 23 יולי 2025_1": {
     "date": "רביעי, 23 יולי 2025",
     "event_id": "1",
@@ -1245,13 +1252,6 @@
     "service_type": "מישל",
     "is_available": true
   },
-  "שבת, 26 יולי 2025_31": {
-    "date": "שבת, 26 יולי 2025",
-    "event_id": "31",
-    "time": "18:00 - 21:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
   "שבת, 26 יולי 2025_6": {
     "date": "שבת, 26 יולי 2025",
     "event_id": "6",
@@ -1669,13 +1669,6 @@
     "date": "שני, 28 יולי 2025",
     "event_id": "58",
     "time": "08:00 - 11:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
-  "שני, 28 יולי 2025_59": {
-    "date": "שני, 28 יולי 2025",
-    "event_id": "59",
-    "time": "11:00 - 14:00",
     "service_type": "רוני",
     "is_available": true
   },
