@@ -461,6 +461,13 @@
     "service_type": "אסתר",
     "is_available": true
   },
+  "שלישי, 22 יולי 2025_4": {
+    "date": "שלישי, 22 יולי 2025",
+    "event_id": "4",
+    "time": "17:00 - 20:00",
+    "service_type": "קרפה",
+    "is_available": true
+  },
   "שלישי, 22 יולי 2025_5": {
     "date": "שלישי, 22 יולי 2025",
     "event_id": "5",
@@ -1067,13 +1074,6 @@
     "date": "שישי, 25 יולי 2025",
     "event_id": "18",
     "time": "07:00 - 09:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
-  "שישי, 25 יולי 2025_19": {
-    "date": "שישי, 25 יולי 2025",
-    "event_id": "19",
-    "time": "09:00 - 11:00",
     "service_type": "קטמנדו",
     "is_available": true
   },
@@ -2334,13 +2334,6 @@
     "date": "רביעי, 30 יולי 2025",
     "event_id": "46",
     "time": "13:00 - 16:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  "רביעי, 30 יולי 2025_47": {
-    "date": "רביעי, 30 יולי 2025",
-    "event_id": "47",
-    "time": "16:00 - 19:00",
     "service_type": "ושתי",
     "is_available": true
   },
