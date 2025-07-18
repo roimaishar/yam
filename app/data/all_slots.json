@@ -2136,13 +2136,6 @@
   },
   {
     "date": "שלישי, 29 יולי 2025",
-    "event_id": "36",
-    "time": "17:00 - 20:00",
-    "service_type": "כרמן החדשה",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 29 יולי 2025",
     "event_id": "37",
     "time": "20:00 - 23:00",
     "service_type": "כרמן החדשה",
@@ -2726,6 +2719,13 @@
     "date": "חמישי, 31 יולי 2025",
     "event_id": "34",
     "time": "08:00 - 11:00",
+    "service_type": "כרמן החדשה",
+    "is_available": true
+  },
+  {
+    "date": "חמישי, 31 יולי 2025",
+    "event_id": "36",
+    "time": "14:00 - 17:00",
     "service_type": "כרמן החדשה",
     "is_available": true
   },
