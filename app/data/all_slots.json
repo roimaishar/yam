@@ -57,13 +57,6 @@
   },
   {
     "date": "שבת, 19 יולי 2025",
-    "event_id": "28",
-    "time": "09:00 - 12:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 19 יולי 2025",
     "event_id": "29",
     "time": "12:00 - 15:00",
     "service_type": "מישל",
@@ -123,13 +116,6 @@
     "event_id": "26",
     "time": "19:00 - 22:00",
     "service_type": "ליאור",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 19 יולי 2025",
-    "event_id": "19",
-    "time": "10:00 - 13:00",
-    "service_type": "קטמנדו",
     "is_available": true
   },
   {
@@ -689,13 +675,6 @@
     "date": "רביעי, 23 יולי 2025",
     "event_id": "29",
     "time": "12:00 - 15:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 23 יולי 2025",
-    "event_id": "30",
-    "time": "15:00 - 18:00",
     "service_type": "מישל",
     "is_available": true
   },
