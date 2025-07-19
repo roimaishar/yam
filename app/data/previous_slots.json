@@ -657,13 +657,6 @@
     "service_type": "עידו",
     "is_available": true
   },
-  "חמישי, 24 יולי 2025_55": {
-    "date": "חמישי, 24 יולי 2025",
-    "event_id": "55",
-    "time": "06:00 - 09:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
   "חמישי, 24 יולי 2025_5": {
     "date": "חמישי, 24 יולי 2025",
     "event_id": "5",
@@ -844,13 +837,6 @@
     "event_id": "12",
     "time": "20:00 - 22:00",
     "service_type": "נאווה",
-    "is_available": true
-  },
-  "שישי, 25 יולי 2025_24": {
-    "date": "שישי, 25 יולי 2025",
-    "event_id": "24",
-    "time": "07:00 - 10:00",
-    "service_type": "ליאור",
     "is_available": true
   },
   "שישי, 25 יולי 2025_28": {
