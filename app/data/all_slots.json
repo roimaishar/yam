@@ -78,13 +78,6 @@
   },
   {
     "date": "ראשון, 20 יולי 2025",
-    "event_id": "11",
-    "time": "16:00 - 18:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 20 יולי 2025",
     "event_id": "13",
     "time": "20:00 - 22:00",
     "service_type": "נאווה",
@@ -1445,6 +1438,13 @@
     "date": "שני, 28 יולי 2025",
     "event_id": "60",
     "time": "14:00 - 17:00",
+    "service_type": "רוני",
+    "is_available": true
+  },
+  {
+    "date": "שני, 28 יולי 2025",
+    "event_id": "62",
+    "time": "20:00 - 23:00",
     "service_type": "רוני",
     "is_available": true
   },
