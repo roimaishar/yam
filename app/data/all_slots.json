@@ -1751,13 +1751,6 @@
   },
   {
     "date": "שלישי, 29 יולי 2025",
-    "event_id": "43",
-    "time": "07:00 - 10:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 29 יולי 2025",
     "event_id": "44",
     "time": "10:00 - 13:00",
     "service_type": "ושתי",
