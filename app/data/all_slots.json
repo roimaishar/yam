@@ -1401,13 +1401,6 @@
   },
   {
     "date": "שני, 28 יולי 2025",
-    "event_id": "45",
-    "time": "16:00 - 19:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "שני, 28 יולי 2025",
     "event_id": "46",
     "time": "19:00 - 22:00",
     "service_type": "ושתי",
@@ -2671,13 +2664,6 @@
     "event_id": "38",
     "time": "20:00 - 23:00",
     "service_type": "כרמן החדשה",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 1 אוגוסט 2025",
-    "event_id": "31",
-    "time": "12:00 - 15:00",
-    "service_type": "מישל",
     "is_available": true
   },
   {
