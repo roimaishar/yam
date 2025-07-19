@@ -330,13 +330,6 @@
   },
   {
     "date": "שלישי, 22 יולי 2025",
-    "event_id": "28",
-    "time": "09:00 - 12:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 22 יולי 2025",
     "event_id": "6",
     "time": "08:00 - 10:00",
     "service_type": "נאווה",
