@@ -664,13 +664,6 @@
     "service_type": "קרפה",
     "is_available": true
   },
-  "שישי, 25 יולי 2025_39": {
-    "date": "שישי, 25 יולי 2025",
-    "event_id": "39",
-    "time": "06:00 - 09:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
   "שישי, 25 יולי 2025_38": {
     "date": "שישי, 25 יולי 2025",
     "event_id": "38",
@@ -2425,13 +2418,6 @@
     "date": "שישי, 1 אוגוסט 2025",
     "event_id": "3",
     "time": "14:00 - 17:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
-  "שישי, 1 אוגוסט 2025_4": {
-    "date": "שישי, 1 אוגוסט 2025",
-    "event_id": "4",
-    "time": "17:00 - 20:00",
     "service_type": "קרפה",
     "is_available": true
   },
