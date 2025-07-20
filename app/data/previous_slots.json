@@ -34,13 +34,6 @@
     "service_type": "קרפה",
     "is_available": true
   },
-  "שני, 21 יולי 2025_2": {
-    "date": "שני, 21 יולי 2025",
-    "event_id": "2",
-    "time": "11:00 - 14:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
   "שני, 21 יולי 2025_5": {
     "date": "שני, 21 יולי 2025",
     "event_id": "5",
@@ -2236,6 +2229,13 @@
     "date": "חמישי, 31 יולי 2025",
     "event_id": "25",
     "time": "10:00 - 13:00",
+    "service_type": "ליאור",
+    "is_available": true
+  },
+  "חמישי, 31 יולי 2025_26": {
+    "date": "חמישי, 31 יולי 2025",
+    "event_id": "26",
+    "time": "13:00 - 16:00",
     "service_type": "ליאור",
     "is_available": true
   },
