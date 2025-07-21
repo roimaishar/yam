@@ -216,13 +216,6 @@
     "service_type": "עידו",
     "is_available": true
   },
-  "חמישי, 24 יולי 2025_53": {
-    "date": "חמישי, 24 יולי 2025",
-    "event_id": "53",
-    "time": "16:00 - 18:00",
-    "service_type": "עידו",
-    "is_available": true
-  },
   "חמישי, 24 יולי 2025_54": {
     "date": "חמישי, 24 יולי 2025",
     "event_id": "54",
@@ -1228,13 +1221,6 @@
     "date": "שלישי, 29 יולי 2025",
     "event_id": "41",
     "time": "15:00 - 18:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  "שלישי, 29 יולי 2025_42": {
-    "date": "שלישי, 29 יולי 2025",
-    "event_id": "42",
-    "time": "18:00 - 21:00",
     "service_type": "הרמוני",
     "is_available": true
   },
