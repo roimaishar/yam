@@ -308,13 +308,6 @@
     "is_available": true
   },
   {
-    "date": "שישי, 25 יולי 2025",
-    "event_id": "18",
-    "time": "07:00 - 09:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
-  {
     "date": "שבת, 26 יולי 2025",
     "event_id": "47",
     "time": "07:00 - 09:00",
@@ -1872,13 +1865,6 @@
     "date": "שישי, 1 אוגוסט 2025",
     "event_id": "39",
     "time": "06:00 - 09:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 1 אוגוסט 2025",
-    "event_id": "42",
-    "time": "15:00 - 18:00",
     "service_type": "הרמוני",
     "is_available": true
   },
