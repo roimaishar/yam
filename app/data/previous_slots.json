@@ -97,13 +97,6 @@
     "service_type": "ליאור",
     "is_available": true
   },
-  "רביעי, 23 יולי 2025_20": {
-    "date": "רביעי, 23 יולי 2025",
-    "event_id": "20",
-    "time": "13:00 - 16:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
   "חמישי, 24 יולי 2025_49": {
     "date": "חמישי, 24 יולי 2025",
     "event_id": "49",
@@ -363,13 +356,6 @@
     "service_type": "כרמן החדשה",
     "is_available": true
   },
-  "שבת, 26 יולי 2025_33": {
-    "date": "שבת, 26 יולי 2025",
-    "event_id": "33",
-    "time": "11:00 - 14:00",
-    "service_type": "כרמן החדשה",
-    "is_available": true
-  },
   "שבת, 26 יולי 2025_34": {
     "date": "שבת, 26 יולי 2025",
     "event_id": "34",
@@ -402,13 +388,6 @@
     "date": "שבת, 26 יולי 2025",
     "event_id": "29",
     "time": "12:00 - 15:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  "שבת, 26 יולי 2025_30": {
-    "date": "שבת, 26 יולי 2025",
-    "event_id": "30",
-    "time": "15:00 - 18:00",
     "service_type": "מישל",
     "is_available": true
   },
