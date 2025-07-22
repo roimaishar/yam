@@ -125,6 +125,13 @@
     "service_type": "עידו",
     "is_available": true
   },
+  "חמישי, 24 יולי 2025_4": {
+    "date": "חמישי, 24 יולי 2025",
+    "event_id": "4",
+    "time": "17:00 - 20:00",
+    "service_type": "קרפה",
+    "is_available": true
+  },
   "חמישי, 24 יולי 2025_5": {
     "date": "חמישי, 24 יולי 2025",
     "event_id": "5",
