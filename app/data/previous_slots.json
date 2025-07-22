@@ -692,6 +692,13 @@
     "service_type": "אסתר",
     "is_available": true
   },
+  "שני, 28 יולי 2025_54": {
+    "date": "שני, 28 יולי 2025",
+    "event_id": "54",
+    "time": "09:00 - 12:00",
+    "service_type": "אסתר",
+    "is_available": true
+  },
   "שני, 28 יולי 2025_55": {
     "date": "שני, 28 יולי 2025",
     "event_id": "55",
