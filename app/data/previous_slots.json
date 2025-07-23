@@ -405,6 +405,20 @@
     "service_type": "רוני",
     "is_available": true
   },
+  "ראשון, 27 יולי 2025_1": {
+    "date": "ראשון, 27 יולי 2025",
+    "event_id": "1",
+    "time": "08:00 - 11:00",
+    "service_type": "קרפה",
+    "is_available": true
+  },
+  "ראשון, 27 יולי 2025_2": {
+    "date": "ראשון, 27 יולי 2025",
+    "event_id": "2",
+    "time": "11:00 - 14:00",
+    "service_type": "קרפה",
+    "is_available": true
+  },
   "ראשון, 27 יולי 2025_3": {
     "date": "ראשון, 27 יולי 2025",
     "event_id": "3",
@@ -769,13 +783,6 @@
     "service_type": "אסתר",
     "is_available": true
   },
-  "שלישי, 29 יולי 2025_56": {
-    "date": "שלישי, 29 יולי 2025",
-    "event_id": "56",
-    "time": "12:00 - 15:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
   "שלישי, 29 יולי 2025_59": {
     "date": "שלישי, 29 יולי 2025",
     "event_id": "59",
@@ -916,10 +923,10 @@
     "service_type": "רונית",
     "is_available": true
   },
-  "שלישי, 29 יולי 2025_15": {
+  "שלישי, 29 יולי 2025_16": {
     "date": "שלישי, 29 יולי 2025",
-    "event_id": "15",
-    "time": "10:00 - 13:00",
+    "event_id": "16",
+    "time": "13:00 - 16:00",
     "service_type": "רונית",
     "is_available": true
   },
@@ -1091,6 +1098,13 @@
     "service_type": "הרמוני",
     "is_available": true
   },
+  "רביעי, 30 יולי 2025_42": {
+    "date": "רביעי, 30 יולי 2025",
+    "event_id": "42",
+    "time": "15:00 - 18:00",
+    "service_type": "הרמוני",
+    "is_available": true
+  },
   "רביעי, 30 יולי 2025_34": {
     "date": "רביעי, 30 יולי 2025",
     "event_id": "34",
@@ -1221,13 +1235,6 @@
     "date": "רביעי, 30 יולי 2025",
     "event_id": "20",
     "time": "07:00 - 10:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
-  "רביעי, 30 יולי 2025_22": {
-    "date": "רביעי, 30 יולי 2025",
-    "event_id": "22",
-    "time": "13:00 - 16:00",
     "service_type": "קטמנדו",
     "is_available": true
   },
