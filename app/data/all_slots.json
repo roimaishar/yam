@@ -673,20 +673,6 @@
   },
   {
     "date": "שני, 28 יולי 2025",
-    "event_id": "24",
-    "time": "13:00 - 16:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
-  {
-    "date": "שני, 28 יולי 2025",
-    "event_id": "25",
-    "time": "16:00 - 19:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
-  {
-    "date": "שני, 28 יולי 2025",
     "event_id": "26",
     "time": "19:00 - 22:00",
     "service_type": "ליאור",
@@ -703,6 +689,13 @@
     "date": "שני, 28 יולי 2025",
     "event_id": "20",
     "time": "13:00 - 16:00",
+    "service_type": "קטמנדו",
+    "is_available": true
+  },
+  {
+    "date": "שני, 28 יולי 2025",
+    "event_id": "21",
+    "time": "16:00 - 19:00",
     "service_type": "קטמנדו",
     "is_available": true
   },
@@ -962,13 +955,6 @@
     "date": "שלישי, 29 יולי 2025",
     "event_id": "21",
     "time": "13:00 - 16:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 29 יולי 2025",
-    "event_id": "22",
-    "time": "16:00 - 19:00",
     "service_type": "קטמנדו",
     "is_available": true
   },
@@ -1579,13 +1565,6 @@
     "event_id": "28",
     "time": "19:00 - 22:00",
     "service_type": "ליאור",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 1 אוגוסט 2025",
-    "event_id": "21",
-    "time": "13:00 - 15:00",
-    "service_type": "קטמנדו",
     "is_available": true
   },
   {
