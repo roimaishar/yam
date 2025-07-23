@@ -414,13 +414,6 @@
   },
   {
     "date": "ראשון, 27 יולי 2025",
-    "event_id": "2",
-    "time": "11:00 - 14:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 27 יולי 2025",
     "event_id": "3",
     "time": "14:00 - 17:00",
     "service_type": "קרפה",
