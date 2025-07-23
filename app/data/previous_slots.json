@@ -62,13 +62,6 @@
     "service_type": "נאווה",
     "is_available": true
   },
-  "חמישי, 24 יולי 2025_26": {
-    "date": "חמישי, 24 יולי 2025",
-    "event_id": "26",
-    "time": "13:00 - 16:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
   "חמישי, 24 יולי 2025_27": {
     "date": "חמישי, 24 יולי 2025",
     "event_id": "27",
@@ -430,6 +423,13 @@
     "date": "ראשון, 27 יולי 2025",
     "event_id": "30",
     "time": "15:00 - 18:00",
+    "service_type": "מישל",
+    "is_available": true
+  },
+  "ראשון, 27 יולי 2025_31": {
+    "date": "ראשון, 27 יולי 2025",
+    "event_id": "31",
+    "time": "18:00 - 21:00",
     "service_type": "מישל",
     "is_available": true
   },
