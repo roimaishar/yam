@@ -706,13 +706,6 @@
     "service_type": "ליאור",
     "is_available": true
   },
-  "שני, 28 יולי 2025_25": {
-    "date": "שני, 28 יולי 2025",
-    "event_id": "25",
-    "time": "16:00 - 19:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
   "שני, 28 יולי 2025_26": {
     "date": "שני, 28 יולי 2025",
     "event_id": "26",
@@ -1516,13 +1509,6 @@
     "event_id": "54",
     "time": "18:00 - 20:00",
     "service_type": "עידו",
-    "is_available": true
-  },
-  "שישי, 1 אוגוסט 2025_48": {
-    "date": "שישי, 1 אוגוסט 2025",
-    "event_id": "48",
-    "time": "19:00 - 22:00",
-    "service_type": "ושתי",
     "is_available": true
   },
   "שישי, 1 אוגוסט 2025_55": {
