@@ -64,13 +64,6 @@
   },
   {
     "date": "שישי, 25 יולי 2025",
-    "event_id": "26",
-    "time": "13:00 - 16:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 25 יולי 2025",
     "event_id": "21",
     "time": "13:00 - 15:00",
     "service_type": "קטמנדו",
@@ -885,13 +878,6 @@
     "date": "רביעי, 30 יולי 2025",
     "event_id": "3",
     "time": "14:00 - 17:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 30 יולי 2025",
-    "event_id": "4",
-    "time": "17:00 - 20:00",
     "service_type": "קרפה",
     "is_available": true
   },
