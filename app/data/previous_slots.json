@@ -48,6 +48,13 @@
     "service_type": "קרפה",
     "is_available": true
   },
+  "שישי, 25 יולי 2025_42": {
+    "date": "שישי, 25 יולי 2025",
+    "event_id": "42",
+    "time": "15:00 - 18:00",
+    "service_type": "הרמוני",
+    "is_available": true
+  },
   "שישי, 25 יולי 2025_38": {
     "date": "שישי, 25 יולי 2025",
     "event_id": "38",
