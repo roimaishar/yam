@@ -36,13 +36,6 @@
   },
   {
     "date": "שישי, 25 יולי 2025",
-    "event_id": "48",
-    "time": "19:00 - 22:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 25 יולי 2025",
     "event_id": "60",
     "time": "08:00 - 11:00",
     "service_type": "רוני",
