@@ -43,6 +43,13 @@
   },
   {
     "date": "שישי, 25 יולי 2025",
+    "event_id": "10",
+    "time": "16:00 - 18:00",
+    "service_type": "נאווה",
+    "is_available": true
+  },
+  {
+    "date": "שישי, 25 יולי 2025",
     "event_id": "12",
     "time": "20:00 - 22:00",
     "service_type": "נאווה",
@@ -60,6 +67,13 @@
     "event_id": "22",
     "time": "13:00 - 15:00",
     "service_type": "קטמנדו",
+    "is_available": true
+  },
+  {
+    "date": "שבת, 26 יולי 2025",
+    "event_id": "47",
+    "time": "07:00 - 09:00",
+    "service_type": "עידו",
     "is_available": true
   },
   {
@@ -507,13 +521,6 @@
     "date": "שני, 28 יולי 2025",
     "event_id": "19",
     "time": "10:00 - 13:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
-  {
-    "date": "שני, 28 יולי 2025",
-    "event_id": "21",
-    "time": "16:00 - 19:00",
     "service_type": "קטמנדו",
     "is_available": true
   },
@@ -1597,13 +1604,6 @@
   },
   {
     "date": "שבת, 2 אוגוסט 2025",
-    "event_id": "10",
-    "time": "16:00 - 18:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 2 אוגוסט 2025",
     "event_id": "11",
     "time": "18:00 - 20:00",
     "service_type": "נאווה",
@@ -2754,6 +2754,13 @@
     "date": "רביעי, 6 אוגוסט 2025",
     "event_id": "40",
     "time": "15:00 - 18:00",
+    "service_type": "הרמוני",
+    "is_available": true
+  },
+  {
+    "date": "רביעי, 6 אוגוסט 2025",
+    "event_id": "41",
+    "time": "18:00 - 21:00",
     "service_type": "הרמוני",
     "is_available": true
   },
