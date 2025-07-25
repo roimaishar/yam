@@ -323,13 +323,6 @@
   },
   {
     "date": "שני, 28 יולי 2025",
-    "event_id": "1",
-    "time": "08:00 - 11:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
-  {
-    "date": "שני, 28 יולי 2025",
     "event_id": "3",
     "time": "14:00 - 17:00",
     "service_type": "קרפה",
@@ -1025,13 +1018,6 @@
     "date": "שישי, 1 אוגוסט 2025",
     "event_id": "50",
     "time": "09:00 - 11:00",
-    "service_type": "עידו",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 1 אוגוסט 2025",
-    "event_id": "51",
-    "time": "11:00 - 13:00",
     "service_type": "עידו",
     "is_available": true
   },
