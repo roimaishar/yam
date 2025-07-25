@@ -204,6 +204,13 @@
   },
   {
     "date": "ראשון, 27 יולי 2025",
+    "event_id": "44",
+    "time": "10:00 - 13:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
+  {
+    "date": "ראשון, 27 יולי 2025",
     "event_id": "64",
     "time": "20:00 - 23:00",
     "service_type": "רוני",
