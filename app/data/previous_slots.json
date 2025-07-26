@@ -118,13 +118,6 @@
     "service_type": "אסתר",
     "is_available": true
   },
-  "שני, 28 יולי 2025_2": {
-    "date": "שני, 28 יולי 2025",
-    "event_id": "2",
-    "time": "11:00 - 14:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
   "שני, 28 יולי 2025_3": {
     "date": "שני, 28 יולי 2025",
     "event_id": "3",
@@ -262,13 +255,6 @@
     "date": "שלישי, 29 יולי 2025",
     "event_id": "60",
     "time": "11:00 - 14:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
-  "שלישי, 29 יולי 2025_63": {
-    "date": "שלישי, 29 יולי 2025",
-    "event_id": "63",
-    "time": "20:00 - 23:00",
     "service_type": "רוני",
     "is_available": true
   },
@@ -724,13 +710,6 @@
     "date": "חמישי, 31 יולי 2025",
     "event_id": "6",
     "time": "08:00 - 10:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  "חמישי, 31 יולי 2025_9": {
-    "date": "חמישי, 31 יולי 2025",
-    "event_id": "9",
-    "time": "14:00 - 16:00",
     "service_type": "נאווה",
     "is_available": true
   },
