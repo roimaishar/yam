@@ -1966,13 +1966,6 @@
     "service_type": "קרפה",
     "is_available": true
   },
-  "שלישי, 5 אוגוסט 2025_4": {
-    "date": "שלישי, 5 אוגוסט 2025",
-    "event_id": "4",
-    "time": "17:00 - 20:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
   "שלישי, 5 אוגוסט 2025_5": {
     "date": "שלישי, 5 אוגוסט 2025",
     "event_id": "5",
@@ -2474,13 +2467,6 @@
     "date": "חמישי, 7 אוגוסט 2025",
     "event_id": "61",
     "time": "08:00 - 11:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
-  "חמישי, 7 אוגוסט 2025_64": {
-    "date": "חמישי, 7 אוגוסט 2025",
-    "event_id": "64",
-    "time": "17:00 - 20:00",
     "service_type": "רוני",
     "is_available": true
   },
