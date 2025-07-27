@@ -62,6 +62,13 @@
     "service_type": "הרמוני",
     "is_available": true
   },
+  "שני, 28 יולי 2025_34": {
+    "date": "שני, 28 יולי 2025",
+    "event_id": "34",
+    "time": "14:00 - 17:00",
+    "service_type": "כרמן החדשה",
+    "is_available": true
+  },
   "שני, 28 יולי 2025_6": {
     "date": "שני, 28 יולי 2025",
     "event_id": "6",
@@ -388,13 +395,6 @@
     "date": "רביעי, 30 יולי 2025",
     "event_id": "55",
     "time": "06:00 - 09:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  "רביעי, 30 יולי 2025_56": {
-    "date": "רביעי, 30 יולי 2025",
-    "event_id": "56",
-    "time": "09:00 - 12:00",
     "service_type": "אסתר",
     "is_available": true
   },
