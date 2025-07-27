@@ -300,6 +300,13 @@
     "service_type": "ליאור",
     "is_available": true
   },
+  "שלישי, 29 יולי 2025_26": {
+    "date": "שלישי, 29 יולי 2025",
+    "event_id": "26",
+    "time": "16:00 - 19:00",
+    "service_type": "ליאור",
+    "is_available": true
+  },
   "שלישי, 29 יולי 2025_27": {
     "date": "שלישי, 29 יולי 2025",
     "event_id": "27",
@@ -601,13 +608,6 @@
     "service_type": "נאווה",
     "is_available": true
   },
-  "חמישי, 31 יולי 2025_10": {
-    "date": "חמישי, 31 יולי 2025",
-    "event_id": "10",
-    "time": "16:00 - 18:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
   "חמישי, 31 יולי 2025_11": {
     "date": "חמישי, 31 יולי 2025",
     "event_id": "11",
@@ -794,13 +794,6 @@
     "date": "שבת, 2 אוגוסט 2025",
     "event_id": "45",
     "time": "16:00 - 19:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  "שבת, 2 אוגוסט 2025_46": {
-    "date": "שבת, 2 אוגוסט 2025",
-    "event_id": "46",
-    "time": "19:00 - 22:00",
     "service_type": "ושתי",
     "is_available": true
   },
@@ -1448,6 +1441,13 @@
     "service_type": "קרפה",
     "is_available": true
   },
+  "שני, 4 אוגוסט 2025_4": {
+    "date": "שני, 4 אוגוסט 2025",
+    "event_id": "4",
+    "time": "17:00 - 20:00",
+    "service_type": "קרפה",
+    "is_available": true
+  },
   "שני, 4 אוגוסט 2025_5": {
     "date": "שני, 4 אוגוסט 2025",
     "event_id": "5",
@@ -1868,6 +1868,13 @@
     "service_type": "נאווה",
     "is_available": true
   },
+  "שלישי, 5 אוגוסט 2025_10": {
+    "date": "שלישי, 5 אוגוסט 2025",
+    "event_id": "10",
+    "time": "16:00 - 18:00",
+    "service_type": "נאווה",
+    "is_available": true
+  },
   "שלישי, 5 אוגוסט 2025_11": {
     "date": "שלישי, 5 אוגוסט 2025",
     "event_id": "11",
@@ -2278,13 +2285,6 @@
     "date": "חמישי, 7 אוגוסט 2025",
     "event_id": "30",
     "time": "06:00 - 09:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  "חמישי, 7 אוגוסט 2025_33": {
-    "date": "חמישי, 7 אוגוסט 2025",
-    "event_id": "33",
-    "time": "15:00 - 18:00",
     "service_type": "מישל",
     "is_available": true
   },
