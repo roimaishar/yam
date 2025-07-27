@@ -62,13 +62,6 @@
     "service_type": "הרמוני",
     "is_available": true
   },
-  "שני, 28 יולי 2025_6": {
-    "date": "שני, 28 יולי 2025",
-    "event_id": "6",
-    "time": "08:00 - 10:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
   "שני, 28 יולי 2025_7": {
     "date": "שני, 28 יולי 2025",
     "event_id": "7",
@@ -102,13 +95,6 @@
     "event_id": "23",
     "time": "10:00 - 13:00",
     "service_type": "ליאור",
-    "is_available": true
-  },
-  "שני, 28 יולי 2025_19": {
-    "date": "שני, 28 יולי 2025",
-    "event_id": "19",
-    "time": "10:00 - 13:00",
-    "service_type": "קטמנדו",
     "is_available": true
   },
   "שלישי, 29 יולי 2025_48": {
