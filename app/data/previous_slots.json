@@ -538,6 +538,13 @@
     "service_type": "אסתר",
     "is_available": true
   },
+  "חמישי, 31 יולי 2025_59": {
+    "date": "חמישי, 31 יולי 2025",
+    "event_id": "59",
+    "time": "18:00 - 21:00",
+    "service_type": "אסתר",
+    "is_available": true
+  },
   "חמישי, 31 יולי 2025_64": {
     "date": "חמישי, 31 יולי 2025",
     "event_id": "64",
@@ -606,13 +613,6 @@
     "event_id": "17",
     "time": "19:00 - 22:00",
     "service_type": "רונית",
-    "is_available": true
-  },
-  "חמישי, 31 יולי 2025_26": {
-    "date": "חמישי, 31 יולי 2025",
-    "event_id": "26",
-    "time": "13:00 - 16:00",
-    "service_type": "ליאור",
     "is_available": true
   },
   "שישי, 1 אוגוסט 2025_49": {
@@ -1068,13 +1068,6 @@
     "event_id": "54",
     "time": "18:00 - 20:00",
     "service_type": "עידו",
-    "is_available": true
-  },
-  "ראשון, 3 אוגוסט 2025_44": {
-    "date": "ראשון, 3 אוגוסט 2025",
-    "event_id": "44",
-    "time": "07:00 - 10:00",
-    "service_type": "ושתי",
     "is_available": true
   },
   "ראשון, 3 אוגוסט 2025_45": {
@@ -2496,6 +2489,13 @@
     "event_id": "52",
     "time": "18:00 - 20:00",
     "service_type": "עידו",
+    "is_available": true
+  },
+  "שבת, 9 אוגוסט 2025_45": {
+    "date": "שבת, 9 אוגוסט 2025",
+    "event_id": "45",
+    "time": "16:00 - 19:00",
+    "service_type": "ושתי",
     "is_available": true
   },
   "שבת, 9 אוגוסט 2025_46": {
