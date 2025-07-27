@@ -372,13 +372,6 @@
   },
   {
     "date": "רביעי, 30 יולי 2025",
-    "event_id": "62",
-    "time": "14:00 - 17:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 30 יולי 2025",
     "event_id": "64",
     "time": "20:00 - 23:00",
     "service_type": "רוני",
@@ -648,6 +641,13 @@
     "event_id": "54",
     "time": "18:00 - 20:00",
     "service_type": "עידו",
+    "is_available": true
+  },
+  {
+    "date": "שישי, 1 אוגוסט 2025",
+    "event_id": "59",
+    "time": "18:00 - 21:00",
+    "service_type": "אסתר",
     "is_available": true
   },
   {
