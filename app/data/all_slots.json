@@ -36,13 +36,6 @@
   },
   {
     "date": "שלישי, 29 יולי 2025",
-    "event_id": "58",
-    "time": "08:00 - 11:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 29 יולי 2025",
     "event_id": "59",
     "time": "11:00 - 14:00",
     "service_type": "רוני",
