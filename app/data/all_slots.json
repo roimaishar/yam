@@ -414,13 +414,6 @@
   },
   {
     "date": "חמישי, 31 יולי 2025",
-    "event_id": "52",
-    "time": "14:00 - 16:00",
-    "service_type": "עידו",
-    "is_available": true
-  },
-  {
-    "date": "חמישי, 31 יולי 2025",
     "event_id": "53",
     "time": "16:00 - 18:00",
     "service_type": "עידו",
@@ -1065,13 +1058,6 @@
   },
   {
     "date": "ראשון, 3 אוגוסט 2025",
-    "event_id": "37",
-    "time": "17:00 - 20:00",
-    "service_type": "כרמן החדשה",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 3 אוגוסט 2025",
     "event_id": "38",
     "time": "20:00 - 23:00",
     "service_type": "כרמן החדשה",
@@ -1271,13 +1257,6 @@
     "event_id": "54",
     "time": "06:00 - 09:00",
     "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "שני, 4 אוגוסט 2025",
-    "event_id": "2",
-    "time": "11:00 - 14:00",
-    "service_type": "קרפה",
     "is_available": true
   },
   {
@@ -2139,13 +2118,6 @@
     "event_id": "12",
     "time": "20:00 - 22:00",
     "service_type": "נאווה",
-    "is_available": true
-  },
-  {
-    "date": "חמישי, 7 אוגוסט 2025",
-    "event_id": "16",
-    "time": "16:00 - 19:00",
-    "service_type": "רונית",
     "is_available": true
   },
   {
