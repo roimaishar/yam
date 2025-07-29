@@ -288,6 +288,13 @@
   },
   {
     "date": "חמישי, 31 יולי 2025",
+    "event_id": "7",
+    "time": "10:00 - 12:00",
+    "service_type": "נאווה",
+    "is_available": true
+  },
+  {
+    "date": "חמישי, 31 יולי 2025",
     "event_id": "9",
     "time": "14:00 - 16:00",
     "service_type": "נאווה",
