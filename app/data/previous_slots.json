@@ -307,13 +307,6 @@
     "service_type": "נאווה",
     "is_available": true
   },
-  "חמישי, 31 יולי 2025_13": {
-    "date": "חמישי, 31 יולי 2025",
-    "event_id": "13",
-    "time": "07:00 - 10:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
   "חמישי, 31 יולי 2025_17": {
     "date": "חמישי, 31 יולי 2025",
     "event_id": "17",
@@ -1788,13 +1781,6 @@
     "date": "חמישי, 7 אוגוסט 2025",
     "event_id": "19",
     "time": "07:00 - 09:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
-  "חמישי, 7 אוגוסט 2025_22": {
-    "date": "חמישי, 7 אוגוסט 2025",
-    "event_id": "22",
-    "time": "13:00 - 15:00",
     "service_type": "קטמנדו",
     "is_available": true
   },
