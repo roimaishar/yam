@@ -750,6 +750,13 @@
   },
   {
     "date": "ראשון, 3 אוגוסט 2025",
+    "event_id": "61",
+    "time": "11:00 - 14:00",
+    "service_type": "רוני",
+    "is_available": true
+  },
+  {
+    "date": "ראשון, 3 אוגוסט 2025",
     "event_id": "64",
     "time": "20:00 - 23:00",
     "service_type": "רוני",
@@ -2271,13 +2278,6 @@
     "date": "ראשון, 10 אוגוסט 2025",
     "event_id": "43",
     "time": "07:00 - 10:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 10 אוגוסט 2025",
-    "event_id": "44",
-    "time": "10:00 - 13:00",
     "service_type": "ושתי",
     "is_available": true
   },
