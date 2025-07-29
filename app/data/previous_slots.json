@@ -244,6 +244,13 @@
     "service_type": "הרמוני",
     "is_available": true
   },
+  "חמישי, 31 יולי 2025_41": {
+    "date": "חמישי, 31 יולי 2025",
+    "event_id": "41",
+    "time": "12:00 - 15:00",
+    "service_type": "הרמוני",
+    "is_available": true
+  },
   "חמישי, 31 יולי 2025_43": {
     "date": "חמישי, 31 יולי 2025",
     "event_id": "43",
@@ -745,6 +752,13 @@
     "date": "ראשון, 3 אוגוסט 2025",
     "event_id": "46",
     "time": "13:00 - 16:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
+  "ראשון, 3 אוגוסט 2025_48": {
+    "date": "ראשון, 3 אוגוסט 2025",
+    "event_id": "48",
+    "time": "19:00 - 22:00",
     "service_type": "ושתי",
     "is_available": true
   },
