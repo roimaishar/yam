@@ -211,13 +211,6 @@
   },
   {
     "date": "חמישי, 31 יולי 2025",
-    "event_id": "55",
-    "time": "06:00 - 09:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "חמישי, 31 יולי 2025",
     "event_id": "63",
     "time": "17:00 - 20:00",
     "service_type": "רוני",
