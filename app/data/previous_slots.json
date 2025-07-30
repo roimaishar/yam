@@ -209,6 +209,13 @@
     "service_type": "ושתי",
     "is_available": true
   },
+  "שישי, 1 אוגוסט 2025_57": {
+    "date": "שישי, 1 אוגוסט 2025",
+    "event_id": "57",
+    "time": "09:00 - 12:00",
+    "service_type": "אסתר",
+    "is_available": true
+  },
   "שישי, 1 אוגוסט 2025_61": {
     "date": "שישי, 1 אוגוסט 2025",
     "event_id": "61",
@@ -601,6 +608,13 @@
     "service_type": "קטמנדו",
     "is_available": true
   },
+  "שבת, 2 אוגוסט 2025_21": {
+    "date": "שבת, 2 אוגוסט 2025",
+    "event_id": "21",
+    "time": "16:00 - 19:00",
+    "service_type": "קטמנדו",
+    "is_available": true
+  },
   "ראשון, 3 אוגוסט 2025_49": {
     "date": "ראשון, 3 אוגוסט 2025",
     "event_id": "49",
@@ -899,13 +913,6 @@
     "date": "שני, 4 אוגוסט 2025",
     "event_id": "10",
     "time": "14:00 - 16:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  "שני, 4 אוגוסט 2025_12": {
-    "date": "שני, 4 אוגוסט 2025",
-    "event_id": "12",
-    "time": "18:00 - 20:00",
     "service_type": "נאווה",
     "is_available": true
   },
@@ -1504,13 +1511,6 @@
     "service_type": "ליאור",
     "is_available": true
   },
-  "חמישי, 7 אוגוסט 2025_19": {
-    "date": "חמישי, 7 אוגוסט 2025",
-    "event_id": "19",
-    "time": "07:00 - 09:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
   "חמישי, 7 אוגוסט 2025_23": {
     "date": "חמישי, 7 אוגוסט 2025",
     "event_id": "23",
@@ -1795,13 +1795,6 @@
     "date": "שבת, 9 אוגוסט 2025",
     "event_id": "34",
     "time": "14:00 - 17:00",
-    "service_type": "כרמן החדשה",
-    "is_available": true
-  },
-  "שבת, 9 אוגוסט 2025_35": {
-    "date": "שבת, 9 אוגוסט 2025",
-    "event_id": "35",
-    "time": "17:00 - 20:00",
     "service_type": "כרמן החדשה",
     "is_available": true
   },
@@ -2229,13 +2222,6 @@
     "date": "שני, 11 אוגוסט 2025",
     "event_id": "42",
     "time": "07:00 - 10:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  "שני, 11 אוגוסט 2025_45": {
-    "date": "שני, 11 אוגוסט 2025",
-    "event_id": "45",
-    "time": "16:00 - 19:00",
     "service_type": "ושתי",
     "is_available": true
   },
