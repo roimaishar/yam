@@ -69,13 +69,6 @@
     "service_type": "קרפה",
     "is_available": true
   },
-  "חמישי, 31 יולי 2025_3": {
-    "date": "חמישי, 31 יולי 2025",
-    "event_id": "3",
-    "time": "14:00 - 17:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
   "חמישי, 31 יולי 2025_5": {
     "date": "חמישי, 31 יולי 2025",
     "event_id": "5",
@@ -87,6 +80,13 @@
     "date": "חמישי, 31 יולי 2025",
     "event_id": "40",
     "time": "06:00 - 09:00",
+    "service_type": "הרמוני",
+    "is_available": true
+  },
+  "חמישי, 31 יולי 2025_41": {
+    "date": "חמישי, 31 יולי 2025",
+    "event_id": "41",
+    "time": "09:00 - 12:00",
     "service_type": "הרמוני",
     "is_available": true
   },
@@ -181,6 +181,13 @@
     "service_type": "רונית",
     "is_available": true
   },
+  "חמישי, 31 יולי 2025_26": {
+    "date": "חמישי, 31 יולי 2025",
+    "event_id": "26",
+    "time": "10:00 - 13:00",
+    "service_type": "ליאור",
+    "is_available": true
+  },
   "חמישי, 31 יולי 2025_27": {
     "date": "חמישי, 31 יולי 2025",
     "event_id": "27",
@@ -242,13 +249,6 @@
     "event_id": "57",
     "time": "09:00 - 12:00",
     "service_type": "אסתר",
-    "is_available": true
-  },
-  "שישי, 1 אוגוסט 2025_64": {
-    "date": "שישי, 1 אוגוסט 2025",
-    "event_id": "64",
-    "time": "17:00 - 20:00",
-    "service_type": "רוני",
     "is_available": true
   },
   "שישי, 1 אוגוסט 2025_65": {
@@ -1119,24 +1119,10 @@
     "service_type": "מישל",
     "is_available": true
   },
-  "שלישי, 5 אוגוסט 2025_28": {
-    "date": "שלישי, 5 אוגוסט 2025",
-    "event_id": "28",
-    "time": "09:00 - 12:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
   "שלישי, 5 אוגוסט 2025_29": {
     "date": "שלישי, 5 אוגוסט 2025",
     "event_id": "29",
     "time": "12:00 - 15:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  "שלישי, 5 אוגוסט 2025_31": {
-    "date": "שלישי, 5 אוגוסט 2025",
-    "event_id": "31",
-    "time": "18:00 - 21:00",
     "service_type": "מישל",
     "is_available": true
   },
@@ -2670,13 +2656,6 @@
     "date": "שלישי, 12 אוגוסט 2025",
     "event_id": "61",
     "time": "14:00 - 17:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
-  "שלישי, 12 אוגוסט 2025_62": {
-    "date": "שלישי, 12 אוגוסט 2025",
-    "event_id": "62",
-    "time": "17:00 - 20:00",
     "service_type": "רוני",
     "is_available": true
   },
