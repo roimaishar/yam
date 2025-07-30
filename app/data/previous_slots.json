@@ -20,6 +20,13 @@
     "service_type": "עידו",
     "is_available": true
   },
+  "חמישי, 31 יולי 2025_47": {
+    "date": "חמישי, 31 יולי 2025",
+    "event_id": "47",
+    "time": "16:00 - 19:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
   "חמישי, 31 יולי 2025_63": {
     "date": "חמישי, 31 יולי 2025",
     "event_id": "63",
@@ -199,6 +206,13 @@
     "date": "שישי, 1 אוגוסט 2025",
     "event_id": "44",
     "time": "07:00 - 10:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
+  "שישי, 1 אוגוסט 2025_47": {
+    "date": "שישי, 1 אוגוסט 2025",
+    "event_id": "47",
+    "time": "16:00 - 19:00",
     "service_type": "ושתי",
     "is_available": true
   },
