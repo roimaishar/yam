@@ -1490,6 +1490,13 @@
     "service_type": "נאווה",
     "is_available": true
   },
+  "חמישי, 7 אוגוסט 2025_8": {
+    "date": "חמישי, 7 אוגוסט 2025",
+    "event_id": "8",
+    "time": "12:00 - 14:00",
+    "service_type": "נאווה",
+    "is_available": true
+  },
   "חמישי, 7 אוגוסט 2025_10": {
     "date": "חמישי, 7 אוגוסט 2025",
     "event_id": "10",
@@ -2250,13 +2257,6 @@
     "date": "שני, 11 אוגוסט 2025",
     "event_id": "54",
     "time": "09:00 - 12:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  "שני, 11 אוגוסט 2025_55": {
-    "date": "שני, 11 אוגוסט 2025",
-    "event_id": "55",
-    "time": "12:00 - 15:00",
     "service_type": "אסתר",
     "is_available": true
   },
