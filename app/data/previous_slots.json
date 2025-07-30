@@ -748,13 +748,6 @@
     "service_type": "ליאור",
     "is_available": true
   },
-  "ראשון, 3 אוגוסט 2025_27": {
-    "date": "ראשון, 3 אוגוסט 2025",
-    "event_id": "27",
-    "time": "19:00 - 22:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
   "ראשון, 3 אוגוסט 2025_19": {
     "date": "ראשון, 3 אוגוסט 2025",
     "event_id": "19",
@@ -892,13 +885,6 @@
     "date": "שני, 4 אוגוסט 2025",
     "event_id": "29",
     "time": "09:00 - 12:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  "שני, 4 אוגוסט 2025_31": {
-    "date": "שני, 4 אוגוסט 2025",
-    "event_id": "31",
-    "time": "15:00 - 18:00",
     "service_type": "מישל",
     "is_available": true
   },
