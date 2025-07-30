@@ -211,6 +211,13 @@
   },
   {
     "date": "שישי, 1 אוגוסט 2025",
+    "event_id": "60",
+    "time": "18:00 - 21:00",
+    "service_type": "אסתר",
+    "is_available": true
+  },
+  {
+    "date": "שישי, 1 אוגוסט 2025",
     "event_id": "61",
     "time": "08:00 - 11:00",
     "service_type": "רוני",
@@ -2229,6 +2236,13 @@
     "date": "שני, 11 אוגוסט 2025",
     "event_id": "42",
     "time": "07:00 - 10:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
+  {
+    "date": "שני, 11 אוגוסט 2025",
+    "event_id": "45",
+    "time": "16:00 - 19:00",
     "service_type": "ושתי",
     "is_available": true
   },
