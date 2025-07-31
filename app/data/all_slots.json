@@ -883,13 +883,6 @@
   },
   {
     "date": "שלישי, 5 אוגוסט 2025",
-    "event_id": "29",
-    "time": "12:00 - 15:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 5 אוגוסט 2025",
     "event_id": "7",
     "time": "10:00 - 12:00",
     "service_type": "נאווה",
