@@ -469,13 +469,6 @@
     "is_available": true
   },
   {
-    "date": "שבת, 2 אוגוסט 2025",
-    "event_id": "21",
-    "time": "16:00 - 19:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
-  {
     "date": "ראשון, 3 אוגוסט 2025",
     "event_id": "49",
     "time": "07:00 - 09:00",
@@ -1187,13 +1180,6 @@
     "event_id": "12",
     "time": "20:00 - 22:00",
     "service_type": "נאווה",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 6 אוגוסט 2025",
-    "event_id": "14",
-    "time": "10:00 - 13:00",
-    "service_type": "רונית",
     "is_available": true
   },
   {
