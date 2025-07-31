@@ -848,13 +848,6 @@
   },
   {
     "date": "שלישי, 5 אוגוסט 2025",
-    "event_id": "49",
-    "time": "11:00 - 13:00",
-    "service_type": "עידו",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 5 אוגוסט 2025",
     "event_id": "51",
     "time": "16:00 - 18:00",
     "service_type": "עידו",
