@@ -505,13 +505,6 @@
   },
   {
     "date": "רביעי, 6 אוגוסט 2025",
-    "event_id": "54",
-    "time": "09:00 - 12:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 6 אוגוסט 2025",
     "event_id": "60",
     "time": "14:00 - 17:00",
     "service_type": "רוני",
