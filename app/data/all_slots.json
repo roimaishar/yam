@@ -764,13 +764,6 @@
   },
   {
     "date": "שישי, 8 אוגוסט 2025",
-    "event_id": "17",
-    "time": "19:00 - 22:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 8 אוגוסט 2025",
     "event_id": "21",
     "time": "13:00 - 15:00",
     "service_type": "קטמנדו",
@@ -2202,13 +2195,6 @@
     "event_id": "34",
     "time": "18:00 - 21:00",
     "service_type": "מישל",
-    "is_available": true
-  },
-  {
-    "date": "חמישי, 14 אוגוסט 2025",
-    "event_id": "6",
-    "time": "08:00 - 10:00",
-    "service_type": "נאווה",
     "is_available": true
   },
   {
