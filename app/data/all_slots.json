@@ -617,13 +617,6 @@
   },
   {
     "date": "רביעי, 6 אוגוסט 2025",
-    "event_id": "17",
-    "time": "19:00 - 22:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 6 אוגוסט 2025",
     "event_id": "24",
     "time": "13:00 - 16:00",
     "service_type": "ליאור",
@@ -2180,13 +2173,6 @@
     "date": "חמישי, 14 אוגוסט 2025",
     "event_id": "30",
     "time": "06:00 - 09:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  {
-    "date": "חמישי, 14 אוגוסט 2025",
-    "event_id": "31",
-    "time": "09:00 - 12:00",
     "service_type": "מישל",
     "is_available": true
   },
