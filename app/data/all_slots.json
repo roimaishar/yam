@@ -575,13 +575,6 @@
   },
   {
     "date": "שבת, 9 אוגוסט 2025",
-    "event_id": "54",
-    "time": "09:00 - 12:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 9 אוגוסט 2025",
     "event_id": "58",
     "time": "08:00 - 11:00",
     "service_type": "רוני",
@@ -2048,13 +2041,6 @@
     "event_id": "64",
     "time": "20:00 - 23:00",
     "service_type": "רוני",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 15 אוגוסט 2025",
-    "event_id": "1",
-    "time": "08:00 - 11:00",
-    "service_type": "קרפה",
     "is_available": true
   },
   {
