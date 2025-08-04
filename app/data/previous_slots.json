@@ -125,13 +125,6 @@
     "service_type": "רוני",
     "is_available": true
   },
-  "רביעי, 6 אוגוסט 2025_1": {
-    "date": "רביעי, 6 אוגוסט 2025",
-    "event_id": "1",
-    "time": "08:00 - 11:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
   "רביעי, 6 אוגוסט 2025_2": {
     "date": "רביעי, 6 אוגוסט 2025",
     "event_id": "2",
@@ -270,6 +263,13 @@
     "event_id": "29",
     "time": "19:00 - 22:00",
     "service_type": "ליאור",
+    "is_available": true
+  },
+  "חמישי, 7 אוגוסט 2025_23": {
+    "date": "חמישי, 7 אוגוסט 2025",
+    "event_id": "23",
+    "time": "15:00 - 17:00",
+    "service_type": "קטמנדו",
     "is_available": true
   },
   "שישי, 8 אוגוסט 2025_49": {
@@ -1844,13 +1844,6 @@
     "date": "שישי, 15 אוגוסט 2025",
     "event_id": "13",
     "time": "07:00 - 10:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
-  "שישי, 15 אוגוסט 2025_14": {
-    "date": "שישי, 15 אוגוסט 2025",
-    "event_id": "14",
-    "time": "10:00 - 13:00",
     "service_type": "רונית",
     "is_available": true
   },
