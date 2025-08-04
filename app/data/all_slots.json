@@ -1989,13 +1989,6 @@
   },
   {
     "date": "שבת, 16 אוגוסט 2025",
-    "event_id": "47",
-    "time": "19:00 - 22:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 16 אוגוסט 2025",
     "event_id": "57",
     "time": "15:00 - 18:00",
     "service_type": "אסתר",
