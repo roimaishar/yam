@@ -475,13 +475,6 @@
     "service_type": "מישל",
     "is_available": true
   },
-  "שבת, 9 אוגוסט 2025_29": {
-    "date": "שבת, 9 אוגוסט 2025",
-    "event_id": "29",
-    "time": "12:00 - 15:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
   "שבת, 9 אוגוסט 2025_30": {
     "date": "שבת, 9 אוגוסט 2025",
     "event_id": "30",
@@ -1018,13 +1011,6 @@
     "date": "שני, 11 אוגוסט 2025",
     "event_id": "24",
     "time": "13:00 - 16:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
-  "שני, 11 אוגוסט 2025_25": {
-    "date": "שני, 11 אוגוסט 2025",
-    "event_id": "25",
-    "time": "16:00 - 19:00",
     "service_type": "ליאור",
     "is_available": true
   },
