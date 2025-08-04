@@ -15,20 +15,6 @@
   },
   {
     "date": "שלישי, 5 אוגוסט 2025",
-    "event_id": "51",
-    "time": "16:00 - 18:00",
-    "service_type": "עידו",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 5 אוגוסט 2025",
-    "event_id": "52",
-    "time": "18:00 - 20:00",
-    "service_type": "עידו",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 5 אוגוסט 2025",
     "event_id": "37",
     "time": "06:00 - 09:00",
     "service_type": "הרמוני",
