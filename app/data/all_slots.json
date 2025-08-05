@@ -183,6 +183,13 @@
   },
   {
     "date": "חמישי, 7 אוגוסט 2025",
+    "event_id": "41",
+    "time": "09:00 - 12:00",
+    "service_type": "הרמוני",
+    "is_available": true
+  },
+  {
+    "date": "חמישי, 7 אוגוסט 2025",
     "event_id": "38",
     "time": "17:00 - 20:00",
     "service_type": "כרמן החדשה",
@@ -1093,13 +1100,6 @@
   },
   {
     "date": "שלישי, 12 אוגוסט 2025",
-    "event_id": "17",
-    "time": "16:00 - 19:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 12 אוגוסט 2025",
     "event_id": "18",
     "time": "19:00 - 22:00",
     "service_type": "רונית",
@@ -1537,6 +1537,13 @@
     "event_id": "17",
     "time": "19:00 - 22:00",
     "service_type": "רונית",
+    "is_available": true
+  },
+  {
+    "date": "חמישי, 14 אוגוסט 2025",
+    "event_id": "25",
+    "time": "10:00 - 13:00",
+    "service_type": "ליאור",
     "is_available": true
   },
   {
