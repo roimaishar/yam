@@ -127,6 +127,13 @@
   },
   {
     "date": "שישי, 8 אוגוסט 2025",
+    "event_id": "10",
+    "time": "16:00 - 18:00",
+    "service_type": "נאווה",
+    "is_available": true
+  },
+  {
+    "date": "שישי, 8 אוגוסט 2025",
     "event_id": "12",
     "time": "20:00 - 22:00",
     "service_type": "נאווה",
@@ -473,13 +480,6 @@
     "event_id": "26",
     "time": "19:00 - 22:00",
     "service_type": "ליאור",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 10 אוגוסט 2025",
-    "event_id": "18",
-    "time": "07:00 - 10:00",
-    "service_type": "קטמנדו",
     "is_available": true
   },
   {
@@ -1858,13 +1858,6 @@
     "date": "ראשון, 17 אוגוסט 2025",
     "event_id": "30",
     "time": "09:00 - 12:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 17 אוגוסט 2025",
-    "event_id": "33",
-    "time": "18:00 - 21:00",
     "service_type": "מישל",
     "is_available": true
   },
