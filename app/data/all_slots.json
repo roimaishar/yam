@@ -1373,13 +1373,6 @@
   },
   {
     "date": "שישי, 15 אוגוסט 2025",
-    "event_id": "52",
-    "time": "14:00 - 16:00",
-    "service_type": "עידו",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 15 אוגוסט 2025",
     "event_id": "53",
     "time": "16:00 - 18:00",
     "service_type": "עידו",
@@ -1648,13 +1641,6 @@
     "date": "שבת, 16 אוגוסט 2025",
     "event_id": "35",
     "time": "14:00 - 17:00",
-    "service_type": "כרמן החדשה",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 16 אוגוסט 2025",
-    "event_id": "36",
-    "time": "17:00 - 20:00",
     "service_type": "כרמן החדשה",
     "is_available": true
   },
