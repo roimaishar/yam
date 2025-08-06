@@ -237,13 +237,6 @@
     "service_type": "כרמן החדשה",
     "is_available": true
   },
-  "שבת, 9 אוגוסט 2025_28": {
-    "date": "שבת, 9 אוגוסט 2025",
-    "event_id": "28",
-    "time": "09:00 - 12:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
   "שבת, 9 אוגוסט 2025_30": {
     "date": "שבת, 9 אוגוסט 2025",
     "event_id": "30",
@@ -2355,13 +2348,6 @@
     "date": "שלישי, 19 אוגוסט 2025",
     "event_id": "53",
     "time": "06:00 - 09:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  "שלישי, 19 אוגוסט 2025_54": {
-    "date": "שלישי, 19 אוגוסט 2025",
-    "event_id": "54",
-    "time": "09:00 - 12:00",
     "service_type": "אסתר",
     "is_available": true
   },
