@@ -27,13 +27,6 @@
     "service_type": "עידו",
     "is_available": true
   },
-  "שישי, 8 אוגוסט 2025_1": {
-    "date": "שישי, 8 אוגוסט 2025",
-    "event_id": "1",
-    "time": "08:00 - 11:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
   "שישי, 8 אוגוסט 2025_5": {
     "date": "שישי, 8 אוגוסט 2025",
     "event_id": "5",
@@ -941,13 +934,6 @@
     "date": "רביעי, 13 אוגוסט 2025",
     "event_id": "31",
     "time": "15:00 - 18:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  "רביעי, 13 אוגוסט 2025_32": {
-    "date": "רביעי, 13 אוגוסט 2025",
-    "event_id": "32",
-    "time": "18:00 - 21:00",
     "service_type": "מישל",
     "is_available": true
   },
