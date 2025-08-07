@@ -29,6 +29,13 @@
   },
   {
     "date": "שישי, 8 אוגוסט 2025",
+    "event_id": "64",
+    "time": "20:00 - 23:00",
+    "service_type": "רוני",
+    "is_available": true
+  },
+  {
+    "date": "שישי, 8 אוגוסט 2025",
     "event_id": "5",
     "time": "20:00 - 23:00",
     "service_type": "קרפה",
