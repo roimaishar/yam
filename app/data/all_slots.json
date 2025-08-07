@@ -267,13 +267,6 @@
   },
   {
     "date": "ראשון, 10 אוגוסט 2025",
-    "event_id": "43",
-    "time": "07:00 - 10:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 10 אוגוסט 2025",
     "event_id": "47",
     "time": "19:00 - 22:00",
     "service_type": "ושתי",
@@ -423,13 +416,6 @@
     "date": "שני, 11 אוגוסט 2025",
     "event_id": "53",
     "time": "06:00 - 09:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "שני, 11 אוגוסט 2025",
-    "event_id": "54",
-    "time": "09:00 - 12:00",
     "service_type": "אסתר",
     "is_available": true
   },
@@ -2222,13 +2208,6 @@
     "date": "שלישי, 19 אוגוסט 2025",
     "event_id": "53",
     "time": "06:00 - 09:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 19 אוגוסט 2025",
-    "event_id": "56",
-    "time": "15:00 - 18:00",
     "service_type": "אסתר",
     "is_available": true
   },
