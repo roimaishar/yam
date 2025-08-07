@@ -41,13 +41,6 @@
     "service_type": "נאווה",
     "is_available": true
   },
-  "שישי, 8 אוגוסט 2025_20": {
-    "date": "שישי, 8 אוגוסט 2025",
-    "event_id": "20",
-    "time": "11:00 - 13:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
   "שבת, 9 אוגוסט 2025_47": {
     "date": "שבת, 9 אוגוסט 2025",
     "event_id": "47",
@@ -745,13 +738,6 @@
     "date": "שלישי, 12 אוגוסט 2025",
     "event_id": "19",
     "time": "07:00 - 10:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
-  "שלישי, 12 אוגוסט 2025_21": {
-    "date": "שלישי, 12 אוגוסט 2025",
-    "event_id": "21",
-    "time": "13:00 - 16:00",
     "service_type": "קטמנדו",
     "is_available": true
   },
