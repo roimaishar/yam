@@ -475,6 +475,13 @@
     "service_type": "ליאור",
     "is_available": true
   },
+  "שני, 11 אוגוסט 2025_26": {
+    "date": "שני, 11 אוגוסט 2025",
+    "event_id": "26",
+    "time": "19:00 - 22:00",
+    "service_type": "ליאור",
+    "is_available": true
+  },
   "שני, 11 אוגוסט 2025_18": {
     "date": "שני, 11 אוגוסט 2025",
     "event_id": "18",
@@ -2460,13 +2467,6 @@
     "date": "חמישי, 21 אוגוסט 2025",
     "event_id": "30",
     "time": "06:00 - 09:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  "חמישי, 21 אוגוסט 2025_32": {
-    "date": "חמישי, 21 אוגוסט 2025",
-    "event_id": "32",
-    "time": "12:00 - 15:00",
     "service_type": "מישל",
     "is_available": true
   },
