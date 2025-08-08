@@ -90,13 +90,6 @@
     "service_type": "מישל",
     "is_available": true
   },
-  "שבת, 9 אוגוסט 2025_31": {
-    "date": "שבת, 9 אוגוסט 2025",
-    "event_id": "31",
-    "time": "18:00 - 21:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
   "שבת, 9 אוגוסט 2025_6": {
     "date": "שבת, 9 אוגוסט 2025",
     "event_id": "6",
@@ -710,13 +703,6 @@
     "date": "רביעי, 13 אוגוסט 2025",
     "event_id": "59",
     "time": "08:00 - 11:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
-  "רביעי, 13 אוגוסט 2025_61": {
-    "date": "רביעי, 13 אוגוסט 2025",
-    "event_id": "61",
-    "time": "14:00 - 17:00",
     "service_type": "רוני",
     "is_available": true
   },
