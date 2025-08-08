@@ -729,6 +729,13 @@
   },
   {
     "date": "רביעי, 13 אוגוסט 2025",
+    "event_id": "41",
+    "time": "15:00 - 18:00",
+    "service_type": "הרמוני",
+    "is_available": true
+  },
+  {
+    "date": "רביעי, 13 אוגוסט 2025",
     "event_id": "33",
     "time": "08:00 - 11:00",
     "service_type": "כרמן החדשה",
@@ -1571,13 +1578,6 @@
     "date": "שני, 18 אוגוסט 2025",
     "event_id": "42",
     "time": "07:00 - 10:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "שני, 18 אוגוסט 2025",
-    "event_id": "46",
-    "time": "19:00 - 22:00",
     "service_type": "ושתי",
     "is_available": true
   },
