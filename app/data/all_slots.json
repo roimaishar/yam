@@ -512,6 +512,13 @@
   },
   {
     "date": "שלישי, 12 אוגוסט 2025",
+    "event_id": "44",
+    "time": "10:00 - 13:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
+  {
+    "date": "שלישי, 12 אוגוסט 2025",
     "event_id": "54",
     "time": "06:00 - 09:00",
     "service_type": "אסתר",
@@ -519,9 +526,9 @@
   },
   {
     "date": "שלישי, 12 אוגוסט 2025",
-    "event_id": "60",
-    "time": "11:00 - 14:00",
-    "service_type": "רוני",
+    "event_id": "55",
+    "time": "09:00 - 12:00",
+    "service_type": "אסתר",
     "is_available": true
   },
   {
