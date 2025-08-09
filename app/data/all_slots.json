@@ -449,13 +449,6 @@
   },
   {
     "date": "שלישי, 12 אוגוסט 2025",
-    "event_id": "26",
-    "time": "16:00 - 19:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 12 אוגוסט 2025",
     "event_id": "19",
     "time": "07:00 - 10:00",
     "service_type": "קטמנדו",
@@ -690,13 +683,6 @@
     "event_id": "55",
     "time": "18:00 - 20:00",
     "service_type": "עידו",
-    "is_available": true
-  },
-  {
-    "date": "חמישי, 14 אוגוסט 2025",
-    "event_id": "56",
-    "time": "06:00 - 09:00",
-    "service_type": "אסתר",
     "is_available": true
   },
   {
@@ -1424,6 +1410,13 @@
     "date": "שני, 18 אוגוסט 2025",
     "event_id": "3",
     "time": "14:00 - 17:00",
+    "service_type": "קרפה",
+    "is_available": true
+  },
+  {
+    "date": "שני, 18 אוגוסט 2025",
+    "event_id": "4",
+    "time": "17:00 - 20:00",
     "service_type": "קרפה",
     "is_available": true
   },
