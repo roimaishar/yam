@@ -69,13 +69,6 @@
     "service_type": "כרמן החדשה",
     "is_available": true
   },
-  "ראשון, 10 אוגוסט 2025_7": {
-    "date": "ראשון, 10 אוגוסט 2025",
-    "event_id": "7",
-    "time": "10:00 - 12:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
   "ראשון, 10 אוגוסט 2025_8": {
     "date": "ראשון, 10 אוגוסט 2025",
     "event_id": "8",
@@ -563,13 +556,6 @@
     "date": "רביעי, 13 אוגוסט 2025",
     "event_id": "29",
     "time": "09:00 - 12:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  "רביעי, 13 אוגוסט 2025_31": {
-    "date": "רביעי, 13 אוגוסט 2025",
-    "event_id": "31",
-    "time": "15:00 - 18:00",
     "service_type": "מישל",
     "is_available": true
   },
@@ -2236,13 +2222,6 @@
     "date": "חמישי, 21 אוגוסט 2025",
     "event_id": "6",
     "time": "08:00 - 10:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  "חמישי, 21 אוגוסט 2025_8": {
-    "date": "חמישי, 21 אוגוסט 2025",
-    "event_id": "8",
-    "time": "12:00 - 14:00",
     "service_type": "נאווה",
     "is_available": true
   },
