@@ -1443,13 +1443,6 @@
   },
   {
     "date": "שני, 18 אוגוסט 2025",
-    "event_id": "46",
-    "time": "19:00 - 22:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "שני, 18 אוגוסט 2025",
     "event_id": "53",
     "time": "06:00 - 09:00",
     "service_type": "אסתר",
@@ -1683,13 +1676,6 @@
     "date": "שני, 18 אוגוסט 2025",
     "event_id": "20",
     "time": "13:00 - 16:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
-  {
-    "date": "שני, 18 אוגוסט 2025",
-    "event_id": "21",
-    "time": "16:00 - 19:00",
     "service_type": "קטמנדו",
     "is_available": true
   },
