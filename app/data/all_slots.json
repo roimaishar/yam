@@ -134,13 +134,6 @@
   },
   {
     "date": "שני, 11 אוגוסט 2025",
-    "event_id": "26",
-    "time": "19:00 - 22:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
-  {
-    "date": "שני, 11 אוגוסט 2025",
     "event_id": "19",
     "time": "10:00 - 13:00",
     "service_type": "קטמנדו",
@@ -2320,13 +2313,6 @@
     "date": "שבת, 23 אוגוסט 2025",
     "event_id": "60",
     "time": "14:00 - 17:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 23 אוגוסט 2025",
-    "event_id": "61",
-    "time": "17:00 - 20:00",
     "service_type": "רוני",
     "is_available": true
   },
