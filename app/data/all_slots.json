@@ -36,6 +36,13 @@
   },
   {
     "date": "שני, 11 אוגוסט 2025",
+    "event_id": "59",
+    "time": "11:00 - 14:00",
+    "service_type": "רוני",
+    "is_available": true
+  },
+  {
+    "date": "שני, 11 אוגוסט 2025",
     "event_id": "1",
     "time": "08:00 - 11:00",
     "service_type": "קרפה",
@@ -129,13 +136,6 @@
     "date": "שני, 11 אוגוסט 2025",
     "event_id": "23",
     "time": "10:00 - 13:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
-  {
-    "date": "שני, 11 אוגוסט 2025",
-    "event_id": "24",
-    "time": "13:00 - 16:00",
     "service_type": "ליאור",
     "is_available": true
   },
