@@ -188,24 +188,10 @@
     "service_type": "עידו",
     "is_available": true
   },
-  "שלישי, 12 אוגוסט 2025_44": {
-    "date": "שלישי, 12 אוגוסט 2025",
-    "event_id": "44",
-    "time": "10:00 - 13:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
   "שלישי, 12 אוגוסט 2025_54": {
     "date": "שלישי, 12 אוגוסט 2025",
     "event_id": "54",
     "time": "06:00 - 09:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  "שלישי, 12 אוגוסט 2025_55": {
-    "date": "שלישי, 12 אוגוסט 2025",
-    "event_id": "55",
-    "time": "09:00 - 12:00",
     "service_type": "אסתר",
     "is_available": true
   },
