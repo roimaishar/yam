@@ -55,13 +55,6 @@
     "service_type": "קרפה",
     "is_available": true
   },
-  "שני, 11 אוגוסט 2025_37": {
-    "date": "שני, 11 אוגוסט 2025",
-    "event_id": "37",
-    "time": "06:00 - 09:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
   "שני, 11 אוגוסט 2025_39": {
     "date": "שני, 11 אוגוסט 2025",
     "event_id": "39",
@@ -1837,13 +1830,6 @@
     "date": "רביעי, 20 אוגוסט 2025",
     "event_id": "28",
     "time": "09:00 - 12:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  "רביעי, 20 אוגוסט 2025_29": {
-    "date": "רביעי, 20 אוגוסט 2025",
-    "event_id": "29",
-    "time": "12:00 - 15:00",
     "service_type": "מישל",
     "is_available": true
   },
