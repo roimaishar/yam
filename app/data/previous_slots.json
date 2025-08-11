@@ -20,6 +20,13 @@
     "service_type": "אסתר",
     "is_available": true
   },
+  "שלישי, 12 אוגוסט 2025_3": {
+    "date": "שלישי, 12 אוגוסט 2025",
+    "event_id": "3",
+    "time": "14:00 - 17:00",
+    "service_type": "קרפה",
+    "is_available": true
+  },
   "שלישי, 12 אוגוסט 2025_5": {
     "date": "שלישי, 12 אוגוסט 2025",
     "event_id": "5",
@@ -704,13 +711,6 @@
     "event_id": "46",
     "time": "10:00 - 13:00",
     "service_type": "ושתי",
-    "is_available": true
-  },
-  "ראשון, 17 אוגוסט 2025_58": {
-    "date": "ראשון, 17 אוגוסט 2025",
-    "event_id": "58",
-    "time": "12:00 - 15:00",
-    "service_type": "אסתר",
     "is_available": true
   },
   "ראשון, 17 אוגוסט 2025_61": {
@@ -1438,13 +1438,6 @@
     "date": "רביעי, 20 אוגוסט 2025",
     "event_id": "53",
     "time": "06:00 - 09:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  "רביעי, 20 אוגוסט 2025_55": {
-    "date": "רביעי, 20 אוגוסט 2025",
-    "event_id": "55",
-    "time": "12:00 - 15:00",
     "service_type": "אסתר",
     "is_available": true
   },
