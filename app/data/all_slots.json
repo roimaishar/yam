@@ -71,13 +71,6 @@
   },
   {
     "date": "שלישי, 12 אוגוסט 2025",
-    "event_id": "42",
-    "time": "18:00 - 21:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 12 אוגוסט 2025",
     "event_id": "37",
     "time": "20:00 - 23:00",
     "service_type": "כרמן החדשה",
@@ -172,13 +165,6 @@
     "event_id": "53",
     "time": "18:00 - 20:00",
     "service_type": "עידו",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 13 אוגוסט 2025",
-    "event_id": "54",
-    "time": "06:00 - 09:00",
-    "service_type": "אסתר",
     "is_available": true
   },
   {
@@ -1156,6 +1142,20 @@
   },
   {
     "date": "שלישי, 19 אוגוסט 2025",
+    "event_id": "60",
+    "time": "14:00 - 17:00",
+    "service_type": "רוני",
+    "is_available": true
+  },
+  {
+    "date": "שלישי, 19 אוגוסט 2025",
+    "event_id": "61",
+    "time": "17:00 - 20:00",
+    "service_type": "רוני",
+    "is_available": true
+  },
+  {
+    "date": "שלישי, 19 אוגוסט 2025",
     "event_id": "2",
     "time": "11:00 - 14:00",
     "service_type": "קרפה",
@@ -1291,13 +1291,6 @@
     "date": "שלישי, 19 אוגוסט 2025",
     "event_id": "14",
     "time": "10:00 - 13:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 19 אוגוסט 2025",
-    "event_id": "16",
-    "time": "16:00 - 19:00",
     "service_type": "רונית",
     "is_available": true
   },
