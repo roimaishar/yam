@@ -162,13 +162,6 @@
   },
   {
     "date": "רביעי, 13 אוגוסט 2025",
-    "event_id": "59",
-    "time": "08:00 - 11:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 13 אוגוסט 2025",
     "event_id": "63",
     "time": "20:00 - 23:00",
     "service_type": "רוני",
@@ -225,9 +218,9 @@
   },
   {
     "date": "רביעי, 13 אוגוסט 2025",
-    "event_id": "13",
-    "time": "20:00 - 22:00",
-    "service_type": "נאווה",
+    "event_id": "14",
+    "time": "07:00 - 10:00",
+    "service_type": "רונית",
     "is_available": true
   },
   {
@@ -463,13 +456,6 @@
   },
   {
     "date": "שבת, 16 אוגוסט 2025",
-    "event_id": "61",
-    "time": "14:00 - 17:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 16 אוגוסט 2025",
     "event_id": "63",
     "time": "20:00 - 23:00",
     "service_type": "רוני",
@@ -687,13 +673,6 @@
   },
   {
     "date": "ראשון, 17 אוגוסט 2025",
-    "event_id": "46",
-    "time": "10:00 - 13:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 17 אוגוסט 2025",
     "event_id": "61",
     "time": "08:00 - 11:00",
     "service_type": "רוני",
@@ -892,13 +871,6 @@
     "date": "שני, 18 אוגוסט 2025",
     "event_id": "42",
     "time": "07:00 - 10:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "שני, 18 אוגוסט 2025",
-    "event_id": "43",
-    "time": "10:00 - 13:00",
     "service_type": "ושתי",
     "is_available": true
   },
@@ -1347,13 +1319,6 @@
     "date": "שלישי, 19 אוגוסט 2025",
     "event_id": "16",
     "time": "16:00 - 19:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 19 אוגוסט 2025",
-    "event_id": "17",
-    "time": "19:00 - 22:00",
     "service_type": "רונית",
     "is_available": true
   },
@@ -1921,6 +1886,13 @@
     "date": "שישי, 22 אוגוסט 2025",
     "event_id": "24",
     "time": "07:00 - 10:00",
+    "service_type": "ליאור",
+    "is_available": true
+  },
+  {
+    "date": "שישי, 22 אוגוסט 2025",
+    "event_id": "25",
+    "time": "10:00 - 13:00",
     "service_type": "ליאור",
     "is_available": true
   },
