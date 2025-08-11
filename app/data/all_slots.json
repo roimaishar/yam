@@ -637,6 +637,13 @@
     "is_available": true
   },
   {
+    "date": "שבת, 16 אוגוסט 2025",
+    "event_id": "22",
+    "time": "16:00 - 19:00",
+    "service_type": "קטמנדו",
+    "is_available": true
+  },
+  {
     "date": "ראשון, 17 אוגוסט 2025",
     "event_id": "50",
     "time": "07:00 - 09:00",
@@ -1536,13 +1543,6 @@
     "date": "חמישי, 21 אוגוסט 2025",
     "event_id": "46",
     "time": "07:00 - 10:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "חמישי, 21 אוגוסט 2025",
-    "event_id": "47",
-    "time": "10:00 - 13:00",
     "service_type": "ושתי",
     "is_available": true
   },
