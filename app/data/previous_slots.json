@@ -104,13 +104,6 @@
     "service_type": "נאווה",
     "is_available": true
   },
-  "רביעי, 13 אוגוסט 2025_14": {
-    "date": "רביעי, 13 אוגוסט 2025",
-    "event_id": "14",
-    "time": "07:00 - 10:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
   "רביעי, 13 אוגוסט 2025_25": {
     "date": "רביעי, 13 אוגוסט 2025",
     "event_id": "25",
@@ -661,13 +654,6 @@
     "date": "ראשון, 17 אוגוסט 2025",
     "event_id": "11",
     "time": "16:00 - 18:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  "ראשון, 17 אוגוסט 2025_12": {
-    "date": "ראשון, 17 אוגוסט 2025",
-    "event_id": "12",
-    "time": "18:00 - 20:00",
     "service_type": "נאווה",
     "is_available": true
   },
@@ -1641,13 +1627,6 @@
     "date": "שישי, 22 אוגוסט 2025",
     "event_id": "24",
     "time": "07:00 - 10:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
-  "שישי, 22 אוגוסט 2025_25": {
-    "date": "שישי, 22 אוגוסט 2025",
-    "event_id": "25",
-    "time": "10:00 - 13:00",
     "service_type": "ליאור",
     "is_available": true
   },
