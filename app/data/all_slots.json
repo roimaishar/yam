@@ -252,6 +252,13 @@
     "is_available": true
   },
   {
+    "date": "שישי, 15 אוגוסט 2025",
+    "event_id": "21",
+    "time": "13:00 - 15:00",
+    "service_type": "קטמנדו",
+    "is_available": true
+  },
+  {
     "date": "שבת, 16 אוגוסט 2025",
     "event_id": "48",
     "time": "07:00 - 09:00",
