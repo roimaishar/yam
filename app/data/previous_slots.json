@@ -601,13 +601,6 @@
     "service_type": "ושתי",
     "is_available": true
   },
-  "שני, 18 אוגוסט 2025_43": {
-    "date": "שני, 18 אוגוסט 2025",
-    "event_id": "43",
-    "time": "10:00 - 13:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
   "שני, 18 אוגוסט 2025_53": {
     "date": "שני, 18 אוגוסט 2025",
     "event_id": "53",
@@ -682,13 +675,6 @@
     "date": "שני, 18 אוגוסט 2025",
     "event_id": "28",
     "time": "09:00 - 12:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  "שני, 18 אוגוסט 2025_30": {
-    "date": "שני, 18 אוגוסט 2025",
-    "event_id": "30",
-    "time": "15:00 - 18:00",
     "service_type": "מישל",
     "is_available": true
   },
@@ -1074,13 +1060,6 @@
     "date": "רביעי, 20 אוגוסט 2025",
     "event_id": "33",
     "time": "11:00 - 14:00",
-    "service_type": "כרמן החדשה",
-    "is_available": true
-  },
-  "רביעי, 20 אוגוסט 2025_34": {
-    "date": "רביעי, 20 אוגוסט 2025",
-    "event_id": "34",
-    "time": "14:00 - 17:00",
     "service_type": "כרמן החדשה",
     "is_available": true
   },
