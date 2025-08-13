@@ -736,13 +736,6 @@
   },
   {
     "date": "שני, 18 אוגוסט 2025",
-    "event_id": "15",
-    "time": "13:00 - 16:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
-  {
-    "date": "שני, 18 אוגוסט 2025",
     "event_id": "22",
     "time": "07:00 - 10:00",
     "service_type": "ליאור",
@@ -2103,13 +2096,6 @@
     "date": "שני, 25 אוגוסט 2025",
     "event_id": "44",
     "time": "13:00 - 16:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "שני, 25 אוגוסט 2025",
-    "event_id": "46",
-    "time": "19:00 - 22:00",
     "service_type": "ושתי",
     "is_available": true
   },
