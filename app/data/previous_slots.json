@@ -27,6 +27,13 @@
     "service_type": "עידו",
     "is_available": true
   },
+  "חמישי, 14 אוגוסט 2025_49": {
+    "date": "חמישי, 14 אוגוסט 2025",
+    "event_id": "49",
+    "time": "19:00 - 22:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
   "חמישי, 14 אוגוסט 2025_65": {
     "date": "חמישי, 14 אוגוסט 2025",
     "event_id": "65",
@@ -227,13 +234,6 @@
     "date": "שבת, 16 אוגוסט 2025",
     "event_id": "59",
     "time": "08:00 - 11:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
-  "שבת, 16 אוגוסט 2025_63": {
-    "date": "שבת, 16 אוגוסט 2025",
-    "event_id": "63",
-    "time": "20:00 - 23:00",
     "service_type": "רוני",
     "is_available": true
   },
@@ -704,13 +704,6 @@
     "event_id": "12",
     "time": "20:00 - 22:00",
     "service_type": "נאווה",
-    "is_available": true
-  },
-  "שני, 18 אוגוסט 2025_13": {
-    "date": "שני, 18 אוגוסט 2025",
-    "event_id": "13",
-    "time": "07:00 - 10:00",
-    "service_type": "רונית",
     "is_available": true
   },
   "שני, 18 אוגוסט 2025_14": {
