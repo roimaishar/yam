@@ -1002,13 +1002,6 @@
   },
   {
     "date": "רביעי, 20 אוגוסט 2025",
-    "event_id": "3",
-    "time": "14:00 - 17:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 20 אוגוסט 2025",
     "event_id": "37",
     "time": "06:00 - 09:00",
     "service_type": "הרמוני",
@@ -1130,13 +1123,6 @@
     "date": "רביעי, 20 אוגוסט 2025",
     "event_id": "18",
     "time": "07:00 - 10:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 20 אוגוסט 2025",
-    "event_id": "20",
-    "time": "13:00 - 16:00",
     "service_type": "קטמנדו",
     "is_available": true
   },
