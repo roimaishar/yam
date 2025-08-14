@@ -78,13 +78,6 @@
   },
   {
     "date": "שישי, 15 אוגוסט 2025",
-    "event_id": "13",
-    "time": "07:00 - 10:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 15 אוגוסט 2025",
     "event_id": "18",
     "time": "07:00 - 09:00",
     "service_type": "קטמנדו",
@@ -683,13 +676,6 @@
     "event_id": "53",
     "time": "06:00 - 09:00",
     "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 19 אוגוסט 2025",
-    "event_id": "60",
-    "time": "14:00 - 17:00",
-    "service_type": "רוני",
     "is_available": true
   },
   {
