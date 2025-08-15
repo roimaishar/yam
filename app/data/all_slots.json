@@ -407,6 +407,13 @@
   },
   {
     "date": "שני, 18 אוגוסט 2025",
+    "event_id": "60",
+    "time": "14:00 - 17:00",
+    "service_type": "רוני",
+    "is_available": true
+  },
+  {
+    "date": "שני, 18 אוגוסט 2025",
     "event_id": "1",
     "time": "08:00 - 11:00",
     "service_type": "קרפה",
@@ -2222,13 +2229,6 @@
     "date": "רביעי, 27 אוגוסט 2025",
     "event_id": "55",
     "time": "09:00 - 12:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 27 אוגוסט 2025",
-    "event_id": "56",
-    "time": "12:00 - 15:00",
     "service_type": "אסתר",
     "is_available": true
   },
