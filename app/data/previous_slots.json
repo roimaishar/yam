@@ -468,6 +468,13 @@
     "service_type": "אסתר",
     "is_available": true
   },
+  "רביעי, 20 אוגוסט 2025_55": {
+    "date": "רביעי, 20 אוגוסט 2025",
+    "event_id": "55",
+    "time": "12:00 - 15:00",
+    "service_type": "אסתר",
+    "is_available": true
+  },
   "רביעי, 20 אוגוסט 2025_2": {
     "date": "רביעי, 20 אוגוסט 2025",
     "event_id": "2",
@@ -962,13 +969,6 @@
     "date": "שבת, 23 אוגוסט 2025",
     "event_id": "13",
     "time": "07:00 - 10:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
-  "שבת, 23 אוגוסט 2025_14": {
-    "date": "שבת, 23 אוגוסט 2025",
-    "event_id": "14",
-    "time": "10:00 - 13:00",
     "service_type": "רונית",
     "is_available": true
   },
