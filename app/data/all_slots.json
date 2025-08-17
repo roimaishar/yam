@@ -582,13 +582,6 @@
   },
   {
     "date": "שישי, 22 אוגוסט 2025",
-    "event_id": "29",
-    "time": "06:00 - 09:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 22 אוגוסט 2025",
     "event_id": "12",
     "time": "20:00 - 22:00",
     "service_type": "נאווה",
@@ -2299,20 +2292,6 @@
     "date": "שישי, 29 אוגוסט 2025",
     "event_id": "24",
     "time": "07:00 - 10:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 29 אוגוסט 2025",
-    "event_id": "25",
-    "time": "10:00 - 13:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 29 אוגוסט 2025",
-    "event_id": "26",
-    "time": "13:00 - 16:00",
     "service_type": "ליאור",
     "is_available": true
   },
