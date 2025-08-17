@@ -575,6 +575,13 @@
   },
   {
     "date": "שישי, 22 אוגוסט 2025",
+    "event_id": "28",
+    "time": "19:00 - 22:00",
+    "service_type": "ליאור",
+    "is_available": true
+  },
+  {
+    "date": "שישי, 22 אוגוסט 2025",
     "event_id": "18",
     "time": "07:00 - 09:00",
     "service_type": "קטמנדו",
@@ -584,13 +591,6 @@
     "date": "שישי, 22 אוגוסט 2025",
     "event_id": "19",
     "time": "09:00 - 11:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 22 אוגוסט 2025",
-    "event_id": "23",
-    "time": "17:00 - 19:00",
     "service_type": "קטמנדו",
     "is_available": true
   },
@@ -634,13 +634,6 @@
     "event_id": "52",
     "time": "18:00 - 20:00",
     "service_type": "עידו",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 23 אוגוסט 2025",
-    "event_id": "43",
-    "time": "10:00 - 13:00",
-    "service_type": "ושתי",
     "is_available": true
   },
   {
