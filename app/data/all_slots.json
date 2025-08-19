@@ -15,13 +15,6 @@
   },
   {
     "date": "רביעי, 20 אוגוסט 2025",
-    "event_id": "50",
-    "time": "11:00 - 13:00",
-    "service_type": "עידו",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 20 אוגוסט 2025",
     "event_id": "56",
     "time": "12:00 - 15:00",
     "service_type": "אסתר",
@@ -193,13 +186,6 @@
     "event_id": "50",
     "time": "09:00 - 11:00",
     "service_type": "עידו",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 22 אוגוסט 2025",
-    "event_id": "60",
-    "time": "08:00 - 11:00",
-    "service_type": "רוני",
     "is_available": true
   },
   {
