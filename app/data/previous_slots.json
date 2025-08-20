@@ -6,13 +6,6 @@
     "service_type": "רוני",
     "is_available": true
   },
-  "חמישי, 21 אוגוסט 2025_4": {
-    "date": "חמישי, 21 אוגוסט 2025",
-    "event_id": "4",
-    "time": "17:00 - 20:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
   "חמישי, 21 אוגוסט 2025_5": {
     "date": "חמישי, 21 אוגוסט 2025",
     "event_id": "5",
@@ -1494,13 +1487,6 @@
     "date": "שבת, 30 אוגוסט 2025",
     "event_id": "40",
     "time": "15:00 - 18:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  "שבת, 30 אוגוסט 2025_41": {
-    "date": "שבת, 30 אוגוסט 2025",
-    "event_id": "41",
-    "time": "18:00 - 21:00",
     "service_type": "הרמוני",
     "is_available": true
   },
