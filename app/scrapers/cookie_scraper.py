@@ -76,9 +76,10 @@ async def save_authenticated_session():
         
         cookies = await context.cookies()
         
-        # Create data directory if it doesn't exist
-        if not os.path.exists(DATA_DIR):
-            os.makedirs(DATA_DIR)
+        # Create directory for cookies file if it doesn't exist
+        cookies_dir = os.path.dirname(COOKIES_FILE)
+        if not os.path.exists(cookies_dir):
+            os.makedirs(cookies_dir)
             
         with open(COOKIES_FILE, "w") as f:
             json.dump(cookies, f)

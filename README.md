@@ -273,16 +273,16 @@ The monitoring system integrates with Slack for real-time notifications:
 
 ### Cookie Management
 
-The scraper implements a sophisticated cookie-based authentication system:
+The scraper implements a sophisticated cookie-based authentication system with security best practices:
 
 1. **Initial Authentication**:
    - On first run, attempts to log in using credentials from `.env`
-   - If auto-login succeeds, saves cookies to `yam_cookies.json`
+   - If auto-login succeeds, saves cookies to the configured location
    - If auto-login fails, opens a visible browser window for manual login
    - After manual login, saves the authenticated session cookies
 
 2. **Cookie Reuse**:
-   - On subsequent runs, loads cookies from `yam_cookies.json`
+   - On subsequent runs, loads cookies from the configured location
    - Applies cookies to the browser context before navigating to protected pages
    - Avoids the need for repeated logins, making the scraper more efficient
 
@@ -292,10 +292,12 @@ The scraper implements a sophisticated cookie-based authentication system:
    - After successful re-authentication, updates the cookie file with fresh cookies
    - Resumes the scraping process from where it left off
 
-4. **Cookie Storage**:
-   - Cookies are stored in JSON format in the `app/data` directory
-   - Contains all necessary session data including authentication tokens
-   - Format is compatible with Playwright's cookie handling system
+4. **Secure Cookie Storage**:
+   - **Security**: Cookie files are never committed to the repository (`.gitignore`)
+   - **Local Development**: Cookies stored in `cookies/yam_cookies.json` by default
+   - **CI/GitHub Actions**: Uses temporary directory via `YAM_COOKIES_PATH` environment variable
+   - **Custom Location**: Set `YAM_COOKIES_PATH` environment variable to override default location
+   - Contains session data including authentication tokens in Playwright-compatible JSON format
 
 ### Error Handling
 

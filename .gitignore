@@ -37,6 +37,10 @@ node_modules/
 # Data files (optional, uncomment if you don't want to track these)
 # app/data/cookies.json
 
+# Cookie files (security: never commit session cookies)
+cookies/
+*.cookies.json
+
 # Logs
 *.log
 app/data/swell_forecast.json
