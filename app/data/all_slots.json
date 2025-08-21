@@ -134,13 +134,6 @@
   },
   {
     "date": "שבת, 23 אוגוסט 2025",
-    "event_id": "1",
-    "time": "08:00 - 11:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 23 אוגוסט 2025",
     "event_id": "3",
     "time": "14:00 - 17:00",
     "service_type": "קרפה",
