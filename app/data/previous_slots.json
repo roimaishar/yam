@@ -195,13 +195,6 @@
     "service_type": "נאווה",
     "is_available": true
   },
-  "שבת, 23 אוגוסט 2025_14": {
-    "date": "שבת, 23 אוגוסט 2025",
-    "event_id": "14",
-    "time": "10:00 - 13:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
   "שבת, 23 אוגוסט 2025_15": {
     "date": "שבת, 23 אוגוסט 2025",
     "event_id": "15",
@@ -885,6 +878,13 @@
     "date": "רביעי, 27 אוגוסט 2025",
     "event_id": "28",
     "time": "06:00 - 09:00",
+    "service_type": "מישל",
+    "is_available": true
+  },
+  "רביעי, 27 אוגוסט 2025_30": {
+    "date": "רביעי, 27 אוגוסט 2025",
+    "event_id": "30",
+    "time": "12:00 - 15:00",
     "service_type": "מישל",
     "is_available": true
   },
