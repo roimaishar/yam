@@ -15,13 +15,6 @@
   },
   {
     "date": "שישי, 22 אוגוסט 2025",
-    "event_id": "51",
-    "time": "11:00 - 13:00",
-    "service_type": "עידו",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 22 אוגוסט 2025",
     "event_id": "64",
     "time": "20:00 - 23:00",
     "service_type": "רוני",
@@ -738,13 +731,6 @@
     "date": "שלישי, 26 אוגוסט 2025",
     "event_id": "15",
     "time": "10:00 - 13:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 26 אוגוסט 2025",
-    "event_id": "18",
-    "time": "19:00 - 22:00",
     "service_type": "רונית",
     "is_available": true
   },
