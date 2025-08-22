@@ -918,6 +918,13 @@
   },
   {
     "date": "חמישי, 28 אוגוסט 2025",
+    "event_id": "57",
+    "time": "12:00 - 15:00",
+    "service_type": "אסתר",
+    "is_available": true
+  },
+  {
+    "date": "חמישי, 28 אוגוסט 2025",
     "event_id": "64",
     "time": "20:00 - 23:00",
     "service_type": "רוני",
@@ -1005,20 +1012,6 @@
     "event_id": "28",
     "time": "19:00 - 22:00",
     "service_type": "ליאור",
-    "is_available": true
-  },
-  {
-    "date": "חמישי, 28 אוגוסט 2025",
-    "event_id": "20",
-    "time": "11:00 - 13:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
-  {
-    "date": "חמישי, 28 אוגוסט 2025",
-    "event_id": "21",
-    "time": "13:00 - 15:00",
-    "service_type": "קטמנדו",
     "is_available": true
   },
   {
