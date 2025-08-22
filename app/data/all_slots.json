@@ -1233,13 +1233,6 @@
   },
   {
     "date": "שבת, 30 אוגוסט 2025",
-    "event_id": "3",
-    "time": "14:00 - 17:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 30 אוגוסט 2025",
     "event_id": "4",
     "time": "17:00 - 20:00",
     "service_type": "קרפה",
@@ -1284,13 +1277,6 @@
     "date": "שבת, 30 אוגוסט 2025",
     "event_id": "33",
     "time": "11:00 - 14:00",
-    "service_type": "כרמן החדשה",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 30 אוגוסט 2025",
-    "event_id": "34",
-    "time": "14:00 - 17:00",
     "service_type": "כרמן החדשה",
     "is_available": true
   },
