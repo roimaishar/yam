@@ -1114,13 +1114,6 @@
   },
   {
     "date": "שבת, 30 אוגוסט 2025",
-    "event_id": "16",
-    "time": "16:00 - 19:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 30 אוגוסט 2025",
     "event_id": "17",
     "time": "19:00 - 22:00",
     "service_type": "רונית",
@@ -2103,13 +2096,6 @@
     "date": "רביעי, 3 ספטמבר 2025",
     "event_id": "60",
     "time": "14:00 - 17:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 3 ספטמבר 2025",
-    "event_id": "62",
-    "time": "20:00 - 23:00",
     "service_type": "רוני",
     "is_available": true
   },
