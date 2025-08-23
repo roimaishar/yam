@@ -694,6 +694,13 @@
   },
   {
     "date": "רביעי, 27 אוגוסט 2025",
+    "event_id": "27",
+    "time": "19:00 - 22:00",
+    "service_type": "ליאור",
+    "is_available": true
+  },
+  {
+    "date": "רביעי, 27 אוגוסט 2025",
     "event_id": "19",
     "time": "07:00 - 10:00",
     "service_type": "קטמנדו",
@@ -2776,13 +2783,6 @@
     "event_id": "64",
     "time": "20:00 - 23:00",
     "service_type": "רוני",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 5 ספטמבר 2025",
-    "event_id": "1",
-    "time": "08:00 - 11:00",
-    "service_type": "קרפה",
     "is_available": true
   },
   {
