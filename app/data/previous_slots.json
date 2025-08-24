@@ -244,6 +244,13 @@
     "service_type": "רוני",
     "is_available": true
   },
+  "שלישי, 26 אוגוסט 2025_2": {
+    "date": "שלישי, 26 אוגוסט 2025",
+    "event_id": "2",
+    "time": "11:00 - 14:00",
+    "service_type": "קרפה",
+    "is_available": true
+  },
   "שלישי, 26 אוגוסט 2025_3": {
     "date": "שלישי, 26 אוגוסט 2025",
     "event_id": "3",
@@ -629,13 +636,6 @@
     "service_type": "קטמנדו",
     "is_available": true
   },
-  "חמישי, 28 אוגוסט 2025_23": {
-    "date": "חמישי, 28 אוגוסט 2025",
-    "event_id": "23",
-    "time": "17:00 - 19:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
   "שישי, 29 אוגוסט 2025_49": {
     "date": "שישי, 29 אוגוסט 2025",
     "event_id": "49",
@@ -720,25 +720,11 @@
     "service_type": "קטמנדו",
     "is_available": true
   },
-  "שישי, 29 אוגוסט 2025_22": {
-    "date": "שישי, 29 אוגוסט 2025",
-    "event_id": "22",
-    "time": "15:00 - 17:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
   "שישי, 29 אוגוסט 2025_23": {
     "date": "שישי, 29 אוגוסט 2025",
     "event_id": "23",
     "time": "17:00 - 19:00",
     "service_type": "קטמנדו",
-    "is_available": true
-  },
-  "שבת, 30 אוגוסט 2025_47": {
-    "date": "שבת, 30 אוגוסט 2025",
-    "event_id": "47",
-    "time": "07:00 - 09:00",
-    "service_type": "עידו",
     "is_available": true
   },
   "שבת, 30 אוגוסט 2025_48": {
@@ -1641,6 +1627,13 @@
     "date": "שלישי, 2 ספטמבר 2025",
     "event_id": "58",
     "time": "08:00 - 11:00",
+    "service_type": "רוני",
+    "is_available": true
+  },
+  "שלישי, 2 ספטמבר 2025_59": {
+    "date": "שלישי, 2 ספטמבר 2025",
+    "event_id": "59",
+    "time": "11:00 - 14:00",
     "service_type": "רוני",
     "is_available": true
   },
@@ -2572,13 +2565,6 @@
     "date": "שישי, 5 ספטמבר 2025",
     "event_id": "26",
     "time": "13:00 - 16:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
-  "שישי, 5 ספטמבר 2025_27": {
-    "date": "שישי, 5 ספטמבר 2025",
-    "event_id": "27",
-    "time": "16:00 - 19:00",
     "service_type": "ליאור",
     "is_available": true
   },
