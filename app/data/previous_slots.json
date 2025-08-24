@@ -167,20 +167,6 @@
     "service_type": "ליאור",
     "is_available": true
   },
-  "שני, 25 אוגוסט 2025_19": {
-    "date": "שני, 25 אוגוסט 2025",
-    "event_id": "19",
-    "time": "10:00 - 13:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
-  "שני, 25 אוגוסט 2025_21": {
-    "date": "שני, 25 אוגוסט 2025",
-    "event_id": "21",
-    "time": "16:00 - 19:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
   "שלישי, 26 אוגוסט 2025_48": {
     "date": "שלישי, 26 אוגוסט 2025",
     "event_id": "48",
@@ -1858,6 +1844,13 @@
     "date": "רביעי, 3 ספטמבר 2025",
     "event_id": "3",
     "time": "14:00 - 17:00",
+    "service_type": "קרפה",
+    "is_available": true
+  },
+  "רביעי, 3 ספטמבר 2025_4": {
+    "date": "רביעי, 3 ספטמבר 2025",
+    "event_id": "4",
+    "time": "17:00 - 20:00",
     "service_type": "קרפה",
     "is_available": true
   },
