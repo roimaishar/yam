@@ -608,13 +608,6 @@
     "service_type": "ליאור",
     "is_available": true
   },
-  "שבת, 30 אוגוסט 2025_25": {
-    "date": "שבת, 30 אוגוסט 2025",
-    "event_id": "25",
-    "time": "16:00 - 19:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
   "שבת, 30 אוגוסט 2025_26": {
     "date": "שבת, 30 אוגוסט 2025",
     "event_id": "26",
@@ -2013,13 +2006,6 @@
     "event_id": "64",
     "time": "20:00 - 23:00",
     "service_type": "רוני",
-    "is_available": true
-  },
-  "שישי, 5 ספטמבר 2025_2": {
-    "date": "שישי, 5 ספטמבר 2025",
-    "event_id": "2",
-    "time": "11:00 - 14:00",
-    "service_type": "קרפה",
     "is_available": true
   },
   "שישי, 5 ספטמבר 2025_5": {
