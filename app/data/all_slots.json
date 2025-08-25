@@ -50,13 +50,6 @@
   },
   {
     "date": "שלישי, 26 אוגוסט 2025",
-    "event_id": "40",
-    "time": "12:00 - 15:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 26 אוגוסט 2025",
     "event_id": "33",
     "time": "08:00 - 11:00",
     "service_type": "כרמן החדשה",
@@ -73,6 +66,13 @@
     "date": "שלישי, 26 אוגוסט 2025",
     "event_id": "28",
     "time": "06:00 - 09:00",
+    "service_type": "מישל",
+    "is_available": true
+  },
+  {
+    "date": "שלישי, 26 אוגוסט 2025",
+    "event_id": "31",
+    "time": "15:00 - 18:00",
     "service_type": "מישל",
     "is_available": true
   },
@@ -367,13 +367,6 @@
     "date": "שישי, 29 אוגוסט 2025",
     "event_id": "55",
     "time": "06:00 - 09:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 29 אוגוסט 2025",
-    "event_id": "58",
-    "time": "15:00 - 18:00",
     "service_type": "אסתר",
     "is_available": true
   },
