@@ -356,13 +356,6 @@
     "service_type": "רונית",
     "is_available": true
   },
-  "חמישי, 28 אוגוסט 2025_16": {
-    "date": "חמישי, 28 אוגוסט 2025",
-    "event_id": "16",
-    "time": "16:00 - 19:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
   "שישי, 29 אוגוסט 2025_49": {
     "date": "שישי, 29 אוגוסט 2025",
     "event_id": "49",
@@ -2236,13 +2229,6 @@
     "date": "שבת, 6 ספטמבר 2025",
     "event_id": "26",
     "time": "16:00 - 19:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
-  "שבת, 6 ספטמבר 2025_27": {
-    "date": "שבת, 6 ספטמבר 2025",
-    "event_id": "27",
-    "time": "19:00 - 22:00",
     "service_type": "ליאור",
     "is_available": true
   },
