@@ -97,6 +97,13 @@
     "service_type": "נאווה",
     "is_available": true
   },
+  "שישי, 29 אוגוסט 2025_28": {
+    "date": "שישי, 29 אוגוסט 2025",
+    "event_id": "28",
+    "time": "19:00 - 22:00",
+    "service_type": "ליאור",
+    "is_available": true
+  },
   "שישי, 29 אוגוסט 2025_18": {
     "date": "שישי, 29 אוגוסט 2025",
     "event_id": "18",
@@ -2110,6 +2117,13 @@
     "date": "שני, 8 ספטמבר 2025",
     "event_id": "3",
     "time": "14:00 - 17:00",
+    "service_type": "קרפה",
+    "is_available": true
+  },
+  "שני, 8 ספטמבר 2025_4": {
+    "date": "שני, 8 ספטמבר 2025",
+    "event_id": "4",
+    "time": "17:00 - 20:00",
     "service_type": "קרפה",
     "is_available": true
   },
