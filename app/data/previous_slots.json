@@ -69,13 +69,6 @@
     "service_type": "עידו",
     "is_available": true
   },
-  "שישי, 29 אוגוסט 2025_55": {
-    "date": "שישי, 29 אוגוסט 2025",
-    "event_id": "55",
-    "time": "06:00 - 09:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
   "שישי, 29 אוגוסט 2025_64": {
     "date": "שישי, 29 אוגוסט 2025",
     "event_id": "64",
@@ -381,13 +374,6 @@
     "date": "ראשון, 31 אוגוסט 2025",
     "event_id": "30",
     "time": "09:00 - 12:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  "ראשון, 31 אוגוסט 2025_33": {
-    "date": "ראשון, 31 אוגוסט 2025",
-    "event_id": "33",
-    "time": "18:00 - 21:00",
     "service_type": "מישל",
     "is_available": true
   },
@@ -1329,13 +1315,6 @@
     "service_type": "נאווה",
     "is_available": true
   },
-  "חמישי, 4 ספטמבר 2025_8": {
-    "date": "חמישי, 4 ספטמבר 2025",
-    "event_id": "8",
-    "time": "12:00 - 14:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
   "חמישי, 4 ספטמבר 2025_9": {
     "date": "חמישי, 4 ספטמבר 2025",
     "event_id": "9",
@@ -1403,13 +1382,6 @@
     "date": "חמישי, 4 ספטמבר 2025",
     "event_id": "18",
     "time": "07:00 - 09:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
-  "חמישי, 4 ספטמבר 2025_19": {
-    "date": "חמישי, 4 ספטמבר 2025",
-    "event_id": "19",
-    "time": "09:00 - 11:00",
     "service_type": "קטמנדו",
     "is_available": true
   },
