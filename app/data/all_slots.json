@@ -155,13 +155,6 @@
   },
   {
     "date": "שבת, 30 אוגוסט 2025",
-    "event_id": "39",
-    "time": "12:00 - 15:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 30 אוגוסט 2025",
     "event_id": "36",
     "time": "20:00 - 23:00",
     "service_type": "כרמן החדשה",
@@ -1424,13 +1417,6 @@
     "date": "שישי, 5 ספטמבר 2025",
     "event_id": "10",
     "time": "16:00 - 18:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 5 ספטמבר 2025",
-    "event_id": "11",
-    "time": "18:00 - 20:00",
     "service_type": "נאווה",
     "is_available": true
   },
