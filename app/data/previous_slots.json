@@ -76,6 +76,13 @@
     "service_type": "קרפה",
     "is_available": true
   },
+  "שבת, 30 אוגוסט 2025_33": {
+    "date": "שבת, 30 אוגוסט 2025",
+    "event_id": "33",
+    "time": "11:00 - 14:00",
+    "service_type": "כרמן החדשה",
+    "is_available": true
+  },
   "שבת, 30 אוגוסט 2025_36": {
     "date": "שבת, 30 אוגוסט 2025",
     "event_id": "36",
@@ -2075,13 +2082,6 @@
     "date": "שני, 8 ספטמבר 2025",
     "event_id": "15",
     "time": "13:00 - 16:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
-  "שני, 8 ספטמבר 2025_16": {
-    "date": "שני, 8 ספטמבר 2025",
-    "event_id": "16",
-    "time": "16:00 - 19:00",
     "service_type": "רונית",
     "is_available": true
   },
