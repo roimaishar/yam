@@ -1,4 +1,44 @@
 # YAM Online Calendar Scraper
+## Club Activity Monitoring
+
+Monitor YAM club activities (e.g., workshops, certifications, guided sails) and get notified only when activities become newly available (i.e., when the "הרשמה" button appears) or when a new activity appears with registration open.
+
+### Commands
+
+```
+# Scrape club activities for N days (no notifications)
+python -m app.main club scrape [days]
+
+# Start continuous monitoring for N days ahead (checks every 30m by default)
+python -m app.main club monitor [days] [--interval <minutes>]
+
+# Run a one-time check (useful in CI)
+python -m app.main club check [days]
+```
+
+Examples:
+```bash
+# Scrape next 14 days of club activities
+python -m app.main club scrape 14
+
+# Monitor club activities every 15 minutes
+python -m app.main club monitor 14 --interval 15
+
+# One-time check for the next 7 days
+python -m app.main club check 7
+```
+
+### Slack channels
+
+- Boat slot notifications use `SLACK_WEBHOOK_URL` (and optionally category-specific webhooks).
+- Club activity notifications use `SLACK_WEBHOOK_URL_CLUB` to route to a dedicated channel (e.g., `#activities`). If `SLACK_WEBHOOK_URL_CLUB` is not set, the generic `SLACK_WEBHOOK_URL` is used as a fallback.
+
+### First run behavior (important)
+
+- On the first ever run (local or CI), the monitor establishes a baseline of club activities and does not send notifications.
+- From the second run onward, notifications are sent only when an existing activity becomes available or a new activity appears with registration available.
+- State is persisted in `app/data/club_previous_slots.json` and `app/data/club_notified_slots.json`.
+
 
 Automated solution for scraping calendar slots from the YAM Online customer portal.
 
@@ -15,10 +55,12 @@ yam/
 │   ├── forecasts/        # Weather and marine forecast modules
 │   │   └── swell_forecast.py # Handles wave and wind forecasts
 │   ├── monitors/         # Monitoring modules
-│   │   ├── slot_monitor.py    # Monitors for new available slots
+│   │   ├── slot_monitor.py    # Monitors for new available boat slots
+│   │   ├── club_monitor.py    # Monitors for newly available club activities
 │   │   └── slack_notifier.py  # Handles Slack notifications
 │   ├── scrapers/         # Scraping modules
-│   │   └── cookie_scraper.py  # Handles authentication and calendar scraping
+│   │   ├── cookie_scraper.py  # Handles authentication and calendar scraping
+│   │   └── club_scraper.py    # Scrapes club activities from the club calendar
 │   ├── utils/            # Utility modules
 │   │   ├── config.py     # Configuration constants and URL definitions
 │   │   └── filter_slots.py    # Filters slots based on criteria
@@ -31,13 +73,16 @@ yam/
 ## Key Files
 
 - `cookie_scraper.py`: Core scraping functionality using Playwright
-- `slot_monitor.py`: Monitors for new available slots and sends notifications
+- `slot_monitor.py`: Monitors for new available boat slots and sends notifications to Slack
+- `club_monitor.py`: Monitors for newly available club activities and sends notifications to Slack
 - `slack_notifier.py`: Handles sending notifications to Slack with mobile-friendly format
 - `swell_forecast.py`: Fetches and processes marine forecast data (waves, wind, UV index, visibility, moon phase)
 - `config.py`: Configuration settings and file paths
 - `main.py`: Command-line interface for running the scraper and monitor
 - `all_slots.json`: Output file containing all scraped calendar slots
 - `previous_slots.json`: Tracking file for slot monitoring
+- `club_previous_slots.json`: Tracking file for club activity monitoring
+- `club_notified_slots.json`: Tracking file to avoid duplicate club notifications
 
 ## Setup
 
@@ -51,6 +96,7 @@ yam/
    YAM_USERNAME=your_username
    YAM_PASSWORD=your_password
    SLACK_WEBHOOK_URL=your_slack_webhook_url  # Optional, for monitoring notifications
+   SLACK_WEBHOOK_URL_CLUB=your_activities_channel_webhook_url  # Optional, for club activity notifications to #activities
    ```
 
 ## Usage
@@ -129,6 +175,11 @@ To receive notifications in Slack:
 SLACK_WEBHOOK_URL=https://hooks.slack.com/services/TXXXXXXXX/BXXXXXXXX/XXXXXXXXXXXXXXXXXXXXXXXX
 ```
 
+If you also want a dedicated channel for club activity notifications (e.g., `#activities`), create another webhook and add it to your `.env`:
+```
+SLACK_WEBHOOK_URL_CLUB=https://hooks.slack.com/services/TXXXXXXXX/BXXXXXXXX/YYYYYYYYYYYYYYYYYYYYYYYY
+```
+
 For detailed setup instructions:
 ```
 python -m app.main monitor --setup
@@ -168,7 +219,8 @@ This project includes a GitHub Actions workflow that automatically runs the moni
    - Add the following repository secrets:
      - `YAM_USERNAME` - Your YAM Online username
      - `YAM_PASSWORD` - Your YAM Online password
-     - `SLACK_WEBHOOK_URL` - Your Slack webhook URL
+     - `SLACK_WEBHOOK_URL` - Slack webhook for boat slot notifications (e.g., `#yam_monitor`)
+     - `SLACK_WEBHOOK_URL_CLUB` - Slack webhook for club activity notifications (e.g., `#activities`)
 
 2. **Workflow file**:
    - The workflow file is located at `.github/workflows/scraper.yml`
