@@ -1933,13 +1933,6 @@
   },
   {
     "date": "שני, 8 ספטמבר 2025",
-    "event_id": "60",
-    "time": "14:00 - 17:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
-  {
-    "date": "שני, 8 ספטמבר 2025",
     "event_id": "62",
     "time": "20:00 - 23:00",
     "service_type": "רוני",
