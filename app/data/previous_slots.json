@@ -27,20 +27,6 @@
     "service_type": "נאווה",
     "is_available": true
   },
-  "שישי, 29 אוגוסט 2025_17": {
-    "date": "שישי, 29 אוגוסט 2025",
-    "event_id": "17",
-    "time": "19:00 - 22:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
-  "שישי, 29 אוגוסט 2025_28": {
-    "date": "שישי, 29 אוגוסט 2025",
-    "event_id": "28",
-    "time": "19:00 - 22:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
   "שישי, 29 אוגוסט 2025_18": {
     "date": "שישי, 29 אוגוסט 2025",
     "event_id": "18",
@@ -136,6 +122,13 @@
     "date": "שבת, 30 אוגוסט 2025",
     "event_id": "14",
     "time": "10:00 - 13:00",
+    "service_type": "רונית",
+    "is_available": true
+  },
+  "שבת, 30 אוגוסט 2025_16": {
+    "date": "שבת, 30 אוגוסט 2025",
+    "event_id": "16",
+    "time": "16:00 - 19:00",
     "service_type": "רונית",
     "is_available": true
   },
