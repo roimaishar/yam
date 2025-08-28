@@ -421,6 +421,13 @@
   },
   {
     "date": "שני, 1 ספטמבר 2025",
+    "event_id": "32",
+    "time": "08:00 - 11:00",
+    "service_type": "כרמן החדשה",
+    "is_available": true
+  },
+  {
+    "date": "שני, 1 ספטמבר 2025",
     "event_id": "33",
     "time": "11:00 - 14:00",
     "service_type": "כרמן החדשה",
@@ -1599,13 +1606,6 @@
     "date": "שבת, 6 ספטמבר 2025",
     "event_id": "16",
     "time": "13:00 - 16:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 6 ספטמבר 2025",
-    "event_id": "18",
-    "time": "19:00 - 22:00",
     "service_type": "רונית",
     "is_available": true
   },
