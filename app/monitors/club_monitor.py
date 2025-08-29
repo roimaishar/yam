@@ -54,7 +54,7 @@ class ClubMonitor:
             print(f"Using filters: {filter_desc}")
         
         if self.slack_webhook_url or self.club_webhook_url:
-            await self.notifier.send_notification("YAM Club Activity Monitor started. Monitoring for newly available activities...")
+            self.notifier.send_notification("YAM Club Activity Monitor started. Monitoring for newly available activities...")
         else:
             print("Slack webhook URL not configured. Notifications will not be sent.")
             print("To enable Slack notifications, set SLACK_WEBHOOK_URL or SLACK_WEBHOOK_URL_CLUB in your .env file")
