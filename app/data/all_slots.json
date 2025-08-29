@@ -1142,13 +1142,6 @@
   },
   {
     "date": "שישי, 5 ספטמבר 2025",
-    "event_id": "50",
-    "time": "09:00 - 11:00",
-    "service_type": "עידו",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 5 ספטמבר 2025",
     "event_id": "52",
     "time": "14:00 - 16:00",
     "service_type": "עידו",
