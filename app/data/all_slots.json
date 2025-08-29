@@ -1513,13 +1513,6 @@
   },
   {
     "date": "שבת, 6 ספטמבר 2025",
-    "event_id": "15",
-    "time": "10:00 - 13:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 6 ספטמבר 2025",
     "event_id": "16",
     "time": "13:00 - 16:00",
     "service_type": "רונית",
