@@ -13,20 +13,6 @@
     "service_type": "עידו",
     "is_available": true
   },
-  "שבת, 30 אוגוסט 2025_51": {
-    "date": "שבת, 30 אוגוסט 2025",
-    "event_id": "51",
-    "time": "16:00 - 18:00",
-    "service_type": "עידו",
-    "is_available": true
-  },
-  "שבת, 30 אוגוסט 2025_52": {
-    "date": "שבת, 30 אוגוסט 2025",
-    "event_id": "52",
-    "time": "18:00 - 20:00",
-    "service_type": "עידו",
-    "is_available": true
-  },
   "שבת, 30 אוגוסט 2025_62": {
     "date": "שבת, 30 אוגוסט 2025",
     "event_id": "62",
