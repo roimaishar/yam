@@ -573,13 +573,6 @@
     "service_type": "קרפה",
     "is_available": true
   },
-  "שלישי, 2 ספטמבר 2025_37": {
-    "date": "שלישי, 2 ספטמבר 2025",
-    "event_id": "37",
-    "time": "06:00 - 09:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
   "שלישי, 2 ספטמבר 2025_38": {
     "date": "שלישי, 2 ספטמבר 2025",
     "event_id": "38",
@@ -934,13 +927,6 @@
     "date": "חמישי, 4 ספטמבר 2025",
     "event_id": "50",
     "time": "09:00 - 11:00",
-    "service_type": "עידו",
-    "is_available": true
-  },
-  "חמישי, 4 ספטמבר 2025_51": {
-    "date": "חמישי, 4 ספטמבר 2025",
-    "event_id": "51",
-    "time": "11:00 - 13:00",
     "service_type": "עידו",
     "is_available": true
   },
