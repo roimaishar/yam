@@ -785,13 +785,6 @@
   },
   {
     "date": "חמישי, 4 ספטמבר 2025",
-    "event_id": "50",
-    "time": "09:00 - 11:00",
-    "service_type": "עידו",
-    "is_available": true
-  },
-  {
-    "date": "חמישי, 4 ספטמבר 2025",
     "event_id": "53",
     "time": "16:00 - 18:00",
     "service_type": "עידו",
