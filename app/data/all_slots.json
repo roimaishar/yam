@@ -78,13 +78,6 @@
   },
   {
     "date": "ראשון, 31 אוגוסט 2025",
-    "event_id": "3",
-    "time": "14:00 - 17:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 31 אוגוסט 2025",
     "event_id": "5",
     "time": "20:00 - 23:00",
     "service_type": "קרפה",
@@ -907,6 +900,13 @@
     "event_id": "23",
     "time": "17:00 - 19:00",
     "service_type": "קטמנדו",
+    "is_available": true
+  },
+  {
+    "date": "שישי, 5 ספטמבר 2025",
+    "event_id": "49",
+    "time": "07:00 - 09:00",
+    "service_type": "עידו",
     "is_available": true
   },
   {
