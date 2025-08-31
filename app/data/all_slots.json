@@ -470,13 +470,6 @@
   },
   {
     "date": "רביעי, 3 ספטמבר 2025",
-    "event_id": "30",
-    "time": "15:00 - 18:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 3 ספטמבר 2025",
     "event_id": "6",
     "time": "08:00 - 10:00",
     "service_type": "נאווה",
