@@ -274,6 +274,13 @@
   },
   {
     "date": "שלישי, 2 ספטמבר 2025",
+    "event_id": "4",
+    "time": "17:00 - 20:00",
+    "service_type": "קרפה",
+    "is_available": true
+  },
+  {
+    "date": "שלישי, 2 ספטמבר 2025",
     "event_id": "5",
     "time": "20:00 - 23:00",
     "service_type": "קרפה",
@@ -333,13 +340,6 @@
     "event_id": "12",
     "time": "20:00 - 22:00",
     "service_type": "נאווה",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 2 ספטמבר 2025",
-    "event_id": "26",
-    "time": "19:00 - 22:00",
-    "service_type": "ליאור",
     "is_available": true
   },
   {
