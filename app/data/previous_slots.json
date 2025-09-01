@@ -62,13 +62,6 @@
     "service_type": "רוני",
     "is_available": true
   },
-  "שלישי, 2 ספטמבר 2025_62": {
-    "date": "שלישי, 2 ספטמבר 2025",
-    "event_id": "62",
-    "time": "20:00 - 23:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
   "שלישי, 2 ספטמבר 2025_1": {
     "date": "שלישי, 2 ספטמבר 2025",
     "event_id": "1",
@@ -755,20 +748,6 @@
     "service_type": "עידו",
     "is_available": true
   },
-  "ראשון, 7 ספטמבר 2025_53": {
-    "date": "ראשון, 7 ספטמבר 2025",
-    "event_id": "53",
-    "time": "16:00 - 18:00",
-    "service_type": "עידו",
-    "is_available": true
-  },
-  "ראשון, 7 ספטמבר 2025_54": {
-    "date": "ראשון, 7 ספטמבר 2025",
-    "event_id": "54",
-    "time": "18:00 - 20:00",
-    "service_type": "עידו",
-    "is_available": true
-  },
   "ראשון, 7 ספטמבר 2025_47": {
     "date": "ראשון, 7 ספטמבר 2025",
     "event_id": "47",
@@ -1130,13 +1109,6 @@
     "date": "שני, 8 ספטמבר 2025",
     "event_id": "30",
     "time": "15:00 - 18:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  "שני, 8 ספטמבר 2025_31": {
-    "date": "שני, 8 ספטמבר 2025",
-    "event_id": "31",
-    "time": "18:00 - 21:00",
     "service_type": "מישל",
     "is_available": true
   },
