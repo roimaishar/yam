@@ -251,13 +251,6 @@
     "service_type": "מישל",
     "is_available": true
   },
-  "רביעי, 3 ספטמבר 2025_28": {
-    "date": "רביעי, 3 ספטמבר 2025",
-    "event_id": "28",
-    "time": "09:00 - 12:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
   "רביעי, 3 ספטמבר 2025_29": {
     "date": "רביעי, 3 ספטמבר 2025",
     "event_id": "29",
@@ -501,13 +494,6 @@
     "event_id": "17",
     "time": "19:00 - 22:00",
     "service_type": "רונית",
-    "is_available": true
-  },
-  "שישי, 5 ספטמבר 2025_24": {
-    "date": "שישי, 5 ספטמבר 2025",
-    "event_id": "24",
-    "time": "07:00 - 10:00",
-    "service_type": "ליאור",
     "is_available": true
   },
   "שישי, 5 ספטמבר 2025_28": {
@@ -1977,13 +1963,6 @@
     "date": "חמישי, 11 ספטמבר 2025",
     "event_id": "31",
     "time": "12:00 - 15:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  "חמישי, 11 ספטמבר 2025_32": {
-    "date": "חמישי, 11 ספטמבר 2025",
-    "event_id": "32",
-    "time": "15:00 - 18:00",
     "service_type": "מישל",
     "is_available": true
   },
