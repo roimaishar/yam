@@ -1968,13 +1968,6 @@
   },
   {
     "date": "שבת, 13 ספטמבר 2025",
-    "event_id": "44",
-    "time": "10:00 - 13:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 13 ספטמבר 2025",
     "event_id": "59",
     "time": "08:00 - 11:00",
     "service_type": "רוני",
