@@ -385,6 +385,13 @@
     "is_available": true
   },
   {
+    "date": "חמישי, 4 ספטמבר 2025",
+    "event_id": "19",
+    "time": "09:00 - 11:00",
+    "service_type": "קטמנדו",
+    "is_available": true
+  },
+  {
     "date": "שישי, 5 ספטמבר 2025",
     "event_id": "49",
     "time": "07:00 - 09:00",
