@@ -617,13 +617,6 @@
   },
   {
     "date": "שני, 8 ספטמבר 2025",
-    "event_id": "4",
-    "time": "17:00 - 20:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
-  {
-    "date": "שני, 8 ספטמבר 2025",
     "event_id": "5",
     "time": "20:00 - 23:00",
     "service_type": "קרפה",
@@ -2285,13 +2278,6 @@
     "date": "שני, 15 ספטמבר 2025",
     "event_id": "53",
     "time": "06:00 - 09:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "שני, 15 ספטמבר 2025",
-    "event_id": "54",
-    "time": "09:00 - 12:00",
     "service_type": "אסתר",
     "is_available": true
   },
