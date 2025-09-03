@@ -517,13 +517,6 @@
     "service_type": "ושתי",
     "is_available": true
   },
-  "שני, 8 ספטמבר 2025_46": {
-    "date": "שני, 8 ספטמבר 2025",
-    "event_id": "46",
-    "time": "19:00 - 22:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
   "שני, 8 ספטמבר 2025_58": {
     "date": "שני, 8 ספטמבר 2025",
     "event_id": "58",
@@ -1439,13 +1432,6 @@
     "event_id": "48",
     "time": "19:00 - 22:00",
     "service_type": "ושתי",
-    "is_available": true
-  },
-  "שישי, 12 ספטמבר 2025_60": {
-    "date": "שישי, 12 ספטמבר 2025",
-    "event_id": "60",
-    "time": "08:00 - 11:00",
-    "service_type": "רוני",
     "is_available": true
   },
   "שישי, 12 ספטמבר 2025_64": {
