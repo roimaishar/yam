@@ -106,13 +106,6 @@
   },
   {
     "date": "שבת, 6 ספטמבר 2025",
-    "event_id": "5",
-    "time": "20:00 - 23:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 6 ספטמבר 2025",
     "event_id": "33",
     "time": "08:00 - 11:00",
     "service_type": "כרמן החדשה",
@@ -563,13 +556,6 @@
     "date": "שני, 8 ספטמבר 2025",
     "event_id": "23",
     "time": "10:00 - 13:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
-  {
-    "date": "שני, 8 ספטמבר 2025",
-    "event_id": "25",
-    "time": "16:00 - 19:00",
     "service_type": "ליאור",
     "is_available": true
   },
