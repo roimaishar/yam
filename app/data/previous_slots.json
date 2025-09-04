@@ -482,13 +482,6 @@
     "service_type": "הרמוני",
     "is_available": true
   },
-  "שני, 8 ספטמבר 2025_41": {
-    "date": "שני, 8 ספטמבר 2025",
-    "event_id": "41",
-    "time": "18:00 - 21:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
   "שני, 8 ספטמבר 2025_33": {
     "date": "שני, 8 ספטמבר 2025",
     "event_id": "33",
@@ -2068,13 +2061,6 @@
     "date": "שני, 15 ספטמבר 2025",
     "event_id": "60",
     "time": "14:00 - 17:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
-  "שני, 15 ספטמבר 2025_61": {
-    "date": "שני, 15 ספטמבר 2025",
-    "event_id": "61",
-    "time": "17:00 - 20:00",
     "service_type": "רוני",
     "is_available": true
   },

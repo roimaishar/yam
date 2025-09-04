@@ -484,13 +484,6 @@
   },
   {
     "date": "שני, 8 ספטמבר 2025",
-    "event_id": "41",
-    "time": "18:00 - 21:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  {
-    "date": "שני, 8 ספטמבר 2025",
     "event_id": "33",
     "time": "11:00 - 14:00",
     "service_type": "כרמן החדשה",
@@ -2068,13 +2061,6 @@
     "date": "שני, 15 ספטמבר 2025",
     "event_id": "60",
     "time": "14:00 - 17:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
-  {
-    "date": "שני, 15 ספטמבר 2025",
-    "event_id": "61",
-    "time": "17:00 - 20:00",
     "service_type": "רוני",
     "is_available": true
   },
