@@ -547,13 +547,6 @@
   },
   {
     "date": "שני, 8 ספטמבר 2025",
-    "event_id": "11",
-    "time": "18:00 - 20:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  {
-    "date": "שני, 8 ספטמבר 2025",
     "event_id": "12",
     "time": "20:00 - 22:00",
     "service_type": "נאווה",
@@ -2327,13 +2320,6 @@
     "date": "שלישי, 16 ספטמבר 2025",
     "event_id": "60",
     "time": "14:00 - 17:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 16 ספטמבר 2025",
-    "event_id": "61",
-    "time": "17:00 - 20:00",
     "service_type": "רוני",
     "is_available": true
   },
