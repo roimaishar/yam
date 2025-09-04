@@ -139,6 +139,13 @@
     "service_type": "מישל",
     "is_available": true
   },
+  "שבת, 6 ספטמבר 2025_30": {
+    "date": "שבת, 6 ספטמבר 2025",
+    "event_id": "30",
+    "time": "12:00 - 15:00",
+    "service_type": "מישל",
+    "is_available": true
+  },
   "שבת, 6 ספטמבר 2025_31": {
     "date": "שבת, 6 ספטמבר 2025",
     "event_id": "31",
