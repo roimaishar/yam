@@ -237,13 +237,6 @@
     "service_type": "קרפה",
     "is_available": true
   },
-  "ראשון, 7 ספטמבר 2025_3": {
-    "date": "ראשון, 7 ספטמבר 2025",
-    "event_id": "3",
-    "time": "14:00 - 17:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
   "ראשון, 7 ספטמבר 2025_5": {
     "date": "ראשון, 7 ספטמבר 2025",
     "event_id": "5",
@@ -312,6 +305,13 @@
     "event_id": "12",
     "time": "20:00 - 22:00",
     "service_type": "נאווה",
+    "is_available": true
+  },
+  "ראשון, 7 ספטמבר 2025_14": {
+    "date": "ראשון, 7 ספטמבר 2025",
+    "event_id": "14",
+    "time": "10:00 - 13:00",
+    "service_type": "רונית",
     "is_available": true
   },
   "ראשון, 7 ספטמבר 2025_16": {
@@ -388,6 +388,13 @@
     "date": "שני, 8 ספטמבר 2025",
     "event_id": "58",
     "time": "08:00 - 11:00",
+    "service_type": "רוני",
+    "is_available": true
+  },
+  "שני, 8 ספטמבר 2025_60": {
+    "date": "שני, 8 ספטמבר 2025",
+    "event_id": "60",
+    "time": "14:00 - 17:00",
     "service_type": "רוני",
     "is_available": true
   },
@@ -654,13 +661,6 @@
     "date": "שלישי, 9 ספטמבר 2025",
     "event_id": "39",
     "time": "12:00 - 15:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  "שלישי, 9 ספטמבר 2025_40": {
-    "date": "שלישי, 9 ספטמבר 2025",
-    "event_id": "40",
-    "time": "15:00 - 18:00",
     "service_type": "הרמוני",
     "is_available": true
   },
