@@ -85,13 +85,6 @@
   },
   {
     "date": "שבת, 6 ספטמבר 2025",
-    "event_id": "36",
-    "time": "20:00 - 23:00",
-    "service_type": "כרמן החדשה",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 6 ספטמבר 2025",
     "event_id": "27",
     "time": "06:00 - 09:00",
     "service_type": "מישל",
@@ -458,13 +451,6 @@
     "date": "שני, 8 ספטמבר 2025",
     "event_id": "33",
     "time": "11:00 - 14:00",
-    "service_type": "כרמן החדשה",
-    "is_available": true
-  },
-  {
-    "date": "שני, 8 ספטמבר 2025",
-    "event_id": "34",
-    "time": "14:00 - 17:00",
     "service_type": "כרמן החדשה",
     "is_available": true
   },
@@ -1004,13 +990,6 @@
     "date": "חמישי, 11 ספטמבר 2025",
     "event_id": "50",
     "time": "09:00 - 11:00",
-    "service_type": "עידו",
-    "is_available": true
-  },
-  {
-    "date": "חמישי, 11 ספטמבר 2025",
-    "event_id": "52",
-    "time": "14:00 - 16:00",
     "service_type": "עידו",
     "is_available": true
   },
