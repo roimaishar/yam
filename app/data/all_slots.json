@@ -1877,13 +1877,6 @@
   },
   {
     "date": "שני, 15 ספטמבר 2025",
-    "event_id": "57",
-    "time": "18:00 - 21:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "שני, 15 ספטמבר 2025",
     "event_id": "60",
     "time": "14:00 - 17:00",
     "service_type": "רוני",
@@ -2684,13 +2677,6 @@
     "date": "חמישי, 18 ספטמבר 2025",
     "event_id": "56",
     "time": "06:00 - 09:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "חמישי, 18 ספטמבר 2025",
-    "event_id": "60",
-    "time": "18:00 - 21:00",
     "service_type": "אסתר",
     "is_available": true
   },
