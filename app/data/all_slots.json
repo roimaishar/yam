@@ -1772,13 +1772,6 @@
   },
   {
     "date": "שלישי, 16 ספטמבר 2025",
-    "event_id": "58",
-    "time": "08:00 - 11:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 16 ספטמבר 2025",
     "event_id": "60",
     "time": "14:00 - 17:00",
     "service_type": "רוני",
@@ -2538,13 +2531,6 @@
     "event_id": "64",
     "time": "20:00 - 23:00",
     "service_type": "רוני",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 19 ספטמבר 2025",
-    "event_id": "3",
-    "time": "14:00 - 17:00",
-    "service_type": "קרפה",
     "is_available": true
   },
   {
