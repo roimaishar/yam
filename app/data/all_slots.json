@@ -841,6 +841,13 @@
   },
   {
     "date": "חמישי, 11 ספטמבר 2025",
+    "event_id": "18",
+    "time": "07:00 - 09:00",
+    "service_type": "קטמנדו",
+    "is_available": true
+  },
+  {
+    "date": "חמישי, 11 ספטמבר 2025",
     "event_id": "19",
     "time": "09:00 - 11:00",
     "service_type": "קטמנדו",
@@ -942,6 +949,13 @@
     "event_id": "28",
     "time": "19:00 - 22:00",
     "service_type": "ליאור",
+    "is_available": true
+  },
+  {
+    "date": "שישי, 12 ספטמבר 2025",
+    "event_id": "20",
+    "time": "11:00 - 13:00",
+    "service_type": "קטמנדו",
     "is_available": true
   },
   {
