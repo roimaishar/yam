@@ -701,13 +701,6 @@
   },
   {
     "date": "שישי, 12 ספטמבר 2025",
-    "event_id": "22",
-    "time": "15:00 - 17:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 12 ספטמבר 2025",
     "event_id": "23",
     "time": "17:00 - 19:00",
     "service_type": "קטמנדו",
@@ -1081,13 +1074,6 @@
     "date": "ראשון, 14 ספטמבר 2025",
     "event_id": "40",
     "time": "09:00 - 12:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 14 ספטמבר 2025",
-    "event_id": "42",
-    "time": "15:00 - 18:00",
     "service_type": "הרמוני",
     "is_available": true
   },
