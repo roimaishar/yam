@@ -601,13 +601,6 @@
     "service_type": "נאווה",
     "is_available": true
   },
-  "חמישי, 11 ספטמבר 2025_9": {
-    "date": "חמישי, 11 ספטמבר 2025",
-    "event_id": "9",
-    "time": "14:00 - 16:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
   "חמישי, 11 ספטמבר 2025_11": {
     "date": "חמישי, 11 ספטמבר 2025",
     "event_id": "11",
@@ -654,13 +647,6 @@
     "date": "שישי, 12 ספטמבר 2025",
     "event_id": "49",
     "time": "07:00 - 09:00",
-    "service_type": "עידו",
-    "is_available": true
-  },
-  "שישי, 12 ספטמבר 2025_51": {
-    "date": "שישי, 12 ספטמבר 2025",
-    "event_id": "51",
-    "time": "11:00 - 13:00",
     "service_type": "עידו",
     "is_available": true
   },
