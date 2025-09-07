@@ -41,6 +41,13 @@
     "service_type": "עידו",
     "is_available": true
   },
+  "שני, 8 ספטמבר 2025_45": {
+    "date": "שני, 8 ספטמבר 2025",
+    "event_id": "45",
+    "time": "16:00 - 19:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
   "שני, 8 ספטמבר 2025_58": {
     "date": "שני, 8 ספטמבר 2025",
     "event_id": "58",
@@ -1655,13 +1662,6 @@
     "date": "שלישי, 16 ספטמבר 2025",
     "event_id": "28",
     "time": "09:00 - 12:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  "שלישי, 16 ספטמבר 2025_30": {
-    "date": "שלישי, 16 ספטמבר 2025",
-    "event_id": "30",
-    "time": "15:00 - 18:00",
     "service_type": "מישל",
     "is_available": true
   },
