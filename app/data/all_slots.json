@@ -288,6 +288,13 @@
   },
   {
     "date": "שלישי, 9 ספטמבר 2025",
+    "event_id": "16",
+    "time": "16:00 - 19:00",
+    "service_type": "רונית",
+    "is_available": true
+  },
+  {
+    "date": "שלישי, 9 ספטמבר 2025",
     "event_id": "24",
     "time": "13:00 - 16:00",
     "service_type": "ליאור",
@@ -1723,13 +1730,6 @@
   },
   {
     "date": "רביעי, 17 ספטמבר 2025",
-    "event_id": "55",
-    "time": "12:00 - 15:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 17 ספטמבר 2025",
     "event_id": "58",
     "time": "08:00 - 11:00",
     "service_type": "רוני",
@@ -1795,13 +1795,6 @@
     "date": "רביעי, 17 ספטמבר 2025",
     "event_id": "39",
     "time": "12:00 - 15:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 17 ספטמבר 2025",
-    "event_id": "40",
-    "time": "15:00 - 18:00",
     "service_type": "הרמוני",
     "is_available": true
   },
