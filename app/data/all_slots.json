@@ -141,13 +141,6 @@
   },
   {
     "date": "שלישי, 9 ספטמבר 2025",
-    "event_id": "24",
-    "time": "16:00 - 19:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 9 ספטמבר 2025",
     "event_id": "25",
     "time": "19:00 - 22:00",
     "service_type": "ליאור",
@@ -451,13 +444,6 @@
     "date": "שישי, 12 ספטמבר 2025",
     "event_id": "48",
     "time": "07:00 - 09:00",
-    "service_type": "עידו",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 12 ספטמבר 2025",
-    "event_id": "53",
-    "time": "18:00 - 20:00",
     "service_type": "עידו",
     "is_available": true
   },
