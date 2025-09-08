@@ -55,13 +55,6 @@
     "service_type": "רוני",
     "is_available": true
   },
-  "שלישי, 9 ספטמבר 2025_2": {
-    "date": "שלישי, 9 ספטמבר 2025",
-    "event_id": "2",
-    "time": "11:00 - 14:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
   "שלישי, 9 ספטמבר 2025_5": {
     "date": "שלישי, 9 ספטמבר 2025",
     "event_id": "5",
@@ -150,6 +143,13 @@
     "date": "שלישי, 9 ספטמבר 2025",
     "event_id": "24",
     "time": "13:00 - 16:00",
+    "service_type": "ליאור",
+    "is_available": true
+  },
+  "שלישי, 9 ספטמבר 2025_25": {
+    "date": "שלישי, 9 ספטמבר 2025",
+    "event_id": "25",
+    "time": "16:00 - 19:00",
     "service_type": "ליאור",
     "is_available": true
   },
