@@ -482,13 +482,6 @@
     "service_type": "כרמן החדשה",
     "is_available": true
   },
-  "שישי, 12 ספטמבר 2025_28": {
-    "date": "שישי, 12 ספטמבר 2025",
-    "event_id": "28",
-    "time": "06:00 - 09:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
   "שישי, 12 ספטמבר 2025_12": {
     "date": "שישי, 12 ספטמבר 2025",
     "event_id": "12",
@@ -2103,13 +2096,6 @@
     "date": "שבת, 20 ספטמבר 2025",
     "event_id": "44",
     "time": "13:00 - 16:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  "שבת, 20 ספטמבר 2025_45": {
-    "date": "שבת, 20 ספטמבר 2025",
-    "event_id": "45",
-    "time": "16:00 - 19:00",
     "service_type": "ושתי",
     "is_available": true
   },
