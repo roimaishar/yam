@@ -64,13 +64,6 @@
   },
   {
     "date": "רביעי, 10 ספטמבר 2025",
-    "event_id": "41",
-    "time": "15:00 - 18:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 10 ספטמבר 2025",
     "event_id": "37",
     "time": "20:00 - 23:00",
     "service_type": "כרמן החדשה",
@@ -773,13 +766,6 @@
     "date": "שני, 15 ספטמבר 2025",
     "event_id": "21",
     "time": "07:00 - 10:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
-  {
-    "date": "שני, 15 ספטמבר 2025",
-    "event_id": "22",
-    "time": "10:00 - 13:00",
     "service_type": "ליאור",
     "is_available": true
   },
