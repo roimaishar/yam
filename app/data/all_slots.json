@@ -169,6 +169,13 @@
   },
   {
     "date": "רביעי, 10 ספטמבר 2025",
+    "event_id": "19",
+    "time": "07:00 - 10:00",
+    "service_type": "קטמנדו",
+    "is_available": true
+  },
+  {
+    "date": "רביעי, 10 ספטמבר 2025",
     "event_id": "20",
     "time": "10:00 - 13:00",
     "service_type": "קטמנדו",
@@ -458,13 +465,6 @@
     "date": "שבת, 13 ספטמבר 2025",
     "event_id": "30",
     "time": "15:00 - 18:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 13 ספטמבר 2025",
-    "event_id": "31",
-    "time": "18:00 - 21:00",
     "service_type": "מישל",
     "is_available": true
   },
@@ -1173,13 +1173,6 @@
     "event_id": "12",
     "time": "20:00 - 22:00",
     "service_type": "נאווה",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 16 ספטמבר 2025",
-    "event_id": "13",
-    "time": "07:00 - 10:00",
-    "service_type": "רונית",
     "is_available": true
   },
   {
