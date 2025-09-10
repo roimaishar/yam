@@ -379,13 +379,6 @@
   },
   {
     "date": "ראשון, 14 ספטמבר 2025",
-    "event_id": "42",
-    "time": "18:00 - 21:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 14 ספטמבר 2025",
     "event_id": "33",
     "time": "08:00 - 11:00",
     "service_type": "כרמן החדשה",
@@ -799,13 +792,6 @@
   },
   {
     "date": "שלישי, 16 ספטמבר 2025",
-    "event_id": "21",
-    "time": "07:00 - 10:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 16 ספטמבר 2025",
     "event_id": "22",
     "time": "10:00 - 13:00",
     "service_type": "ליאור",
@@ -815,13 +801,6 @@
     "date": "שלישי, 16 ספטמבר 2025",
     "event_id": "23",
     "time": "13:00 - 16:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 16 ספטמבר 2025",
-    "event_id": "24",
-    "time": "16:00 - 19:00",
     "service_type": "ליאור",
     "is_available": true
   },
