@@ -337,13 +337,6 @@
   },
   {
     "date": "ראשון, 14 ספטמבר 2025",
-    "event_id": "55",
-    "time": "09:00 - 12:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 14 ספטמבר 2025",
     "event_id": "56",
     "time": "12:00 - 15:00",
     "service_type": "אסתר",
@@ -395,6 +388,13 @@
     "date": "ראשון, 14 ספטמבר 2025",
     "event_id": "29",
     "time": "09:00 - 12:00",
+    "service_type": "מישל",
+    "is_available": true
+  },
+  {
+    "date": "ראשון, 14 ספטמבר 2025",
+    "event_id": "31",
+    "time": "15:00 - 18:00",
     "service_type": "מישל",
     "is_available": true
   },
