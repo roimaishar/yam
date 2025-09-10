@@ -85,13 +85,6 @@
   },
   {
     "date": "שישי, 12 ספטמבר 2025",
-    "event_id": "23",
-    "time": "07:00 - 10:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 12 ספטמבר 2025",
     "event_id": "20",
     "time": "11:00 - 13:00",
     "service_type": "קטמנדו",
