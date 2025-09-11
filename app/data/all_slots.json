@@ -253,13 +253,6 @@
   },
   {
     "date": "ראשון, 14 ספטמבר 2025",
-    "event_id": "39",
-    "time": "09:00 - 12:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 14 ספטמבר 2025",
     "event_id": "33",
     "time": "08:00 - 11:00",
     "service_type": "כרמן החדשה",
@@ -1249,13 +1242,6 @@
     "date": "שישי, 19 ספטמבר 2025",
     "event_id": "20",
     "time": "11:00 - 13:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 19 ספטמבר 2025",
-    "event_id": "21",
-    "time": "13:00 - 15:00",
     "service_type": "קטמנדו",
     "is_available": true
   },
