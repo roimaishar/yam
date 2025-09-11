@@ -1240,13 +1240,6 @@
   },
   {
     "date": "שישי, 19 ספטמבר 2025",
-    "event_id": "20",
-    "time": "11:00 - 13:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 19 ספטמבר 2025",
     "event_id": "22",
     "time": "15:00 - 17:00",
     "service_type": "קטמנדו",
@@ -1320,13 +1313,6 @@
     "event_id": "55",
     "time": "12:00 - 15:00",
     "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 20 ספטמבר 2025",
-    "event_id": "61",
-    "time": "17:00 - 20:00",
-    "service_type": "רוני",
     "is_available": true
   },
   {
