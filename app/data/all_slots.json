@@ -8,13 +8,6 @@
   },
   {
     "date": "שישי, 12 ספטמבר 2025",
-    "event_id": "60",
-    "time": "11:00 - 14:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 12 ספטמבר 2025",
     "event_id": "63",
     "time": "20:00 - 23:00",
     "service_type": "רוני",
@@ -25,13 +18,6 @@
     "event_id": "5",
     "time": "20:00 - 23:00",
     "service_type": "קרפה",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 12 ספטמבר 2025",
-    "event_id": "33",
-    "time": "08:00 - 11:00",
-    "service_type": "כרמן החדשה",
     "is_available": true
   },
   {
