@@ -302,13 +302,6 @@
   },
   {
     "date": "ראשון, 14 ספטמבר 2025",
-    "event_id": "31",
-    "time": "15:00 - 18:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 14 ספטמבר 2025",
     "event_id": "9",
     "time": "12:00 - 14:00",
     "service_type": "נאווה",
@@ -603,13 +596,6 @@
   },
   {
     "date": "שלישי, 16 ספטמבר 2025",
-    "event_id": "36",
-    "time": "06:00 - 09:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 16 ספטמבר 2025",
     "event_id": "37",
     "time": "09:00 - 12:00",
     "service_type": "הרמוני",
@@ -774,13 +760,6 @@
     "event_id": "55",
     "time": "12:00 - 15:00",
     "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 17 ספטמבר 2025",
-    "event_id": "58",
-    "time": "08:00 - 11:00",
-    "service_type": "רוני",
     "is_available": true
   },
   {
