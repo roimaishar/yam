@@ -69,13 +69,6 @@
     "service_type": "רוני",
     "is_available": true
   },
-  "שבת, 13 ספטמבר 2025_58": {
-    "date": "שבת, 13 ספטמבר 2025",
-    "event_id": "58",
-    "time": "11:00 - 14:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
   "שבת, 13 ספטמבר 2025_61": {
     "date": "שבת, 13 ספטמבר 2025",
     "event_id": "61",
@@ -234,13 +227,6 @@
     "date": "ראשון, 14 ספטמבר 2025",
     "event_id": "43",
     "time": "07:00 - 10:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  "ראשון, 14 ספטמבר 2025_45": {
-    "date": "ראשון, 14 ספטמבר 2025",
-    "event_id": "45",
-    "time": "13:00 - 16:00",
     "service_type": "ושתי",
     "is_available": true
   },
@@ -507,13 +493,6 @@
     "date": "שני, 15 ספטמבר 2025",
     "event_id": "21",
     "time": "07:00 - 10:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
-  "שני, 15 ספטמבר 2025_23": {
-    "date": "שני, 15 ספטמבר 2025",
-    "event_id": "23",
-    "time": "13:00 - 16:00",
     "service_type": "ליאור",
     "is_available": true
   },
