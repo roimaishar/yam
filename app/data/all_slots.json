@@ -287,13 +287,6 @@
     "is_available": true
   },
   {
-    "date": "ראשון, 14 ספטמבר 2025",
-    "event_id": "26",
-    "time": "19:00 - 22:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
-  {
     "date": "שני, 15 ספטמבר 2025",
     "event_id": "46",
     "time": "07:00 - 09:00",
@@ -696,13 +689,6 @@
     "date": "רביעי, 17 ספטמבר 2025",
     "event_id": "53",
     "time": "06:00 - 09:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 17 ספטמבר 2025",
-    "event_id": "55",
-    "time": "12:00 - 15:00",
     "service_type": "אסתר",
     "is_available": true
   },
