@@ -97,13 +97,6 @@
     "service_type": "מישל",
     "is_available": true
   },
-  "שני, 15 ספטמבר 2025_28": {
-    "date": "שני, 15 ספטמבר 2025",
-    "event_id": "28",
-    "time": "12:00 - 15:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
   "שני, 15 ספטמבר 2025_6": {
     "date": "שני, 15 ספטמבר 2025",
     "event_id": "6",
@@ -200,13 +193,6 @@
     "event_id": "45",
     "time": "19:00 - 22:00",
     "service_type": "ושתי",
-    "is_available": true
-  },
-  "שלישי, 16 ספטמבר 2025_52": {
-    "date": "שלישי, 16 ספטמבר 2025",
-    "event_id": "52",
-    "time": "06:00 - 09:00",
-    "service_type": "אסתר",
     "is_available": true
   },
   "שלישי, 16 ספטמבר 2025_57": {
@@ -850,13 +836,6 @@
     "date": "שבת, 20 ספטמבר 2025",
     "event_id": "28",
     "time": "09:00 - 12:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  "שבת, 20 ספטמבר 2025_29": {
-    "date": "שבת, 20 ספטמבר 2025",
-    "event_id": "29",
-    "time": "12:00 - 15:00",
     "service_type": "מישל",
     "is_available": true
   },
