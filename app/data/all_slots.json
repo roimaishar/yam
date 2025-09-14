@@ -673,6 +673,13 @@
   },
   {
     "date": "שישי, 19 ספטמבר 2025",
+    "event_id": "55",
+    "time": "09:00 - 12:00",
+    "service_type": "אסתר",
+    "is_available": true
+  },
+  {
+    "date": "שישי, 19 ספטמבר 2025",
     "event_id": "63",
     "time": "20:00 - 23:00",
     "service_type": "רוני",
@@ -2101,13 +2108,6 @@
   },
   {
     "date": "שישי, 26 ספטמבר 2025",
-    "event_id": "49",
-    "time": "09:00 - 11:00",
-    "service_type": "עידו",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 26 ספטמבר 2025",
     "event_id": "50",
     "time": "11:00 - 13:00",
     "service_type": "עידו",
@@ -2146,13 +2146,6 @@
     "event_id": "47",
     "time": "19:00 - 22:00",
     "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 26 ספטמבר 2025",
-    "event_id": "54",
-    "time": "06:00 - 09:00",
-    "service_type": "אסתר",
     "is_available": true
   },
   {
