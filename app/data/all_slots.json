@@ -141,6 +141,13 @@
   },
   {
     "date": "שני, 15 ספטמבר 2025",
+    "event_id": "22",
+    "time": "10:00 - 13:00",
+    "service_type": "ליאור",
+    "is_available": true
+  },
+  {
+    "date": "שני, 15 ספטמבר 2025",
     "event_id": "19",
     "time": "10:00 - 13:00",
     "service_type": "קטמנדו",
@@ -617,13 +624,6 @@
   },
   {
     "date": "חמישי, 18 ספטמבר 2025",
-    "event_id": "27",
-    "time": "16:00 - 19:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
-  {
-    "date": "חמישי, 18 ספטמבר 2025",
     "event_id": "28",
     "time": "19:00 - 22:00",
     "service_type": "ליאור",
@@ -669,13 +669,6 @@
     "event_id": "47",
     "time": "19:00 - 22:00",
     "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 19 ספטמבר 2025",
-    "event_id": "54",
-    "time": "06:00 - 09:00",
-    "service_type": "אסתר",
     "is_available": true
   },
   {
