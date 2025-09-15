@@ -770,13 +770,6 @@
     "is_available": true
   },
   {
-    "date": "ראשון, 21 ספטמבר 2025",
-    "event_id": "7",
-    "time": "10:00 - 12:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  {
     "date": "שני, 22 ספטמבר 2025",
     "event_id": "48",
     "time": "07:00 - 09:00",
@@ -913,13 +906,6 @@
     "date": "שני, 22 ספטמבר 2025",
     "event_id": "7",
     "time": "10:00 - 12:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  {
-    "date": "שני, 22 ספטמבר 2025",
-    "event_id": "8",
-    "time": "12:00 - 14:00",
     "service_type": "נאווה",
     "is_available": true
   },
@@ -1137,13 +1123,6 @@
     "date": "שלישי, 23 ספטמבר 2025",
     "event_id": "28",
     "time": "06:00 - 09:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 23 ספטמבר 2025",
-    "event_id": "29",
-    "time": "09:00 - 12:00",
     "service_type": "מישל",
     "is_available": true
   },
@@ -1795,13 +1774,6 @@
     "date": "שישי, 26 ספטמבר 2025",
     "event_id": "3",
     "time": "14:00 - 17:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 26 ספטמבר 2025",
-    "event_id": "4",
-    "time": "17:00 - 20:00",
     "service_type": "קרפה",
     "is_available": true
   },
