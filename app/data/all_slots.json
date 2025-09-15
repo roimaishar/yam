@@ -246,13 +246,6 @@
   },
   {
     "date": "רביעי, 17 ספטמבר 2025",
-    "event_id": "40",
-    "time": "12:00 - 15:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 17 ספטמבר 2025",
     "event_id": "37",
     "time": "20:00 - 23:00",
     "service_type": "כרמן החדשה",
@@ -1943,13 +1936,6 @@
     "event_id": "51",
     "time": "18:00 - 20:00",
     "service_type": "עידו",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 27 ספטמבר 2025",
-    "event_id": "43",
-    "time": "13:00 - 16:00",
-    "service_type": "ושתי",
     "is_available": true
   },
   {
