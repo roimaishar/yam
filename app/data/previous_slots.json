@@ -496,6 +496,13 @@
     "service_type": "הרמוני",
     "is_available": true
   },
+  "שישי, 19 ספטמבר 2025_36": {
+    "date": "שישי, 19 ספטמבר 2025",
+    "event_id": "36",
+    "time": "17:00 - 20:00",
+    "service_type": "כרמן החדשה",
+    "is_available": true
+  },
   "שישי, 19 ספטמבר 2025_37": {
     "date": "שישי, 19 ספטמבר 2025",
     "event_id": "37",
@@ -654,13 +661,6 @@
     "date": "שבת, 20 ספטמבר 2025",
     "event_id": "28",
     "time": "09:00 - 12:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  "שבת, 20 ספטמבר 2025_31": {
-    "date": "שבת, 20 ספטמבר 2025",
-    "event_id": "31",
-    "time": "18:00 - 21:00",
     "service_type": "מישל",
     "is_available": true
   },
