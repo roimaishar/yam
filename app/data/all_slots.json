@@ -505,6 +505,13 @@
   },
   {
     "date": "שבת, 20 ספטמבר 2025",
+    "event_id": "29",
+    "time": "12:00 - 15:00",
+    "service_type": "מישל",
+    "is_available": true
+  },
+  {
+    "date": "שבת, 20 ספטמבר 2025",
     "event_id": "7",
     "time": "08:00 - 10:00",
     "service_type": "נאווה",
