@@ -188,6 +188,13 @@
     "service_type": "רוני",
     "is_available": true
   },
+  "חמישי, 18 ספטמבר 2025_4": {
+    "date": "חמישי, 18 ספטמבר 2025",
+    "event_id": "4",
+    "time": "17:00 - 20:00",
+    "service_type": "קרפה",
+    "is_available": true
+  },
   "חמישי, 18 ספטמבר 2025_5": {
     "date": "חמישי, 18 ספטמבר 2025",
     "event_id": "5",
@@ -297,13 +304,6 @@
     "date": "שישי, 19 ספטמבר 2025",
     "event_id": "3",
     "time": "14:00 - 17:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
-  "שישי, 19 ספטמבר 2025_4": {
-    "date": "שישי, 19 ספטמבר 2025",
-    "event_id": "4",
-    "time": "17:00 - 20:00",
     "service_type": "קרפה",
     "is_available": true
   },
