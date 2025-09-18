@@ -6,13 +6,6 @@
     "service_type": "אסתר",
     "is_available": true
   },
-  "שישי, 19 ספטמבר 2025_2": {
-    "date": "שישי, 19 ספטמבר 2025",
-    "event_id": "2",
-    "time": "11:00 - 14:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
   "שישי, 19 ספטמבר 2025_40": {
     "date": "שישי, 19 ספטמבר 2025",
     "event_id": "40",
@@ -52,13 +45,6 @@
     "date": "שישי, 19 ספטמבר 2025",
     "event_id": "25",
     "time": "07:00 - 10:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
-  "שישי, 19 ספטמבר 2025_27": {
-    "date": "שישי, 19 ספטמבר 2025",
-    "event_id": "27",
-    "time": "13:00 - 16:00",
     "service_type": "ליאור",
     "is_available": true
   },
@@ -375,20 +361,6 @@
     "event_id": "27",
     "time": "19:00 - 22:00",
     "service_type": "ליאור",
-    "is_available": true
-  },
-  "שני, 22 ספטמבר 2025_18": {
-    "date": "שני, 22 ספטמבר 2025",
-    "event_id": "18",
-    "time": "07:00 - 09:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
-  "שני, 22 ספטמבר 2025_19": {
-    "date": "שני, 22 ספטמבר 2025",
-    "event_id": "19",
-    "time": "09:00 - 11:00",
-    "service_type": "קטמנדו",
     "is_available": true
   },
   "שני, 22 ספטמבר 2025_20": {
