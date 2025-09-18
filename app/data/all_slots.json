@@ -71,6 +71,13 @@
   },
   {
     "date": "שבת, 20 ספטמבר 2025",
+    "event_id": "56",
+    "time": "12:00 - 15:00",
+    "service_type": "אסתר",
+    "is_available": true
+  },
+  {
+    "date": "שבת, 20 ספטמבר 2025",
     "event_id": "63",
     "time": "20:00 - 23:00",
     "service_type": "רוני",
@@ -256,13 +263,6 @@
     "event_id": "38",
     "time": "06:00 - 09:00",
     "service_type": "הרמוני",
-    "is_available": true
-  },
-  {
-    "date": "שני, 22 ספטמבר 2025",
-    "event_id": "33",
-    "time": "08:00 - 11:00",
-    "service_type": "כרמן החדשה",
     "is_available": true
   },
   {
