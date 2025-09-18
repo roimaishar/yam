@@ -71,6 +71,13 @@
   },
   {
     "date": "שישי, 19 ספטמבר 2025",
+    "event_id": "2",
+    "time": "11:00 - 14:00",
+    "service_type": "קרפה",
+    "is_available": true
+  },
+  {
+    "date": "שישי, 19 ספטמבר 2025",
     "event_id": "3",
     "time": "14:00 - 17:00",
     "service_type": "קרפה",
@@ -626,13 +633,6 @@
     "date": "שלישי, 23 ספטמבר 2025",
     "event_id": "6",
     "time": "08:00 - 10:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 23 ספטמבר 2025",
-    "event_id": "8",
-    "time": "12:00 - 14:00",
     "service_type": "נאווה",
     "is_available": true
   },
