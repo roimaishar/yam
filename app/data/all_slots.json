@@ -182,6 +182,13 @@
     "is_available": true
   },
   {
+    "date": "שישי, 19 ספטמבר 2025",
+    "event_id": "20",
+    "time": "11:00 - 13:00",
+    "service_type": "קטמנדו",
+    "is_available": true
+  },
+  {
     "date": "שבת, 20 ספטמבר 2025",
     "event_id": "47",
     "time": "07:00 - 09:00",
