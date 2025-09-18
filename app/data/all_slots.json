@@ -302,13 +302,6 @@
   },
   {
     "date": "שני, 22 ספטמבר 2025",
-    "event_id": "7",
-    "time": "10:00 - 12:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  {
-    "date": "שני, 22 ספטמבר 2025",
     "event_id": "9",
     "time": "14:00 - 16:00",
     "service_type": "נאווה",
@@ -773,13 +766,6 @@
     "date": "חמישי, 25 ספטמבר 2025",
     "event_id": "38",
     "time": "06:00 - 09:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  {
-    "date": "חמישי, 25 ספטמבר 2025",
-    "event_id": "42",
-    "time": "18:00 - 21:00",
     "service_type": "הרמוני",
     "is_available": true
   },
