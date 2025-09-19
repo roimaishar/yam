@@ -15,13 +15,6 @@
   },
   {
     "date": "שישי, 19 ספטמבר 2025",
-    "event_id": "42",
-    "time": "12:00 - 15:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 19 ספטמבר 2025",
     "event_id": "30",
     "time": "06:00 - 09:00",
     "service_type": "מישל",
@@ -857,13 +850,6 @@
     "date": "שישי, 26 ספטמבר 2025",
     "event_id": "38",
     "time": "06:00 - 09:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 26 ספטמבר 2025",
-    "event_id": "40",
-    "time": "12:00 - 15:00",
     "service_type": "הרמוני",
     "is_available": true
   },
