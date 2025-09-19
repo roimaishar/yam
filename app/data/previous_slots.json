@@ -83,13 +83,6 @@
     "service_type": "אסתר",
     "is_available": true
   },
-  "שבת, 20 ספטמבר 2025_56": {
-    "date": "שבת, 20 ספטמבר 2025",
-    "event_id": "56",
-    "time": "12:00 - 15:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
   "שבת, 20 ספטמבר 2025_63": {
     "date": "שבת, 20 ספטמבר 2025",
     "event_id": "63",
@@ -748,13 +741,6 @@
     "service_type": "נאווה",
     "is_available": true
   },
-  "חמישי, 25 ספטמבר 2025_10": {
-    "date": "חמישי, 25 ספטמבר 2025",
-    "event_id": "10",
-    "time": "16:00 - 18:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
   "חמישי, 25 ספטמבר 2025_11": {
     "date": "חמישי, 25 ספטמבר 2025",
     "event_id": "11",
@@ -1004,13 +990,6 @@
     "date": "שבת, 27 ספטמבר 2025",
     "event_id": "1",
     "time": "08:00 - 11:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
-  "שבת, 27 ספטמבר 2025_2": {
-    "date": "שבת, 27 ספטמבר 2025",
-    "event_id": "2",
-    "time": "11:00 - 14:00",
     "service_type": "קרפה",
     "is_available": true
   },
