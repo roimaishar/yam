@@ -21,13 +21,6 @@
     "is_available": true
   },
   {
-    "date": "שישי, 19 ספטמבר 2025",
-    "event_id": "14",
-    "time": "10:00 - 13:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
-  {
     "date": "שבת, 20 ספטמבר 2025",
     "event_id": "48",
     "time": "07:00 - 09:00",
@@ -319,6 +312,13 @@
     "event_id": "27",
     "time": "19:00 - 22:00",
     "service_type": "ליאור",
+    "is_available": true
+  },
+  {
+    "date": "שני, 22 ספטמבר 2025",
+    "event_id": "21",
+    "time": "13:00 - 15:00",
+    "service_type": "קטמנדו",
     "is_available": true
   },
   {
