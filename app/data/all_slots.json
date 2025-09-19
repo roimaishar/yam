@@ -1,13 +1,6 @@
 [
   {
     "date": "שישי, 19 ספטמבר 2025",
-    "event_id": "58",
-    "time": "06:00 - 09:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 19 ספטמבר 2025",
     "event_id": "40",
     "time": "06:00 - 09:00",
     "service_type": "הרמוני",
