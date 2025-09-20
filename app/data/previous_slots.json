@@ -20,6 +20,13 @@
     "service_type": "עידו",
     "is_available": true
   },
+  "שני, 22 ספטמבר 2025_52": {
+    "date": "שני, 22 ספטמבר 2025",
+    "event_id": "52",
+    "time": "16:00 - 18:00",
+    "service_type": "עידו",
+    "is_available": true
+  },
   "שני, 22 ספטמבר 2025_53": {
     "date": "שני, 22 ספטמבר 2025",
     "event_id": "53",
@@ -115,6 +122,13 @@
     "date": "שלישי, 23 ספטמבר 2025",
     "event_id": "49",
     "time": "09:00 - 11:00",
+    "service_type": "עידו",
+    "is_available": true
+  },
+  "שלישי, 23 ספטמבר 2025_51": {
+    "date": "שלישי, 23 ספטמבר 2025",
+    "event_id": "51",
+    "time": "14:00 - 16:00",
     "service_type": "עידו",
     "is_available": true
   },
