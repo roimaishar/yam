@@ -99,13 +99,6 @@
   },
   {
     "date": "שלישי, 23 ספטמבר 2025",
-    "event_id": "47",
-    "time": "19:00 - 22:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 23 ספטמבר 2025",
     "event_id": "54",
     "time": "06:00 - 09:00",
     "service_type": "אסתר",
