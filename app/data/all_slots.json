@@ -43,13 +43,6 @@
   },
   {
     "date": "שלישי, 23 ספטמבר 2025",
-    "event_id": "28",
-    "time": "06:00 - 09:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 23 ספטמבר 2025",
     "event_id": "12",
     "time": "20:00 - 22:00",
     "service_type": "נאווה",
