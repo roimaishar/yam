@@ -1,13 +1,6 @@
 [
   {
     "date": "שלישי, 23 ספטמבר 2025",
-    "event_id": "48",
-    "time": "07:00 - 09:00",
-    "service_type": "עידו",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 23 ספטמבר 2025",
     "event_id": "53",
     "time": "18:00 - 20:00",
     "service_type": "עידו",
@@ -416,13 +409,6 @@
     "date": "שבת, 27 ספטמבר 2025",
     "event_id": "57",
     "time": "08:00 - 11:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 27 ספטמבר 2025",
-    "event_id": "59",
-    "time": "14:00 - 17:00",
     "service_type": "רוני",
     "is_available": true
   },
