@@ -288,13 +288,6 @@
   },
   {
     "date": "שישי, 26 ספטמבר 2025",
-    "event_id": "9",
-    "time": "14:00 - 16:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 26 ספטמבר 2025",
     "event_id": "12",
     "time": "20:00 - 22:00",
     "service_type": "נאווה",
