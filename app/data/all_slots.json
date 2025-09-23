@@ -246,6 +246,13 @@
   },
   {
     "date": "שישי, 26 ספטמבר 2025",
+    "event_id": "58",
+    "time": "18:00 - 21:00",
+    "service_type": "אסתר",
+    "is_available": true
+  },
+  {
+    "date": "שישי, 26 ספטמבר 2025",
     "event_id": "63",
     "time": "20:00 - 23:00",
     "service_type": "רוני",
