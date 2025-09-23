@@ -757,6 +757,13 @@
   },
   {
     "date": "שני, 29 ספטמבר 2025",
+    "event_id": "43",
+    "time": "13:00 - 16:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
+  {
+    "date": "שני, 29 ספטמבר 2025",
     "event_id": "45",
     "time": "19:00 - 22:00",
     "service_type": "ושתי",
