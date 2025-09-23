@@ -167,6 +167,13 @@
     "service_type": "ושתי",
     "is_available": true
   },
+  "חמישי, 25 ספטמבר 2025_56": {
+    "date": "חמישי, 25 ספטמבר 2025",
+    "event_id": "56",
+    "time": "12:00 - 15:00",
+    "service_type": "אסתר",
+    "is_available": true
+  },
   "חמישי, 25 ספטמבר 2025_63": {
     "date": "חמישי, 25 ספטמבר 2025",
     "event_id": "63",
@@ -2397,13 +2404,6 @@
     "date": "שני, 6 אוקטובר 2025",
     "event_id": "15",
     "time": "13:00 - 16:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
-  "שני, 6 אוקטובר 2025_16": {
-    "date": "שני, 6 אוקטובר 2025",
-    "event_id": "16",
-    "time": "16:00 - 19:00",
     "service_type": "רונית",
     "is_available": true
   },
