@@ -171,7 +171,11 @@ async def scrape_calendar_slots_for_days(days=14, filters=None):
         page = await context.new_page()
         
         print("Navigating to calendar slots page...")
-        await page.goto("https://yamonline.custhelp.com/app/calendar_slots")
+        await page.goto(
+            "https://yamonline.custhelp.com/app/calendar_slots",
+            wait_until="domcontentloaded",
+            timeout=60000
+        )
         try:
             # Wait for load state with a shorter timeout
             await page.wait_for_load_state("domcontentloaded", timeout=5000)

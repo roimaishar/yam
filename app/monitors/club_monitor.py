@@ -1,12 +1,12 @@
 import asyncio
 import json
 import os
-from datetime import datetime, timedelta
+from datetime import datetime
 from pathlib import Path
 
 from app.scrapers.club_scraper import scrape_club_activities_for_days
 from app.monitors.slack_notifier import SlackNotifier
-from app.utils.config import CLUB_ALL_SLOTS_FILE, CLUB_PREVIOUS_SLOTS_FILE, CLUB_NOTIFIED_SLOTS_FILE
+from app.utils.config import CLUB_PREVIOUS_SLOTS_FILE, CLUB_NOTIFIED_SLOTS_FILE
 
 class ClubMonitor:
     """Monitor for club activity availability changes."""
@@ -33,7 +33,8 @@ class ClubMonitor:
         if self.previous_activities_file.exists():
             with open(self.previous_activities_file, "r", encoding="utf-8") as f:
                 try:
-                    self.previous_activities = json.load(f)
+                    loaded = json.load(f)
+                    self.previous_activities = self._ensure_activity_dict(loaded)
                 except json.JSONDecodeError:
                     print("Error loading previous club activities file. Starting fresh.")
         
@@ -42,7 +43,12 @@ class ClubMonitor:
         if self.notified_activities_file.exists():
             with open(self.notified_activities_file, "r", encoding="utf-8") as f:
                 try:
-                    self.notified_activities = set(json.load(f))
+                    loaded_notified = json.load(f)
+                    if isinstance(loaded_notified, list):
+                        self.notified_activities = set(loaded_notified)
+                    elif isinstance(loaded_notified, dict):
+                        keys = [self._get_activity_key(item) for item in loaded_notified.values()]
+                        self.notified_activities = {key for key in keys if key}
                 except json.JSONDecodeError:
                     print("Error loading notified club activities file. Starting fresh.")
     
@@ -83,7 +89,9 @@ class ClubMonitor:
         # Convert current activities to a dict for easy comparison (track ALL activities, not just available ones)
         current_activities_dict = {}
         for activity in current_activities:
-            activity_key = f"{activity['date']}_{activity['event_id']}"
+            activity_key = self._get_activity_key(activity)
+            if not activity_key:
+                continue
             current_activities_dict[activity_key] = activity
         
         # Only notify if we have previous data to compare against
@@ -218,6 +226,11 @@ class ClubMonitor:
         """Convert Hebrew date format to English."""
         if not isinstance(hebrew_date, str):
             return str(hebrew_date)
+        try:
+            date_obj = datetime.fromisoformat(hebrew_date)
+            return date_obj.strftime("%A, %d %B %Y")
+        except ValueError:
+            pass
         
         # Hebrew to English day names
         hebrew_day_to_english = {
@@ -243,6 +256,32 @@ class ClubMonitor:
             english_date = english_date.replace(hebrew_month, english_month)
         
         return english_date
+
+    def _get_activity_key(self, activity):
+        if not isinstance(activity, dict):
+            return None
+        key = activity.get("activity_id")
+        if key:
+            return key
+        date_iso = activity.get("date_iso") or activity.get("date")
+        event_id = activity.get("event_id") or activity.get("registration_event_id")
+        if date_iso and event_id:
+            return f"{date_iso}_{event_id}"
+        if event_id:
+            return str(event_id)
+        return None
+
+    def _ensure_activity_dict(self, loaded):
+        if isinstance(loaded, dict):
+            return {key: value for key, value in loaded.items() if isinstance(value, dict)}
+        if isinstance(loaded, list):
+            result = {}
+            for item in loaded:
+                key = self._get_activity_key(item)
+                if key and isinstance(item, dict):
+                    result[key] = item
+            return result
+        return {}
 
 async def main():
     """Main function for testing club monitor independently."""
