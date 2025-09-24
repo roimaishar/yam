@@ -1,13 +1,6 @@
 [
   {
     "date": "חמישי, 25 ספטמבר 2025",
-    "event_id": "51",
-    "time": "14:00 - 16:00",
-    "service_type": "עידו",
-    "is_available": true
-  },
-  {
-    "date": "חמישי, 25 ספטמבר 2025",
     "event_id": "52",
     "time": "16:00 - 18:00",
     "service_type": "עידו",
