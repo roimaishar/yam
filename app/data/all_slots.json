@@ -316,6 +316,13 @@
   },
   {
     "date": "שבת, 27 ספטמבר 2025",
+    "event_id": "16",
+    "time": "16:00 - 19:00",
+    "service_type": "רונית",
+    "is_available": true
+  },
+  {
+    "date": "שבת, 27 ספטמבר 2025",
     "event_id": "17",
     "time": "19:00 - 22:00",
     "service_type": "רונית",
@@ -710,13 +717,6 @@
     "date": "שני, 29 ספטמבר 2025",
     "event_id": "6",
     "time": "08:00 - 10:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  {
-    "date": "שני, 29 ספטמבר 2025",
-    "event_id": "7",
-    "time": "10:00 - 12:00",
     "service_type": "נאווה",
     "is_available": true
   },
