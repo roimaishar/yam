@@ -22,13 +22,6 @@
   },
   {
     "date": "חמישי, 25 ספטמבר 2025",
-    "event_id": "56",
-    "time": "12:00 - 15:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "חמישי, 25 ספטמבר 2025",
     "event_id": "63",
     "time": "20:00 - 23:00",
     "service_type": "רוני",
