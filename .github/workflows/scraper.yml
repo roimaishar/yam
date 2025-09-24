@@ -1,4 +1,4 @@
-name: YAM Boat Slot Monitor
+name: YAM Boat & Club Activity Monitor
 
 on:
   schedule:
@@ -33,11 +33,20 @@ jobs:
           YAM_COOKIES_PATH: ${{ runner.temp }}/yam_cookies.json
         run: python -m app.main monitor 14 --once
 
+      - name: Run club monitor once
+        env:
+          YAM_USERNAME: ${{ secrets.YAM_USERNAME }}
+          YAM_PASSWORD: ${{ secrets.YAM_PASSWORD }}
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+          SLACK_WEBHOOK_URL_CLUB: ${{ secrets.SLACK_WEBHOOK_URL_CLUB }}
+          YAM_COOKIES_PATH: ${{ runner.temp }}/yam_cookies.json
+        run: python -m app.main club check 14
+
       - name: Commit and push if changes
         run: |
           git config --global user.name 'GitHub Actions Bot'
           git config --global user.email 'actions@github.com'
-          git add app/data/all_slots.json app/data/previous_slots.json app/data/notified_slots.json
+          git add app/data/all_slots.json app/data/previous_slots.json app/data/notified_slots.json app/data/club_all_slots.json app/data/club_previous_slots.json app/data/club_notified_slots.json
           
           # Only proceed if there are changes to commit
           if ! git diff --quiet || ! git diff --staged --quiet; then
