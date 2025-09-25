@@ -517,13 +517,6 @@
     "service_type": "ושתי",
     "is_available": true
   },
-  "שני, 29 ספטמבר 2025_45": {
-    "date": "שני, 29 ספטמבר 2025",
-    "event_id": "45",
-    "time": "19:00 - 22:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
   "שני, 29 ספטמבר 2025_1": {
     "date": "שני, 29 ספטמבר 2025",
     "event_id": "1",
@@ -1522,13 +1515,6 @@
     "date": "ראשון, 5 אוקטובר 2025",
     "event_id": "61",
     "time": "08:00 - 11:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
-  "ראשון, 5 אוקטובר 2025_62": {
-    "date": "ראשון, 5 אוקטובר 2025",
-    "event_id": "62",
-    "time": "11:00 - 14:00",
     "service_type": "רוני",
     "is_available": true
   },
