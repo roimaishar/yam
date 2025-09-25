@@ -1940,13 +1940,6 @@
   },
   {
     "date": "שני, 6 אוקטובר 2025",
-    "event_id": "30",
-    "time": "12:00 - 15:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  {
-    "date": "שני, 6 אוקטובר 2025",
     "event_id": "31",
     "time": "15:00 - 18:00",
     "service_type": "מישל",
