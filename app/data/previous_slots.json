@@ -76,13 +76,6 @@
     "service_type": "רונית",
     "is_available": true
   },
-  "שישי, 26 ספטמבר 2025_25": {
-    "date": "שישי, 26 ספטמבר 2025",
-    "event_id": "25",
-    "time": "13:00 - 16:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
   "שישי, 26 ספטמבר 2025_22": {
     "date": "שישי, 26 ספטמבר 2025",
     "event_id": "22",
@@ -867,13 +860,6 @@
     "service_type": "עידו",
     "is_available": true
   },
-  "שישי, 3 אוקטובר 2025_50": {
-    "date": "שישי, 3 אוקטובר 2025",
-    "event_id": "50",
-    "time": "11:00 - 13:00",
-    "service_type": "עידו",
-    "is_available": true
-  },
   "שישי, 3 אוקטובר 2025_51": {
     "date": "שישי, 3 אוקטובר 2025",
     "event_id": "51",
@@ -983,13 +969,6 @@
     "date": "שישי, 3 אוקטובר 2025",
     "event_id": "6",
     "time": "08:00 - 10:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  "שישי, 3 אוקטובר 2025_8": {
-    "date": "שישי, 3 אוקטובר 2025",
-    "event_id": "8",
-    "time": "12:00 - 14:00",
     "service_type": "נאווה",
     "is_available": true
   },
