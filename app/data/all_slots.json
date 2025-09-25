@@ -57,6 +57,13 @@
   },
   {
     "date": "שישי, 26 ספטמבר 2025",
+    "event_id": "9",
+    "time": "14:00 - 16:00",
+    "service_type": "נאווה",
+    "is_available": true
+  },
+  {
+    "date": "שישי, 26 ספטמבר 2025",
     "event_id": "12",
     "time": "20:00 - 22:00",
     "service_type": "נאווה",
@@ -67,6 +74,13 @@
     "event_id": "17",
     "time": "19:00 - 22:00",
     "service_type": "רונית",
+    "is_available": true
+  },
+  {
+    "date": "שישי, 26 ספטמבר 2025",
+    "event_id": "22",
+    "time": "15:00 - 17:00",
+    "service_type": "קטמנדו",
     "is_available": true
   },
   {
@@ -130,13 +144,6 @@
     "event_id": "5",
     "time": "20:00 - 23:00",
     "service_type": "קרפה",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 27 ספטמבר 2025",
-    "event_id": "36",
-    "time": "06:00 - 09:00",
-    "service_type": "הרמוני",
     "is_available": true
   },
   {
@@ -309,13 +316,6 @@
   },
   {
     "date": "ראשון, 28 ספטמבר 2025",
-    "event_id": "4",
-    "time": "17:00 - 20:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 28 ספטמבר 2025",
     "event_id": "5",
     "time": "20:00 - 23:00",
     "service_type": "קרפה",
@@ -428,13 +428,6 @@
   },
   {
     "date": "ראשון, 28 ספטמבר 2025",
-    "event_id": "25",
-    "time": "16:00 - 19:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 28 ספטמבר 2025",
     "event_id": "26",
     "time": "19:00 - 22:00",
     "service_type": "ליאור",
@@ -535,13 +528,6 @@
     "date": "שני, 29 ספטמבר 2025",
     "event_id": "36",
     "time": "06:00 - 09:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  {
-    "date": "שני, 29 ספטמבר 2025",
-    "event_id": "38",
-    "time": "12:00 - 15:00",
     "service_type": "הרמוני",
     "is_available": true
   },
@@ -1800,13 +1786,6 @@
   },
   {
     "date": "שני, 6 אוקטובר 2025",
-    "event_id": "60",
-    "time": "11:00 - 14:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
-  {
-    "date": "שני, 6 אוקטובר 2025",
     "event_id": "63",
     "time": "20:00 - 23:00",
     "service_type": "רוני",
@@ -2185,13 +2164,6 @@
   },
   {
     "date": "שלישי, 7 אוקטובר 2025",
-    "event_id": "34",
-    "time": "14:00 - 17:00",
-    "service_type": "כרמן החדשה",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 7 אוקטובר 2025",
     "event_id": "36",
     "time": "20:00 - 23:00",
     "service_type": "כרמן החדשה",
@@ -2215,13 +2187,6 @@
     "date": "שלישי, 7 אוקטובר 2025",
     "event_id": "30",
     "time": "15:00 - 18:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 7 אוקטובר 2025",
-    "event_id": "31",
-    "time": "18:00 - 21:00",
     "service_type": "מישל",
     "is_available": true
   },
