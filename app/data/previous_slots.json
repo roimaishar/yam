@@ -195,6 +195,13 @@
     "service_type": "ושתי",
     "is_available": true
   },
+  "שני, 29 ספטמבר 2025_52": {
+    "date": "שני, 29 ספטמבר 2025",
+    "event_id": "52",
+    "time": "06:00 - 09:00",
+    "service_type": "אסתר",
+    "is_available": true
+  },
   "שני, 29 ספטמבר 2025_1": {
     "date": "שני, 29 ספטמבר 2025",
     "event_id": "1",
@@ -2341,13 +2348,6 @@
     "date": "שישי, 10 אוקטובר 2025",
     "event_id": "28",
     "time": "06:00 - 09:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  "שישי, 10 אוקטובר 2025_29": {
-    "date": "שישי, 10 אוקטובר 2025",
-    "event_id": "29",
-    "time": "09:00 - 12:00",
     "service_type": "מישל",
     "is_available": true
   },
