@@ -78,23 +78,9 @@
   },
   {
     "date": "שלישי, 30 ספטמבר 2025",
-    "event_id": "26",
-    "time": "06:00 - 09:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 30 ספטמבר 2025",
     "event_id": "6",
     "time": "08:00 - 10:00",
     "service_type": "נאווה",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 30 ספטמבר 2025",
-    "event_id": "13",
-    "time": "07:00 - 10:00",
-    "service_type": "רונית",
     "is_available": true
   },
   {
