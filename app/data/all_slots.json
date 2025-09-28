@@ -71,13 +71,6 @@
   },
   {
     "date": "שלישי, 30 ספטמבר 2025",
-    "event_id": "36",
-    "time": "06:00 - 09:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 30 ספטמבר 2025",
     "event_id": "31",
     "time": "08:00 - 11:00",
     "service_type": "כרמן החדשה",
@@ -1411,13 +1404,6 @@
     "event_id": "62",
     "time": "20:00 - 23:00",
     "service_type": "רוני",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 8 אוקטובר 2025",
-    "event_id": "3",
-    "time": "14:00 - 17:00",
-    "service_type": "קרפה",
     "is_available": true
   },
   {
