@@ -105,6 +105,125 @@
     "is_available": true
   },
   {
+    "date": "חמישי, 2 אוקטובר 2025",
+    "event_id": "48",
+    "time": "07:00 - 09:00",
+    "service_type": "עידו",
+    "is_available": true
+  },
+  {
+    "date": "חמישי, 2 אוקטובר 2025",
+    "event_id": "52",
+    "time": "16:00 - 18:00",
+    "service_type": "עידו",
+    "is_available": true
+  },
+  {
+    "date": "חמישי, 2 אוקטובר 2025",
+    "event_id": "53",
+    "time": "18:00 - 20:00",
+    "service_type": "עידו",
+    "is_available": true
+  },
+  {
+    "date": "חמישי, 2 אוקטובר 2025",
+    "event_id": "63",
+    "time": "20:00 - 23:00",
+    "service_type": "רוני",
+    "is_available": true
+  },
+  {
+    "date": "חמישי, 2 אוקטובר 2025",
+    "event_id": "5",
+    "time": "20:00 - 23:00",
+    "service_type": "קרפה",
+    "is_available": true
+  },
+  {
+    "date": "חמישי, 2 אוקטובר 2025",
+    "event_id": "38",
+    "time": "06:00 - 09:00",
+    "service_type": "הרמוני",
+    "is_available": true
+  },
+  {
+    "date": "חמישי, 2 אוקטובר 2025",
+    "event_id": "42",
+    "time": "18:00 - 21:00",
+    "service_type": "הרמוני",
+    "is_available": true
+  },
+  {
+    "date": "חמישי, 2 אוקטובר 2025",
+    "event_id": "37",
+    "time": "20:00 - 23:00",
+    "service_type": "כרמן החדשה",
+    "is_available": true
+  },
+  {
+    "date": "חמישי, 2 אוקטובר 2025",
+    "event_id": "28",
+    "time": "06:00 - 09:00",
+    "service_type": "מישל",
+    "is_available": true
+  },
+  {
+    "date": "חמישי, 2 אוקטובר 2025",
+    "event_id": "32",
+    "time": "18:00 - 21:00",
+    "service_type": "מישל",
+    "is_available": true
+  },
+  {
+    "date": "חמישי, 2 אוקטובר 2025",
+    "event_id": "11",
+    "time": "18:00 - 20:00",
+    "service_type": "נאווה",
+    "is_available": true
+  },
+  {
+    "date": "חמישי, 2 אוקטובר 2025",
+    "event_id": "12",
+    "time": "20:00 - 22:00",
+    "service_type": "נאווה",
+    "is_available": true
+  },
+  {
+    "date": "חמישי, 2 אוקטובר 2025",
+    "event_id": "13",
+    "time": "07:00 - 10:00",
+    "service_type": "רונית",
+    "is_available": true
+  },
+  {
+    "date": "חמישי, 2 אוקטובר 2025",
+    "event_id": "17",
+    "time": "19:00 - 22:00",
+    "service_type": "רונית",
+    "is_available": true
+  },
+  {
+    "date": "חמישי, 2 אוקטובר 2025",
+    "event_id": "23",
+    "time": "07:00 - 10:00",
+    "service_type": "ליאור",
+    "is_available": true
+  },
+  {
+    "date": "חמישי, 2 אוקטובר 2025",
+    "event_id": "27",
+    "time": "19:00 - 22:00",
+    "service_type": "ליאור",
+    "is_available": true
+  },
+  {
+    "date": "חמישי, 2 אוקטובר 2025",
+    "event_id": "18",
+    "time": "07:00 - 09:00",
+    "service_type": "קטמנדו",
+    "is_available": true
+  },
+  {
     "date": "שישי, 3 אוקטובר 2025",
     "event_id": "48",
     "time": "07:00 - 09:00",
