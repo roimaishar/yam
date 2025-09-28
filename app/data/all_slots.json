@@ -43,13 +43,6 @@
   },
   {
     "date": "שני, 29 ספטמבר 2025",
-    "event_id": "41",
-    "time": "07:00 - 10:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "שני, 29 ספטמבר 2025",
     "event_id": "52",
     "time": "06:00 - 09:00",
     "service_type": "אסתר",
@@ -1809,13 +1802,6 @@
     "date": "חמישי, 9 אוקטובר 2025",
     "event_id": "59",
     "time": "08:00 - 11:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
-  {
-    "date": "חמישי, 9 אוקטובר 2025",
-    "event_id": "61",
-    "time": "14:00 - 17:00",
     "service_type": "רוני",
     "is_available": true
   },
