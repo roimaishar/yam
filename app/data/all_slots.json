@@ -1478,13 +1478,6 @@
   },
   {
     "date": "חמישי, 9 אוקטובר 2025",
-    "event_id": "55",
-    "time": "09:00 - 12:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "חמישי, 9 אוקטובר 2025",
     "event_id": "59",
     "time": "08:00 - 11:00",
     "service_type": "רוני",
@@ -1506,13 +1499,6 @@
   },
   {
     "date": "חמישי, 9 אוקטובר 2025",
-    "event_id": "2",
-    "time": "11:00 - 14:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
-  {
-    "date": "חמישי, 9 אוקטובר 2025",
     "event_id": "4",
     "time": "17:00 - 20:00",
     "service_type": "קרפה",
@@ -1529,13 +1515,6 @@
     "date": "חמישי, 9 אוקטובר 2025",
     "event_id": "38",
     "time": "06:00 - 09:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  {
-    "date": "חמישי, 9 אוקטובר 2025",
-    "event_id": "39",
-    "time": "09:00 - 12:00",
     "service_type": "הרמוני",
     "is_available": true
   },
@@ -1781,13 +1760,6 @@
     "date": "שישי, 10 אוקטובר 2025",
     "event_id": "1",
     "time": "08:00 - 11:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 10 אוקטובר 2025",
-    "event_id": "3",
-    "time": "14:00 - 17:00",
     "service_type": "קרפה",
     "is_available": true
   },
