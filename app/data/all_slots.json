@@ -351,6 +351,13 @@
   },
   {
     "date": "שבת, 4 אוקטובר 2025",
+    "event_id": "9",
+    "time": "14:00 - 16:00",
+    "service_type": "נאווה",
+    "is_available": true
+  },
+  {
+    "date": "שבת, 4 אוקטובר 2025",
     "event_id": "10",
     "time": "16:00 - 18:00",
     "service_type": "נאווה",
