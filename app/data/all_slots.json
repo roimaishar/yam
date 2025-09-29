@@ -1457,13 +1457,6 @@
   },
   {
     "date": "חמישי, 9 אוקטובר 2025",
-    "event_id": "43",
-    "time": "07:00 - 10:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "חמישי, 9 אוקטובר 2025",
     "event_id": "47",
     "time": "19:00 - 22:00",
     "service_type": "ושתי",
@@ -1515,13 +1508,6 @@
     "date": "חמישי, 9 אוקטובר 2025",
     "event_id": "38",
     "time": "06:00 - 09:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  {
-    "date": "חמישי, 9 אוקטובר 2025",
-    "event_id": "40",
-    "time": "12:00 - 15:00",
     "service_type": "הרמוני",
     "is_available": true
   },
