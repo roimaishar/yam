@@ -258,6 +258,13 @@
     "service_type": "אסתר",
     "is_available": true
   },
+  "שבת, 4 אוקטובר 2025_57": {
+    "date": "שבת, 4 אוקטובר 2025",
+    "event_id": "57",
+    "time": "08:00 - 11:00",
+    "service_type": "רוני",
+    "is_available": true
+  },
   "שבת, 4 אוקטובר 2025_60": {
     "date": "שבת, 4 אוקטובר 2025",
     "event_id": "60",
@@ -311,13 +318,6 @@
     "date": "שבת, 4 אוקטובר 2025",
     "event_id": "26",
     "time": "06:00 - 09:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  "שבת, 4 אוקטובר 2025_27": {
-    "date": "שבת, 4 אוקטובר 2025",
-    "event_id": "27",
-    "time": "09:00 - 12:00",
     "service_type": "מישל",
     "is_available": true
   },
@@ -979,13 +979,6 @@
     "service_type": "אסתר",
     "is_available": true
   },
-  "שלישי, 7 אוקטובר 2025_58": {
-    "date": "שלישי, 7 אוקטובר 2025",
-    "event_id": "58",
-    "time": "08:00 - 11:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
   "שלישי, 7 אוקטובר 2025_62": {
     "date": "שלישי, 7 אוקטובר 2025",
     "event_id": "62",
@@ -1018,6 +1011,13 @@
     "date": "שלישי, 7 אוקטובר 2025",
     "event_id": "37",
     "time": "06:00 - 09:00",
+    "service_type": "הרמוני",
+    "is_available": true
+  },
+  "שלישי, 7 אוקטובר 2025_38": {
+    "date": "שלישי, 7 אוקטובר 2025",
+    "event_id": "38",
+    "time": "09:00 - 12:00",
     "service_type": "הרמוני",
     "is_available": true
   },
