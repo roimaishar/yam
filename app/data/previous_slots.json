@@ -6,6 +6,13 @@
     "service_type": "עידו",
     "is_available": true
   },
+  "חמישי, 2 אוקטובר 2025_51": {
+    "date": "חמישי, 2 אוקטובר 2025",
+    "event_id": "51",
+    "time": "14:00 - 16:00",
+    "service_type": "עידו",
+    "is_available": true
+  },
   "חמישי, 2 אוקטובר 2025_63": {
     "date": "חמישי, 2 אוקטובר 2025",
     "event_id": "63",
@@ -584,13 +591,6 @@
     "date": "ראשון, 5 אוקטובר 2025",
     "event_id": "20",
     "time": "11:00 - 13:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
-  "ראשון, 5 אוקטובר 2025_21": {
-    "date": "ראשון, 5 אוקטובר 2025",
-    "event_id": "21",
-    "time": "13:00 - 15:00",
     "service_type": "קטמנדו",
     "is_available": true
   },
@@ -2075,13 +2075,6 @@
     "date": "שבת, 11 אוקטובר 2025",
     "event_id": "20",
     "time": "10:00 - 13:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
-  "שבת, 11 אוקטובר 2025_21": {
-    "date": "שבת, 11 אוקטובר 2025",
-    "event_id": "21",
-    "time": "13:00 - 16:00",
     "service_type": "קטמנדו",
     "is_available": true
   },
