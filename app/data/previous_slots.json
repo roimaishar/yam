@@ -153,13 +153,6 @@
     "service_type": "קרפה",
     "is_available": true
   },
-  "שישי, 3 אוקטובר 2025_38": {
-    "date": "שישי, 3 אוקטובר 2025",
-    "event_id": "38",
-    "time": "06:00 - 09:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
   "שישי, 3 אוקטובר 2025_37": {
     "date": "שישי, 3 אוקטובר 2025",
     "event_id": "37",
@@ -696,13 +689,6 @@
     "date": "שני, 6 אוקטובר 2025",
     "event_id": "3",
     "time": "14:00 - 17:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
-  "שני, 6 אוקטובר 2025_4": {
-    "date": "שני, 6 אוקטובר 2025",
-    "event_id": "4",
-    "time": "17:00 - 20:00",
     "service_type": "קרפה",
     "is_available": true
   },
