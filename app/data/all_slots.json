@@ -589,6 +589,13 @@
   },
   {
     "date": "שני, 6 אוקטובר 2025",
+    "event_id": "59",
+    "time": "08:00 - 11:00",
+    "service_type": "רוני",
+    "is_available": true
+  },
+  {
+    "date": "שני, 6 אוקטובר 2025",
     "event_id": "63",
     "time": "20:00 - 23:00",
     "service_type": "רוני",
