@@ -29,13 +29,6 @@
   },
   {
     "date": "חמישי, 2 אוקטובר 2025",
-    "event_id": "28",
-    "time": "06:00 - 09:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  {
-    "date": "חמישי, 2 אוקטובר 2025",
     "event_id": "32",
     "time": "18:00 - 21:00",
     "service_type": "מישל",
@@ -1032,13 +1025,6 @@
     "date": "רביעי, 8 אוקטובר 2025",
     "event_id": "32",
     "time": "08:00 - 11:00",
-    "service_type": "כרמן החדשה",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 8 אוקטובר 2025",
-    "event_id": "33",
-    "time": "11:00 - 14:00",
     "service_type": "כרמן החדשה",
     "is_available": true
   },
