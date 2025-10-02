@@ -71,13 +71,6 @@
   },
   {
     "date": "שישי, 3 אוקטובר 2025",
-    "event_id": "62",
-    "time": "17:00 - 20:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 3 אוקטובר 2025",
     "event_id": "63",
     "time": "20:00 - 23:00",
     "service_type": "רוני",
@@ -2586,13 +2579,6 @@
     "date": "שלישי, 14 אוקטובר 2025",
     "event_id": "33",
     "time": "14:00 - 17:00",
-    "service_type": "כרמן החדשה",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 14 אוקטובר 2025",
-    "event_id": "34",
-    "time": "17:00 - 20:00",
     "service_type": "כרמן החדשה",
     "is_available": true
   },
