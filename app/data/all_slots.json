@@ -204,6 +204,13 @@
   },
   {
     "date": "ראשון, 5 אוקטובר 2025",
+    "event_id": "59",
+    "time": "15:00 - 18:00",
+    "service_type": "אסתר",
+    "is_available": true
+  },
+  {
+    "date": "ראשון, 5 אוקטובר 2025",
     "event_id": "60",
     "time": "18:00 - 21:00",
     "service_type": "אסתר",
@@ -389,13 +396,6 @@
     "event_id": "54",
     "time": "06:00 - 09:00",
     "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "שני, 6 אוקטובר 2025",
-    "event_id": "59",
-    "time": "08:00 - 11:00",
-    "service_type": "רוני",
     "is_available": true
   },
   {
@@ -2647,6 +2647,20 @@
   },
   {
     "date": "רביעי, 15 אוקטובר 2025",
+    "event_id": "39",
+    "time": "15:00 - 18:00",
+    "service_type": "הרמוני",
+    "is_available": true
+  },
+  {
+    "date": "רביעי, 15 אוקטובר 2025",
+    "event_id": "40",
+    "time": "18:00 - 21:00",
+    "service_type": "הרמוני",
+    "is_available": true
+  },
+  {
+    "date": "רביעי, 15 אוקטובר 2025",
     "event_id": "31",
     "time": "08:00 - 11:00",
     "service_type": "כרמן החדשה",
@@ -2691,13 +2705,6 @@
     "date": "רביעי, 15 אוקטובר 2025",
     "event_id": "28",
     "time": "12:00 - 15:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 15 אוקטובר 2025",
-    "event_id": "29",
-    "time": "15:00 - 18:00",
     "service_type": "מישל",
     "is_available": true
   },
