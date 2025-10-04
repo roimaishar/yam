@@ -43,13 +43,6 @@
   },
   {
     "date": "ראשון, 5 אוקטובר 2025",
-    "event_id": "58",
-    "time": "12:00 - 15:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 5 אוקטובר 2025",
     "event_id": "60",
     "time": "18:00 - 21:00",
     "service_type": "אסתר",
@@ -682,13 +675,6 @@
     "date": "רביעי, 8 אוקטובר 2025",
     "event_id": "19",
     "time": "07:00 - 10:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 8 אוקטובר 2025",
-    "event_id": "20",
-    "time": "10:00 - 13:00",
     "service_type": "קטמנדו",
     "is_available": true
   },
