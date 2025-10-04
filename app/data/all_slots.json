@@ -267,6 +267,13 @@
   },
   {
     "date": "שני, 6 אוקטובר 2025",
+    "event_id": "15",
+    "time": "13:00 - 16:00",
+    "service_type": "רונית",
+    "is_available": true
+  },
+  {
+    "date": "שני, 6 אוקטובר 2025",
     "event_id": "17",
     "time": "19:00 - 22:00",
     "service_type": "רונית",
@@ -655,6 +662,13 @@
     "event_id": "63",
     "time": "20:00 - 23:00",
     "service_type": "רוני",
+    "is_available": true
+  },
+  {
+    "date": "חמישי, 9 אוקטובר 2025",
+    "event_id": "3",
+    "time": "14:00 - 17:00",
+    "service_type": "קרפה",
     "is_available": true
   },
   {
