@@ -547,13 +547,6 @@
   },
   {
     "date": "שלישי, 7 אוקטובר 2025",
-    "event_id": "23",
-    "time": "10:00 - 13:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 7 אוקטובר 2025",
     "event_id": "26",
     "time": "19:00 - 22:00",
     "service_type": "ליאור",
@@ -1907,13 +1900,6 @@
     "date": "שני, 13 אוקטובר 2025",
     "event_id": "15",
     "time": "13:00 - 16:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
-  {
-    "date": "שני, 13 אוקטובר 2025",
-    "event_id": "16",
-    "time": "16:00 - 19:00",
     "service_type": "רונית",
     "is_available": true
   },
