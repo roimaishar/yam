@@ -288,13 +288,6 @@
   },
   {
     "date": "שני, 6 אוקטובר 2025",
-    "event_id": "10",
-    "time": "16:00 - 18:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  {
-    "date": "שני, 6 אוקטובר 2025",
     "event_id": "11",
     "time": "18:00 - 20:00",
     "service_type": "נאווה",
@@ -2271,13 +2264,6 @@
     "date": "רביעי, 15 אוקטובר 2025",
     "event_id": "52",
     "time": "06:00 - 09:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 15 אוקטובר 2025",
-    "event_id": "53",
-    "time": "09:00 - 12:00",
     "service_type": "אסתר",
     "is_available": true
   },
