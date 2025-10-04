@@ -274,13 +274,6 @@
   },
   {
     "date": "שני, 6 אוקטובר 2025",
-    "event_id": "11",
-    "time": "18:00 - 20:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  {
-    "date": "שני, 6 אוקטובר 2025",
     "event_id": "12",
     "time": "20:00 - 22:00",
     "service_type": "נאווה",
@@ -2033,13 +2026,6 @@
     "date": "שלישי, 14 אוקטובר 2025",
     "event_id": "37",
     "time": "09:00 - 12:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 14 אוקטובר 2025",
-    "event_id": "40",
-    "time": "18:00 - 21:00",
     "service_type": "הרמוני",
     "is_available": true
   },
