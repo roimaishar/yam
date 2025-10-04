@@ -167,13 +167,6 @@
     "service_type": "עידו",
     "is_available": true
   },
-  "שני, 6 אוקטובר 2025_50": {
-    "date": "שני, 6 אוקטובר 2025",
-    "event_id": "50",
-    "time": "11:00 - 13:00",
-    "service_type": "עידו",
-    "is_available": true
-  },
   "שני, 6 אוקטובר 2025_51": {
     "date": "שני, 6 אוקטובר 2025",
     "event_id": "51",
@@ -1074,13 +1067,6 @@
     "date": "שבת, 11 אוקטובר 2025",
     "event_id": "39",
     "time": "12:00 - 15:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  "שבת, 11 אוקטובר 2025_40": {
-    "date": "שבת, 11 אוקטובר 2025",
-    "event_id": "40",
-    "time": "15:00 - 18:00",
     "service_type": "הרמוני",
     "is_available": true
   },
