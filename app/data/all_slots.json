@@ -85,13 +85,6 @@
   },
   {
     "date": "שני, 6 אוקטובר 2025",
-    "event_id": "32",
-    "time": "18:00 - 21:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  {
-    "date": "שני, 6 אוקטובר 2025",
     "event_id": "6",
     "time": "08:00 - 10:00",
     "service_type": "נאווה",
@@ -291,6 +284,13 @@
     "event_id": "27",
     "time": "19:00 - 22:00",
     "service_type": "ליאור",
+    "is_available": true
+  },
+  {
+    "date": "חמישי, 9 אוקטובר 2025",
+    "event_id": "22",
+    "time": "15:00 - 17:00",
+    "service_type": "קטמנדו",
     "is_available": true
   },
   {
