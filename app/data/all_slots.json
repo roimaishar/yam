@@ -616,20 +616,6 @@
     "is_available": true
   },
   {
-    "date": "חמישי, 9 אוקטובר 2025",
-    "event_id": "18",
-    "time": "07:00 - 09:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
-  {
-    "date": "חמישי, 9 אוקטובר 2025",
-    "event_id": "19",
-    "time": "09:00 - 11:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
-  {
     "date": "שישי, 10 אוקטובר 2025",
     "event_id": "48",
     "time": "07:00 - 09:00",
@@ -1464,13 +1450,6 @@
   },
   {
     "date": "שני, 13 אוקטובר 2025",
-    "event_id": "3",
-    "time": "14:00 - 17:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
-  {
-    "date": "שני, 13 אוקטובר 2025",
     "event_id": "4",
     "time": "17:00 - 20:00",
     "service_type": "קרפה",
@@ -2173,20 +2152,6 @@
     "date": "רביעי, 15 אוקטובר 2025",
     "event_id": "9",
     "time": "14:00 - 16:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 15 אוקטובר 2025",
-    "event_id": "10",
-    "time": "16:00 - 18:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 15 אוקטובר 2025",
-    "event_id": "11",
-    "time": "18:00 - 20:00",
     "service_type": "נאווה",
     "is_available": true
   },
