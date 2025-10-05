@@ -90,6 +90,13 @@
     "service_type": "מישל",
     "is_available": true
   },
+  "שני, 6 אוקטובר 2025_32": {
+    "date": "שני, 6 אוקטובר 2025",
+    "event_id": "32",
+    "time": "18:00 - 21:00",
+    "service_type": "מישל",
+    "is_available": true
+  },
   "שני, 6 אוקטובר 2025_6": {
     "date": "שני, 6 אוקטובר 2025",
     "event_id": "6",
@@ -130,6 +137,13 @@
     "event_id": "27",
     "time": "19:00 - 22:00",
     "service_type": "ליאור",
+    "is_available": true
+  },
+  "שני, 6 אוקטובר 2025_20": {
+    "date": "שני, 6 אוקטובר 2025",
+    "event_id": "20",
+    "time": "11:00 - 13:00",
+    "service_type": "קטמנדו",
     "is_available": true
   },
   "שני, 6 אוקטובר 2025_21": {
@@ -2719,13 +2733,6 @@
     "date": "שישי, 17 אוקטובר 2025",
     "event_id": "15",
     "time": "13:00 - 16:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
-  "שישי, 17 אוקטובר 2025_16": {
-    "date": "שישי, 17 אוקטובר 2025",
-    "event_id": "16",
-    "time": "16:00 - 19:00",
     "service_type": "רונית",
     "is_available": true
   },
