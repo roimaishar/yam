@@ -146,13 +146,6 @@
     "service_type": "קטמנדו",
     "is_available": true
   },
-  "שני, 6 אוקטובר 2025_21": {
-    "date": "שני, 6 אוקטובר 2025",
-    "event_id": "21",
-    "time": "13:00 - 15:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
   "שני, 6 אוקטובר 2025_22": {
     "date": "שני, 6 אוקטובר 2025",
     "event_id": "22",
@@ -1011,13 +1004,6 @@
     "date": "שבת, 11 אוקטובר 2025",
     "event_id": "16",
     "time": "13:00 - 16:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
-  "שבת, 11 אוקטובר 2025_17": {
-    "date": "שבת, 11 אוקטובר 2025",
-    "event_id": "17",
-    "time": "16:00 - 19:00",
     "service_type": "רונית",
     "is_available": true
   },
