@@ -20,13 +20,6 @@
     "service_type": "עידו",
     "is_available": true
   },
-  "שלישי, 7 אוקטובר 2025_44": {
-    "date": "שלישי, 7 אוקטובר 2025",
-    "event_id": "44",
-    "time": "13:00 - 16:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
   "שלישי, 7 אוקטובר 2025_46": {
     "date": "שלישי, 7 אוקטובר 2025",
     "event_id": "46",
@@ -381,13 +374,6 @@
     "date": "שישי, 10 אוקטובר 2025",
     "event_id": "28",
     "time": "06:00 - 09:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  "שישי, 10 אוקטובר 2025_32": {
-    "date": "שישי, 10 אוקטובר 2025",
-    "event_id": "32",
-    "time": "18:00 - 21:00",
     "service_type": "מישל",
     "is_available": true
   },
