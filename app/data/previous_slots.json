@@ -76,6 +76,13 @@
     "service_type": "קרפה",
     "is_available": true
   },
+  "חמישי, 9 אוקטובר 2025_40": {
+    "date": "חמישי, 9 אוקטובר 2025",
+    "event_id": "40",
+    "time": "12:00 - 15:00",
+    "service_type": "הרמוני",
+    "is_available": true
+  },
   "חמישי, 9 אוקטובר 2025_42": {
     "date": "חמישי, 9 אוקטובר 2025",
     "event_id": "42",
@@ -836,13 +843,6 @@
     "date": "שני, 13 אוקטובר 2025",
     "event_id": "28",
     "time": "06:00 - 09:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  "שני, 13 אוקטובר 2025_31": {
-    "date": "שני, 13 אוקטובר 2025",
-    "event_id": "31",
-    "time": "15:00 - 18:00",
     "service_type": "מישל",
     "is_available": true
   },
