@@ -204,13 +204,6 @@
   },
   {
     "date": "שישי, 10 אוקטובר 2025",
-    "event_id": "43",
-    "time": "07:00 - 10:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 10 אוקטובר 2025",
     "event_id": "47",
     "time": "19:00 - 22:00",
     "service_type": "ושתי",
@@ -998,13 +991,6 @@
     "event_id": "51",
     "time": "18:00 - 20:00",
     "service_type": "עידו",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 14 אוקטובר 2025",
-    "event_id": "41",
-    "time": "07:00 - 10:00",
-    "service_type": "ושתי",
     "is_available": true
   },
   {
@@ -2341,13 +2327,6 @@
     "date": "ראשון, 19 אוקטובר 2025",
     "event_id": "57",
     "time": "12:00 - 15:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 19 אוקטובר 2025",
-    "event_id": "58",
-    "time": "15:00 - 18:00",
     "service_type": "אסתר",
     "is_available": true
   },
