@@ -335,13 +335,6 @@
     "service_type": "רוני",
     "is_available": true
   },
-  "שבת, 11 אוקטובר 2025_4": {
-    "date": "שבת, 11 אוקטובר 2025",
-    "event_id": "4",
-    "time": "17:00 - 20:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
   "שבת, 11 אוקטובר 2025_5": {
     "date": "שבת, 11 אוקטובר 2025",
     "event_id": "5",
@@ -395,13 +388,6 @@
     "date": "שבת, 11 אוקטובר 2025",
     "event_id": "10",
     "time": "14:00 - 16:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  "שבת, 11 אוקטובר 2025_11": {
-    "date": "שבת, 11 אוקטובר 2025",
-    "event_id": "11",
-    "time": "16:00 - 18:00",
     "service_type": "נאווה",
     "is_available": true
   },
