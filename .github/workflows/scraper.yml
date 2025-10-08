@@ -30,6 +30,7 @@ jobs:
           YAM_USERNAME: ${{ secrets.YAM_USERNAME }}
           YAM_PASSWORD: ${{ secrets.YAM_PASSWORD }}
           SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+          STORM_GLASS_KEY: ${{ secrets.STORM_GLASS_KEY }}
           YAM_COOKIES_PATH: ${{ runner.temp }}/yam_cookies.json
         run: python -m app.main monitor 14 --once
 
@@ -39,6 +40,7 @@ jobs:
           YAM_PASSWORD: ${{ secrets.YAM_PASSWORD }}
           SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
           SLACK_WEBHOOK_URL_CLUB: ${{ secrets.SLACK_WEBHOOK_URL_CLUB }}
+          STORM_GLASS_KEY: ${{ secrets.STORM_GLASS_KEY }}
           YAM_COOKIES_PATH: ${{ runner.temp }}/yam_cookies.json
         run: python -m app.main club check 14
 
@@ -46,7 +48,7 @@ jobs:
         run: |
           git config --global user.name 'GitHub Actions Bot'
           git config --global user.email 'actions@github.com'
-          git add app/data/all_slots.json app/data/previous_slots.json app/data/notified_slots.json app/data/club_all_slots.json app/data/club_previous_slots.json app/data/club_notified_slots.json
+          git add app/data/all_slots.json app/data/previous_slots.json app/data/notified_slots.json app/data/club_all_slots.json app/data/club_previous_slots.json app/data/club_notified_slots.json app/data/stormglass_usage.json
           
           # Only proceed if there are changes to commit
           if ! git diff --quiet || ! git diff --staged --quiet; then

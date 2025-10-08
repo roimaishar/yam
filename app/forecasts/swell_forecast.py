@@ -99,6 +99,12 @@ def process_combined_forecast(marine_data, weather_data):
     # Process marine hourly data first
     if "hourly" in marine_data:
         hourly_time = marine_data["hourly"].get("time", [])
+        hourly_wave_height = marine_data["hourly"].get("wave_height", [])
+        hourly_swell_height = marine_data["hourly"].get("swell_wave_height", [])
+        hourly_wave_period = marine_data["hourly"].get("wave_period", [])
+        hourly_swell_period = marine_data["hourly"].get("swell_wave_period", [])
+        hourly_wave_direction = marine_data["hourly"].get("wave_direction", [])
+        hourly_swell_direction = marine_data["hourly"].get("swell_wave_direction", [])
         
         # Initialize each unique date with default values
         for time_str in hourly_time:
@@ -130,12 +136,51 @@ def process_combined_forecast(marine_data, weather_data):
                     "avg_wind_speed_knots": 0.0,
                     "dominant_wind_direction": None,
                     "max_uv_index": daily_data.get(date_str, {}).get("uv_index_max", None),
-                    "min_visibility": 20000,  # Default to good visibility
+                    "min_visibility": 20000,
                     "moon_emoji": moon_emoji,
                     "moon_phase": moon_phase,
                     "sunrise": daily_data.get(date_str, {}).get("sunrise", None),
-                    "sunset": daily_data.get(date_str, {}).get("sunset", None)
+                    "sunset": daily_data.get(date_str, {}).get("sunset", None),
+                    "wave_heights": [],
+                    "swell_heights": [],
+                    "wave_periods": [],
+                    "swell_periods": [],
+                    "wave_directions": [],
+                    "swell_directions": []
                 }
+        
+        # Now populate the marine data arrays
+        for i, time_str in enumerate(hourly_time):
+            date_str = time_str.split("T")[0]
+            
+            if date_str in date_data_map:
+                if i < len(hourly_wave_height) and hourly_wave_height[i] is not None:
+                    date_data_map[date_str]["wave_heights"].append(hourly_wave_height[i])
+                if i < len(hourly_swell_height) and hourly_swell_height[i] is not None:
+                    date_data_map[date_str]["swell_heights"].append(hourly_swell_height[i])
+                if i < len(hourly_wave_period) and hourly_wave_period[i] is not None:
+                    date_data_map[date_str]["wave_periods"].append(hourly_wave_period[i])
+                if i < len(hourly_swell_period) and hourly_swell_period[i] is not None:
+                    date_data_map[date_str]["swell_periods"].append(hourly_swell_period[i])
+                if i < len(hourly_wave_direction) and hourly_wave_direction[i] is not None:
+                    date_data_map[date_str]["wave_directions"].append(hourly_wave_direction[i])
+                if i < len(hourly_swell_direction) and hourly_swell_direction[i] is not None:
+                    date_data_map[date_str]["swell_directions"].append(hourly_swell_direction[i])
+        
+        # Calculate aggregates for marine data
+        for date_str in date_data_map:
+            if date_data_map[date_str]["wave_heights"]:
+                date_data_map[date_str]["max_wave_height"] = max(date_data_map[date_str]["wave_heights"])
+            if date_data_map[date_str]["swell_heights"]:
+                date_data_map[date_str]["max_swell_height"] = max(date_data_map[date_str]["swell_heights"])
+            if date_data_map[date_str]["wave_periods"]:
+                date_data_map[date_str]["avg_wave_period"] = sum(date_data_map[date_str]["wave_periods"]) / len(date_data_map[date_str]["wave_periods"])
+            if date_data_map[date_str]["swell_periods"]:
+                date_data_map[date_str]["avg_swell_period"] = sum(date_data_map[date_str]["swell_periods"]) / len(date_data_map[date_str]["swell_periods"])
+            if date_data_map[date_str]["wave_directions"]:
+                date_data_map[date_str]["dominant_wave_direction"] = get_dominant_direction(date_data_map[date_str]["wave_directions"])
+            if date_data_map[date_str]["swell_directions"]:
+                date_data_map[date_str]["dominant_swell_direction"] = get_dominant_direction(date_data_map[date_str]["swell_directions"])
     
     # Process weather hourly data
     if "hourly" in weather_data:
@@ -323,10 +368,17 @@ def save_forecast_to_cache(forecast_data):
 
 def get_simplified_forecast(days=7):
     """Get a simplified version of the forecast for display"""
-    forecast = get_swell_forecast(days=days)
+    # Try StormGlass first (no fallback to Open-Meteo)
+    from app.forecasts.stormglass_forecast import get_stormglass_forecast
+    
+    forecast, error = get_stormglass_forecast(days=days)
     
     if not forecast or "daily" not in forecast:
-        return None
+        return None, error
+    
+    # Clear any previous error if we have data
+    if forecast:
+        error = None
     
     simplified = []
     for date, data in forecast["daily"].items():
@@ -365,7 +417,7 @@ def get_simplified_forecast(days=7):
     # Sort by date
     simplified.sort(key=lambda x: x["date"])
     
-    return simplified
+    return simplified, error
 
 def get_swell_emoji(height):
     """Get emoji representation for swell height"""

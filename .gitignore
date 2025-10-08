@@ -44,3 +44,4 @@ cookies/
 # Logs
 *.log
 app/data/swell_forecast.json
+app/data/stormglass_forecast.json

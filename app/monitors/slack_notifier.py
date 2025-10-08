@@ -72,6 +72,14 @@ class SlackNotifier:
         
         from app.forecasts.swell_forecast import format_slot_forecast
         
+        # Get forecast error if any
+        forecast_error = None
+        try:
+            from app.forecasts.swell_forecast import get_simplified_forecast
+            _, forecast_error = get_simplified_forecast(days=1)
+        except Exception:
+            pass
+        
         for slot in slots[:shown_slots]:  # Only process slots we'll show
             date_key = slot.get("date", "Unknown")
             if date_key not in slots_by_date:
@@ -106,10 +114,11 @@ class SlackNotifier:
             
             slot_info = f"{slot.get('time', '')}: {service_type}"
             
-            # Add forecast emoji if available
-            forecast_emoji = format_slot_forecast(slot)
-            if forecast_emoji:
-                slot_info += f" {forecast_emoji}"
+            # Add forecast emoji if available (only if no error)
+            if not forecast_error:
+                forecast_emoji = format_slot_forecast(slot)
+                if forecast_emoji:
+                    slot_info += f" {forecast_emoji}"
                 
             slots_by_date[date_key].append(slot_info)
         
@@ -183,6 +192,10 @@ class SlackNotifier:
                 notification += f"- {slot_info}\n"
             
             notification += "\n"
+        
+        # Add forecast error at the end if present
+        if forecast_error:
+            notification += f"\n{forecast_error}"
         
         return notification.strip()
     
