@@ -113,6 +113,13 @@
   },
   {
     "date": "חמישי, 9 אוקטובר 2025",
+    "event_id": "20",
+    "time": "16:00 - 19:00",
+    "service_type": "רונית",
+    "is_available": true
+  },
+  {
+    "date": "חמישי, 9 אוקטובר 2025",
     "event_id": "21",
     "time": "19:00 - 22:00",
     "service_type": "רונית",
@@ -382,6 +389,13 @@
     "event_id": "18",
     "time": "19:00 - 22:00",
     "service_type": "רונית",
+    "is_available": true
+  },
+  {
+    "date": "שבת, 11 אוקטובר 2025",
+    "event_id": "25",
+    "time": "16:00 - 19:00",
+    "service_type": "ליאור",
     "is_available": true
   },
   {
@@ -1096,13 +1110,6 @@
     "event_id": "43",
     "time": "13:00 - 16:00",
     "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 15 אוקטובר 2025",
-    "event_id": "52",
-    "time": "06:00 - 09:00",
-    "service_type": "אסתר",
     "is_available": true
   },
   {
