@@ -90,6 +90,13 @@
     "service_type": "מישל",
     "is_available": true
   },
+  "חמישי, 9 אוקטובר 2025_12": {
+    "date": "חמישי, 9 אוקטובר 2025",
+    "event_id": "12",
+    "time": "16:00 - 18:00",
+    "service_type": "נאווה",
+    "is_available": true
+  },
   "חמישי, 9 אוקטובר 2025_13": {
     "date": "חמישי, 9 אוקטובר 2025",
     "event_id": "13",
@@ -283,13 +290,6 @@
     "date": "שבת, 11 אוקטובר 2025",
     "event_id": "49",
     "time": "11:00 - 13:00",
-    "service_type": "עידו",
-    "is_available": true
-  },
-  "שבת, 11 אוקטובר 2025_51": {
-    "date": "שבת, 11 אוקטובר 2025",
-    "event_id": "51",
-    "time": "16:00 - 18:00",
     "service_type": "עידו",
     "is_available": true
   },
