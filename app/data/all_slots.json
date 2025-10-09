@@ -211,13 +211,6 @@
   },
   {
     "date": "שישי, 10 אוקטובר 2025",
-    "event_id": "42",
-    "time": "18:00 - 21:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 10 אוקטובר 2025",
     "event_id": "37",
     "time": "20:00 - 23:00",
     "service_type": "כרמן החדשה",
@@ -388,6 +381,13 @@
     "date": "שבת, 11 אוקטובר 2025",
     "event_id": "19",
     "time": "07:00 - 10:00",
+    "service_type": "קטמנדו",
+    "is_available": true
+  },
+  {
+    "date": "שבת, 11 אוקטובר 2025",
+    "event_id": "20",
+    "time": "10:00 - 13:00",
     "service_type": "קטמנדו",
     "is_available": true
   },
