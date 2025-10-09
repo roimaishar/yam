@@ -701,13 +701,6 @@
   },
   {
     "date": "שני, 13 אוקטובר 2025",
-    "event_id": "7",
-    "time": "10:00 - 12:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  {
-    "date": "שני, 13 אוקטובר 2025",
     "event_id": "8",
     "time": "12:00 - 14:00",
     "service_type": "נאווה",
