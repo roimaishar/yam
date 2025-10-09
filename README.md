@@ -97,6 +97,7 @@ yam/
    YAM_PASSWORD=your_password
    SLACK_WEBHOOK_URL=your_slack_webhook_url  # Optional, for monitoring notifications
    SLACK_WEBHOOK_URL_CLUB=your_activities_channel_webhook_url  # Optional, for club activity notifications to #activities
+   STORM_GLASS_KEY=your_stormglass_api_key  # Required for accurate weather forecasts
    ```
 
 ## Usage
@@ -190,9 +191,9 @@ python -m app.main monitor --setup
 The Slack notifications sent by this application are designed for optimal mobile viewing and include comprehensive weather data:
 
 - **Mobile-Optimized Format**: Compact, English-only notifications optimized for mobile devices
+- **Accurate Location**: Weather data from exact Herzliya Marina coordinates (32.164°N, 34.791°E)
 - **Wave Height Indicators**: 🏝️ (calm), 🌊 (moderate), 🌊🌊 (large)
 - **Wind Speed Indicators**: 🍃 (light), 💨 (moderate), 🌪️ (strong)
-- **UV Index**: Shown as a numeric value (e.g., UV7)
 - **Visibility Indicators**: 🌫️ (poor visibility), 👁️ (good visibility), 🔭 (excellent visibility)
 - **Moon Phase**: Shown for evening/night slots using standard moon phase emojis (🌑, 🌒, 🌓, etc.)
 - **Direct Booking Links**: Each slot has a clickable link for immediate booking
@@ -221,6 +222,7 @@ This project includes a GitHub Actions workflow that automatically runs the moni
      - `YAM_PASSWORD` - Your YAM Online password
      - `SLACK_WEBHOOK_URL` - Slack webhook for boat slot notifications (e.g., `#yam_monitor`)
      - `SLACK_WEBHOOK_URL_CLUB` - Slack webhook for club activity notifications (e.g., `#activities`)
+     - `STORM_GLASS_KEY` - StormGlass API key for accurate weather forecasts
 
 2. **Workflow file**:
    - The workflow file is located at `.github/workflows/scraper.yml`

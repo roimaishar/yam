@@ -1,12 +1,11 @@
-# YAM Swell Forecast Integration
+# YAM Marine Forecast Integration
 
-This module integrates marine weather forecasts into the YAM application, providing real-time swell and wave data for Herzliya Marina.
+This module integrates marine weather forecasts into the YAM application, providing accurate real-time swell and wave data for Herzliya Marina using StormGlass API.
 
 ## Features
 
 - **Marine Data**: Wave height, period, and direction forecasts
 - **Wind Data**: Wind speed (in knots) and direction forecasts
-- **UV Index**: Daily maximum UV index with numeric indicator
 - **Visibility**: Visual indicators for fog and clear conditions
 - **Moon Phase**: Moon phase information for evening/night slots
 - **Caching**: 6-hour local cache to reduce API calls
@@ -19,12 +18,14 @@ This module integrates marine weather forecasts into the YAM application, provid
 
 ## API Provider
 
-The integration uses [Open-Meteo Marine Weather API](https://open-meteo.com/en/docs/marine-weather-api), which offers:
+The integration uses [StormGlass API](https://stormglass.io/), which offers:
 
-- Free access with no API key required
-- Global coverage including Israeli coastal waters
-- Hourly resolution data for up to 16 days
-- Wave height, period, and direction data
+- High-accuracy marine forecasts (1km resolution)
+- Exact location data for Herzliya Marina (32.164°N, 34.791°E)
+- Multiple model ensemble for better accuracy
+- Hourly resolution data
+- Wave height, period, direction, swell, wind speed, and visibility
+- Rate limit: 10 calls per day (managed automatically)
 
 ## Usage Examples
 
@@ -120,7 +121,7 @@ UV index is shown as a numeric value prefixed with "UV":
 - UV8-UV10: Very high exposure risk (displayed in notifications)
 - UV11+: Extreme exposure risk (displayed in notifications)
 
-**Note:** Only UV values of 8 or higher (very high or extreme risk) are shown in the notifications.
+**Note:** UV index is not available from StormGlass API and is not displayed in notifications.
 
 ## Moon Phase
 
@@ -136,19 +137,28 @@ Moon phases are shown for evening/night slots only:
 
 ## Implementation Details
 
-The swell forecast module:
+The marine forecast module:
 
-1. Fetches marine data from Open-Meteo API
+1. Fetches marine data from StormGlass API for exact Herzliya Marina location
 2. Processes and caches the data locally
 3. Provides helper functions to format data for notifications
 4. Integrates with Slack notifier to display wave conditions
+5. Manages API rate limiting (10 calls/day)
 
-Data is cached in the `app/data/swell_forecast.json` file and refreshed every 6 hours to minimize API calls.
+Data is cached in `app/data/stormglass_forecast.json` and refreshed every 2.4 hours. API usage is tracked in `app/data/stormglass_usage.json` to respect the daily limit.
 
 ## Configuration
 
-The default coordinates are set to Herzliya Marina:
+The coordinates are set to Herzliya Marina:
 - Latitude: 32.1640
 - Longitude: 34.7914
 
-These can be overridden in the `get_swell_forecast()` function if needed.
+StormGlass API key is required and must be set in `.env`:
+```
+STORM_GLASS_KEY=your_api_key_here
+```
+
+**Rate Limiting**: The system automatically manages the 10 calls/day limit by:
+- Caching forecast data for 2.4 hours
+- Tracking API usage in `app/data/stormglass_usage.json`
+- Showing error messages in notifications if limit is reached
