@@ -253,6 +253,13 @@
   },
   {
     "date": "שישי, 10 אוקטובר 2025",
+    "event_id": "14",
+    "time": "10:00 - 13:00",
+    "service_type": "רונית",
+    "is_available": true
+  },
+  {
+    "date": "שישי, 10 אוקטובר 2025",
     "event_id": "17",
     "time": "19:00 - 22:00",
     "service_type": "רונית",
@@ -745,13 +752,6 @@
     "date": "שני, 13 אוקטובר 2025",
     "event_id": "19",
     "time": "09:00 - 11:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
-  {
-    "date": "שני, 13 אוקטובר 2025",
-    "event_id": "20",
-    "time": "11:00 - 13:00",
     "service_type": "קטמנדו",
     "is_available": true
   },
