@@ -50,8 +50,7 @@ def get_stormglass_forecast(days=7):
                 'swellDirection',
                 'windSpeed',
                 'windDirection',
-                'visibility',
-                'uvIndex'
+                'visibility'
             ]),
             'start': datetime.utcnow().isoformat(),
             'end': end_time.isoformat()
@@ -118,7 +117,6 @@ def process_stormglass_data(api_data):
                 'swell_directions': [],
                 'wind_speeds': [],
                 'wind_directions': [],
-                'uv_indices': [],
                 'visibilities': []
             }
         
@@ -165,10 +163,6 @@ def process_stormglass_data(api_data):
         if wind_dir is not None:
             daily_data[date_str]['wind_directions'].append(wind_dir)
         
-        uv = get_value(hour_data, 'uvIndex')
-        if uv is not None:
-            daily_data[date_str]['uv_indices'].append(uv)
-        
         visibility = get_value(hour_data, 'visibility')
         if visibility is not None:
             daily_data[date_str]['visibilities'].append(visibility)
@@ -196,7 +190,7 @@ def process_stormglass_data(api_data):
             'max_wind_speed_knots': max(data['wind_speeds']) * 1.94384 if data['wind_speeds'] else 0.0,  # m/s to knots
             'avg_wind_speed_knots': (sum(data['wind_speeds']) / len(data['wind_speeds'])) * 1.94384 if data['wind_speeds'] else 0.0,
             'dominant_wind_direction': get_dominant_direction(data['wind_directions']) if data['wind_directions'] else None,
-            'max_uv_index': max(data['uv_indices']) if data['uv_indices'] else None,
+            'max_uv_index': None,  # UV data not available from StormGlass weather endpoint
             'min_visibility': min(data['visibilities']) * 1000 if data['visibilities'] else 20000,  # km to meters
             'moon_emoji': moon_emoji,
             'moon_phase': moon_phase,
