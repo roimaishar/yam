@@ -190,6 +190,13 @@
   },
   {
     "date": "שישי, 10 אוקטובר 2025",
+    "event_id": "62",
+    "time": "17:00 - 20:00",
+    "service_type": "רוני",
+    "is_available": true
+  },
+  {
+    "date": "שישי, 10 אוקטובר 2025",
     "event_id": "63",
     "time": "20:00 - 23:00",
     "service_type": "רוני",
@@ -774,6 +781,13 @@
     "event_id": "51",
     "time": "18:00 - 20:00",
     "service_type": "עידו",
+    "is_available": true
+  },
+  {
+    "date": "שלישי, 14 אוקטובר 2025",
+    "event_id": "41",
+    "time": "07:00 - 10:00",
+    "service_type": "ושתי",
     "is_available": true
   },
   {
