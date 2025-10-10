@@ -469,13 +469,6 @@
     "is_available": true
   },
   {
-    "date": "שני, 13 אוקטובר 2025",
-    "event_id": "22",
-    "time": "15:00 - 17:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
-  {
     "date": "שלישי, 14 אוקטובר 2025",
     "event_id": "48",
     "time": "11:00 - 13:00",
@@ -771,13 +764,6 @@
   },
   {
     "date": "רביעי, 15 אוקטובר 2025",
-    "event_id": "40",
-    "time": "18:00 - 21:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 15 אוקטובר 2025",
     "event_id": "31",
     "time": "08:00 - 11:00",
     "service_type": "כרמן החדשה",
@@ -935,13 +921,6 @@
     "event_id": "48",
     "time": "19:00 - 22:00",
     "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "חמישי, 16 אוקטובר 2025",
-    "event_id": "55",
-    "time": "06:00 - 09:00",
-    "service_type": "אסתר",
     "is_available": true
   },
   {
