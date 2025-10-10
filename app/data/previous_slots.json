@@ -27,13 +27,6 @@
     "service_type": "ושתי",
     "is_available": true
   },
-  "שבת, 11 אוקטובר 2025_60": {
-    "date": "שבת, 11 אוקטובר 2025",
-    "event_id": "60",
-    "time": "14:00 - 17:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
   "שבת, 11 אוקטובר 2025_62": {
     "date": "שבת, 11 אוקטובר 2025",
     "event_id": "62",
@@ -185,6 +178,13 @@
     "date": "ראשון, 12 אוקטובר 2025",
     "event_id": "60",
     "time": "08:00 - 11:00",
+    "service_type": "רוני",
+    "is_available": true
+  },
+  "ראשון, 12 אוקטובר 2025_63": {
+    "date": "ראשון, 12 אוקטובר 2025",
+    "event_id": "63",
+    "time": "17:00 - 20:00",
     "service_type": "רוני",
     "is_available": true
   },
