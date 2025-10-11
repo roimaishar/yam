@@ -223,24 +223,17 @@
     "service_type": "ליאור",
     "is_available": true
   },
-  "ראשון, 12 אוקטובר 2025_22": {
-    "date": "ראשון, 12 אוקטובר 2025",
-    "event_id": "22",
-    "time": "13:00 - 15:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
-  "ראשון, 12 אוקטובר 2025_23": {
-    "date": "ראשון, 12 אוקטובר 2025",
-    "event_id": "23",
-    "time": "15:00 - 17:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
   "שני, 13 אוקטובר 2025_48": {
     "date": "שני, 13 אוקטובר 2025",
     "event_id": "48",
     "time": "07:00 - 09:00",
+    "service_type": "עידו",
+    "is_available": true
+  },
+  "שני, 13 אוקטובר 2025_49": {
+    "date": "שני, 13 אוקטובר 2025",
+    "event_id": "49",
+    "time": "09:00 - 11:00",
     "service_type": "עידו",
     "is_available": true
   },
