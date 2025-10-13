@@ -1,21 +1,9 @@
 {
-  "date": "2025-10-12",
-  "calls_today": 4,
+  "date": "2025-10-13",
+  "calls_today": 1,
   "calls": [
     {
-      "timestamp": "2025-10-12T06:47:22.236110",
-      "success": true
-    },
-    {
-      "timestamp": "2025-10-12T09:19:37.666089",
-      "success": true
-    },
-    {
-      "timestamp": "2025-10-12T10:19:48.359860",
-      "success": true
-    },
-    {
-      "timestamp": "2025-10-12T11:26:47.944444",
+      "timestamp": "2025-10-13T11:18:27.373606",
       "success": true
     }
   ]
