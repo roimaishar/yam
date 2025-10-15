@@ -561,13 +561,6 @@
   },
   {
     "date": "ראשון, 19 אוקטובר 2025",
-    "event_id": "39",
-    "time": "09:00 - 12:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 19 אוקטובר 2025",
     "event_id": "41",
     "time": "15:00 - 18:00",
     "service_type": "הרמוני",
@@ -1837,13 +1830,6 @@
     "date": "שישי, 24 אוקטובר 2025",
     "event_id": "23",
     "time": "07:00 - 10:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 24 אוקטובר 2025",
-    "event_id": "25",
-    "time": "13:00 - 16:00",
     "service_type": "ליאור",
     "is_available": true
   },
