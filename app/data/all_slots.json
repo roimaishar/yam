@@ -309,13 +309,6 @@
   },
   {
     "date": "שבת, 18 אוקטובר 2025",
-    "event_id": "40",
-    "time": "18:00 - 21:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 18 אוקטובר 2025",
     "event_id": "31",
     "time": "08:00 - 11:00",
     "service_type": "כרמן החדשה",
@@ -878,13 +871,6 @@
     "date": "שני, 20 אוקטובר 2025",
     "event_id": "33",
     "time": "14:00 - 17:00",
-    "service_type": "כרמן החדשה",
-    "is_available": true
-  },
-  {
-    "date": "שני, 20 אוקטובר 2025",
-    "event_id": "34",
-    "time": "17:00 - 20:00",
     "service_type": "כרמן החדשה",
     "is_available": true
   },
