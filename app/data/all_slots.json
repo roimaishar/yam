@@ -442,13 +442,6 @@
   },
   {
     "date": "ראשון, 19 אוקטובר 2025",
-    "event_id": "28",
-    "time": "09:00 - 12:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 19 אוקטובר 2025",
     "event_id": "31",
     "time": "18:00 - 21:00",
     "service_type": "מישל",
@@ -780,13 +773,6 @@
     "date": "שני, 20 אוקטובר 2025",
     "event_id": "23",
     "time": "13:00 - 16:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
-  {
-    "date": "שני, 20 אוקטובר 2025",
-    "event_id": "24",
-    "time": "16:00 - 19:00",
     "service_type": "ליאור",
     "is_available": true
   },
@@ -1641,13 +1627,6 @@
     "date": "שישי, 24 אוקטובר 2025",
     "event_id": "18",
     "time": "07:00 - 09:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 24 אוקטובר 2025",
-    "event_id": "19",
-    "time": "09:00 - 11:00",
     "service_type": "קטמנדו",
     "is_available": true
   },
@@ -2684,13 +2663,6 @@
     "date": "שלישי, 28 אוקטובר 2025",
     "event_id": "53",
     "time": "09:00 - 12:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 28 אוקטובר 2025",
-    "event_id": "54",
-    "time": "12:00 - 15:00",
     "service_type": "אסתר",
     "is_available": true
   },
