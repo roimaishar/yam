@@ -22,20 +22,6 @@
   },
   {
     "date": "שישי, 17 אוקטובר 2025",
-    "event_id": "32",
-    "time": "18:00 - 21:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 17 אוקטובר 2025",
-    "event_id": "11",
-    "time": "18:00 - 20:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 17 אוקטובר 2025",
     "event_id": "12",
     "time": "20:00 - 22:00",
     "service_type": "נאווה",
