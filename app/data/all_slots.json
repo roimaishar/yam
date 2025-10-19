@@ -778,13 +778,6 @@
   },
   {
     "date": "שבת, 25 אוקטובר 2025",
-    "event_id": "7",
-    "time": "08:00 - 10:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 25 אוקטובר 2025",
     "event_id": "9",
     "time": "12:00 - 14:00",
     "service_type": "נאווה",
