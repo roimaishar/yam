@@ -78,13 +78,6 @@
   },
   {
     "date": "שני, 20 אוקטובר 2025",
-    "event_id": "36",
-    "time": "06:00 - 09:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  {
-    "date": "שני, 20 אוקטובר 2025",
     "event_id": "37",
     "time": "09:00 - 12:00",
     "service_type": "הרמוני",
@@ -207,13 +200,6 @@
     "event_id": "25",
     "time": "19:00 - 22:00",
     "service_type": "ליאור",
-    "is_available": true
-  },
-  {
-    "date": "שני, 20 אוקטובר 2025",
-    "event_id": "19",
-    "time": "10:00 - 13:00",
-    "service_type": "קטמנדו",
     "is_available": true
   },
   {
