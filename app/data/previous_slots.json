@@ -34,6 +34,13 @@
     "service_type": "אסתר",
     "is_available": true
   },
+  "שני, 20 אוקטובר 2025_55": {
+    "date": "שני, 20 אוקטובר 2025",
+    "event_id": "55",
+    "time": "15:00 - 18:00",
+    "service_type": "אסתר",
+    "is_available": true
+  },
   "שני, 20 אוקטובר 2025_56": {
     "date": "שני, 20 אוקטובר 2025",
     "event_id": "56",
@@ -136,13 +143,6 @@
     "date": "שני, 20 אוקטובר 2025",
     "event_id": "9",
     "time": "14:00 - 16:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  "שני, 20 אוקטובר 2025_10": {
-    "date": "שני, 20 אוקטובר 2025",
-    "event_id": "10",
-    "time": "16:00 - 18:00",
     "service_type": "נאווה",
     "is_available": true
   },
@@ -353,13 +353,6 @@
     "date": "שלישי, 21 אוקטובר 2025",
     "event_id": "24",
     "time": "10:00 - 13:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
-  "שלישי, 21 אוקטובר 2025_25": {
-    "date": "שלישי, 21 אוקטובר 2025",
-    "event_id": "25",
-    "time": "13:00 - 16:00",
     "service_type": "ליאור",
     "is_available": true
   },
