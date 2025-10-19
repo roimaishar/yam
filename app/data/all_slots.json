@@ -1233,13 +1233,6 @@
   },
   {
     "date": "שני, 27 אוקטובר 2025",
-    "event_id": "59",
-    "time": "14:00 - 17:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
-  {
-    "date": "שני, 27 אוקטובר 2025",
     "event_id": "60",
     "time": "17:00 - 20:00",
     "service_type": "רוני",
@@ -2241,13 +2234,6 @@
   },
   {
     "date": "שישי, 31 אוקטובר 2025",
-    "event_id": "6",
-    "time": "08:00 - 10:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 31 אוקטובר 2025",
     "event_id": "8",
     "time": "12:00 - 14:00",
     "service_type": "נאווה",
@@ -2446,6 +2432,13 @@
     "date": "שבת, 1 נובמבר 2025",
     "event_id": "3",
     "time": "14:00 - 17:00",
+    "service_type": "קרפה",
+    "is_available": true
+  },
+  {
+    "date": "שבת, 1 נובמבר 2025",
+    "event_id": "4",
+    "time": "17:00 - 20:00",
     "service_type": "קרפה",
     "is_available": true
   },

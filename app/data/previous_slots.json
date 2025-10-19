@@ -1231,13 +1231,6 @@
     "service_type": "אסתר",
     "is_available": true
   },
-  "שני, 27 אוקטובר 2025_59": {
-    "date": "שני, 27 אוקטובר 2025",
-    "event_id": "59",
-    "time": "14:00 - 17:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
   "שני, 27 אוקטובר 2025_60": {
     "date": "שני, 27 אוקטובר 2025",
     "event_id": "60",
@@ -2239,13 +2232,6 @@
     "service_type": "מישל",
     "is_available": true
   },
-  "שישי, 31 אוקטובר 2025_6": {
-    "date": "שישי, 31 אוקטובר 2025",
-    "event_id": "6",
-    "time": "08:00 - 10:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
   "שישי, 31 אוקטובר 2025_8": {
     "date": "שישי, 31 אוקטובר 2025",
     "event_id": "8",
@@ -2446,6 +2432,13 @@
     "date": "שבת, 1 נובמבר 2025",
     "event_id": "3",
     "time": "14:00 - 17:00",
+    "service_type": "קרפה",
+    "is_available": true
+  },
+  "שבת, 1 נובמבר 2025_4": {
+    "date": "שבת, 1 נובמבר 2025",
+    "event_id": "4",
+    "time": "17:00 - 20:00",
     "service_type": "קרפה",
     "is_available": true
   },
