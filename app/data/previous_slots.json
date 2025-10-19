@@ -27,13 +27,6 @@
     "service_type": "אסתר",
     "is_available": true
   },
-  "שני, 20 אוקטובר 2025_55": {
-    "date": "שני, 20 אוקטובר 2025",
-    "event_id": "55",
-    "time": "15:00 - 18:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
   "שני, 20 אוקטובר 2025_58": {
     "date": "שני, 20 אוקטובר 2025",
     "event_id": "58",
@@ -1137,13 +1130,6 @@
     "date": "שני, 27 אוקטובר 2025",
     "event_id": "52",
     "time": "06:00 - 09:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  "שני, 27 אוקטובר 2025_53": {
-    "date": "שני, 27 אוקטובר 2025",
-    "event_id": "53",
-    "time": "09:00 - 12:00",
     "service_type": "אסתר",
     "is_available": true
   },
