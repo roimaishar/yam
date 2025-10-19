@@ -267,6 +267,13 @@
   },
   {
     "date": "שלישי, 21 אוקטובר 2025",
+    "event_id": "40",
+    "time": "12:00 - 15:00",
+    "service_type": "הרמוני",
+    "is_available": true
+  },
+  {
+    "date": "שלישי, 21 אוקטובר 2025",
     "event_id": "42",
     "time": "18:00 - 21:00",
     "service_type": "הרמוני",
@@ -396,13 +403,6 @@
     "event_id": "5",
     "time": "20:00 - 23:00",
     "service_type": "קרפה",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 22 אוקטובר 2025",
-    "event_id": "40",
-    "time": "15:00 - 18:00",
-    "service_type": "הרמוני",
     "is_available": true
   },
   {
@@ -2083,13 +2083,6 @@
     "event_id": "63",
     "time": "20:00 - 23:00",
     "service_type": "רוני",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 31 אוקטובר 2025",
-    "event_id": "4",
-    "time": "17:00 - 20:00",
-    "service_type": "קרפה",
     "is_available": true
   },
   {
