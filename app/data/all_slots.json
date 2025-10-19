@@ -407,13 +407,6 @@
   },
   {
     "date": "רביעי, 22 אוקטובר 2025",
-    "event_id": "39",
-    "time": "12:00 - 15:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 22 אוקטובר 2025",
     "event_id": "40",
     "time": "15:00 - 18:00",
     "service_type": "הרמוני",
@@ -1032,13 +1025,6 @@
     "date": "ראשון, 26 אוקטובר 2025",
     "event_id": "28",
     "time": "09:00 - 12:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 26 אוקטובר 2025",
-    "event_id": "29",
-    "time": "12:00 - 15:00",
     "service_type": "מישל",
     "is_available": true
   },
@@ -2192,13 +2178,6 @@
   },
   {
     "date": "שישי, 31 אוקטובר 2025",
-    "event_id": "16",
-    "time": "16:00 - 19:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 31 אוקטובר 2025",
     "event_id": "17",
     "time": "19:00 - 22:00",
     "service_type": "רונית",
@@ -2360,13 +2339,6 @@
   },
   {
     "date": "שבת, 1 נובמבר 2025",
-    "event_id": "4",
-    "time": "17:00 - 20:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 1 נובמבר 2025",
     "event_id": "5",
     "time": "20:00 - 23:00",
     "service_type": "קרפה",
@@ -2432,13 +2404,6 @@
     "date": "שבת, 1 נובמבר 2025",
     "event_id": "28",
     "time": "12:00 - 15:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 1 נובמבר 2025",
-    "event_id": "29",
-    "time": "15:00 - 18:00",
     "service_type": "מישל",
     "is_available": true
   },
