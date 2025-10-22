@@ -197,13 +197,6 @@
   },
   {
     "date": "שבת, 25 אוקטובר 2025",
-    "event_id": "28",
-    "time": "06:00 - 09:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 25 אוקטובר 2025",
     "event_id": "29",
     "time": "09:00 - 12:00",
     "service_type": "מישל",
