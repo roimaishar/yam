@@ -43,13 +43,6 @@
   },
   {
     "date": "חמישי, 23 אוקטובר 2025",
-    "event_id": "10",
-    "time": "16:00 - 18:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  {
-    "date": "חמישי, 23 אוקטובר 2025",
     "event_id": "11",
     "time": "18:00 - 20:00",
     "service_type": "נאווה",
@@ -193,13 +186,6 @@
     "event_id": "42",
     "time": "18:00 - 21:00",
     "service_type": "הרמוני",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 25 אוקטובר 2025",
-    "event_id": "33",
-    "time": "08:00 - 11:00",
-    "service_type": "כרמן החדשה",
     "is_available": true
   },
   {
@@ -1802,13 +1788,6 @@
     "date": "ראשון, 2 נובמבר 2025",
     "event_id": "42",
     "time": "07:00 - 10:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 2 נובמבר 2025",
-    "event_id": "43",
-    "time": "10:00 - 13:00",
     "service_type": "ושתי",
     "is_available": true
   },
