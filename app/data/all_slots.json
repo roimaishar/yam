@@ -771,20 +771,6 @@
   },
   {
     "date": "שלישי, 28 אוקטובר 2025",
-    "event_id": "44",
-    "time": "16:00 - 19:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 28 אוקטובר 2025",
-    "event_id": "45",
-    "time": "19:00 - 22:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 28 אוקטובר 2025",
     "event_id": "52",
     "time": "06:00 - 09:00",
     "service_type": "אסתר",
