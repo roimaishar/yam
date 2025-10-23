@@ -49,6 +49,13 @@
     "is_available": true
   },
   {
+    "date": "שישי, 24 אוקטובר 2025",
+    "event_id": "19",
+    "time": "09:00 - 11:00",
+    "service_type": "קטמנדו",
+    "is_available": true
+  },
+  {
     "date": "שבת, 25 אוקטובר 2025",
     "event_id": "47",
     "time": "19:00 - 22:00",
@@ -400,13 +407,6 @@
   },
   {
     "date": "שני, 27 אוקטובר 2025",
-    "event_id": "41",
-    "time": "07:00 - 10:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "שני, 27 אוקטובר 2025",
     "event_id": "45",
     "time": "19:00 - 22:00",
     "service_type": "ושתי",
@@ -444,13 +444,6 @@
     "date": "שני, 27 אוקטובר 2025",
     "event_id": "3",
     "time": "14:00 - 17:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
-  {
-    "date": "שני, 27 אוקטובר 2025",
-    "event_id": "4",
-    "time": "17:00 - 20:00",
     "service_type": "קרפה",
     "is_available": true
   },
@@ -731,13 +724,6 @@
     "date": "שלישי, 28 אוקטובר 2025",
     "event_id": "26",
     "time": "06:00 - 09:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 28 אוקטובר 2025",
-    "event_id": "27",
-    "time": "09:00 - 12:00",
     "service_type": "מישל",
     "is_available": true
   },
