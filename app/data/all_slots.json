@@ -708,13 +708,6 @@
   },
   {
     "date": "שלישי, 28 אוקטובר 2025",
-    "event_id": "6",
-    "time": "08:00 - 10:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 28 אוקטובר 2025",
     "event_id": "7",
     "time": "10:00 - 12:00",
     "service_type": "נאווה",
@@ -1117,13 +1110,6 @@
     "event_id": "5",
     "time": "20:00 - 23:00",
     "service_type": "קרפה",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 31 אוקטובר 2025",
-    "event_id": "38",
-    "time": "06:00 - 09:00",
-    "service_type": "הרמוני",
     "is_available": true
   },
   {
@@ -2313,13 +2299,6 @@
     "date": "רביעי, 5 נובמבר 2025",
     "event_id": "54",
     "time": "09:00 - 12:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 5 נובמבר 2025",
-    "event_id": "55",
-    "time": "12:00 - 15:00",
     "service_type": "אסתר",
     "is_available": true
   },
