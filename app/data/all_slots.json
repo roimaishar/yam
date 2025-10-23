@@ -239,13 +239,6 @@
   },
   {
     "date": "ראשון, 26 אוקטובר 2025",
-    "event_id": "2",
-    "time": "11:00 - 14:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 26 אוקטובר 2025",
     "event_id": "4",
     "time": "17:00 - 20:00",
     "service_type": "קרפה",
@@ -759,13 +752,6 @@
     "date": "שלישי, 28 אוקטובר 2025",
     "event_id": "14",
     "time": "10:00 - 13:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 28 אוקטובר 2025",
-    "event_id": "15",
-    "time": "13:00 - 16:00",
     "service_type": "רונית",
     "is_available": true
   },
