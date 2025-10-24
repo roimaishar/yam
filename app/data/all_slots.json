@@ -505,13 +505,6 @@
   },
   {
     "date": "שלישי, 28 אוקטובר 2025",
-    "event_id": "57",
-    "time": "08:00 - 11:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 28 אוקטובר 2025",
     "event_id": "61",
     "time": "20:00 - 23:00",
     "service_type": "רוני",
@@ -2468,13 +2461,6 @@
     "event_id": "13",
     "time": "20:00 - 22:00",
     "service_type": "נאווה",
-    "is_available": true
-  },
-  {
-    "date": "חמישי, 6 נובמבר 2025",
-    "event_id": "18",
-    "time": "16:00 - 19:00",
-    "service_type": "רונית",
     "is_available": true
   },
   {
