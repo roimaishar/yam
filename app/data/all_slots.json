@@ -708,13 +708,6 @@
   },
   {
     "date": "רביעי, 29 אוקטובר 2025",
-    "event_id": "33",
-    "time": "18:00 - 21:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 29 אוקטובר 2025",
     "event_id": "8",
     "time": "08:00 - 10:00",
     "service_type": "נאווה",
@@ -1039,13 +1032,6 @@
     "date": "שבת, 1 נובמבר 2025",
     "event_id": "57",
     "time": "08:00 - 11:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 1 נובמבר 2025",
-    "event_id": "59",
-    "time": "14:00 - 17:00",
     "service_type": "רוני",
     "is_available": true
   },
