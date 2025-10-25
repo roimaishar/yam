@@ -2148,13 +2148,6 @@
     "service_type": "קטמנדו",
     "is_available": true
   },
-  "חמישי, 6 נובמבר 2025_49": {
-    "date": "חמישי, 6 נובמבר 2025",
-    "event_id": "49",
-    "time": "16:00 - 19:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
   "חמישי, 6 נובמבר 2025_50": {
     "date": "חמישי, 6 נובמבר 2025",
     "event_id": "50",
@@ -2243,13 +2236,6 @@
     "date": "חמישי, 6 נובמבר 2025",
     "event_id": "31",
     "time": "06:00 - 09:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  "חמישי, 6 נובמבר 2025_34": {
-    "date": "חמישי, 6 נובמבר 2025",
-    "event_id": "34",
-    "time": "15:00 - 18:00",
     "service_type": "מישל",
     "is_available": true
   },
@@ -2453,13 +2439,6 @@
     "date": "שישי, 7 נובמבר 2025",
     "event_id": "13",
     "time": "07:00 - 10:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
-  "שישי, 7 נובמבר 2025_14": {
-    "date": "שישי, 7 נובמבר 2025",
-    "event_id": "14",
-    "time": "10:00 - 13:00",
     "service_type": "רונית",
     "is_available": true
   },
