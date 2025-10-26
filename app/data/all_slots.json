@@ -281,13 +281,6 @@
   },
   {
     "date": "שלישי, 28 אוקטובר 2025",
-    "event_id": "18",
-    "time": "07:00 - 10:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 28 אוקטובר 2025",
     "event_id": "19",
     "time": "10:00 - 13:00",
     "service_type": "קטמנדו",
@@ -311,13 +304,6 @@
     "date": "רביעי, 29 אוקטובר 2025",
     "event_id": "29",
     "time": "06:00 - 09:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 29 אוקטובר 2025",
-    "event_id": "30",
-    "time": "09:00 - 12:00",
     "service_type": "מישל",
     "is_available": true
   },
@@ -612,13 +598,6 @@
     "date": "שבת, 1 נובמבר 2025",
     "event_id": "53",
     "time": "09:00 - 12:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 1 נובמבר 2025",
-    "event_id": "54",
-    "time": "12:00 - 15:00",
     "service_type": "אסתר",
     "is_available": true
   },
@@ -1291,13 +1270,6 @@
     "date": "שני, 3 נובמבר 2025",
     "event_id": "14",
     "time": "10:00 - 13:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
-  {
-    "date": "שני, 3 נובמבר 2025",
-    "event_id": "15",
-    "time": "13:00 - 16:00",
     "service_type": "רונית",
     "is_available": true
   },
