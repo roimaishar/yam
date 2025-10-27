@@ -757,13 +757,6 @@
   },
   {
     "date": "ראשון, 2 נובמבר 2025",
-    "event_id": "28",
-    "time": "12:00 - 15:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 2 נובמבר 2025",
     "event_id": "29",
     "time": "15:00 - 18:00",
     "service_type": "מישל",
