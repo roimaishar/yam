@@ -854,6 +854,13 @@
     "is_available": true
   },
   {
+    "date": "ראשון, 2 נובמבר 2025",
+    "event_id": "20",
+    "time": "13:00 - 16:00",
+    "service_type": "קטמנדו",
+    "is_available": true
+  },
+  {
     "date": "שני, 3 נובמבר 2025",
     "event_id": "41",
     "time": "07:00 - 10:00",
@@ -1908,13 +1915,6 @@
     "event_id": "46",
     "time": "19:00 - 22:00",
     "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 8 נובמבר 2025",
-    "event_id": "56",
-    "time": "15:00 - 18:00",
-    "service_type": "אסתר",
     "is_available": true
   },
   {
