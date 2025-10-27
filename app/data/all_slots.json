@@ -113,6 +113,13 @@
   },
   {
     "date": "רביעי, 29 אוקטובר 2025",
+    "event_id": "47",
+    "time": "13:00 - 16:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
+  {
+    "date": "רביעי, 29 אוקטובר 2025",
     "event_id": "38",
     "time": "20:00 - 23:00",
     "service_type": "כרמן החדשה",
@@ -1064,13 +1071,6 @@
     "is_available": true
   },
   {
-    "date": "שני, 3 נובמבר 2025",
-    "event_id": "19",
-    "time": "10:00 - 13:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
-  {
     "date": "שלישי, 4 נובמבר 2025",
     "event_id": "43",
     "time": "10:00 - 13:00",
@@ -1319,13 +1319,6 @@
     "date": "רביעי, 5 נובמבר 2025",
     "event_id": "42",
     "time": "07:00 - 10:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 5 נובמבר 2025",
-    "event_id": "43",
-    "time": "10:00 - 13:00",
     "service_type": "ושתי",
     "is_available": true
   },
