@@ -372,13 +372,6 @@
   },
   {
     "date": "שבת, 1 נובמבר 2025",
-    "event_id": "13",
-    "time": "07:00 - 10:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 1 נובמבר 2025",
     "event_id": "14",
     "time": "10:00 - 13:00",
     "service_type": "רונית",
@@ -1051,13 +1044,6 @@
   },
   {
     "date": "רביעי, 5 נובמבר 2025",
-    "event_id": "53",
-    "time": "06:00 - 09:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 5 נובמבר 2025",
     "event_id": "54",
     "time": "09:00 - 12:00",
     "service_type": "אסתר",
@@ -1557,13 +1543,6 @@
     "date": "שישי, 7 נובמבר 2025",
     "event_id": "18",
     "time": "07:00 - 09:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 7 נובמבר 2025",
-    "event_id": "20",
-    "time": "11:00 - 13:00",
     "service_type": "קטמנדו",
     "is_available": true
   },
