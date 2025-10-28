@@ -272,6 +272,13 @@
     "service_type": "אסתר",
     "is_available": true
   },
+  "שבת, 1 נובמבר 2025_56": {
+    "date": "שבת, 1 נובמבר 2025",
+    "event_id": "56",
+    "time": "18:00 - 21:00",
+    "service_type": "אסתר",
+    "is_available": true
+  },
   "שבת, 1 נובמבר 2025_57": {
     "date": "שבת, 1 נובמבר 2025",
     "event_id": "57",
@@ -815,13 +822,6 @@
     "date": "שני, 3 נובמבר 2025",
     "event_id": "36",
     "time": "06:00 - 09:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  "שני, 3 נובמבר 2025_38": {
-    "date": "שני, 3 נובמבר 2025",
-    "event_id": "38",
-    "time": "12:00 - 15:00",
     "service_type": "הרמוני",
     "is_available": true
   },
