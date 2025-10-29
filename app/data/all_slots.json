@@ -358,13 +358,6 @@
   },
   {
     "date": "שבת, 1 נובמבר 2025",
-    "event_id": "14",
-    "time": "10:00 - 13:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 1 נובמבר 2025",
     "event_id": "17",
     "time": "19:00 - 22:00",
     "service_type": "רונית",
