@@ -601,13 +601,6 @@
     "service_type": "הרמוני",
     "is_available": true
   },
-  "שני, 3 נובמבר 2025_37": {
-    "date": "שני, 3 נובמבר 2025",
-    "event_id": "37",
-    "time": "09:00 - 12:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
   "שני, 3 נובמבר 2025_40": {
     "date": "שני, 3 נובמבר 2025",
     "event_id": "40",
@@ -703,13 +696,6 @@
     "date": "שלישי, 4 נובמבר 2025",
     "event_id": "44",
     "time": "13:00 - 16:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  "שלישי, 4 נובמבר 2025_45": {
-    "date": "שלישי, 4 נובמבר 2025",
-    "event_id": "45",
-    "time": "16:00 - 19:00",
     "service_type": "ושתי",
     "is_available": true
   },
