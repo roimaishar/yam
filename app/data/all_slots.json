@@ -1716,6 +1716,13 @@
   },
   {
     "date": "שני, 10 נובמבר 2025",
+    "event_id": "44",
+    "time": "16:00 - 19:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
+  {
+    "date": "שני, 10 נובמבר 2025",
     "event_id": "45",
     "time": "19:00 - 22:00",
     "service_type": "ושתי",
