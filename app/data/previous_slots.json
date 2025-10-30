@@ -300,13 +300,6 @@
     "service_type": "הרמוני",
     "is_available": true
   },
-  "ראשון, 2 נובמבר 2025_40": {
-    "date": "ראשון, 2 נובמבר 2025",
-    "event_id": "40",
-    "time": "15:00 - 18:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
   "ראשון, 2 נובמבר 2025_41": {
     "date": "ראשון, 2 נובמבר 2025",
     "event_id": "41",
@@ -563,13 +556,6 @@
     "date": "שני, 3 נובמבר 2025",
     "event_id": "14",
     "time": "10:00 - 13:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
-  "שני, 3 נובמבר 2025_15": {
-    "date": "שני, 3 נובמבר 2025",
-    "event_id": "15",
-    "time": "13:00 - 16:00",
     "service_type": "רונית",
     "is_available": true
   },
