@@ -1282,13 +1282,6 @@
   },
   {
     "date": "שבת, 8 נובמבר 2025",
-    "event_id": "29",
-    "time": "12:00 - 15:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 8 נובמבר 2025",
     "event_id": "30",
     "time": "15:00 - 18:00",
     "service_type": "מישל",
