@@ -78,6 +78,13 @@
   },
   {
     "date": "שבת, 1 נובמבר 2025",
+    "event_id": "8",
+    "time": "12:00 - 14:00",
+    "service_type": "נאווה",
+    "is_available": true
+  },
+  {
+    "date": "שבת, 1 נובמבר 2025",
     "event_id": "9",
     "time": "14:00 - 16:00",
     "service_type": "נאווה",

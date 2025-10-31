@@ -76,6 +76,13 @@
     "service_type": "מישל",
     "is_available": true
   },
+  "שבת, 1 נובמבר 2025_8": {
+    "date": "שבת, 1 נובמבר 2025",
+    "event_id": "8",
+    "time": "12:00 - 14:00",
+    "service_type": "נאווה",
+    "is_available": true
+  },
   "שבת, 1 נובמבר 2025_9": {
     "date": "שבת, 1 נובמבר 2025",
     "event_id": "9",
