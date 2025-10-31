@@ -76,13 +76,6 @@
     "service_type": "מישל",
     "is_available": true
   },
-  "שבת, 1 נובמבר 2025_8": {
-    "date": "שבת, 1 נובמבר 2025",
-    "event_id": "8",
-    "time": "12:00 - 14:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
   "שבת, 1 נובמבר 2025_9": {
     "date": "שבת, 1 נובמבר 2025",
     "event_id": "9",
@@ -907,13 +900,6 @@
     "event_id": "58",
     "time": "18:00 - 21:00",
     "service_type": "אסתר",
-    "is_available": true
-  },
-  "שישי, 7 נובמבר 2025_62": {
-    "date": "שישי, 7 נובמבר 2025",
-    "event_id": "62",
-    "time": "17:00 - 20:00",
-    "service_type": "רוני",
     "is_available": true
   },
   "שישי, 7 נובמבר 2025_63": {
