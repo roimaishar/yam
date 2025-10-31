@@ -379,13 +379,6 @@
   },
   {
     "date": "שני, 3 נובמבר 2025",
-    "event_id": "36",
-    "time": "06:00 - 09:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  {
-    "date": "שני, 3 נובמבר 2025",
     "event_id": "32",
     "time": "11:00 - 14:00",
     "service_type": "כרמן החדשה",
@@ -507,6 +500,13 @@
     "date": "שלישי, 4 נובמבר 2025",
     "event_id": "3",
     "time": "14:00 - 17:00",
+    "service_type": "קרפה",
+    "is_available": true
+  },
+  {
+    "date": "שלישי, 4 נובמבר 2025",
+    "event_id": "4",
+    "time": "17:00 - 20:00",
     "service_type": "קרפה",
     "is_available": true
   },
