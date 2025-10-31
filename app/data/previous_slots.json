@@ -986,13 +986,6 @@
     "service_type": "קטמנדו",
     "is_available": true
   },
-  "שישי, 7 נובמבר 2025_21": {
-    "date": "שישי, 7 נובמבר 2025",
-    "event_id": "21",
-    "time": "13:00 - 15:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
   "שבת, 8 נובמבר 2025_43": {
     "date": "שבת, 8 נובמבר 2025",
     "event_id": "43",
@@ -1095,13 +1088,6 @@
     "date": "שבת, 8 נובמבר 2025",
     "event_id": "32",
     "time": "08:00 - 11:00",
-    "service_type": "כרמן החדשה",
-    "is_available": true
-  },
-  "שבת, 8 נובמבר 2025_33": {
-    "date": "שבת, 8 נובמבר 2025",
-    "event_id": "33",
-    "time": "11:00 - 14:00",
     "service_type": "כרמן החדשה",
     "is_available": true
   },
