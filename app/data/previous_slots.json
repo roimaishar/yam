@@ -461,6 +461,13 @@
     "service_type": "רוני",
     "is_available": true
   },
+  "שלישי, 4 נובמבר 2025_59": {
+    "date": "שלישי, 4 נובמבר 2025",
+    "event_id": "59",
+    "time": "11:00 - 14:00",
+    "service_type": "רוני",
+    "is_available": true
+  },
   "שלישי, 4 נובמבר 2025_62": {
     "date": "שלישי, 4 נובמבר 2025",
     "event_id": "62",
@@ -2152,13 +2159,6 @@
     "date": "רביעי, 12 נובמבר 2025",
     "event_id": "28",
     "time": "12:00 - 15:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  "רביעי, 12 נובמבר 2025_29": {
-    "date": "רביעי, 12 נובמבר 2025",
-    "event_id": "29",
-    "time": "15:00 - 18:00",
     "service_type": "מישל",
     "is_available": true
   },
