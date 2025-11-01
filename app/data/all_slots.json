@@ -64,13 +64,6 @@
   },
   {
     "date": "שבת, 1 נובמבר 2025",
-    "event_id": "30",
-    "time": "18:00 - 21:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 1 נובמבר 2025",
     "event_id": "8",
     "time": "12:00 - 14:00",
     "service_type": "נאווה",
@@ -514,13 +507,6 @@
     "date": "שלישי, 4 נובמבר 2025",
     "event_id": "39",
     "time": "12:00 - 15:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 4 נובמבר 2025",
-    "event_id": "41",
-    "time": "18:00 - 21:00",
     "service_type": "הרמוני",
     "is_available": true
   },
@@ -2566,13 +2552,6 @@
     "event_id": "42",
     "time": "18:00 - 21:00",
     "service_type": "הרמוני",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 14 נובמבר 2025",
-    "event_id": "33",
-    "time": "08:00 - 11:00",
-    "service_type": "כרמן החדשה",
     "is_available": true
   },
   {
