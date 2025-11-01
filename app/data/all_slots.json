@@ -141,13 +141,6 @@
   },
   {
     "date": "ראשון, 2 נובמבר 2025",
-    "event_id": "43",
-    "time": "10:00 - 13:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 2 נובמבר 2025",
     "event_id": "46",
     "time": "19:00 - 22:00",
     "service_type": "ושתי",
@@ -634,13 +627,6 @@
     "event_id": "19",
     "time": "07:00 - 10:00",
     "service_type": "קטמנדו",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 5 נובמבר 2025",
-    "event_id": "42",
-    "time": "07:00 - 10:00",
-    "service_type": "ושתי",
     "is_available": true
   },
   {
