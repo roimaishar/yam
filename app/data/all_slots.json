@@ -2563,13 +2563,6 @@
   },
   {
     "date": "שישי, 14 נובמבר 2025",
-    "event_id": "59",
-    "time": "08:00 - 11:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 14 נובמבר 2025",
     "event_id": "62",
     "time": "17:00 - 20:00",
     "service_type": "רוני",
@@ -2580,13 +2573,6 @@
     "event_id": "63",
     "time": "20:00 - 23:00",
     "service_type": "רוני",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 14 נובמבר 2025",
-    "event_id": "1",
-    "time": "08:00 - 11:00",
-    "service_type": "קרפה",
     "is_available": true
   },
   {
