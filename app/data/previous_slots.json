@@ -615,13 +615,6 @@
     "service_type": "ושתי",
     "is_available": true
   },
-  "שבת, 8 נובמבר 2025_44": {
-    "date": "שבת, 8 נובמבר 2025",
-    "event_id": "44",
-    "time": "13:00 - 16:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
   "שבת, 8 נובמבר 2025_45": {
     "date": "שבת, 8 נובמבר 2025",
     "event_id": "45",
@@ -2047,6 +2040,13 @@
     "date": "חמישי, 13 נובמבר 2025",
     "event_id": "6",
     "time": "08:00 - 10:00",
+    "service_type": "נאווה",
+    "is_available": true
+  },
+  "חמישי, 13 נובמבר 2025_8": {
+    "date": "חמישי, 13 נובמבר 2025",
+    "event_id": "8",
+    "time": "12:00 - 14:00",
     "service_type": "נאווה",
     "is_available": true
   },
