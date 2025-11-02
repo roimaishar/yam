@@ -162,6 +162,13 @@
   },
   {
     "date": "שלישי, 4 נובמבר 2025",
+    "event_id": "54",
+    "time": "09:00 - 12:00",
+    "service_type": "אסתר",
+    "is_available": true
+  },
+  {
+    "date": "שלישי, 4 נובמבר 2025",
     "event_id": "58",
     "time": "08:00 - 11:00",
     "service_type": "רוני",
