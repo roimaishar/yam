@@ -13,6 +13,20 @@
     "service_type": "אסתר",
     "is_available": true
   },
+  "שני, 3 נובמבר 2025_55": {
+    "date": "שני, 3 נובמבר 2025",
+    "event_id": "55",
+    "time": "15:00 - 18:00",
+    "service_type": "אסתר",
+    "is_available": true
+  },
+  "שני, 3 נובמבר 2025_56": {
+    "date": "שני, 3 נובמבר 2025",
+    "event_id": "56",
+    "time": "18:00 - 21:00",
+    "service_type": "אסתר",
+    "is_available": true
+  },
   "שני, 3 נובמבר 2025_61": {
     "date": "שני, 3 נובמבר 2025",
     "event_id": "61",
@@ -2048,13 +2062,6 @@
     "event_id": "17",
     "time": "19:00 - 22:00",
     "service_type": "רונית",
-    "is_available": true
-  },
-  "חמישי, 13 נובמבר 2025_23": {
-    "date": "חמישי, 13 נובמבר 2025",
-    "event_id": "23",
-    "time": "07:00 - 10:00",
-    "service_type": "ליאור",
     "is_available": true
   },
   "חמישי, 13 נובמבר 2025_27": {
