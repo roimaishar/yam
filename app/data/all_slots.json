@@ -1345,13 +1345,6 @@
   },
   {
     "date": "שני, 10 נובמבר 2025",
-    "event_id": "21",
-    "time": "07:00 - 10:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
-  {
-    "date": "שני, 10 נובמבר 2025",
     "event_id": "22",
     "time": "10:00 - 13:00",
     "service_type": "ליאור",
@@ -1562,13 +1555,6 @@
   },
   {
     "date": "שלישי, 11 נובמבר 2025",
-    "event_id": "9",
-    "time": "14:00 - 16:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 11 נובמבר 2025",
     "event_id": "10",
     "time": "16:00 - 18:00",
     "service_type": "נאווה",
@@ -1739,13 +1725,6 @@
     "date": "רביעי, 12 נובמבר 2025",
     "event_id": "32",
     "time": "11:00 - 14:00",
-    "service_type": "כרמן החדשה",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 12 נובמבר 2025",
-    "event_id": "34",
-    "time": "17:00 - 20:00",
     "service_type": "כרמן החדשה",
     "is_available": true
   },
