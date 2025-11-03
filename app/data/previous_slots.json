@@ -83,13 +83,6 @@
     "service_type": "מישל",
     "is_available": true
   },
-  "שלישי, 4 נובמבר 2025_9": {
-    "date": "שלישי, 4 נובמבר 2025",
-    "event_id": "9",
-    "time": "14:00 - 16:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
   "שלישי, 4 נובמבר 2025_10": {
     "date": "שלישי, 4 נובמבר 2025",
     "event_id": "10",
@@ -165,13 +158,6 @@
     "event_id": "62",
     "time": "20:00 - 23:00",
     "service_type": "רוני",
-    "is_available": true
-  },
-  "רביעי, 5 נובמבר 2025_4": {
-    "date": "רביעי, 5 נובמבר 2025",
-    "event_id": "4",
-    "time": "17:00 - 20:00",
-    "service_type": "קרפה",
     "is_available": true
   },
   "רביעי, 5 נובמבר 2025_5": {
