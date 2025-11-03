@@ -1828,13 +1828,6 @@
   },
   {
     "date": "חמישי, 13 נובמבר 2025",
-    "event_id": "6",
-    "time": "08:00 - 10:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  {
-    "date": "חמישי, 13 נובמבר 2025",
     "event_id": "10",
     "time": "16:00 - 18:00",
     "service_type": "נאווה",
@@ -2068,13 +2061,6 @@
     "date": "שבת, 15 נובמבר 2025",
     "event_id": "53",
     "time": "09:00 - 12:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 15 נובמבר 2025",
-    "event_id": "54",
-    "time": "12:00 - 15:00",
     "service_type": "אסתר",
     "is_available": true
   },
