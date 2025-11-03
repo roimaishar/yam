@@ -155,6 +155,13 @@
   },
   {
     "date": "רביעי, 5 נובמבר 2025",
+    "event_id": "59",
+    "time": "11:00 - 14:00",
+    "service_type": "רוני",
+    "is_available": true
+  },
+  {
+    "date": "רביעי, 5 נובמבר 2025",
     "event_id": "62",
     "time": "20:00 - 23:00",
     "service_type": "רוני",
