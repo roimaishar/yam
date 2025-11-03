@@ -147,6 +147,13 @@
     "is_available": true
   },
   {
+    "date": "שלישי, 4 נובמבר 2025",
+    "event_id": "21",
+    "time": "13:00 - 16:00",
+    "service_type": "קטמנדו",
+    "is_available": true
+  },
+  {
     "date": "רביעי, 5 נובמבר 2025",
     "event_id": "58",
     "time": "08:00 - 11:00",
