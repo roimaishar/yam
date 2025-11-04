@@ -806,13 +806,6 @@
   },
   {
     "date": "שני, 10 נובמבר 2025",
-    "event_id": "27",
-    "time": "09:00 - 12:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  {
-    "date": "שני, 10 נובמבר 2025",
     "event_id": "28",
     "time": "12:00 - 15:00",
     "service_type": "מישל",
