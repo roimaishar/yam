@@ -27,13 +27,6 @@
     "service_type": "הרמוני",
     "is_available": true
   },
-  "רביעי, 5 נובמבר 2025_38": {
-    "date": "רביעי, 5 נובמבר 2025",
-    "event_id": "38",
-    "time": "09:00 - 12:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
   "רביעי, 5 נובמבר 2025_35": {
     "date": "רביעי, 5 נובמבר 2025",
     "event_id": "35",
@@ -52,13 +45,6 @@
     "date": "רביעי, 5 נובמבר 2025",
     "event_id": "27",
     "time": "06:00 - 09:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  "רביעי, 5 נובמבר 2025_28": {
-    "date": "רביעי, 5 נובמבר 2025",
-    "event_id": "28",
-    "time": "09:00 - 12:00",
     "service_type": "מישל",
     "is_available": true
   },
