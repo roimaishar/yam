@@ -407,13 +407,6 @@
   },
   {
     "date": "שבת, 8 נובמבר 2025",
-    "event_id": "16",
-    "time": "13:00 - 16:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 8 נובמבר 2025",
     "event_id": "18",
     "time": "19:00 - 22:00",
     "service_type": "רונית",
@@ -893,13 +886,6 @@
     "event_id": "17",
     "time": "19:00 - 22:00",
     "service_type": "רונית",
-    "is_available": true
-  },
-  {
-    "date": "שני, 10 נובמבר 2025",
-    "event_id": "22",
-    "time": "10:00 - 13:00",
-    "service_type": "ליאור",
     "is_available": true
   },
   {
