@@ -139,6 +139,13 @@
     "service_type": "רוני",
     "is_available": true
   },
+  "חמישי, 6 נובמבר 2025_3": {
+    "date": "חמישי, 6 נובמבר 2025",
+    "event_id": "3",
+    "time": "14:00 - 17:00",
+    "service_type": "קרפה",
+    "is_available": true
+  },
   "חמישי, 6 נובמבר 2025_5": {
     "date": "חמישי, 6 נובמבר 2025",
     "event_id": "5",
@@ -193,13 +200,6 @@
     "event_id": "30",
     "time": "19:00 - 22:00",
     "service_type": "ליאור",
-    "is_available": true
-  },
-  "שישי, 7 נובמבר 2025_46": {
-    "date": "שישי, 7 נובמבר 2025",
-    "event_id": "46",
-    "time": "16:00 - 19:00",
-    "service_type": "ושתי",
     "is_available": true
   },
   "שישי, 7 נובמבר 2025_47": {
@@ -360,13 +360,6 @@
     "date": "שבת, 8 נובמבר 2025",
     "event_id": "27",
     "time": "06:00 - 09:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  "שבת, 8 נובמבר 2025_30": {
-    "date": "שבת, 8 נובמבר 2025",
-    "event_id": "30",
-    "time": "15:00 - 18:00",
     "service_type": "מישל",
     "is_available": true
   },
@@ -1179,13 +1172,6 @@
     "date": "רביעי, 12 נובמבר 2025",
     "event_id": "53",
     "time": "09:00 - 12:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  "רביעי, 12 נובמבר 2025_56": {
-    "date": "רביעי, 12 נובמבר 2025",
-    "event_id": "56",
-    "time": "18:00 - 21:00",
     "service_type": "אסתר",
     "is_available": true
   },
