@@ -197,6 +197,13 @@
   },
   {
     "date": "שישי, 7 נובמבר 2025",
+    "event_id": "54",
+    "time": "06:00 - 09:00",
+    "service_type": "אסתר",
+    "is_available": true
+  },
+  {
+    "date": "שישי, 7 נובמבר 2025",
     "event_id": "63",
     "time": "20:00 - 23:00",
     "service_type": "רוני",
@@ -458,6 +465,13 @@
     "date": "ראשון, 9 נובמבר 2025",
     "event_id": "43",
     "time": "07:00 - 10:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
+  {
+    "date": "ראשון, 9 נובמבר 2025",
+    "event_id": "44",
+    "time": "10:00 - 13:00",
     "service_type": "ושתי",
     "is_available": true
   },
