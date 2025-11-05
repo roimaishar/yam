@@ -1366,13 +1366,6 @@
   },
   {
     "date": "שישי, 14 נובמבר 2025",
-    "event_id": "6",
-    "time": "08:00 - 10:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 14 נובמבר 2025",
     "event_id": "11",
     "time": "18:00 - 20:00",
     "service_type": "נאווה",
@@ -1403,13 +1396,6 @@
     "date": "שישי, 14 נובמבר 2025",
     "event_id": "18",
     "time": "07:00 - 09:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 14 נובמבר 2025",
-    "event_id": "22",
-    "time": "15:00 - 17:00",
     "service_type": "קטמנדו",
     "is_available": true
   },
