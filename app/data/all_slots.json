@@ -540,13 +540,6 @@
   },
   {
     "date": "שני, 10 נובמבר 2025",
-    "event_id": "44",
-    "time": "16:00 - 19:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "שני, 10 נובמבר 2025",
     "event_id": "45",
     "time": "19:00 - 22:00",
     "service_type": "ושתי",
@@ -710,6 +703,13 @@
     "date": "שני, 10 נובמבר 2025",
     "event_id": "19",
     "time": "10:00 - 13:00",
+    "service_type": "קטמנדו",
+    "is_available": true
+  },
+  {
+    "date": "שני, 10 נובמבר 2025",
+    "event_id": "20",
+    "time": "13:00 - 16:00",
     "service_type": "קטמנדו",
     "is_available": true
   },
