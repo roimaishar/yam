@@ -337,6 +337,13 @@
   },
   {
     "date": "שני, 10 נובמבר 2025",
+    "event_id": "54",
+    "time": "12:00 - 15:00",
+    "service_type": "אסתר",
+    "is_available": true
+  },
+  {
+    "date": "שני, 10 נובמבר 2025",
     "event_id": "56",
     "time": "18:00 - 21:00",
     "service_type": "אסתר",
