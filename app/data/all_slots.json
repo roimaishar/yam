@@ -43,13 +43,6 @@
   },
   {
     "date": "ראשון, 9 נובמבר 2025",
-    "event_id": "4",
-    "time": "17:00 - 20:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 9 נובמבר 2025",
     "event_id": "5",
     "time": "20:00 - 23:00",
     "service_type": "קרפה",
@@ -508,13 +501,6 @@
     "event_id": "5",
     "time": "20:00 - 23:00",
     "service_type": "קרפה",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 12 נובמבר 2025",
-    "event_id": "39",
-    "time": "15:00 - 18:00",
-    "service_type": "הרמוני",
     "is_available": true
   },
   {
