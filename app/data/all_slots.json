@@ -315,6 +315,13 @@
     "is_available": true
   },
   {
+    "date": "שני, 10 נובמבר 2025",
+    "event_id": "20",
+    "time": "13:00 - 16:00",
+    "service_type": "קטמנדו",
+    "is_available": true
+  },
+  {
     "date": "שלישי, 11 נובמבר 2025",
     "event_id": "41",
     "time": "07:00 - 10:00",
