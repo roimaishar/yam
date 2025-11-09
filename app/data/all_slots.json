@@ -463,6 +463,13 @@
   },
   {
     "date": "שישי, 14 נובמבר 2025",
+    "event_id": "55",
+    "time": "09:00 - 12:00",
+    "service_type": "אסתר",
+    "is_available": true
+  },
+  {
+    "date": "שישי, 14 נובמבר 2025",
     "event_id": "58",
     "time": "18:00 - 21:00",
     "service_type": "אסתר",
