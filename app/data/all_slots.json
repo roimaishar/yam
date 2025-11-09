@@ -407,16 +407,16 @@
   },
   {
     "date": "חמישי, 13 נובמבר 2025",
-    "event_id": "44",
-    "time": "10:00 - 13:00",
+    "event_id": "47",
+    "time": "19:00 - 22:00",
     "service_type": "ושתי",
     "is_available": true
   },
   {
     "date": "חמישי, 13 נובמבר 2025",
-    "event_id": "47",
-    "time": "19:00 - 22:00",
-    "service_type": "ושתי",
+    "event_id": "56",
+    "time": "12:00 - 15:00",
+    "service_type": "אסתר",
     "is_available": true
   },
   {
