@@ -92,6 +92,13 @@
   },
   {
     "date": "שני, 10 נובמבר 2025",
+    "event_id": "15",
+    "time": "13:00 - 16:00",
+    "service_type": "רונית",
+    "is_available": true
+  },
+  {
+    "date": "שני, 10 נובמבר 2025",
     "event_id": "17",
     "time": "19:00 - 22:00",
     "service_type": "רונית",
@@ -550,13 +557,6 @@
     "event_id": "27",
     "time": "19:00 - 22:00",
     "service_type": "ליאור",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 14 נובמבר 2025",
-    "event_id": "18",
-    "time": "07:00 - 09:00",
-    "service_type": "קטמנדו",
     "is_available": true
   },
   {
