@@ -113,13 +113,6 @@
   },
   {
     "date": "שלישי, 11 נובמבר 2025",
-    "event_id": "41",
-    "time": "07:00 - 10:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 11 נובמבר 2025",
     "event_id": "45",
     "time": "19:00 - 22:00",
     "service_type": "ושתי",
@@ -297,13 +290,6 @@
     "date": "רביעי, 12 נובמבר 2025",
     "event_id": "7",
     "time": "10:00 - 12:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 12 נובמבר 2025",
-    "event_id": "10",
-    "time": "16:00 - 18:00",
     "service_type": "נאווה",
     "is_available": true
   },
