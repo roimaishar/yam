@@ -293,13 +293,6 @@
     "service_type": "מישל",
     "is_available": true
   },
-  "רביעי, 12 נובמבר 2025_27": {
-    "date": "רביעי, 12 נובמבר 2025",
-    "event_id": "27",
-    "time": "09:00 - 12:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
   "רביעי, 12 נובמבר 2025_30": {
     "date": "רביעי, 12 נובמבר 2025",
     "event_id": "30",
@@ -1179,13 +1172,6 @@
     "date": "שני, 17 נובמבר 2025",
     "event_id": "9",
     "time": "14:00 - 16:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  "שני, 17 נובמבר 2025_10": {
-    "date": "שני, 17 נובמבר 2025",
-    "event_id": "10",
-    "time": "16:00 - 18:00",
     "service_type": "נאווה",
     "is_available": true
   },
