@@ -64,13 +64,6 @@
   },
   {
     "date": "שני, 10 נובמבר 2025",
-    "event_id": "17",
-    "time": "19:00 - 22:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
-  {
-    "date": "שני, 10 נובמבר 2025",
     "event_id": "25",
     "time": "19:00 - 22:00",
     "service_type": "ליאור",
