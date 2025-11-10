@@ -99,13 +99,6 @@
   },
   {
     "date": "שלישי, 11 נובמבר 2025",
-    "event_id": "14",
-    "time": "10:00 - 13:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 11 נובמבר 2025",
     "event_id": "17",
     "time": "19:00 - 22:00",
     "service_type": "רונית",
@@ -451,6 +444,13 @@
     "date": "שבת, 15 נובמבר 2025",
     "event_id": "53",
     "time": "09:00 - 12:00",
+    "service_type": "אסתר",
+    "is_available": true
+  },
+  {
+    "date": "שבת, 15 נובמבר 2025",
+    "event_id": "55",
+    "time": "15:00 - 18:00",
     "service_type": "אסתר",
     "is_available": true
   },
