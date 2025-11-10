@@ -308,6 +308,13 @@
     "is_available": true
   },
   {
+    "date": "חמישי, 13 נובמבר 2025",
+    "event_id": "21",
+    "time": "13:00 - 15:00",
+    "service_type": "קטמנדו",
+    "is_available": true
+  },
+  {
     "date": "שישי, 14 נובמבר 2025",
     "event_id": "47",
     "time": "19:00 - 22:00",
