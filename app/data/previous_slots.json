@@ -132,25 +132,11 @@
     "service_type": "רוני",
     "is_available": true
   },
-  "רביעי, 12 נובמבר 2025_1": {
-    "date": "רביעי, 12 נובמבר 2025",
-    "event_id": "1",
-    "time": "08:00 - 11:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
   "רביעי, 12 נובמבר 2025_5": {
     "date": "רביעי, 12 נובמבר 2025",
     "event_id": "5",
     "time": "20:00 - 23:00",
     "service_type": "קרפה",
-    "is_available": true
-  },
-  "רביעי, 12 נובמבר 2025_40": {
-    "date": "רביעי, 12 נובמבר 2025",
-    "event_id": "40",
-    "time": "18:00 - 21:00",
-    "service_type": "הרמוני",
     "is_available": true
   },
   "רביעי, 12 נובמבר 2025_35": {
@@ -892,13 +878,6 @@
     "date": "ראשון, 16 נובמבר 2025",
     "event_id": "23",
     "time": "13:00 - 16:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
-  "ראשון, 16 נובמבר 2025_24": {
-    "date": "ראשון, 16 נובמבר 2025",
-    "event_id": "24",
-    "time": "16:00 - 19:00",
     "service_type": "ליאור",
     "is_available": true
   },
