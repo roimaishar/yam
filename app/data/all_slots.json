@@ -435,6 +435,13 @@
   },
   {
     "date": "שישי, 14 נובמבר 2025",
+    "event_id": "26",
+    "time": "16:00 - 19:00",
+    "service_type": "ליאור",
+    "is_available": true
+  },
+  {
+    "date": "שישי, 14 נובמבר 2025",
     "event_id": "27",
     "time": "19:00 - 22:00",
     "service_type": "ליאור",
@@ -1361,13 +1368,6 @@
     "date": "רביעי, 19 נובמבר 2025",
     "event_id": "54",
     "time": "09:00 - 12:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 19 נובמבר 2025",
-    "event_id": "55",
-    "time": "12:00 - 15:00",
     "service_type": "אסתר",
     "is_available": true
   },
