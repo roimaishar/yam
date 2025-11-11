@@ -601,13 +601,6 @@
     "service_type": "קרפה",
     "is_available": true
   },
-  "שני, 17 נובמבר 2025_38": {
-    "date": "שני, 17 נובמבר 2025",
-    "event_id": "38",
-    "time": "09:00 - 12:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
   "שני, 17 נובמבר 2025_39": {
     "date": "שני, 17 נובמבר 2025",
     "event_id": "39",
@@ -682,13 +675,6 @@
     "date": "שני, 17 נובמבר 2025",
     "event_id": "14",
     "time": "07:00 - 10:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
-  "שני, 17 נובמבר 2025_15": {
-    "date": "שני, 17 נובמבר 2025",
-    "event_id": "15",
-    "time": "10:00 - 13:00",
     "service_type": "רונית",
     "is_available": true
   },
