@@ -666,6 +666,13 @@
   },
   {
     "date": "שני, 17 נובמבר 2025",
+    "event_id": "15",
+    "time": "10:00 - 13:00",
+    "service_type": "רונית",
+    "is_available": true
+  },
+  {
+    "date": "שני, 17 נובמבר 2025",
     "event_id": "18",
     "time": "19:00 - 22:00",
     "service_type": "רונית",
