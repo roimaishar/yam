@@ -295,13 +295,6 @@
   },
   {
     "date": "שבת, 15 נובמבר 2025",
-    "event_id": "21",
-    "time": "07:00 - 10:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 15 נובמבר 2025",
     "event_id": "25",
     "time": "19:00 - 22:00",
     "service_type": "ליאור",
@@ -997,13 +990,6 @@
     "date": "רביעי, 19 נובמבר 2025",
     "event_id": "37",
     "time": "06:00 - 09:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 19 נובמבר 2025",
-    "event_id": "38",
-    "time": "09:00 - 12:00",
     "service_type": "הרמוני",
     "is_available": true
   },

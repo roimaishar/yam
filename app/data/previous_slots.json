@@ -293,13 +293,6 @@
     "service_type": "רונית",
     "is_available": true
   },
-  "שבת, 15 נובמבר 2025_21": {
-    "date": "שבת, 15 נובמבר 2025",
-    "event_id": "21",
-    "time": "07:00 - 10:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
   "שבת, 15 נובמבר 2025_25": {
     "date": "שבת, 15 נובמבר 2025",
     "event_id": "25",
@@ -997,13 +990,6 @@
     "date": "רביעי, 19 נובמבר 2025",
     "event_id": "37",
     "time": "06:00 - 09:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  "רביעי, 19 נובמבר 2025_38": {
-    "date": "רביעי, 19 נובמבר 2025",
-    "event_id": "38",
-    "time": "09:00 - 12:00",
     "service_type": "הרמוני",
     "is_available": true
   },
