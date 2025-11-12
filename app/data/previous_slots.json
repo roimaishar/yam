@@ -461,13 +461,6 @@
     "service_type": "רוני",
     "is_available": true
   },
-  "שני, 17 נובמבר 2025_4": {
-    "date": "שני, 17 נובמבר 2025",
-    "event_id": "4",
-    "time": "17:00 - 20:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
   "שני, 17 נובמבר 2025_5": {
     "date": "שני, 17 נובמבר 2025",
     "event_id": "5",
@@ -612,13 +605,6 @@
     "date": "שלישי, 18 נובמבר 2025",
     "event_id": "53",
     "time": "06:00 - 09:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  "שלישי, 18 נובמבר 2025_55": {
-    "date": "שלישי, 18 נובמבר 2025",
-    "event_id": "55",
-    "time": "12:00 - 15:00",
     "service_type": "אסתר",
     "is_available": true
   },
