@@ -692,18 +692,18 @@
     "service_type": "רונית",
     "is_available": true
   },
-  "שלישי, 18 נובמבר 2025_17": {
-    "date": "שלישי, 18 נובמבר 2025",
-    "event_id": "17",
-    "time": "16:00 - 19:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
   "שלישי, 18 נובמבר 2025_18": {
     "date": "שלישי, 18 נובמבר 2025",
     "event_id": "18",
     "time": "19:00 - 22:00",
     "service_type": "רונית",
+    "is_available": true
+  },
+  "שלישי, 18 נובמבר 2025_25": {
+    "date": "שלישי, 18 נובמבר 2025",
+    "event_id": "25",
+    "time": "16:00 - 19:00",
+    "service_type": "ליאור",
     "is_available": true
   },
   "שלישי, 18 נובמבר 2025_26": {
@@ -1340,13 +1340,6 @@
     "date": "שבת, 22 נובמבר 2025",
     "event_id": "14",
     "time": "07:00 - 10:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
-  "שבת, 22 נובמבר 2025_15": {
-    "date": "שבת, 22 נובמבר 2025",
-    "event_id": "15",
-    "time": "10:00 - 13:00",
     "service_type": "רונית",
     "is_available": true
   },
