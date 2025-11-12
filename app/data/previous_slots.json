@@ -258,6 +258,13 @@
     "service_type": "אסתר",
     "is_available": true
   },
+  "שבת, 15 נובמבר 2025_55": {
+    "date": "שבת, 15 נובמבר 2025",
+    "event_id": "55",
+    "time": "15:00 - 18:00",
+    "service_type": "אסתר",
+    "is_available": true
+  },
   "שבת, 15 נובמבר 2025_60": {
     "date": "שבת, 15 נובמבר 2025",
     "event_id": "60",
@@ -437,6 +444,13 @@
     "date": "ראשון, 16 נובמבר 2025",
     "event_id": "44",
     "time": "13:00 - 16:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
+  "ראשון, 16 נובמבר 2025_45": {
+    "date": "ראשון, 16 נובמבר 2025",
+    "event_id": "45",
+    "time": "16:00 - 19:00",
     "service_type": "ושתי",
     "is_available": true
   },
@@ -976,6 +990,13 @@
     "date": "רביעי, 19 נובמבר 2025",
     "event_id": "42",
     "time": "07:00 - 10:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
+  "רביעי, 19 נובמבר 2025_43": {
+    "date": "רביעי, 19 נובמבר 2025",
+    "event_id": "43",
+    "time": "10:00 - 13:00",
     "service_type": "ושתי",
     "is_available": true
   },
