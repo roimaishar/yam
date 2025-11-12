@@ -1,9 +1,13 @@
 {
   "date": "2025-11-12",
-  "calls_today": 1,
+  "calls_today": 2,
   "calls": [
     {
       "timestamp": "2025-11-12T08:31:27.834805",
+      "success": true
+    },
+    {
+      "timestamp": "2025-11-12T17:53:53.376062",
       "success": true
     }
   ]
