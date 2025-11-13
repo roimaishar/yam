@@ -244,13 +244,6 @@
     "service_type": "רוני",
     "is_available": true
   },
-  "ראשון, 16 נובמבר 2025_3": {
-    "date": "ראשון, 16 נובמבר 2025",
-    "event_id": "3",
-    "time": "14:00 - 17:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
   "ראשון, 16 נובמבר 2025_4": {
     "date": "ראשון, 16 נובמבר 2025",
     "event_id": "4",
@@ -794,13 +787,6 @@
     "date": "רביעי, 19 נובמבר 2025",
     "event_id": "27",
     "time": "06:00 - 09:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  "רביעי, 19 נובמבר 2025_28": {
-    "date": "רביעי, 19 נובמבר 2025",
-    "event_id": "28",
-    "time": "09:00 - 12:00",
     "service_type": "מישל",
     "is_available": true
   },
