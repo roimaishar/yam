@@ -1,6 +1,13 @@
 [
   {
     "date": "שבת, 15 נובמבר 2025",
+    "event_id": "43",
+    "time": "10:00 - 13:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
+  {
+    "date": "שבת, 15 נובמבר 2025",
     "event_id": "46",
     "time": "19:00 - 22:00",
     "service_type": "ושתי",
@@ -18,6 +25,13 @@
     "event_id": "56",
     "time": "15:00 - 18:00",
     "service_type": "אסתר",
+    "is_available": true
+  },
+  {
+    "date": "שבת, 15 נובמבר 2025",
+    "event_id": "60",
+    "time": "14:00 - 17:00",
+    "service_type": "רוני",
     "is_available": true
   },
   {
@@ -46,13 +60,6 @@
     "event_id": "5",
     "time": "20:00 - 23:00",
     "service_type": "קרפה",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 15 נובמבר 2025",
-    "event_id": "40",
-    "time": "15:00 - 18:00",
-    "service_type": "הרמוני",
     "is_available": true
   },
   {
