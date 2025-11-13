@@ -538,13 +538,6 @@
     "service_type": "הרמוני",
     "is_available": true
   },
-  "שלישי, 18 נובמבר 2025_38": {
-    "date": "שלישי, 18 נובמבר 2025",
-    "event_id": "38",
-    "time": "09:00 - 12:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
   "שלישי, 18 נובמבר 2025_40": {
     "date": "שלישי, 18 נובמבר 2025",
     "event_id": "40",
@@ -1294,17 +1287,17 @@
     "service_type": "אסתר",
     "is_available": true
   },
+  "ראשון, 23 נובמבר 2025_60": {
+    "date": "ראשון, 23 נובמבר 2025",
+    "event_id": "60",
+    "time": "08:00 - 11:00",
+    "service_type": "רוני",
+    "is_available": true
+  },
   "ראשון, 23 נובמבר 2025_61": {
     "date": "ראשון, 23 נובמבר 2025",
     "event_id": "61",
     "time": "11:00 - 14:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
-  "ראשון, 23 נובמבר 2025_62": {
-    "date": "ראשון, 23 נובמבר 2025",
-    "event_id": "62",
-    "time": "14:00 - 17:00",
     "service_type": "רוני",
     "is_available": true
   },
@@ -1417,13 +1410,6 @@
     "date": "ראשון, 23 נובמבר 2025",
     "event_id": "29",
     "time": "09:00 - 12:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  "ראשון, 23 נובמבר 2025_31": {
-    "date": "ראשון, 23 נובמבר 2025",
-    "event_id": "31",
-    "time": "15:00 - 18:00",
     "service_type": "מישל",
     "is_available": true
   },
