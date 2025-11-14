@@ -274,6 +274,13 @@
   },
   {
     "date": "ראשון, 16 נובמבר 2025",
+    "event_id": "31",
+    "time": "08:00 - 11:00",
+    "service_type": "כרמן החדשה",
+    "is_available": true
+  },
+  {
+    "date": "ראשון, 16 נובמבר 2025",
     "event_id": "34",
     "time": "17:00 - 20:00",
     "service_type": "כרמן החדשה",
@@ -407,20 +414,6 @@
   },
   {
     "date": "שני, 17 נובמבר 2025",
-    "event_id": "41",
-    "time": "18:00 - 21:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  {
-    "date": "שני, 17 נובמבר 2025",
-    "event_id": "32",
-    "time": "08:00 - 11:00",
-    "service_type": "כרמן החדשה",
-    "is_available": true
-  },
-  {
-    "date": "שני, 17 נובמבר 2025",
     "event_id": "36",
     "time": "20:00 - 23:00",
     "service_type": "כרמן החדשה",
@@ -535,13 +528,6 @@
     "date": "שלישי, 18 נובמבר 2025",
     "event_id": "27",
     "time": "06:00 - 09:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 18 נובמבר 2025",
-    "event_id": "28",
-    "time": "09:00 - 12:00",
     "service_type": "מישל",
     "is_available": true
   },
