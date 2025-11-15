@@ -330,13 +330,6 @@
   },
   {
     "date": "ראשון, 16 נובמבר 2025",
-    "event_id": "23",
-    "time": "13:00 - 16:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 16 נובמבר 2025",
     "event_id": "25",
     "time": "19:00 - 22:00",
     "service_type": "ליאור",
@@ -2208,13 +2201,6 @@
     "date": "שישי, 28 נובמבר 2025",
     "event_id": "6",
     "time": "08:00 - 10:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 28 נובמבר 2025",
-    "event_id": "10",
-    "time": "16:00 - 18:00",
     "service_type": "נאווה",
     "is_available": true
   },
