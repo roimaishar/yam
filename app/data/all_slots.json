@@ -995,13 +995,6 @@
   },
   {
     "date": "שני, 24 נובמבר 2025",
-    "event_id": "54",
-    "time": "12:00 - 15:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "שני, 24 נובמבר 2025",
     "event_id": "56",
     "time": "18:00 - 21:00",
     "service_type": "אסתר",
@@ -1501,13 +1494,6 @@
     "date": "שלישי, 25 נובמבר 2025",
     "event_id": "23",
     "time": "13:00 - 16:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 25 נובמבר 2025",
-    "event_id": "24",
-    "time": "16:00 - 19:00",
     "service_type": "ליאור",
     "is_available": true
   },
