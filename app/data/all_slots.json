@@ -491,6 +491,13 @@
   },
   {
     "date": "שישי, 21 נובמבר 2025",
+    "event_id": "16",
+    "time": "16:00 - 19:00",
+    "service_type": "רונית",
+    "is_available": true
+  },
+  {
+    "date": "שישי, 21 נובמבר 2025",
     "event_id": "17",
     "time": "19:00 - 22:00",
     "service_type": "רונית",
@@ -500,20 +507,6 @@
     "date": "שישי, 21 נובמבר 2025",
     "event_id": "23",
     "time": "07:00 - 10:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 21 נובמבר 2025",
-    "event_id": "24",
-    "time": "10:00 - 13:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 21 נובמבר 2025",
-    "event_id": "25",
-    "time": "13:00 - 16:00",
     "service_type": "ליאור",
     "is_available": true
   },
