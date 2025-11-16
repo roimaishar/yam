@@ -91,13 +91,6 @@
     "is_available": true
   },
   {
-    "date": "שני, 17 נובמבר 2025",
-    "event_id": "19",
-    "time": "07:00 - 10:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
-  {
     "date": "שלישי, 18 נובמבר 2025",
     "event_id": "43",
     "time": "10:00 - 13:00",
@@ -319,13 +312,6 @@
     "event_id": "26",
     "time": "19:00 - 22:00",
     "service_type": "ליאור",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 19 נובמבר 2025",
-    "event_id": "19",
-    "time": "07:00 - 10:00",
-    "service_type": "קטמנדו",
     "is_available": true
   },
   {
