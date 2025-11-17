@@ -112,13 +112,6 @@
     "is_available": true
   },
   {
-    "date": "שלישי, 18 נובמבר 2025",
-    "event_id": "21",
-    "time": "13:00 - 16:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
-  {
     "date": "רביעי, 19 נובמבר 2025",
     "event_id": "45",
     "time": "16:00 - 19:00",
@@ -157,13 +150,6 @@
     "date": "רביעי, 19 נובמבר 2025",
     "event_id": "7",
     "time": "08:00 - 10:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 19 נובמבר 2025",
-    "event_id": "11",
-    "time": "16:00 - 18:00",
     "service_type": "נאווה",
     "is_available": true
   },
@@ -512,13 +498,6 @@
   },
   {
     "date": "שבת, 22 נובמבר 2025",
-    "event_id": "14",
-    "time": "07:00 - 10:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 22 נובמבר 2025",
     "event_id": "16",
     "time": "13:00 - 16:00",
     "service_type": "רונית",
@@ -557,13 +536,6 @@
     "event_id": "26",
     "time": "19:00 - 22:00",
     "service_type": "ליאור",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 22 נובמבר 2025",
-    "event_id": "19",
-    "time": "07:00 - 10:00",
-    "service_type": "קטמנדו",
     "is_available": true
   },
   {
