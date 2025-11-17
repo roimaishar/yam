@@ -29,13 +29,6 @@
   },
   {
     "date": "שלישי, 18 נובמבר 2025",
-    "event_id": "4",
-    "time": "17:00 - 20:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 18 נובמבר 2025",
     "event_id": "5",
     "time": "20:00 - 23:00",
     "service_type": "קרפה",
@@ -157,13 +150,6 @@
     "date": "רביעי, 19 נובמבר 2025",
     "event_id": "9",
     "time": "12:00 - 14:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 19 נובמבר 2025",
-    "event_id": "10",
-    "time": "14:00 - 16:00",
     "service_type": "נאווה",
     "is_available": true
   },
