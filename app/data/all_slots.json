@@ -260,13 +260,6 @@
   },
   {
     "date": "שישי, 21 נובמבר 2025",
-    "event_id": "47",
-    "time": "19:00 - 22:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 21 נובמבר 2025",
     "event_id": "63",
     "time": "20:00 - 23:00",
     "service_type": "רוני",
