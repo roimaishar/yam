@@ -8,6 +8,13 @@
   },
   {
     "date": "שלישי, 18 נובמבר 2025",
+    "event_id": "44",
+    "time": "13:00 - 16:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
+  {
+    "date": "שלישי, 18 נובמבר 2025",
     "event_id": "46",
     "time": "19:00 - 22:00",
     "service_type": "ושתי",
@@ -323,13 +330,6 @@
   },
   {
     "date": "שישי, 21 נובמבר 2025",
-    "event_id": "25",
-    "time": "13:00 - 16:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 21 נובמבר 2025",
     "event_id": "27",
     "time": "19:00 - 22:00",
     "service_type": "ליאור",
@@ -451,13 +451,6 @@
     "date": "שבת, 22 נובמבר 2025",
     "event_id": "27",
     "time": "06:00 - 09:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 22 נובמבר 2025",
-    "event_id": "28",
-    "time": "09:00 - 12:00",
     "service_type": "מישל",
     "is_available": true
   },
