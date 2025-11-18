@@ -230,13 +230,6 @@
     "service_type": "רוני",
     "is_available": true
   },
-  "שבת, 22 נובמבר 2025_60": {
-    "date": "שבת, 22 נובמבר 2025",
-    "event_id": "60",
-    "time": "14:00 - 17:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
   "שבת, 22 נובמבר 2025_62": {
     "date": "שבת, 22 נובמבר 2025",
     "event_id": "62",
@@ -342,13 +335,6 @@
     "service_type": "נאווה",
     "is_available": true
   },
-  "שבת, 22 נובמבר 2025_11": {
-    "date": "שבת, 22 נובמבר 2025",
-    "event_id": "11",
-    "time": "16:00 - 18:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
   "שבת, 22 נובמבר 2025_12": {
     "date": "שבת, 22 נובמבר 2025",
     "event_id": "12",
@@ -444,13 +430,6 @@
     "date": "ראשון, 23 נובמבר 2025",
     "event_id": "1",
     "time": "08:00 - 11:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
-  "ראשון, 23 נובמבר 2025_2": {
-    "date": "ראשון, 23 נובמבר 2025",
-    "event_id": "2",
-    "time": "11:00 - 14:00",
     "service_type": "קרפה",
     "is_available": true
   },
@@ -612,13 +591,6 @@
     "date": "שני, 24 נובמבר 2025",
     "event_id": "41",
     "time": "07:00 - 10:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  "שני, 24 נובמבר 2025_43": {
-    "date": "שני, 24 נובמבר 2025",
-    "event_id": "43",
-    "time": "13:00 - 16:00",
     "service_type": "ושתי",
     "is_available": true
   },
@@ -872,13 +844,6 @@
     "event_id": "25",
     "time": "19:00 - 22:00",
     "service_type": "ליאור",
-    "is_available": true
-  },
-  "שני, 24 נובמבר 2025_18": {
-    "date": "שני, 24 נובמבר 2025",
-    "event_id": "18",
-    "time": "07:00 - 10:00",
-    "service_type": "קטמנדו",
     "is_available": true
   },
   "שני, 24 נובמבר 2025_19": {
