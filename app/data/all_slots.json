@@ -1,13 +1,6 @@
 [
   {
     "date": "רביעי, 19 נובמבר 2025",
-    "event_id": "45",
-    "time": "16:00 - 19:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 19 נובמבר 2025",
     "event_id": "62",
     "time": "20:00 - 23:00",
     "service_type": "רוני",
