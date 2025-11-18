@@ -36,13 +36,6 @@
   },
   {
     "date": "רביעי, 19 נובמבר 2025",
-    "event_id": "7",
-    "time": "08:00 - 10:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 19 נובמבר 2025",
     "event_id": "8",
     "time": "10:00 - 12:00",
     "service_type": "נאווה",
@@ -193,13 +186,6 @@
     "event_id": "18",
     "time": "07:00 - 09:00",
     "service_type": "קטמנדו",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 22 נובמבר 2025",
-    "event_id": "44",
-    "time": "13:00 - 16:00",
-    "service_type": "ושתי",
     "is_available": true
   },
   {
@@ -1670,13 +1656,6 @@
     "event_id": "41",
     "time": "16:00 - 19:00",
     "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 30 נובמבר 2025",
-    "event_id": "50",
-    "time": "15:00 - 18:00",
-    "service_type": "אסתר",
     "is_available": true
   },
   {
