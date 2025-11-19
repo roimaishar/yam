@@ -447,6 +447,13 @@
     "service_type": "קטמנדו",
     "is_available": true
   },
+  "ראשון, 23 נובמבר 2025_20": {
+    "date": "ראשון, 23 נובמבר 2025",
+    "event_id": "20",
+    "time": "10:00 - 13:00",
+    "service_type": "קטמנדו",
+    "is_available": true
+  },
   "שני, 24 נובמבר 2025_41": {
     "date": "שני, 24 נובמבר 2025",
     "event_id": "41",
@@ -1175,6 +1182,13 @@
     "service_type": "קטמנדו",
     "is_available": true
   },
+  "שישי, 28 נובמבר 2025_19": {
+    "date": "שישי, 28 נובמבר 2025",
+    "event_id": "19",
+    "time": "09:00 - 11:00",
+    "service_type": "קטמנדו",
+    "is_available": true
+  },
   "שישי, 28 נובמבר 2025_21": {
     "date": "שישי, 28 נובמבר 2025",
     "event_id": "21",
@@ -1760,13 +1774,6 @@
     "date": "שני, 1 דצמבר 2025",
     "event_id": "2",
     "time": "11:00 - 14:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
-  "שני, 1 דצמבר 2025_3": {
-    "date": "שני, 1 דצמבר 2025",
-    "event_id": "3",
-    "time": "14:00 - 17:00",
     "service_type": "קרפה",
     "is_available": true
   },
