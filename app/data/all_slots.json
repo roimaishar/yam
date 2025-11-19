@@ -2073,13 +2073,6 @@
   },
   {
     "date": "שלישי, 2 דצמבר 2025",
-    "event_id": "52",
-    "time": "11:00 - 14:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 2 דצמבר 2025",
     "event_id": "53",
     "time": "14:00 - 17:00",
     "service_type": "רוני",
