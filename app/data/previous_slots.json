@@ -20,13 +20,6 @@
     "service_type": "קרפה",
     "is_available": true
   },
-  "חמישי, 20 נובמבר 2025_36": {
-    "date": "חמישי, 20 נובמבר 2025",
-    "event_id": "36",
-    "time": "17:00 - 20:00",
-    "service_type": "כרמן החדשה",
-    "is_available": true
-  },
   "חמישי, 20 נובמבר 2025_37": {
     "date": "חמישי, 20 נובמבר 2025",
     "event_id": "37",
@@ -116,6 +109,13 @@
     "event_id": "27",
     "time": "19:00 - 22:00",
     "service_type": "ליאור",
+    "is_available": true
+  },
+  "שבת, 22 נובמבר 2025_60": {
+    "date": "שבת, 22 נובמבר 2025",
+    "event_id": "60",
+    "time": "14:00 - 17:00",
+    "service_type": "רוני",
     "is_available": true
   },
   "שבת, 22 נובמבר 2025_62": {
@@ -517,13 +517,6 @@
     "service_type": "רוני",
     "is_available": true
   },
-  "שני, 24 נובמבר 2025_3": {
-    "date": "שני, 24 נובמבר 2025",
-    "event_id": "3",
-    "time": "14:00 - 17:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
   "שני, 24 נובמבר 2025_4": {
     "date": "שני, 24 נובמבר 2025",
     "event_id": "4",
@@ -559,6 +552,13 @@
     "service_type": "כרמן החדשה",
     "is_available": true
   },
+  "שני, 24 נובמבר 2025_32": {
+    "date": "שני, 24 נובמבר 2025",
+    "event_id": "32",
+    "time": "11:00 - 14:00",
+    "service_type": "כרמן החדשה",
+    "is_available": true
+  },
   "שני, 24 נובמבר 2025_34": {
     "date": "שני, 24 נובמבר 2025",
     "event_id": "34",
@@ -577,13 +577,6 @@
     "date": "שני, 24 נובמבר 2025",
     "event_id": "27",
     "time": "09:00 - 12:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  "שני, 24 נובמבר 2025_28": {
-    "date": "שני, 24 נובמבר 2025",
-    "event_id": "28",
-    "time": "12:00 - 15:00",
     "service_type": "מישל",
     "is_available": true
   },
@@ -654,13 +647,6 @@
     "date": "שני, 24 נובמבר 2025",
     "event_id": "14",
     "time": "10:00 - 13:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
-  "שני, 24 נובמבר 2025_16": {
-    "date": "שני, 24 נובמבר 2025",
-    "event_id": "16",
-    "time": "16:00 - 19:00",
     "service_type": "רונית",
     "is_available": true
   },
@@ -2047,13 +2033,6 @@
     "date": "שלישי, 2 דצמבר 2025",
     "event_id": "48",
     "time": "12:00 - 15:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  "שלישי, 2 דצמבר 2025_49": {
-    "date": "שלישי, 2 דצמבר 2025",
-    "event_id": "49",
-    "time": "15:00 - 18:00",
     "service_type": "אסתר",
     "is_available": true
   },
