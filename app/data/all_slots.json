@@ -974,20 +974,6 @@
   },
   {
     "date": "שישי, 28 נובמבר 2025",
-    "event_id": "18",
-    "time": "07:00 - 09:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 28 נובמבר 2025",
-    "event_id": "19",
-    "time": "09:00 - 11:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 28 נובמבר 2025",
     "event_id": "21",
     "time": "13:00 - 15:00",
     "service_type": "קטמנדו",
