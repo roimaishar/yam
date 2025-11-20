@@ -1555,20 +1555,6 @@
   },
   {
     "date": "שני, 1 דצמבר 2025",
-    "event_id": "51",
-    "time": "11:00 - 14:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
-  {
-    "date": "שני, 1 דצמבר 2025",
-    "event_id": "53",
-    "time": "17:00 - 20:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
-  {
-    "date": "שני, 1 דצמבר 2025",
     "event_id": "1",
     "time": "08:00 - 11:00",
     "service_type": "קרפה",
@@ -1807,20 +1793,6 @@
   },
   {
     "date": "שלישי, 2 דצמבר 2025",
-    "event_id": "51",
-    "time": "08:00 - 11:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 2 דצמבר 2025",
-    "event_id": "54",
-    "time": "17:00 - 20:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 2 דצמבר 2025",
     "event_id": "2",
     "time": "11:00 - 14:00",
     "service_type": "קרפה",
@@ -2034,27 +2006,6 @@
     "event_id": "51",
     "time": "18:00 - 21:00",
     "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 3 דצמבר 2025",
-    "event_id": "52",
-    "time": "08:00 - 11:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 3 דצמבר 2025",
-    "event_id": "53",
-    "time": "11:00 - 14:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 3 דצמבר 2025",
-    "event_id": "55",
-    "time": "17:00 - 20:00",
-    "service_type": "רוני",
     "is_available": true
   },
   {
