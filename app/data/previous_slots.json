@@ -6,13 +6,6 @@
     "service_type": "רוני",
     "is_available": true
   },
-  "שישי, 21 נובמבר 2025_4": {
-    "date": "שישי, 21 נובמבר 2025",
-    "event_id": "4",
-    "time": "17:00 - 20:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
   "שישי, 21 נובמבר 2025_5": {
     "date": "שישי, 21 נובמבר 2025",
     "event_id": "5",
@@ -1858,13 +1851,6 @@
     "date": "שלישי, 2 דצמבר 2025",
     "event_id": "51",
     "time": "08:00 - 11:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
-  "שלישי, 2 דצמבר 2025_53": {
-    "date": "שלישי, 2 דצמבר 2025",
-    "event_id": "53",
-    "time": "14:00 - 17:00",
     "service_type": "רוני",
     "is_available": true
   },
