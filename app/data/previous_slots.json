@@ -1301,13 +1301,6 @@
     "service_type": "קטמנדו",
     "is_available": true
   },
-  "שני, 1 דצמבר 2025_36": {
-    "date": "שני, 1 דצמבר 2025",
-    "event_id": "36",
-    "time": "07:00 - 10:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
   "שני, 1 דצמבר 2025_37": {
     "date": "שני, 1 דצמבר 2025",
     "event_id": "37",
@@ -2005,13 +1998,6 @@
     "date": "חמישי, 4 דצמבר 2025",
     "event_id": "5",
     "time": "08:00 - 10:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  "חמישי, 4 דצמבר 2025_7": {
-    "date": "חמישי, 4 דצמבר 2025",
-    "event_id": "7",
-    "time": "12:00 - 14:00",
     "service_type": "נאווה",
     "is_available": true
   },
