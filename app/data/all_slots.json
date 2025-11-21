@@ -2087,13 +2087,6 @@
   },
   {
     "date": "חמישי, 4 דצמבר 2025",
-    "event_id": "8",
-    "time": "14:00 - 16:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  {
-    "date": "חמישי, 4 דצמבר 2025",
     "event_id": "9",
     "time": "16:00 - 18:00",
     "service_type": "נאווה",
@@ -2117,13 +2110,6 @@
     "date": "חמישי, 4 דצמבר 2025",
     "event_id": "19",
     "time": "07:00 - 10:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
-  {
-    "date": "חמישי, 4 דצמבר 2025",
-    "event_id": "20",
-    "time": "10:00 - 13:00",
     "service_type": "ליאור",
     "is_available": true
   },
