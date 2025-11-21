@@ -183,13 +183,6 @@
   },
   {
     "date": "ראשון, 23 נובמבר 2025",
-    "event_id": "28",
-    "time": "06:00 - 09:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 23 נובמבר 2025",
     "event_id": "29",
     "time": "09:00 - 12:00",
     "service_type": "מישל",
@@ -1635,6 +1628,13 @@
     "event_id": "50",
     "time": "18:00 - 21:00",
     "service_type": "אסתר",
+    "is_available": true
+  },
+  {
+    "date": "שלישי, 2 דצמבר 2025",
+    "event_id": "3",
+    "time": "14:00 - 17:00",
+    "service_type": "קרפה",
     "is_available": true
   },
   {
