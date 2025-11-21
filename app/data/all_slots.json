@@ -848,13 +848,6 @@
   },
   {
     "date": "שישי, 28 נובמבר 2025",
-    "event_id": "38",
-    "time": "06:00 - 09:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 28 נובמבר 2025",
     "event_id": "42",
     "time": "18:00 - 21:00",
     "service_type": "הרמוני",
@@ -1704,13 +1697,6 @@
     "date": "שלישי, 2 דצמבר 2025",
     "event_id": "24",
     "time": "09:00 - 12:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 2 דצמבר 2025",
-    "event_id": "26",
-    "time": "15:00 - 18:00",
     "service_type": "מישל",
     "is_available": true
   },
