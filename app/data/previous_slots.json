@@ -41,13 +41,6 @@
     "service_type": "כרמן החדשה",
     "is_available": true
   },
-  "ראשון, 23 נובמבר 2025_29": {
-    "date": "ראשון, 23 נובמבר 2025",
-    "event_id": "29",
-    "time": "09:00 - 12:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
   "ראשון, 23 נובמבר 2025_32": {
     "date": "ראשון, 23 נובמבר 2025",
     "event_id": "32",
@@ -220,6 +213,13 @@
     "date": "שני, 24 נובמבר 2025",
     "event_id": "27",
     "time": "09:00 - 12:00",
+    "service_type": "מישל",
+    "is_available": true
+  },
+  "שני, 24 נובמבר 2025_29": {
+    "date": "שני, 24 נובמבר 2025",
+    "event_id": "29",
+    "time": "15:00 - 18:00",
     "service_type": "מישל",
     "is_available": true
   },
