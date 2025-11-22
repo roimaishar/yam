@@ -1149,6 +1149,13 @@
   },
   {
     "date": "ראשון, 30 נובמבר 2025",
+    "event_id": "15",
+    "time": "16:00 - 19:00",
+    "service_type": "רונית",
+    "is_available": true
+  },
+  {
+    "date": "ראשון, 30 נובמבר 2025",
     "event_id": "21",
     "time": "13:00 - 16:00",
     "service_type": "ליאור",
@@ -1800,13 +1807,6 @@
   },
   {
     "date": "חמישי, 4 דצמבר 2025",
-    "event_id": "46",
-    "time": "06:00 - 09:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "חמישי, 4 דצמבר 2025",
     "event_id": "50",
     "time": "18:00 - 21:00",
     "service_type": "אסתר",
@@ -1908,13 +1908,6 @@
     "event_id": "40",
     "time": "16:00 - 19:00",
     "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 5 דצמבר 2025",
-    "event_id": "46",
-    "time": "06:00 - 09:00",
-    "service_type": "אסתר",
     "is_available": true
   },
   {
