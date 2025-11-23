@@ -1800,13 +1800,6 @@
   },
   {
     "date": "שבת, 6 דצמבר 2025",
-    "event_id": "26",
-    "time": "12:00 - 15:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 6 דצמבר 2025",
     "event_id": "27",
     "time": "15:00 - 18:00",
     "service_type": "מישל",
