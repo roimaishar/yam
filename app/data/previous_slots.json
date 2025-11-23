@@ -195,13 +195,6 @@
     "service_type": "מישל",
     "is_available": true
   },
-  "שלישי, 25 נובמבר 2025_27": {
-    "date": "שלישי, 25 נובמבר 2025",
-    "event_id": "27",
-    "time": "09:00 - 12:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
   "שלישי, 25 נובמבר 2025_30": {
     "date": "שלישי, 25 נובמבר 2025",
     "event_id": "30",
@@ -213,13 +206,6 @@
     "date": "שלישי, 25 נובמבר 2025",
     "event_id": "6",
     "time": "08:00 - 10:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  "שלישי, 25 נובמבר 2025_7": {
-    "date": "שלישי, 25 נובמבר 2025",
-    "event_id": "7",
-    "time": "10:00 - 12:00",
     "service_type": "נאווה",
     "is_available": true
   },
@@ -311,13 +297,6 @@
     "date": "רביעי, 26 נובמבר 2025",
     "event_id": "20",
     "time": "07:00 - 10:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
-  "רביעי, 26 נובמבר 2025_21": {
-    "date": "רביעי, 26 נובמבר 2025",
-    "event_id": "21",
-    "time": "10:00 - 13:00",
     "service_type": "קטמנדו",
     "is_available": true
   },
