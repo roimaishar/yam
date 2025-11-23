@@ -680,13 +680,6 @@
   },
   {
     "date": "שבת, 29 נובמבר 2025",
-    "event_id": "23",
-    "time": "13:00 - 16:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 29 נובמבר 2025",
     "event_id": "24",
     "time": "16:00 - 19:00",
     "service_type": "ליאור",
