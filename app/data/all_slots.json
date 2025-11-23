@@ -379,13 +379,6 @@
   },
   {
     "date": "חמישי, 27 נובמבר 2025",
-    "event_id": "8",
-    "time": "12:00 - 14:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  {
-    "date": "חמישי, 27 נובמבר 2025",
     "event_id": "11",
     "time": "18:00 - 20:00",
     "service_type": "נאווה",
@@ -1093,13 +1086,6 @@
   },
   {
     "date": "שלישי, 2 דצמבר 2025",
-    "event_id": "40",
-    "time": "16:00 - 19:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 2 דצמבר 2025",
     "event_id": "46",
     "time": "06:00 - 09:00",
     "service_type": "אסתר",
@@ -1502,13 +1488,6 @@
     "event_id": "27",
     "time": "18:00 - 21:00",
     "service_type": "מישל",
-    "is_available": true
-  },
-  {
-    "date": "חמישי, 4 דצמבר 2025",
-    "event_id": "5",
-    "time": "08:00 - 10:00",
-    "service_type": "נאווה",
     "is_available": true
   },
   {
