@@ -1044,13 +1044,6 @@
   },
   {
     "date": "שני, 1 דצמבר 2025",
-    "event_id": "19",
-    "time": "10:00 - 13:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
-  {
-    "date": "שני, 1 דצמבר 2025",
     "event_id": "20",
     "time": "13:00 - 16:00",
     "service_type": "ליאור",
