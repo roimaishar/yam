@@ -953,13 +953,6 @@
   },
   {
     "date": "שני, 1 דצמבר 2025",
-    "event_id": "37",
-    "time": "10:00 - 13:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "שני, 1 דצמבר 2025",
     "event_id": "39",
     "time": "16:00 - 19:00",
     "service_type": "ושתי",
