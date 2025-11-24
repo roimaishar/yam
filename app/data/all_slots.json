@@ -302,6 +302,13 @@
   },
   {
     "date": "שישי, 28 נובמבר 2025",
+    "event_id": "58",
+    "time": "18:00 - 21:00",
+    "service_type": "אסתר",
+    "is_available": true
+  },
+  {
+    "date": "שישי, 28 נובמבר 2025",
     "event_id": "63",
     "time": "20:00 - 23:00",
     "service_type": "רוני",
@@ -354,6 +361,13 @@
     "event_id": "17",
     "time": "19:00 - 22:00",
     "service_type": "רונית",
+    "is_available": true
+  },
+  {
+    "date": "שישי, 28 נובמבר 2025",
+    "event_id": "25",
+    "time": "13:00 - 16:00",
+    "service_type": "ליאור",
     "is_available": true
   },
   {
@@ -1278,13 +1292,6 @@
     "event_id": "16",
     "time": "09:00 - 11:00",
     "service_type": "קטמנדו",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 5 דצמבר 2025",
-    "event_id": "50",
-    "time": "18:00 - 21:00",
-    "service_type": "אסתר",
     "is_available": true
   },
   {
