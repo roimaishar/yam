@@ -111,6 +111,13 @@
     "service_type": "נאווה",
     "is_available": true
   },
+  "שלישי, 25 נובמבר 2025_9": {
+    "date": "שלישי, 25 נובמבר 2025",
+    "event_id": "9",
+    "time": "14:00 - 16:00",
+    "service_type": "נאווה",
+    "is_available": true
+  },
   "שלישי, 25 נובמבר 2025_10": {
     "date": "שלישי, 25 נובמבר 2025",
     "event_id": "10",
@@ -577,13 +584,6 @@
     "date": "ראשון, 30 נובמבר 2025",
     "event_id": "2",
     "time": "11:00 - 14:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
-  "ראשון, 30 נובמבר 2025_4": {
-    "date": "ראשון, 30 נובמבר 2025",
-    "event_id": "4",
-    "time": "17:00 - 20:00",
     "service_type": "קרפה",
     "is_available": true
   },
