@@ -1554,20 +1554,6 @@
     "is_available": true
   },
   {
-    "date": "שישי, 5 דצמבר 2025",
-    "event_id": "17",
-    "time": "11:00 - 13:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 5 דצמבר 2025",
-    "event_id": "18",
-    "time": "13:00 - 15:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
-  {
     "date": "שבת, 6 דצמבר 2025",
     "event_id": "39",
     "time": "10:00 - 13:00",
