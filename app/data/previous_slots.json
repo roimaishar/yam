@@ -1399,13 +1399,6 @@
     "service_type": "ושתי",
     "is_available": true
   },
-  "שבת, 6 דצמבר 2025_50": {
-    "date": "שבת, 6 דצמבר 2025",
-    "event_id": "50",
-    "time": "15:00 - 18:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
   "שבת, 6 דצמבר 2025_2": {
     "date": "שבת, 6 דצמבר 2025",
     "event_id": "2",
