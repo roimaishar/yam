@@ -1520,13 +1520,6 @@
   },
   {
     "date": "שבת, 6 דצמבר 2025",
-    "event_id": "22",
-    "time": "13:00 - 16:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 6 דצמבר 2025",
     "event_id": "17",
     "time": "07:00 - 10:00",
     "service_type": "קטמנדו",
