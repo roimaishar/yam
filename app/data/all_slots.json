@@ -988,13 +988,6 @@
   },
   {
     "date": "רביעי, 3 דצמבר 2025",
-    "event_id": "34",
-    "time": "12:00 - 15:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 3 דצמבר 2025",
     "event_id": "35",
     "time": "15:00 - 18:00",
     "service_type": "הרמוני",
@@ -1067,13 +1060,6 @@
     "date": "רביעי, 3 דצמבר 2025",
     "event_id": "8",
     "time": "12:00 - 14:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 3 דצמבר 2025",
-    "event_id": "9",
-    "time": "14:00 - 16:00",
     "service_type": "נאווה",
     "is_available": true
   },
