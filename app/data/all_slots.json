@@ -176,6 +176,27 @@
   },
   {
     "date": "רביעי, 26 נובמבר 2025",
+    "event_id": "31",
+    "time": "15:00 - 18:00",
+    "service_type": "מישל",
+    "is_available": true
+  },
+  {
+    "date": "רביעי, 26 נובמבר 2025",
+    "event_id": "32",
+    "time": "18:00 - 21:00",
+    "service_type": "מישל",
+    "is_available": true
+  },
+  {
+    "date": "רביעי, 26 נובמבר 2025",
+    "event_id": "23",
+    "time": "07:00 - 10:00",
+    "service_type": "ליאור",
+    "is_available": true
+  },
+  {
+    "date": "רביעי, 26 נובמבר 2025",
     "event_id": "27",
     "time": "19:00 - 22:00",
     "service_type": "ליאור",
