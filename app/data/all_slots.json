@@ -189,13 +189,6 @@
     "is_available": true
   },
   {
-    "date": "רביעי, 26 נובמבר 2025",
-    "event_id": "20",
-    "time": "07:00 - 10:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
-  {
     "date": "חמישי, 27 נובמבר 2025",
     "event_id": "48",
     "time": "19:00 - 22:00",
@@ -1138,13 +1131,6 @@
     "event_id": "11",
     "time": "18:00 - 20:00",
     "service_type": "נאווה",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 3 דצמבר 2025",
-    "event_id": "12",
-    "time": "07:00 - 10:00",
-    "service_type": "רונית",
     "is_available": true
   },
   {
