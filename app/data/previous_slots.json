@@ -503,13 +503,6 @@
     "service_type": "אסתר",
     "is_available": true
   },
-  "שני, 1 דצמבר 2025_1": {
-    "date": "שני, 1 דצמבר 2025",
-    "event_id": "1",
-    "time": "08:00 - 11:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
   "שני, 1 דצמבר 2025_4": {
     "date": "שני, 1 דצמבר 2025",
     "event_id": "4",
