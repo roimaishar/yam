@@ -195,6 +195,13 @@
     "service_type": "קרפה",
     "is_available": true
   },
+  "שבת, 29 נובמבר 2025_39": {
+    "date": "שבת, 29 נובמבר 2025",
+    "event_id": "39",
+    "time": "15:00 - 18:00",
+    "service_type": "הרמוני",
+    "is_available": true
+  },
   "שבת, 29 נובמבר 2025_40": {
     "date": "שבת, 29 נובמבר 2025",
     "event_id": "40",
@@ -403,13 +410,6 @@
     "event_id": "26",
     "time": "18:00 - 21:00",
     "service_type": "מישל",
-    "is_available": true
-  },
-  "ראשון, 30 נובמבר 2025_6": {
-    "date": "ראשון, 30 נובמבר 2025",
-    "event_id": "6",
-    "time": "10:00 - 12:00",
-    "service_type": "נאווה",
     "is_available": true
   },
   "ראשון, 30 נובמבר 2025_8": {
@@ -844,13 +844,6 @@
     "event_id": "17",
     "time": "10:00 - 13:00",
     "service_type": "קטמנדו",
-    "is_available": true
-  },
-  "חמישי, 4 דצמבר 2025_4": {
-    "date": "חמישי, 4 דצמבר 2025",
-    "event_id": "4",
-    "time": "17:00 - 20:00",
-    "service_type": "קרפה",
     "is_available": true
   },
   "חמישי, 4 דצמבר 2025_36": {
@@ -1599,13 +1592,6 @@
     "date": "שלישי, 9 דצמבר 2025",
     "event_id": "47",
     "time": "12:00 - 15:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  "שלישי, 9 דצמבר 2025_48": {
-    "date": "שלישי, 9 דצמבר 2025",
-    "event_id": "48",
-    "time": "15:00 - 18:00",
     "service_type": "אסתר",
     "is_available": true
   },
