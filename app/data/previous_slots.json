@@ -307,6 +307,13 @@
     "service_type": "רונית",
     "is_available": true
   },
+  "שבת, 29 נובמבר 2025_16": {
+    "date": "שבת, 29 נובמבר 2025",
+    "event_id": "16",
+    "time": "16:00 - 19:00",
+    "service_type": "רונית",
+    "is_available": true
+  },
   "שבת, 29 נובמבר 2025_17": {
     "date": "שבת, 29 נובמבר 2025",
     "event_id": "17",
@@ -367,6 +374,13 @@
     "date": "ראשון, 30 נובמבר 2025",
     "event_id": "52",
     "time": "08:00 - 11:00",
+    "service_type": "רוני",
+    "is_available": true
+  },
+  "ראשון, 30 נובמבר 2025_54": {
+    "date": "ראשון, 30 נובמבר 2025",
+    "event_id": "54",
+    "time": "14:00 - 17:00",
     "service_type": "רוני",
     "is_available": true
   },
