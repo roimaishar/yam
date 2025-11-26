@@ -643,6 +643,13 @@
     "service_type": "הרמוני",
     "is_available": true
   },
+  "שלישי, 2 דצמבר 2025_35": {
+    "date": "שלישי, 2 דצמבר 2025",
+    "event_id": "35",
+    "time": "15:00 - 18:00",
+    "service_type": "הרמוני",
+    "is_available": true
+  },
   "שלישי, 2 דצמבר 2025_36": {
     "date": "שלישי, 2 דצמבר 2025",
     "event_id": "36",
@@ -676,20 +683,6 @@
     "event_id": "27",
     "time": "18:00 - 21:00",
     "service_type": "מישל",
-    "is_available": true
-  },
-  "שלישי, 2 דצמבר 2025_8": {
-    "date": "שלישי, 2 דצמבר 2025",
-    "event_id": "8",
-    "time": "14:00 - 16:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  "שלישי, 2 דצמבר 2025_9": {
-    "date": "שלישי, 2 דצמבר 2025",
-    "event_id": "9",
-    "time": "16:00 - 18:00",
-    "service_type": "נאווה",
     "is_available": true
   },
   "שלישי, 2 דצמבר 2025_10": {
