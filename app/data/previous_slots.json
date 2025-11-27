@@ -314,13 +314,6 @@
     "service_type": "ושתי",
     "is_available": true
   },
-  "שלישי, 2 דצמבר 2025_46": {
-    "date": "שלישי, 2 דצמבר 2025",
-    "event_id": "46",
-    "time": "06:00 - 09:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
   "שלישי, 2 דצמבר 2025_47": {
     "date": "שלישי, 2 דצמבר 2025",
     "event_id": "47",
@@ -1424,6 +1417,13 @@
     "date": "רביעי, 10 דצמבר 2025",
     "event_id": "31",
     "time": "06:00 - 09:00",
+    "service_type": "הרמוני",
+    "is_available": true
+  },
+  "רביעי, 10 דצמבר 2025_32": {
+    "date": "רביעי, 10 דצמבר 2025",
+    "event_id": "32",
+    "time": "09:00 - 12:00",
     "service_type": "הרמוני",
     "is_available": true
   },
