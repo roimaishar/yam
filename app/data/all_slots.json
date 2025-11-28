@@ -232,13 +232,6 @@
   },
   {
     "date": "שלישי, 2 דצמבר 2025",
-    "event_id": "47",
-    "time": "09:00 - 12:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 2 דצמבר 2025",
     "event_id": "50",
     "time": "18:00 - 21:00",
     "service_type": "אסתר",
@@ -379,16 +372,16 @@
   },
   {
     "date": "רביעי, 3 דצמבר 2025",
-    "event_id": "7",
-    "time": "10:00 - 12:00",
+    "event_id": "11",
+    "time": "18:00 - 20:00",
     "service_type": "נאווה",
     "is_available": true
   },
   {
     "date": "רביעי, 3 דצמבר 2025",
-    "event_id": "11",
-    "time": "18:00 - 20:00",
-    "service_type": "נאווה",
+    "event_id": "12",
+    "time": "07:00 - 10:00",
+    "service_type": "רונית",
     "is_available": true
   },
   {
