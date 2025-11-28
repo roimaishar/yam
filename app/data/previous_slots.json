@@ -342,13 +342,6 @@
     "service_type": "כרמן החדשה",
     "is_available": true
   },
-  "רביעי, 3 דצמבר 2025_24": {
-    "date": "רביעי, 3 דצמבר 2025",
-    "event_id": "24",
-    "time": "09:00 - 12:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
   "רביעי, 3 דצמבר 2025_27": {
     "date": "רביעי, 3 דצמבר 2025",
     "event_id": "27",
@@ -360,6 +353,13 @@
     "date": "רביעי, 3 דצמבר 2025",
     "event_id": "6",
     "time": "08:00 - 10:00",
+    "service_type": "נאווה",
+    "is_available": true
+  },
+  "רביעי, 3 דצמבר 2025_7": {
+    "date": "רביעי, 3 דצמבר 2025",
+    "event_id": "7",
+    "time": "10:00 - 12:00",
     "service_type": "נאווה",
     "is_available": true
   },
