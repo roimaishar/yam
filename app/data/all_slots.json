@@ -85,13 +85,6 @@
   },
   {
     "date": "ראשון, 30 נובמבר 2025",
-    "event_id": "6",
-    "time": "10:00 - 12:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 30 נובמבר 2025",
     "event_id": "8",
     "time": "14:00 - 16:00",
     "service_type": "נאווה",
