@@ -139,6 +139,13 @@
     "service_type": "אסתר",
     "is_available": true
   },
+  "שני, 1 דצמבר 2025_48": {
+    "date": "שני, 1 דצמבר 2025",
+    "event_id": "48",
+    "time": "15:00 - 18:00",
+    "service_type": "אסתר",
+    "is_available": true
+  },
   "שני, 1 דצמבר 2025_49": {
     "date": "שני, 1 דצמבר 2025",
     "event_id": "49",
