@@ -372,13 +372,6 @@
   },
   {
     "date": "רביעי, 3 דצמבר 2025",
-    "event_id": "12",
-    "time": "07:00 - 10:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 3 דצמבר 2025",
     "event_id": "20",
     "time": "10:00 - 13:00",
     "service_type": "ליאור",
