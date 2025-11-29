@@ -1121,13 +1121,6 @@
   },
   {
     "date": "רביעי, 10 דצמבר 2025",
-    "event_id": "50",
-    "time": "18:00 - 21:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 10 דצמבר 2025",
     "event_id": "1",
     "time": "08:00 - 11:00",
     "service_type": "קרפה",
