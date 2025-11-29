@@ -449,13 +449,6 @@
   },
   {
     "date": "שבת, 6 דצמבר 2025",
-    "event_id": "35",
-    "time": "12:00 - 15:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 6 דצמבר 2025",
     "event_id": "29",
     "time": "08:00 - 11:00",
     "service_type": "כרמן החדשה",
