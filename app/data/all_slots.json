@@ -280,6 +280,13 @@
     "is_available": true
   },
   {
+    "date": "שלישי, 2 דצמבר 2025",
+    "event_id": "18",
+    "time": "13:00 - 16:00",
+    "service_type": "קטמנדו",
+    "is_available": true
+  },
+  {
     "date": "רביעי, 3 דצמבר 2025",
     "event_id": "47",
     "time": "06:00 - 09:00",
