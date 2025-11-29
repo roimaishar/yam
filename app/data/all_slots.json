@@ -190,6 +190,13 @@
   },
   {
     "date": "שני, 1 דצמבר 2025",
+    "event_id": "12",
+    "time": "10:00 - 13:00",
+    "service_type": "רונית",
+    "is_available": true
+  },
+  {
+    "date": "שני, 1 דצמבר 2025",
     "event_id": "18",
     "time": "07:00 - 10:00",
     "service_type": "ליאור",
@@ -298,13 +305,6 @@
     "event_id": "4",
     "time": "17:00 - 20:00",
     "service_type": "קרפה",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 3 דצמבר 2025",
-    "event_id": "32",
-    "time": "06:00 - 09:00",
-    "service_type": "הרמוני",
     "is_available": true
   },
   {
