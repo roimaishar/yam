@@ -104,13 +104,6 @@
     "service_type": "הרמוני",
     "is_available": true
   },
-  "שני, 1 דצמבר 2025_35": {
-    "date": "שני, 1 דצמבר 2025",
-    "event_id": "35",
-    "time": "18:00 - 21:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
   "שני, 1 דצמבר 2025_5": {
     "date": "שני, 1 דצמבר 2025",
     "event_id": "5",
@@ -129,6 +122,13 @@
     "date": "שני, 1 דצמבר 2025",
     "event_id": "18",
     "time": "07:00 - 10:00",
+    "service_type": "ליאור",
+    "is_available": true
+  },
+  "שני, 1 דצמבר 2025_20": {
+    "date": "שני, 1 דצמבר 2025",
+    "event_id": "20",
+    "time": "13:00 - 16:00",
     "service_type": "ליאור",
     "is_available": true
   },
