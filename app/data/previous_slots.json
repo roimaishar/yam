@@ -496,13 +496,6 @@
     "service_type": "נאווה",
     "is_available": true
   },
-  "שבת, 6 דצמבר 2025_14": {
-    "date": "שבת, 6 דצמבר 2025",
-    "event_id": "14",
-    "time": "13:00 - 16:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
   "שבת, 6 דצמבר 2025_20": {
     "date": "שבת, 6 דצמבר 2025",
     "event_id": "20",
@@ -1410,13 +1403,6 @@
     "date": "שישי, 12 דצמבר 2025",
     "event_id": "16",
     "time": "09:00 - 11:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
-  "שישי, 12 דצמבר 2025_17": {
-    "date": "שישי, 12 דצמבר 2025",
-    "event_id": "17",
-    "time": "11:00 - 13:00",
     "service_type": "קטמנדו",
     "is_available": true
   },
