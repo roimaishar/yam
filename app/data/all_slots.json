@@ -1422,13 +1422,6 @@
   },
   {
     "date": "שבת, 13 דצמבר 2025",
-    "event_id": "12",
-    "time": "10:00 - 13:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 13 דצמבר 2025",
     "event_id": "13",
     "time": "13:00 - 16:00",
     "service_type": "רונית",
