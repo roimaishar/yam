@@ -139,6 +139,13 @@
     "service_type": "ליאור",
     "is_available": true
   },
+  "שני, 1 דצמבר 2025_21": {
+    "date": "שני, 1 דצמבר 2025",
+    "event_id": "21",
+    "time": "16:00 - 19:00",
+    "service_type": "ליאור",
+    "is_available": true
+  },
   "שני, 1 דצמבר 2025_16": {
     "date": "שני, 1 דצמבר 2025",
     "event_id": "16",
@@ -207,6 +214,13 @@
     "event_id": "18",
     "time": "13:00 - 16:00",
     "service_type": "קטמנדו",
+    "is_available": true
+  },
+  "רביעי, 3 דצמבר 2025_47": {
+    "date": "רביעי, 3 דצמבר 2025",
+    "event_id": "47",
+    "time": "06:00 - 09:00",
+    "service_type": "אסתר",
     "is_available": true
   },
   "רביעי, 3 דצמבר 2025_51": {
