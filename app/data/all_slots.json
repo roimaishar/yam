@@ -148,13 +148,6 @@
   },
   {
     "date": "שישי, 5 דצמבר 2025",
-    "event_id": "46",
-    "time": "06:00 - 09:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 5 דצמבר 2025",
     "event_id": "27",
     "time": "18:00 - 21:00",
     "service_type": "מישל",
