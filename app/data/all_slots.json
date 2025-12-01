@@ -127,13 +127,6 @@
   },
   {
     "date": "חמישי, 4 דצמבר 2025",
-    "event_id": "36",
-    "time": "18:00 - 21:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  {
-    "date": "חמישי, 4 דצמבר 2025",
     "event_id": "27",
     "time": "18:00 - 21:00",
     "service_type": "מישל",
@@ -991,13 +984,6 @@
     "event_id": "10",
     "time": "18:00 - 20:00",
     "service_type": "נאווה",
-    "is_available": true
-  },
-  {
-    "date": "חמישי, 11 דצמבר 2025",
-    "event_id": "14",
-    "time": "16:00 - 19:00",
-    "service_type": "רונית",
     "is_available": true
   },
   {
