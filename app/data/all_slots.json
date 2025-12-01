@@ -204,13 +204,6 @@
   },
   {
     "date": "שבת, 6 דצמבר 2025",
-    "event_id": "6",
-    "time": "08:00 - 10:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 6 דצמבר 2025",
     "event_id": "8",
     "time": "12:00 - 14:00",
     "service_type": "נאווה",
