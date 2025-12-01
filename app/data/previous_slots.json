@@ -139,6 +139,13 @@
     "service_type": "נאווה",
     "is_available": true
   },
+  "שישי, 5 דצמבר 2025_46": {
+    "date": "שישי, 5 דצמבר 2025",
+    "event_id": "46",
+    "time": "06:00 - 09:00",
+    "service_type": "אסתר",
+    "is_available": true
+  },
   "שישי, 5 דצמבר 2025_27": {
     "date": "שישי, 5 דצמבר 2025",
     "event_id": "27",
@@ -1028,39 +1035,11 @@
     "service_type": "מישל",
     "is_available": true
   },
-  "שישי, 12 דצמבר 2025_6": {
-    "date": "שישי, 12 דצמבר 2025",
-    "event_id": "6",
-    "time": "10:00 - 12:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
   "שישי, 12 דצמבר 2025_10": {
     "date": "שישי, 12 דצמבר 2025",
     "event_id": "10",
     "time": "18:00 - 20:00",
     "service_type": "נאווה",
-    "is_available": true
-  },
-  "שישי, 12 דצמבר 2025_22": {
-    "date": "שישי, 12 דצמבר 2025",
-    "event_id": "22",
-    "time": "16:00 - 19:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
-  "שישי, 12 דצמבר 2025_15": {
-    "date": "שישי, 12 דצמבר 2025",
-    "event_id": "15",
-    "time": "07:00 - 09:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
-  "שישי, 12 דצמבר 2025_16": {
-    "date": "שישי, 12 דצמבר 2025",
-    "event_id": "16",
-    "time": "09:00 - 11:00",
-    "service_type": "קטמנדו",
     "is_available": true
   },
   "שבת, 13 דצמבר 2025_39": {
@@ -1214,6 +1193,13 @@
     "date": "שבת, 13 דצמבר 2025",
     "event_id": "11",
     "time": "07:00 - 10:00",
+    "service_type": "רונית",
+    "is_available": true
+  },
+  "שבת, 13 דצמבר 2025_12": {
+    "date": "שבת, 13 דצמבר 2025",
+    "event_id": "12",
+    "time": "10:00 - 13:00",
     "service_type": "רונית",
     "is_available": true
   },
