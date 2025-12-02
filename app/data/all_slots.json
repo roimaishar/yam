@@ -1,5 +1,75 @@
 [
   {
+    "date": "שלישי, 2 דצמבר 2025",
+    "event_id": "47",
+    "time": "09:00 - 12:00",
+    "service_type": "אסתר",
+    "is_available": true
+  },
+  {
+    "date": "שלישי, 2 דצמבר 2025",
+    "event_id": "50",
+    "time": "18:00 - 21:00",
+    "service_type": "אסתר",
+    "is_available": true
+  },
+  {
+    "date": "שלישי, 2 דצמבר 2025",
+    "event_id": "4",
+    "time": "17:00 - 20:00",
+    "service_type": "קרפה",
+    "is_available": true
+  },
+  {
+    "date": "שלישי, 2 דצמבר 2025",
+    "event_id": "36",
+    "time": "18:00 - 21:00",
+    "service_type": "הרמוני",
+    "is_available": true
+  },
+  {
+    "date": "שלישי, 2 דצמבר 2025",
+    "event_id": "28",
+    "time": "08:00 - 11:00",
+    "service_type": "כרמן החדשה",
+    "is_available": true
+  },
+  {
+    "date": "שלישי, 2 דצמבר 2025",
+    "event_id": "31",
+    "time": "17:00 - 20:00",
+    "service_type": "כרמן החדשה",
+    "is_available": true
+  },
+  {
+    "date": "שלישי, 2 דצמבר 2025",
+    "event_id": "27",
+    "time": "18:00 - 21:00",
+    "service_type": "מישל",
+    "is_available": true
+  },
+  {
+    "date": "שלישי, 2 דצמבר 2025",
+    "event_id": "10",
+    "time": "18:00 - 20:00",
+    "service_type": "נאווה",
+    "is_available": true
+  },
+  {
+    "date": "שלישי, 2 דצמבר 2025",
+    "event_id": "16",
+    "time": "07:00 - 10:00",
+    "service_type": "קטמנדו",
+    "is_available": true
+  },
+  {
+    "date": "שלישי, 2 דצמבר 2025",
+    "event_id": "18",
+    "time": "13:00 - 16:00",
+    "service_type": "קטמנדו",
+    "is_available": true
+  },
+  {
     "date": "רביעי, 3 דצמבר 2025",
     "event_id": "51",
     "time": "18:00 - 21:00",
