@@ -176,13 +176,6 @@
   },
   {
     "date": "ראשון, 7 דצמבר 2025",
-    "event_id": "43",
-    "time": "16:00 - 19:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 7 דצמבר 2025",
     "event_id": "51",
     "time": "12:00 - 15:00",
     "service_type": "אסתר",
