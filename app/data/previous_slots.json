@@ -69,20 +69,6 @@
     "service_type": "נאווה",
     "is_available": true
   },
-  "שישי, 5 דצמבר 2025_17": {
-    "date": "שישי, 5 דצמבר 2025",
-    "event_id": "17",
-    "time": "11:00 - 13:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
-  "שישי, 5 דצמבר 2025_18": {
-    "date": "שישי, 5 דצמבר 2025",
-    "event_id": "18",
-    "time": "13:00 - 15:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
   "שבת, 6 דצמבר 2025_4": {
     "date": "שבת, 6 דצמבר 2025",
     "event_id": "4",
@@ -682,13 +668,6 @@
     "date": "רביעי, 10 דצמבר 2025",
     "event_id": "1",
     "time": "08:00 - 11:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
-  "רביעי, 10 דצמבר 2025_3": {
-    "date": "רביעי, 10 דצמבר 2025",
-    "event_id": "3",
-    "time": "14:00 - 17:00",
     "service_type": "קרפה",
     "is_available": true
   },
