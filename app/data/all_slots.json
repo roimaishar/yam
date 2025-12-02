@@ -15,13 +15,6 @@
   },
   {
     "date": "רביעי, 3 דצמבר 2025",
-    "event_id": "27",
-    "time": "18:00 - 21:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 3 דצמבר 2025",
     "event_id": "6",
     "time": "08:00 - 10:00",
     "service_type": "נאווה",
