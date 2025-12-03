@@ -337,13 +337,6 @@
   },
   {
     "date": "שני, 8 דצמבר 2025",
-    "event_id": "27",
-    "time": "08:00 - 11:00",
-    "service_type": "כרמן החדשה",
-    "is_available": true
-  },
-  {
-    "date": "שני, 8 דצמבר 2025",
     "event_id": "28",
     "time": "11:00 - 14:00",
     "service_type": "כרמן החדשה",
@@ -477,13 +470,6 @@
   },
   {
     "date": "שלישי, 9 דצמבר 2025",
-    "event_id": "2",
-    "time": "11:00 - 14:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 9 דצמבר 2025",
     "event_id": "4",
     "time": "17:00 - 20:00",
     "service_type": "קרפה",
@@ -612,13 +598,6 @@
     "date": "רביעי, 10 דצמבר 2025",
     "event_id": "31",
     "time": "06:00 - 09:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 10 דצמבר 2025",
-    "event_id": "32",
-    "time": "09:00 - 12:00",
     "service_type": "הרמוני",
     "is_available": true
   },
