@@ -519,13 +519,6 @@
   },
   {
     "date": "שלישי, 9 דצמבר 2025",
-    "event_id": "6",
-    "time": "10:00 - 12:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 9 דצמבר 2025",
     "event_id": "7",
     "time": "12:00 - 14:00",
     "service_type": "נאווה",
