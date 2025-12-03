@@ -512,6 +512,13 @@
   },
   {
     "date": "שלישי, 9 דצמבר 2025",
+    "event_id": "26",
+    "time": "15:00 - 18:00",
+    "service_type": "מישל",
+    "is_available": true
+  },
+  {
+    "date": "שלישי, 9 דצמבר 2025",
     "event_id": "27",
     "time": "18:00 - 21:00",
     "service_type": "מישל",
@@ -787,13 +794,6 @@
     "date": "שבת, 13 דצמבר 2025",
     "event_id": "47",
     "time": "09:00 - 12:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 13 דצמבר 2025",
-    "event_id": "49",
-    "time": "15:00 - 18:00",
     "service_type": "אסתר",
     "is_available": true
   },
