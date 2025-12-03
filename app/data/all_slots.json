@@ -442,13 +442,6 @@
   },
   {
     "date": "שני, 8 דצמבר 2025",
-    "event_id": "13",
-    "time": "13:00 - 16:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
-  {
-    "date": "שני, 8 דצמבר 2025",
     "event_id": "14",
     "time": "16:00 - 19:00",
     "service_type": "רונית",
