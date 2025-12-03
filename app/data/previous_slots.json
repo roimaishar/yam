@@ -76,6 +76,13 @@
     "service_type": "מישל",
     "is_available": true
   },
+  "שבת, 6 דצמבר 2025_26": {
+    "date": "שבת, 6 דצמבר 2025",
+    "event_id": "26",
+    "time": "15:00 - 18:00",
+    "service_type": "מישל",
+    "is_available": true
+  },
   "שבת, 6 דצמבר 2025_27": {
     "date": "שבת, 6 דצמבר 2025",
     "event_id": "27",
@@ -865,6 +872,13 @@
     "event_id": "4",
     "time": "17:00 - 20:00",
     "service_type": "קרפה",
+    "is_available": true
+  },
+  "שבת, 13 דצמבר 2025_35": {
+    "date": "שבת, 13 דצמבר 2025",
+    "event_id": "35",
+    "time": "15:00 - 18:00",
+    "service_type": "הרמוני",
     "is_available": true
   },
   "שבת, 13 דצמבר 2025_36": {
