@@ -895,13 +895,6 @@
     "service_type": "רונית",
     "is_available": true
   },
-  "שבת, 13 דצמבר 2025_15": {
-    "date": "שבת, 13 דצמבר 2025",
-    "event_id": "15",
-    "time": "16:00 - 19:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
   "שבת, 13 דצמבר 2025_20": {
     "date": "שבת, 13 דצמבר 2025",
     "event_id": "20",
@@ -927,13 +920,6 @@
     "date": "ראשון, 14 דצמבר 2025",
     "event_id": "38",
     "time": "07:00 - 10:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  "ראשון, 14 דצמבר 2025_39": {
-    "date": "ראשון, 14 דצמבר 2025",
-    "event_id": "39",
-    "time": "10:00 - 13:00",
     "service_type": "ושתי",
     "is_available": true
   },
