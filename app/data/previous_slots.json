@@ -34,13 +34,6 @@
     "service_type": "אסתר",
     "is_available": true
   },
-  "ראשון, 7 דצמבר 2025_1": {
-    "date": "ראשון, 7 דצמבר 2025",
-    "event_id": "1",
-    "time": "08:00 - 11:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
   "ראשון, 7 דצמבר 2025_4": {
     "date": "ראשון, 7 דצמבר 2025",
     "event_id": "4",
@@ -584,13 +577,6 @@
     "date": "שישי, 12 דצמבר 2025",
     "event_id": "15",
     "time": "07:00 - 09:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
-  "שישי, 12 דצמבר 2025_16": {
-    "date": "שישי, 12 דצמבר 2025",
-    "event_id": "16",
-    "time": "09:00 - 11:00",
     "service_type": "קטמנדו",
     "is_available": true
   },
