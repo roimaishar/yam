@@ -372,13 +372,6 @@
   },
   {
     "date": "רביעי, 10 דצמבר 2025",
-    "event_id": "49",
-    "time": "15:00 - 18:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 10 דצמבר 2025",
     "event_id": "1",
     "time": "08:00 - 11:00",
     "service_type": "קרפה",
@@ -960,13 +953,6 @@
   },
   {
     "date": "שני, 15 דצמבר 2025",
-    "event_id": "2",
-    "time": "11:00 - 14:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
-  {
-    "date": "שני, 15 דצמבר 2025",
     "event_id": "3",
     "time": "14:00 - 17:00",
     "service_type": "קרפה",
@@ -1221,13 +1207,6 @@
     "date": "שלישי, 16 דצמבר 2025",
     "event_id": "25",
     "time": "12:00 - 15:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 16 דצמבר 2025",
-    "event_id": "26",
-    "time": "15:00 - 18:00",
     "service_type": "מישל",
     "is_available": true
   },
