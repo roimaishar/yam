@@ -295,13 +295,6 @@
   },
   {
     "date": "שני, 8 דצמבר 2025",
-    "event_id": "39",
-    "time": "13:00 - 16:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "שני, 8 דצמבר 2025",
     "event_id": "46",
     "time": "06:00 - 09:00",
     "service_type": "אסתר",
@@ -948,13 +941,6 @@
     "date": "ראשון, 14 דצמבר 2025",
     "event_id": "48",
     "time": "06:00 - 09:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 14 דצמבר 2025",
-    "event_id": "50",
-    "time": "12:00 - 15:00",
     "service_type": "אסתר",
     "is_available": true
   },
