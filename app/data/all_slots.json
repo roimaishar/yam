@@ -610,6 +610,13 @@
   },
   {
     "date": "שבת, 13 דצמבר 2025",
+    "event_id": "29",
+    "time": "11:00 - 14:00",
+    "service_type": "כרמן החדשה",
+    "is_available": true
+  },
+  {
+    "date": "שבת, 13 דצמבר 2025",
     "event_id": "31",
     "time": "17:00 - 20:00",
     "service_type": "כרמן החדשה",
@@ -941,6 +948,13 @@
     "date": "שני, 15 דצמבר 2025",
     "event_id": "46",
     "time": "09:00 - 12:00",
+    "service_type": "אסתר",
+    "is_available": true
+  },
+  {
+    "date": "שני, 15 דצמבר 2025",
+    "event_id": "47",
+    "time": "12:00 - 15:00",
     "service_type": "אסתר",
     "is_available": true
   },
