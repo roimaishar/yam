@@ -258,13 +258,6 @@
     "service_type": "רונית",
     "is_available": true
   },
-  "שני, 8 דצמבר 2025_14": {
-    "date": "שני, 8 דצמבר 2025",
-    "event_id": "14",
-    "time": "16:00 - 19:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
   "שלישי, 9 דצמבר 2025_37": {
     "date": "שלישי, 9 דצמבר 2025",
     "event_id": "37",
@@ -1382,13 +1375,6 @@
     "date": "רביעי, 17 דצמבר 2025",
     "event_id": "24",
     "time": "09:00 - 12:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  "רביעי, 17 דצמבר 2025_25": {
-    "date": "רביעי, 17 דצמבר 2025",
-    "event_id": "25",
-    "time": "12:00 - 15:00",
     "service_type": "מישל",
     "is_available": true
   },
