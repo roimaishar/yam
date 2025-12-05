@@ -153,6 +153,13 @@
     "service_type": "אסתר",
     "is_available": true
   },
+  "שני, 8 דצמבר 2025_47": {
+    "date": "שני, 8 דצמבר 2025",
+    "event_id": "47",
+    "time": "09:00 - 12:00",
+    "service_type": "אסתר",
+    "is_available": true
+  },
   "שני, 8 דצמבר 2025_1": {
     "date": "שני, 8 דצמבר 2025",
     "event_id": "1",
