@@ -146,17 +146,17 @@
     "service_type": "ושתי",
     "is_available": true
   },
+  "שני, 8 דצמבר 2025_40": {
+    "date": "שני, 8 דצמבר 2025",
+    "event_id": "40",
+    "time": "16:00 - 19:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
   "שני, 8 דצמבר 2025_46": {
     "date": "שני, 8 דצמבר 2025",
     "event_id": "46",
     "time": "06:00 - 09:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  "שני, 8 דצמבר 2025_47": {
-    "date": "שני, 8 דצמבר 2025",
-    "event_id": "47",
-    "time": "09:00 - 12:00",
     "service_type": "אסתר",
     "is_available": true
   },
@@ -937,13 +937,6 @@
     "service_type": "אסתר",
     "is_available": true
   },
-  "שני, 15 דצמבר 2025_46": {
-    "date": "שני, 15 דצמבר 2025",
-    "event_id": "46",
-    "time": "09:00 - 12:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
   "שני, 15 דצמבר 2025_47": {
     "date": "שני, 15 דצמבר 2025",
     "event_id": "47",
@@ -1620,13 +1613,6 @@
     "date": "שישי, 19 דצמבר 2025",
     "event_id": "5",
     "time": "08:00 - 10:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  "שישי, 19 דצמבר 2025_9": {
-    "date": "שישי, 19 דצמבר 2025",
-    "event_id": "9",
-    "time": "16:00 - 18:00",
     "service_type": "נאווה",
     "is_available": true
   },
