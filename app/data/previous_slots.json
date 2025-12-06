@@ -111,13 +111,6 @@
     "service_type": "נאווה",
     "is_available": true
   },
-  "ראשון, 7 דצמבר 2025_22": {
-    "date": "ראשון, 7 דצמבר 2025",
-    "event_id": "22",
-    "time": "10:00 - 13:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
   "ראשון, 7 דצמבר 2025_23": {
     "date": "ראשון, 7 דצמבר 2025",
     "event_id": "23",
@@ -157,6 +150,13 @@
     "date": "שני, 8 דצמבר 2025",
     "event_id": "46",
     "time": "06:00 - 09:00",
+    "service_type": "אסתר",
+    "is_available": true
+  },
+  "שני, 8 דצמבר 2025_47": {
+    "date": "שני, 8 דצמבר 2025",
+    "event_id": "47",
+    "time": "09:00 - 12:00",
     "service_type": "אסתר",
     "is_available": true
   },
@@ -1462,6 +1462,13 @@
     "service_type": "הרמוני",
     "is_available": true
   },
+  "חמישי, 18 דצמבר 2025_30": {
+    "date": "חמישי, 18 דצמבר 2025",
+    "event_id": "30",
+    "time": "14:00 - 17:00",
+    "service_type": "כרמן החדשה",
+    "is_available": true
+  },
   "חמישי, 18 דצמבר 2025_31": {
     "date": "חמישי, 18 דצמבר 2025",
     "event_id": "31",
@@ -1599,6 +1606,13 @@
     "date": "שישי, 19 דצמבר 2025",
     "event_id": "5",
     "time": "08:00 - 10:00",
+    "service_type": "נאווה",
+    "is_available": true
+  },
+  "שישי, 19 דצמבר 2025_9": {
+    "date": "שישי, 19 דצמבר 2025",
+    "event_id": "9",
+    "time": "16:00 - 18:00",
     "service_type": "נאווה",
     "is_available": true
   },
