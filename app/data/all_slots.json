@@ -883,13 +883,6 @@
   },
   {
     "date": "שני, 15 דצמבר 2025",
-    "event_id": "37",
-    "time": "10:00 - 13:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "שני, 15 דצמבר 2025",
     "event_id": "45",
     "time": "06:00 - 09:00",
     "service_type": "אסתר",
@@ -1676,13 +1669,6 @@
     "date": "שבת, 20 דצמבר 2025",
     "event_id": "15",
     "time": "07:00 - 10:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 20 דצמבר 2025",
-    "event_id": "16",
-    "time": "10:00 - 13:00",
     "service_type": "קטמנדו",
     "is_available": true
   }
