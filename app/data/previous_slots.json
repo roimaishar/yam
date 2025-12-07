@@ -377,6 +377,13 @@
     "service_type": "רוני",
     "is_available": true
   },
+  "שישי, 12 דצמבר 2025_52": {
+    "date": "שישי, 12 דצמבר 2025",
+    "event_id": "52",
+    "time": "11:00 - 14:00",
+    "service_type": "רוני",
+    "is_available": true
+  },
   "שישי, 12 דצמבר 2025_53": {
     "date": "שישי, 12 דצמבר 2025",
     "event_id": "53",
@@ -997,13 +1004,6 @@
     "date": "שלישי, 16 דצמבר 2025",
     "event_id": "51",
     "time": "08:00 - 11:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
-  "שלישי, 16 דצמבר 2025_53": {
-    "date": "שלישי, 16 דצמבר 2025",
-    "event_id": "53",
-    "time": "14:00 - 17:00",
     "service_type": "רוני",
     "is_available": true
   },
