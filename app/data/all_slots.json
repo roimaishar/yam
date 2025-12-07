@@ -848,13 +848,6 @@
   },
   {
     "date": "ראשון, 14 דצמבר 2025",
-    "event_id": "54",
-    "time": "11:00 - 14:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 14 דצמבר 2025",
     "event_id": "55",
     "time": "14:00 - 17:00",
     "service_type": "רוני",
