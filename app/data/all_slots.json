@@ -204,13 +204,6 @@
   },
   {
     "date": "שני, 8 דצמבר 2025",
-    "event_id": "23",
-    "time": "06:00 - 09:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  {
-    "date": "שני, 8 דצמבר 2025",
     "event_id": "24",
     "time": "09:00 - 12:00",
     "service_type": "מישל",
