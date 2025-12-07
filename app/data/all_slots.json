@@ -99,6 +99,13 @@
   },
   {
     "date": "שלישי, 9 דצמבר 2025",
+    "event_id": "26",
+    "time": "15:00 - 18:00",
+    "service_type": "מישל",
+    "is_available": true
+  },
+  {
+    "date": "שלישי, 9 דצמבר 2025",
     "event_id": "27",
     "time": "18:00 - 21:00",
     "service_type": "מישל",
@@ -837,6 +844,13 @@
     "event_id": "16",
     "time": "07:00 - 10:00",
     "service_type": "קטמנדו",
+    "is_available": true
+  },
+  {
+    "date": "שני, 15 דצמבר 2025",
+    "event_id": "37",
+    "time": "10:00 - 13:00",
+    "service_type": "ושתי",
     "is_available": true
   },
   {
