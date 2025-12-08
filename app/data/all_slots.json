@@ -267,6 +267,13 @@
   },
   {
     "date": "רביעי, 10 דצמבר 2025",
+    "event_id": "27",
+    "time": "08:00 - 11:00",
+    "service_type": "כרמן החדשה",
+    "is_available": true
+  },
+  {
+    "date": "רביעי, 10 דצמבר 2025",
     "event_id": "28",
     "time": "11:00 - 14:00",
     "service_type": "כרמן החדשה",
@@ -487,13 +494,6 @@
     "event_id": "15",
     "time": "07:00 - 09:00",
     "service_type": "קטמנדו",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 12 דצמבר 2025",
-    "event_id": "40",
-    "time": "16:00 - 19:00",
-    "service_type": "ושתי",
     "is_available": true
   },
   {
