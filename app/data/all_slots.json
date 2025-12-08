@@ -484,13 +484,6 @@
   },
   {
     "date": "שישי, 12 דצמבר 2025",
-    "event_id": "1",
-    "time": "08:00 - 11:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 12 דצמבר 2025",
     "event_id": "36",
     "time": "18:00 - 21:00",
     "service_type": "הרמוני",
