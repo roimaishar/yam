@@ -99,6 +99,13 @@
   },
   {
     "date": "שלישי, 9 דצמבר 2025",
+    "event_id": "31",
+    "time": "17:00 - 20:00",
+    "service_type": "כרמן החדשה",
+    "is_available": true
+  },
+  {
+    "date": "שלישי, 9 דצמבר 2025",
     "event_id": "24",
     "time": "09:00 - 12:00",
     "service_type": "מישל",
