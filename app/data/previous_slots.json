@@ -195,6 +195,13 @@
     "service_type": "אסתר",
     "is_available": true
   },
+  "רביעי, 10 דצמבר 2025_48": {
+    "date": "רביעי, 10 דצמבר 2025",
+    "event_id": "48",
+    "time": "12:00 - 15:00",
+    "service_type": "אסתר",
+    "is_available": true
+  },
   "רביעי, 10 דצמבר 2025_50": {
     "date": "רביעי, 10 דצמבר 2025",
     "event_id": "50",
@@ -1179,6 +1186,13 @@
     "date": "רביעי, 17 דצמבר 2025",
     "event_id": "37",
     "time": "07:00 - 10:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
+  "רביעי, 17 דצמבר 2025_38": {
+    "date": "רביעי, 17 דצמבר 2025",
+    "event_id": "38",
+    "time": "10:00 - 13:00",
     "service_type": "ושתי",
     "is_available": true
   },
