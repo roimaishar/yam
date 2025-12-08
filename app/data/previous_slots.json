@@ -55,13 +55,6 @@
     "service_type": "רוני",
     "is_available": true
   },
-  "שלישי, 9 דצמבר 2025_53": {
-    "date": "שלישי, 9 דצמבר 2025",
-    "event_id": "53",
-    "time": "14:00 - 17:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
   "שלישי, 9 דצמבר 2025_54": {
     "date": "שלישי, 9 דצמבר 2025",
     "event_id": "54",
@@ -87,6 +80,13 @@
     "date": "שלישי, 9 דצמבר 2025",
     "event_id": "34",
     "time": "12:00 - 15:00",
+    "service_type": "הרמוני",
+    "is_available": true
+  },
+  "שלישי, 9 דצמבר 2025_35": {
+    "date": "שלישי, 9 דצמבר 2025",
+    "event_id": "35",
+    "time": "15:00 - 18:00",
     "service_type": "הרמוני",
     "is_available": true
   },
@@ -158,6 +158,13 @@
     "event_id": "10",
     "time": "18:00 - 20:00",
     "service_type": "נאווה",
+    "is_available": true
+  },
+  "שלישי, 9 דצמבר 2025_11": {
+    "date": "שלישי, 9 דצמבר 2025",
+    "event_id": "11",
+    "time": "07:00 - 10:00",
+    "service_type": "רונית",
     "is_available": true
   },
   "שלישי, 9 דצמבר 2025_12": {
@@ -508,6 +515,13 @@
     "event_id": "10",
     "time": "18:00 - 20:00",
     "service_type": "נאווה",
+    "is_available": true
+  },
+  "שישי, 12 דצמבר 2025_12": {
+    "date": "שישי, 12 דצמבר 2025",
+    "event_id": "12",
+    "time": "10:00 - 13:00",
+    "service_type": "רונית",
     "is_available": true
   },
   "שבת, 13 דצמבר 2025_46": {
@@ -1292,13 +1306,6 @@
     "event_id": "11",
     "time": "18:00 - 20:00",
     "service_type": "נאווה",
-    "is_available": true
-  },
-  "רביעי, 17 דצמבר 2025_12": {
-    "date": "רביעי, 17 דצמבר 2025",
-    "event_id": "12",
-    "time": "07:00 - 10:00",
-    "service_type": "רונית",
     "is_available": true
   },
   "רביעי, 17 דצמבר 2025_16": {
