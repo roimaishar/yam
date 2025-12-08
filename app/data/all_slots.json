@@ -414,6 +414,13 @@
   },
   {
     "date": "חמישי, 11 דצמבר 2025",
+    "event_id": "25",
+    "time": "12:00 - 15:00",
+    "service_type": "מישל",
+    "is_available": true
+  },
+  {
+    "date": "חמישי, 11 דצמבר 2025",
     "event_id": "27",
     "time": "18:00 - 21:00",
     "service_type": "מישל",
@@ -865,13 +872,6 @@
     "event_id": "49",
     "time": "18:00 - 21:00",
     "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "שני, 15 דצמבר 2025",
-    "event_id": "51",
-    "time": "11:00 - 14:00",
-    "service_type": "רוני",
     "is_available": true
   },
   {
@@ -1485,22 +1485,8 @@
   },
   {
     "date": "שבת, 20 דצמבר 2025",
-    "event_id": "38",
-    "time": "10:00 - 13:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 20 דצמבר 2025",
     "event_id": "1",
     "time": "08:00 - 11:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 20 דצמבר 2025",
-    "event_id": "2",
-    "time": "11:00 - 14:00",
     "service_type": "קרפה",
     "is_available": true
   },
@@ -1515,13 +1501,6 @@
     "date": "שבת, 20 דצמבר 2025",
     "event_id": "33",
     "time": "09:00 - 12:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 20 דצמבר 2025",
-    "event_id": "34",
-    "time": "12:00 - 15:00",
     "service_type": "הרמוני",
     "is_available": true
   },
@@ -1571,13 +1550,6 @@
     "date": "שבת, 20 דצמבר 2025",
     "event_id": "11",
     "time": "07:00 - 10:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 20 דצמבר 2025",
-    "event_id": "12",
-    "time": "10:00 - 13:00",
     "service_type": "רונית",
     "is_available": true
   },
