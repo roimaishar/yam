@@ -932,13 +932,6 @@
   },
   {
     "date": "שני, 15 דצמבר 2025",
-    "event_id": "27",
-    "time": "08:00 - 11:00",
-    "service_type": "כרמן החדשה",
-    "is_available": true
-  },
-  {
-    "date": "שני, 15 דצמבר 2025",
     "event_id": "30",
     "time": "17:00 - 20:00",
     "service_type": "כרמן החדשה",
@@ -1201,13 +1194,6 @@
     "event_id": "51",
     "time": "18:00 - 21:00",
     "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 17 דצמבר 2025",
-    "event_id": "52",
-    "time": "08:00 - 11:00",
-    "service_type": "רוני",
     "is_available": true
   },
   {
