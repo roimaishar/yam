@@ -1,41 +1,9 @@
 {
-  "date": "2025-12-08",
-  "calls_today": 9,
+  "date": "2025-12-09",
+  "calls_today": 1,
   "calls": [
     {
-      "timestamp": "2025-12-08T09:00:36.691090",
-      "success": true
-    },
-    {
-      "timestamp": "2025-12-08T09:38:32.588533",
-      "success": true
-    },
-    {
-      "timestamp": "2025-12-08T10:28:53.361116",
-      "success": true
-    },
-    {
-      "timestamp": "2025-12-08T11:53:10.315207",
-      "success": true
-    },
-    {
-      "timestamp": "2025-12-08T12:49:51.112789",
-      "success": true
-    },
-    {
-      "timestamp": "2025-12-08T13:56:58.090590",
-      "success": true
-    },
-    {
-      "timestamp": "2025-12-08T15:45:39.756630",
-      "success": true
-    },
-    {
-      "timestamp": "2025-12-08T19:52:19.812597",
-      "success": true
-    },
-    {
-      "timestamp": "2025-12-08T20:27:41.953253",
+      "timestamp": "2025-12-09T05:30:31.975179",
       "success": true
     }
   ]
