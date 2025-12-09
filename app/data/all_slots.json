@@ -281,6 +281,13 @@
   },
   {
     "date": "רביעי, 10 דצמבר 2025",
+    "event_id": "34",
+    "time": "15:00 - 18:00",
+    "service_type": "הרמוני",
+    "is_available": true
+  },
+  {
+    "date": "רביעי, 10 דצמבר 2025",
     "event_id": "35",
     "time": "18:00 - 21:00",
     "service_type": "הרמוני",
@@ -1229,13 +1236,6 @@
     "event_id": "51",
     "time": "18:00 - 21:00",
     "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 17 דצמבר 2025",
-    "event_id": "53",
-    "time": "11:00 - 14:00",
-    "service_type": "רוני",
     "is_available": true
   },
   {
