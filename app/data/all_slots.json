@@ -568,13 +568,6 @@
   },
   {
     "date": "שישי, 12 דצמבר 2025",
-    "event_id": "12",
-    "time": "10:00 - 13:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 12 דצמבר 2025",
     "event_id": "16",
     "time": "09:00 - 11:00",
     "service_type": "קטמנדו",
