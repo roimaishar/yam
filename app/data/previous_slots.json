@@ -20,6 +20,13 @@
     "service_type": "אסתר",
     "is_available": true
   },
+  "חמישי, 11 דצמבר 2025_49": {
+    "date": "חמישי, 11 דצמבר 2025",
+    "event_id": "49",
+    "time": "15:00 - 18:00",
+    "service_type": "אסתר",
+    "is_available": true
+  },
   "חמישי, 11 דצמבר 2025_50": {
     "date": "חמישי, 11 דצמבר 2025",
     "event_id": "50",
@@ -430,13 +437,6 @@
     "date": "ראשון, 14 דצמבר 2025",
     "event_id": "7",
     "time": "12:00 - 14:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  "ראשון, 14 דצמבר 2025_8": {
-    "date": "ראשון, 14 דצמבר 2025",
-    "event_id": "8",
-    "time": "14:00 - 16:00",
     "service_type": "נאווה",
     "is_available": true
   },
