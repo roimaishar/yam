@@ -125,6 +125,13 @@
     "service_type": "קטמנדו",
     "is_available": true
   },
+  "שישי, 12 דצמבר 2025_47": {
+    "date": "שישי, 12 דצמבר 2025",
+    "event_id": "47",
+    "time": "09:00 - 12:00",
+    "service_type": "אסתר",
+    "is_available": true
+  },
   "שישי, 12 דצמבר 2025_4": {
     "date": "שישי, 12 דצמבר 2025",
     "event_id": "4",
@@ -585,13 +592,6 @@
     "event_id": "14",
     "time": "16:00 - 19:00",
     "service_type": "רונית",
-    "is_available": true
-  },
-  "שני, 15 דצמבר 2025_19": {
-    "date": "שני, 15 דצמבר 2025",
-    "event_id": "19",
-    "time": "10:00 - 13:00",
-    "service_type": "ליאור",
     "is_available": true
   },
   "שני, 15 דצמבר 2025_15": {
