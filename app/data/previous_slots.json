@@ -167,44 +167,44 @@
     "service_type": "קטמנדו",
     "is_available": true
   },
-  "שבת, 13 דצמבר 2025_46": {
+  "שבת, 13 דצמבר 2025_47": {
     "date": "שבת, 13 דצמבר 2025",
-    "event_id": "46",
+    "event_id": "47",
     "time": "06:00 - 09:00",
     "service_type": "אסתר",
     "is_available": true
   },
-  "שבת, 13 דצמבר 2025_47": {
+  "שבת, 13 דצמבר 2025_48": {
     "date": "שבת, 13 דצמבר 2025",
-    "event_id": "47",
+    "event_id": "48",
     "time": "09:00 - 12:00",
     "service_type": "אסתר",
-    "is_available": true
-  },
-  "שבת, 13 דצמבר 2025_51": {
-    "date": "שבת, 13 דצמבר 2025",
-    "event_id": "51",
-    "time": "08:00 - 11:00",
-    "service_type": "רוני",
     "is_available": true
   },
   "שבת, 13 דצמבר 2025_52": {
     "date": "שבת, 13 דצמבר 2025",
     "event_id": "52",
-    "time": "11:00 - 14:00",
+    "time": "08:00 - 11:00",
     "service_type": "רוני",
     "is_available": true
   },
   "שבת, 13 דצמבר 2025_53": {
     "date": "שבת, 13 דצמבר 2025",
     "event_id": "53",
-    "time": "14:00 - 17:00",
+    "time": "11:00 - 14:00",
     "service_type": "רוני",
     "is_available": true
   },
   "שבת, 13 דצמבר 2025_54": {
     "date": "שבת, 13 דצמבר 2025",
     "event_id": "54",
+    "time": "14:00 - 17:00",
+    "service_type": "רוני",
+    "is_available": true
+  },
+  "שבת, 13 דצמבר 2025_55": {
+    "date": "שבת, 13 דצמבר 2025",
+    "event_id": "55",
     "time": "17:00 - 20:00",
     "service_type": "רוני",
     "is_available": true
@@ -223,44 +223,44 @@
     "service_type": "קרפה",
     "is_available": true
   },
-  "שבת, 13 דצמבר 2025_35": {
+  "שבת, 13 דצמבר 2025_36": {
     "date": "שבת, 13 דצמבר 2025",
-    "event_id": "35",
+    "event_id": "36",
     "time": "15:00 - 18:00",
     "service_type": "הרמוני",
     "is_available": true
   },
-  "שבת, 13 דצמבר 2025_36": {
+  "שבת, 13 דצמבר 2025_37": {
     "date": "שבת, 13 דצמבר 2025",
-    "event_id": "36",
+    "event_id": "37",
     "time": "18:00 - 21:00",
     "service_type": "הרמוני",
     "is_available": true
   },
-  "שבת, 13 דצמבר 2025_28": {
+  "שבת, 13 דצמבר 2025_29": {
     "date": "שבת, 13 דצמבר 2025",
-    "event_id": "28",
+    "event_id": "29",
     "time": "08:00 - 11:00",
     "service_type": "כרמן החדשה",
     "is_available": true
   },
-  "שבת, 13 דצמבר 2025_31": {
+  "שבת, 13 דצמבר 2025_32": {
     "date": "שבת, 13 דצמבר 2025",
-    "event_id": "31",
+    "event_id": "32",
     "time": "17:00 - 20:00",
     "service_type": "כרמן החדשה",
-    "is_available": true
-  },
-  "שבת, 13 דצמבר 2025_23": {
-    "date": "שבת, 13 דצמבר 2025",
-    "event_id": "23",
-    "time": "06:00 - 09:00",
-    "service_type": "מישל",
     "is_available": true
   },
   "שבת, 13 דצמבר 2025_24": {
     "date": "שבת, 13 דצמבר 2025",
     "event_id": "24",
+    "time": "06:00 - 09:00",
+    "service_type": "מישל",
+    "is_available": true
+  },
+  "שבת, 13 דצמבר 2025_25": {
+    "date": "שבת, 13 דצמבר 2025",
+    "event_id": "25",
     "time": "09:00 - 12:00",
     "service_type": "מישל",
     "is_available": true
@@ -300,13 +300,6 @@
     "service_type": "נאווה",
     "is_available": true
   },
-  "שבת, 13 דצמבר 2025_13": {
-    "date": "שבת, 13 דצמבר 2025",
-    "event_id": "13",
-    "time": "10:00 - 13:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
   "שבת, 13 דצמבר 2025_14": {
     "date": "שבת, 13 דצמבר 2025",
     "event_id": "14",
@@ -314,23 +307,23 @@
     "service_type": "רונית",
     "is_available": true
   },
-  "שבת, 13 דצמבר 2025_20": {
+  "שבת, 13 דצמבר 2025_21": {
     "date": "שבת, 13 דצמבר 2025",
-    "event_id": "20",
+    "event_id": "21",
     "time": "10:00 - 13:00",
     "service_type": "ליאור",
     "is_available": true
   },
-  "שבת, 13 דצמבר 2025_16": {
+  "שבת, 13 דצמבר 2025_17": {
     "date": "שבת, 13 דצמבר 2025",
-    "event_id": "16",
+    "event_id": "17",
     "time": "07:00 - 10:00",
     "service_type": "קטמנדו",
     "is_available": true
   },
-  "שבת, 13 דצמבר 2025_18": {
+  "שבת, 13 דצמבר 2025_19": {
     "date": "שבת, 13 דצמבר 2025",
-    "event_id": "18",
+    "event_id": "19",
     "time": "13:00 - 16:00",
     "service_type": "קטמנדו",
     "is_available": true
