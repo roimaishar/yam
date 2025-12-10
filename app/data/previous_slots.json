@@ -265,13 +265,6 @@
     "service_type": "כרמן החדשה",
     "is_available": true
   },
-  "שבת, 13 דצמבר 2025_32": {
-    "date": "שבת, 13 דצמבר 2025",
-    "event_id": "32",
-    "time": "17:00 - 20:00",
-    "service_type": "כרמן החדשה",
-    "is_available": true
-  },
   "שבת, 13 דצמבר 2025_24": {
     "date": "שבת, 13 דצמבר 2025",
     "event_id": "24",
@@ -325,6 +318,13 @@
     "date": "שבת, 13 דצמבר 2025",
     "event_id": "14",
     "time": "13:00 - 16:00",
+    "service_type": "רונית",
+    "is_available": true
+  },
+  "שבת, 13 דצמבר 2025_15": {
+    "date": "שבת, 13 דצמבר 2025",
+    "event_id": "15",
+    "time": "16:00 - 19:00",
     "service_type": "רונית",
     "is_available": true
   },
@@ -494,6 +494,13 @@
     "event_id": "45",
     "time": "06:00 - 09:00",
     "service_type": "אסתר",
+    "is_available": true
+  },
+  "שני, 15 דצמבר 2025_50": {
+    "date": "שני, 15 דצמבר 2025",
+    "event_id": "50",
+    "time": "08:00 - 11:00",
+    "service_type": "רוני",
     "is_available": true
   },
   "שני, 15 דצמבר 2025_53": {
@@ -956,13 +963,6 @@
     "event_id": "50",
     "time": "18:00 - 21:00",
     "service_type": "אסתר",
-    "is_available": true
-  },
-  "שישי, 19 דצמבר 2025_53": {
-    "date": "שישי, 19 דצמבר 2025",
-    "event_id": "53",
-    "time": "14:00 - 17:00",
-    "service_type": "רוני",
     "is_available": true
   },
   "שישי, 19 דצמבר 2025_54": {
