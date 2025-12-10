@@ -3,7 +3,7 @@ import os
 from pathlib import Path
 from typing import Dict, Any
 
-CONFIG_FILE = Path(__file__).parent.parent / "data" / "slot_filters.json"
+CONFIG_FILE = Path(__file__).parent.parent / "config" / "slot_filters.json"
 
 
 def get_default_config() -> Dict[str, Any]:

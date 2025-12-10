@@ -51,6 +51,8 @@ This scraper automates the process of extracting available boats slots from the 
 ```
 yam/
 ├── app/
+│   ├── config/           # Configuration files
+│   │   └── slot_filters.json  # Weather and days-ahead filter settings
 │   ├── data/             # Scraped data and cookies storage
 │   ├── forecasts/        # Weather and marine forecast modules
 │   │   └── swell_forecast.py # Handles wave and wind forecasts
@@ -310,7 +312,7 @@ The slot monitoring system continuously checks for newly available boat slots:
    - Combines multiple filters for precise monitoring
 
 3. **Advanced Slot Filtering (Weather + Days Ahead)**:
-   Configure in `app/data/slot_filters.json` to filter notifications by weather conditions and/or days ahead:
+   Configure in `app/config/slot_filters.json` to filter notifications by weather conditions and/or days ahead:
    
    ```json
    {
