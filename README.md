@@ -62,8 +62,11 @@ yam/
 │   │   ├── cookie_scraper.py  # Handles authentication and calendar scraping
 │   │   └── club_scraper.py    # Scrapes club activities from the club calendar
 │   ├── utils/            # Utility modules
-│   │   ├── config.py     # Configuration constants and URL definitions
-│   │   └── filter_slots.py    # Filters slots based on criteria
+│   │   ├── config.py          # Configuration constants and URL definitions
+│   │   ├── filter_slots.py    # Filters slots based on criteria
+│   │   ├── date_utils.py      # Hebrew date parsing utilities
+│   │   ├── slot_filter.py     # Weather and days-ahead filtering logic
+│   │   └── slot_filter_config.py  # Slot filter configuration loading
 │   └── main.py           # Main entry point for running the scraper
 ├── requirements.txt      # Python dependencies
 ├── run_scraper.sh        # Shell script for easy execution
@@ -306,7 +309,39 @@ The slot monitoring system continuously checks for newly available boat slots:
    - Boat type filtering (e.g., only specific boat models)
    - Combines multiple filters for precise monitoring
 
-3. **State Management**:
+3. **Advanced Slot Filtering (Weather + Days Ahead)**:
+   Configure in `app/data/slot_filters.json` to filter notifications by weather conditions and/or days ahead:
+   
+   ```json
+   {
+     "enabled": true,
+     "weather_zone": {
+       "min_days_ahead": 0,
+       "max_days_ahead": 7,
+       "filters": {
+         "max_wind_speed_knots": 12,
+         "max_wave_height_meters": 0.75,
+         "max_swell_height_meters": 0.75,
+         "min_visibility_meters": 500
+       }
+     },
+     "extended_zone": {
+       "max_days_ahead": 21,
+       "allowed_days": {
+         "friday": {"from": "11:00", "to": "16:00"},
+         "saturday": {"from": "11:00", "to": "16:00"}
+       }
+     }
+   }
+   ```
+   
+   **How it works**:
+   - **Weather Zone** (days 0-7): Slots are filtered by weather conditions (wind, waves, swell, visibility)
+   - **Extended Zone** (days 8-21): Beyond reliable forecast range, slots are filtered by weekday and time window
+   - **Beyond extended zone**: Slots are not notified
+   - Set `"enabled": false` to disable all filtering (notify all slots)
+
+4. **State Management**:
    - Stores previously seen slots in `previous_slots.json`
    - Tracks already notified slots to prevent duplicate notifications
    - Persists state between monitoring runs

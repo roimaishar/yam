@@ -1,0 +1,28 @@
+{
+  "enabled": false,
+  "weather_zone": {
+    "min_days_ahead": 0,
+    "max_days_ahead": 7,
+    "filters": {
+      "max_wind_speed_knots": 12,
+      "max_wave_height_meters": 0.75,
+      "max_swell_height_meters": 0.75,
+      "min_visibility_meters": 500
+    }
+  },
+  "extended_zone": {
+    "max_days_ahead": 21,
+    "allowed_days": {
+      "friday": {"from": "11:00", "to": "16:00"},
+      "saturday": {"from": "11:00", "to": "16:00"}
+    }
+  },
+  "_notes": {
+    "enabled": "Set to true to enable filtering. When false, all slots are notified.",
+    "weather_zone.min_days_ahead": "Skip slots sooner than this (0 = include today).",
+    "weather_zone.max_days_ahead": "Apply weather filters up to this day (forecast reliable).",
+    "weather_zone.filters": "Set any filter to null to disable it.",
+    "extended_zone.max_days_ahead": "Skip slots beyond this day entirely.",
+    "extended_zone.allowed_days": "Only these weekdays pass. Each needs from/to times."
+  }
+}
