@@ -1,5 +1,5 @@
 {
-  "enabled": false,
+  "enabled": true,
   "weather_zone": {
     "min_days_ahead": 0,
     "max_days_ahead": 7,
