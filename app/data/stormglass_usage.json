@@ -1,6 +1,6 @@
 {
   "date": "2025-12-10",
-  "calls_today": 2,
+  "calls_today": 3,
   "calls": [
     {
       "timestamp": "2025-12-10T07:34:58.504479",
@@ -8,6 +8,10 @@
     },
     {
       "timestamp": "2025-12-10T09:34:37.193043",
+      "success": true
+    },
+    {
+      "timestamp": "2025-12-10T12:22:04.843330",
       "success": true
     }
   ]
