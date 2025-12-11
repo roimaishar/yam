@@ -176,7 +176,7 @@ class ClubMonitor:
         }
         
         total = len(activities)
-        lines = [f"🎯 {total} Club Activities\n"]
+        lines = []
         
         for activity in activities[:10]:
             date_str = activity.get("date", "")
@@ -187,18 +187,38 @@ class ClubMonitor:
             boat_name = activity.get('boat_name', '')
             emoji = activity_emojis.get(activity_type, "🚣")
             
-            # Build compact line: "Fri 12 Dec: 12:00-15:00 🎓 *Activity Name* (Boat)"
-            line = f"{short_date}: {time} {emoji}"
             name_to_show = activity_name if activity_name else activity_type
-            if name_to_show:
-                line += f" *{name_to_show}*"
+            line = f"{short_date}: {time} {emoji} *{name_to_show}*"
             if boat_name:
                 line += f" ({boat_name})"
             lines.append(line)
         
-        notification = "\n".join(lines)
+        # Use Slack blocks for proper formatting
         webhook_url = self.club_webhook_url or self.slack_webhook_url
-        return self.notifier.send_notification(notification, webhook_url)
+        return self._send_club_blocks(total, lines, webhook_url)
+    
+    def _send_club_blocks(self, total, lines, webhook_url):
+        """Send club notification using Slack blocks for proper formatting."""
+        import requests
+        
+        blocks = [
+            {"type": "header", "text": {"type": "plain_text", "text": f"🎯 {total} Club Activities", "emoji": True}},
+            {"type": "section", "text": {"type": "mrkdwn", "text": "\n".join(lines)}}
+        ]
+        
+        payload = {"blocks": blocks}
+        
+        try:
+            response = requests.post(webhook_url, json=payload, headers={"Content-Type": "application/json"})
+            if response.status_code == 200:
+                print("Club Slack notification sent successfully")
+                return True
+            else:
+                print(f"Failed to send club notification: {response.status_code} {response.text}")
+                return False
+        except Exception as e:
+            print(f"Error sending club notification: {e}")
+            return False
     
     def _format_short_date(self, date_str):
         """Convert date to short format like 'Fri 12 Dec'."""
