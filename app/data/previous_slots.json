@@ -342,6 +342,13 @@
     "service_type": "קטמנדו",
     "is_available": true
   },
+  "שני, 15 דצמבר 2025_36": {
+    "date": "שני, 15 דצמבר 2025",
+    "event_id": "36",
+    "time": "07:00 - 10:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
   "שני, 15 דצמבר 2025_37": {
     "date": "שני, 15 דצמבר 2025",
     "event_id": "37",
@@ -503,13 +510,6 @@
     "service_type": "רוני",
     "is_available": true
   },
-  "שלישי, 16 דצמבר 2025_3": {
-    "date": "שלישי, 16 דצמבר 2025",
-    "event_id": "3",
-    "time": "14:00 - 17:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
   "שלישי, 16 דצמבר 2025_4": {
     "date": "שלישי, 16 דצמבר 2025",
     "event_id": "4",
@@ -578,13 +578,6 @@
     "event_id": "10",
     "time": "18:00 - 20:00",
     "service_type": "נאווה",
-    "is_available": true
-  },
-  "שלישי, 16 דצמבר 2025_13": {
-    "date": "שלישי, 16 דצמבר 2025",
-    "event_id": "13",
-    "time": "10:00 - 13:00",
-    "service_type": "רונית",
     "is_available": true
   },
   "שלישי, 16 דצמבר 2025_22": {
@@ -668,13 +661,6 @@
     "date": "רביעי, 17 דצמבר 2025",
     "event_id": "23",
     "time": "06:00 - 09:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  "רביעי, 17 דצמבר 2025_24": {
-    "date": "רביעי, 17 דצמבר 2025",
-    "event_id": "24",
-    "time": "09:00 - 12:00",
     "service_type": "מישל",
     "is_available": true
   },
