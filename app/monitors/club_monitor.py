@@ -166,13 +166,6 @@ class ClubMonitor:
             print("No webhook URL configured for club notifications")
             return False
         
-        # Create club-specific notification message
-        total_activities = len(activities)
-        notification = f"🎯 {total_activities} New Club Activities Available! 🎯"
-        
-        # Group activities by date for cleaner presentation
-        activities_by_date = {}
-        
         # Activity type emojis
         activity_emojis = {
             "הסמכה": "🎓",          # Certification
@@ -182,45 +175,61 @@ class ClubMonitor:
             "הפלגת מוביל": "🏁"     # Lead Sailing
         }
         
-        for activity in activities[:10]:  # Show up to 10 activities
-            date_key = activity.get("date", "Unknown")
-            if date_key not in activities_by_date:
-                activities_by_date[date_key] = []
-            
-            # Format the activity info
+        total = len(activities)
+        lines = [f"🎯 {total} Club Activities\n"]
+        
+        for activity in activities[:10]:
+            date_str = activity.get("date", "")
+            short_date = self._format_short_date(date_str)
+            time = activity.get('time', '')
             activity_type = activity.get('activity_type', '')
             activity_name = activity.get('activity_name', '')
             boat_name = activity.get('boat_name', '')
-            time = activity.get('time', '')
-            
-            # Get appropriate emoji
             emoji = activity_emojis.get(activity_type, "🚣")
             
-            # Create activity info string
-            activity_info = f"{time}: {emoji} {activity_type}"
-            if activity_name and activity_name != activity_type:
-                activity_info += f" - {activity_name}"
+            # Build compact line: "Fri 12 Dec: 12:00-15:00 🎓 *Activity Name* (Boat)"
+            line = f"{short_date}: {time} {emoji}"
+            name_to_show = activity_name if activity_name else activity_type
+            if name_to_show:
+                line += f" *{name_to_show}*"
             if boat_name:
-                activity_info += f" ({boat_name})"
-            
-            activities_by_date[date_key].append(activity_info)
+                line += f" ({boat_name})"
+            lines.append(line)
         
-        # Build notification message
-        notification += "\n\n"
-        for date, activity_infos in activities_by_date.items():
-            # Convert Hebrew date format to English
-            english_date = self.convert_hebrew_date_to_english(date)
-            notification += f"📅 {english_date}:\n"
-            for activity_info in activity_infos:
-                notification += f"• {activity_info}\n"
-            notification += "\n"
-        
-        # Add footer
-        notification += "🔗 Register at https://yamonline.custhelp.com/app/calendar_club"
-        
-        # Send notification
+        notification = "\n".join(lines)
         webhook_url = self.club_webhook_url or self.slack_webhook_url
-        return self.notifier.send_notification(notification.strip(), webhook_url)
+        return self.notifier.send_notification(notification, webhook_url)
+    
+    def _format_short_date(self, date_str):
+        """Convert date to short format like 'Fri 12 Dec'."""
+        if not date_str:
+            return ""
+        
+        hebrew_day_short = {
+            "ראשון": "Sun", "שני": "Mon", "שלישי": "Tue",
+            "רביעי": "Wed", "חמישי": "Thu", "שישי": "Fri", "שבת": "Sat"
+        }
+        hebrew_month_short = {
+            "ינואר": "Jan", "פברואר": "Feb", "מרץ": "Mar", "אפריל": "Apr",
+            "מאי": "May", "יוני": "Jun", "יולי": "Jul", "אוגוסט": "Aug",
+            "ספטמבר": "Sep", "אוקטובר": "Oct", "נובמבר": "Nov", "דצמבר": "Dec"
+        }
+        
+        try:
+            if "," in date_str:
+                day_name, date_part = date_str.split(",", 1)
+                day_name = day_name.strip()
+                date_part = date_part.strip()
+                parts = date_part.split()
+                if len(parts) >= 2:
+                    day_num = parts[0]
+                    month = parts[1]
+                    short_day = hebrew_day_short.get(day_name, day_name[:3])
+                    short_month = hebrew_month_short.get(month, month[:3])
+                    return f"{short_day} {day_num} {short_month}"
+        except Exception:
+            pass
+        return date_str[:15]
     
     def convert_hebrew_date_to_english(self, hebrew_date):
         """Convert Hebrew date format to English."""
