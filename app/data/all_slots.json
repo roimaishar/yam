@@ -1,6 +1,13 @@
 [
   {
     "date": "חמישי, 11 דצמבר 2025",
+    "event_id": "48",
+    "time": "13:00 - 16:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
+  {
+    "date": "חמישי, 11 דצמבר 2025",
     "event_id": "60",
     "time": "15:00 - 18:00",
     "service_type": "אסתר",
@@ -39,6 +46,13 @@
     "event_id": "4",
     "time": "17:00 - 20:00",
     "service_type": "קרפה",
+    "is_available": true
+  },
+  {
+    "date": "חמישי, 11 דצמבר 2025",
+    "event_id": "42",
+    "time": "12:00 - 15:00",
+    "service_type": "הרמוני",
     "is_available": true
   },
   {
@@ -102,6 +116,13 @@
     "event_id": "4",
     "time": "17:00 - 20:00",
     "service_type": "קרפה",
+    "is_available": true
+  },
+  {
+    "date": "שישי, 12 דצמבר 2025",
+    "event_id": "35",
+    "time": "15:00 - 18:00",
+    "service_type": "הרמוני",
     "is_available": true
   },
   {
@@ -934,6 +955,13 @@
     "date": "שבת, 20 דצמבר 2025",
     "event_id": "32",
     "time": "06:00 - 09:00",
+    "service_type": "הרמוני",
+    "is_available": true
+  },
+  {
+    "date": "שבת, 20 דצמבר 2025",
+    "event_id": "33",
+    "time": "09:00 - 12:00",
     "service_type": "הרמוני",
     "is_available": true
   },
