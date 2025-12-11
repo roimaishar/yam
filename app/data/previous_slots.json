@@ -118,13 +118,6 @@
     "service_type": "נאווה",
     "is_available": true
   },
-  "שישי, 12 דצמבר 2025_20": {
-    "date": "שישי, 12 דצמבר 2025",
-    "event_id": "20",
-    "time": "10:00 - 13:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
   "שישי, 12 דצמבר 2025_18": {
     "date": "שישי, 12 דצמבר 2025",
     "event_id": "18",
@@ -440,6 +433,13 @@
     "service_type": "נאווה",
     "is_available": true
   },
+  "שני, 15 דצמבר 2025_6": {
+    "date": "שני, 15 דצמבר 2025",
+    "event_id": "6",
+    "time": "10:00 - 12:00",
+    "service_type": "נאווה",
+    "is_available": true
+  },
   "שני, 15 דצמבר 2025_8": {
     "date": "שני, 15 דצמבר 2025",
     "event_id": "8",
@@ -620,13 +620,6 @@
     "event_id": "38",
     "time": "10:00 - 13:00",
     "service_type": "ושתי",
-    "is_available": true
-  },
-  "רביעי, 17 דצמבר 2025_47": {
-    "date": "רביעי, 17 דצמבר 2025",
-    "event_id": "47",
-    "time": "06:00 - 09:00",
-    "service_type": "אסתר",
     "is_available": true
   },
   "רביעי, 17 דצמבר 2025_51": {
