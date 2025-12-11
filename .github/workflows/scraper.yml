@@ -42,7 +42,7 @@ jobs:
           SLACK_WEBHOOK_URL_CLUB: ${{ secrets.SLACK_WEBHOOK_URL_CLUB }}
           STORM_GLASS_KEY: ${{ secrets.STORM_GLASS_KEY }}
           YAM_COOKIES_PATH: ${{ runner.temp }}/yam_cookies.json
-        run: python -m app.main club check 14
+        run: python -m app.main club check 28
 
       - name: Commit and push if changes
         run: |
