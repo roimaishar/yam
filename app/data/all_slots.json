@@ -358,13 +358,6 @@
   },
   {
     "date": "שני, 15 דצמבר 2025",
-    "event_id": "53",
-    "time": "17:00 - 20:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
-  {
-    "date": "שני, 15 דצמבר 2025",
     "event_id": "3",
     "time": "14:00 - 17:00",
     "service_type": "קרפה",
