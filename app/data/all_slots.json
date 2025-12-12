@@ -155,6 +155,13 @@
   },
   {
     "date": "ראשון, 14 דצמבר 2025",
+    "event_id": "35",
+    "time": "15:00 - 18:00",
+    "service_type": "הרמוני",
+    "is_available": true
+  },
+  {
+    "date": "ראשון, 14 דצמבר 2025",
     "event_id": "36",
     "time": "18:00 - 21:00",
     "service_type": "הרמוני",
@@ -1558,13 +1565,6 @@
     "event_id": "36",
     "time": "18:00 - 21:00",
     "service_type": "הרמוני",
-    "is_available": true
-  },
-  {
-    "date": "חמישי, 25 דצמבר 2025",
-    "event_id": "30",
-    "time": "14:00 - 17:00",
-    "service_type": "כרמן החדשה",
     "is_available": true
   },
   {
