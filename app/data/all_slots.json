@@ -253,13 +253,6 @@
   },
   {
     "date": "שני, 15 דצמבר 2025",
-    "event_id": "3",
-    "time": "14:00 - 17:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
-  {
-    "date": "שני, 15 דצמבר 2025",
     "event_id": "4",
     "time": "17:00 - 20:00",
     "service_type": "קרפה",
@@ -745,13 +738,6 @@
     "date": "שבת, 20 דצמבר 2025",
     "event_id": "22",
     "time": "06:00 - 09:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 20 דצמבר 2025",
-    "event_id": "24",
-    "time": "12:00 - 15:00",
     "service_type": "מישל",
     "is_available": true
   },
