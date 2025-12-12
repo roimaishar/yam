@@ -148,6 +148,13 @@
   },
   {
     "date": "ראשון, 14 דצמבר 2025",
+    "event_id": "3",
+    "time": "14:00 - 17:00",
+    "service_type": "קרפה",
+    "is_available": true
+  },
+  {
+    "date": "ראשון, 14 דצמבר 2025",
     "event_id": "4",
     "time": "17:00 - 20:00",
     "service_type": "קרפה",
@@ -1130,13 +1137,6 @@
     "date": "שלישי, 23 דצמבר 2025",
     "event_id": "38",
     "time": "13:00 - 16:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 23 דצמבר 2025",
-    "event_id": "39",
-    "time": "16:00 - 19:00",
     "service_type": "ושתי",
     "is_available": true
   },
