@@ -286,6 +286,13 @@
     "service_type": "רוני",
     "is_available": true
   },
+  "שלישי, 16 דצמבר 2025_2": {
+    "date": "שלישי, 16 דצמבר 2025",
+    "event_id": "2",
+    "time": "11:00 - 14:00",
+    "service_type": "קרפה",
+    "is_available": true
+  },
   "שלישי, 16 דצמבר 2025_3": {
     "date": "שלישי, 16 דצמבר 2025",
     "event_id": "3",
@@ -1473,13 +1480,6 @@
     "date": "חמישי, 25 דצמבר 2025",
     "event_id": "19",
     "time": "07:00 - 10:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
-  "חמישי, 25 דצמבר 2025_21": {
-    "date": "חמישי, 25 דצמבר 2025",
-    "event_id": "21",
-    "time": "13:00 - 16:00",
     "service_type": "ליאור",
     "is_available": true
   },
