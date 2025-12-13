@@ -155,6 +155,13 @@
   },
   {
     "date": "שני, 15 דצמבר 2025",
+    "event_id": "32",
+    "time": "09:00 - 12:00",
+    "service_type": "הרמוני",
+    "is_available": true
+  },
+  {
+    "date": "שני, 15 דצמבר 2025",
     "event_id": "35",
     "time": "18:00 - 21:00",
     "service_type": "הרמוני",
@@ -633,13 +640,6 @@
     "date": "שבת, 20 דצמבר 2025",
     "event_id": "5",
     "time": "08:00 - 10:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 20 דצמבר 2025",
-    "event_id": "7",
-    "time": "12:00 - 14:00",
     "service_type": "נאווה",
     "is_available": true
   },
