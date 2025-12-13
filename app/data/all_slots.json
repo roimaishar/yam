@@ -29,13 +29,6 @@
   },
   {
     "date": "ראשון, 14 דצמבר 2025",
-    "event_id": "3",
-    "time": "14:00 - 17:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 14 דצמבר 2025",
     "event_id": "4",
     "time": "17:00 - 20:00",
     "service_type": "קרפה",
@@ -388,13 +381,6 @@
     "date": "שלישי, 16 דצמבר 2025",
     "event_id": "16",
     "time": "07:00 - 10:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 16 דצמבר 2025",
-    "event_id": "17",
-    "time": "10:00 - 13:00",
     "service_type": "קטמנדו",
     "is_available": true
   },
