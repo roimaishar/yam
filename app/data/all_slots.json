@@ -309,13 +309,6 @@
   },
   {
     "date": "רביעי, 17 דצמבר 2025",
-    "event_id": "38",
-    "time": "10:00 - 13:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 17 דצמבר 2025",
     "event_id": "51",
     "time": "18:00 - 21:00",
     "service_type": "אסתר",
