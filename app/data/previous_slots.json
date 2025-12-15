@@ -41,13 +41,6 @@
     "service_type": "רוני",
     "is_available": true
   },
-  "שלישי, 16 דצמבר 2025_54": {
-    "date": "שלישי, 16 דצמבר 2025",
-    "event_id": "54",
-    "time": "17:00 - 20:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
   "שלישי, 16 דצמבר 2025_4": {
     "date": "שלישי, 16 דצמבר 2025",
     "event_id": "4",
@@ -227,13 +220,6 @@
     "date": "רביעי, 17 דצמבר 2025",
     "event_id": "16",
     "time": "07:00 - 10:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
-  "רביעי, 17 דצמבר 2025_18": {
-    "date": "רביעי, 17 דצמבר 2025",
-    "event_id": "18",
-    "time": "13:00 - 16:00",
     "service_type": "קטמנדו",
     "is_available": true
   },
