@@ -400,13 +400,6 @@
   },
   {
     "date": "ראשון, 21 דצמבר 2025",
-    "event_id": "30",
-    "time": "11:00 - 14:00",
-    "service_type": "כרמן החדשה",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 21 דצמבר 2025",
     "event_id": "32",
     "time": "17:00 - 20:00",
     "service_type": "כרמן החדשה",
@@ -1060,13 +1053,6 @@
     "date": "שישי, 26 דצמבר 2025",
     "event_id": "15",
     "time": "07:00 - 09:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 26 דצמבר 2025",
-    "event_id": "17",
-    "time": "11:00 - 13:00",
     "service_type": "קטמנדו",
     "is_available": true
   },
