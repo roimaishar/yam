@@ -134,6 +134,13 @@
   },
   {
     "date": "רביעי, 17 דצמבר 2025",
+    "event_id": "37",
+    "time": "07:00 - 10:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
+  {
+    "date": "רביעי, 17 דצמבר 2025",
     "event_id": "55",
     "time": "17:00 - 20:00",
     "service_type": "רוני",
