@@ -113,13 +113,6 @@
   },
   {
     "date": "שלישי, 16 דצמבר 2025",
-    "event_id": "15",
-    "time": "16:00 - 19:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 16 דצמבר 2025",
     "event_id": "22",
     "time": "16:00 - 19:00",
     "service_type": "ליאור",
@@ -547,13 +540,6 @@
   },
   {
     "date": "שני, 22 דצמבר 2025",
-    "event_id": "30",
-    "time": "17:00 - 20:00",
-    "service_type": "כרמן החדשה",
-    "is_available": true
-  },
-  {
-    "date": "שני, 22 דצמבר 2025",
     "event_id": "5",
     "time": "08:00 - 10:00",
     "service_type": "נאווה",
@@ -612,6 +598,13 @@
     "date": "שלישי, 23 דצמבר 2025",
     "event_id": "38",
     "time": "13:00 - 16:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
+  {
+    "date": "שלישי, 23 דצמבר 2025",
+    "event_id": "39",
+    "time": "16:00 - 19:00",
     "service_type": "ושתי",
     "is_available": true
   },
