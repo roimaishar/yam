@@ -15,13 +15,6 @@
   },
   {
     "date": "שלישי, 16 דצמבר 2025",
-    "event_id": "49",
-    "time": "15:00 - 18:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 16 דצמבר 2025",
     "event_id": "50",
     "time": "18:00 - 21:00",
     "service_type": "אסתר",
@@ -1019,13 +1012,6 @@
     "event_id": "14",
     "time": "16:00 - 19:00",
     "service_type": "רונית",
-    "is_available": true
-  },
-  {
-    "date": "חמישי, 25 דצמבר 2025",
-    "event_id": "19",
-    "time": "07:00 - 10:00",
-    "service_type": "ליאור",
     "is_available": true
   },
   {
