@@ -272,6 +272,13 @@
     "service_type": "נאווה",
     "is_available": true
   },
+  "חמישי, 18 דצמבר 2025_19": {
+    "date": "חמישי, 18 דצמבר 2025",
+    "event_id": "19",
+    "time": "07:00 - 10:00",
+    "service_type": "ליאור",
+    "is_available": true
+  },
   "חמישי, 18 דצמבר 2025_22": {
     "date": "חמישי, 18 דצמבר 2025",
     "event_id": "22",
@@ -605,13 +612,6 @@
     "date": "שלישי, 23 דצמבר 2025",
     "event_id": "45",
     "time": "06:00 - 09:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  "שלישי, 23 דצמבר 2025_46": {
-    "date": "שלישי, 23 דצמבר 2025",
-    "event_id": "46",
-    "time": "09:00 - 12:00",
     "service_type": "אסתר",
     "is_available": true
   },
