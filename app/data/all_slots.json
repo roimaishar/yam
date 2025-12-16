@@ -225,6 +225,13 @@
   },
   {
     "date": "חמישי, 18 דצמבר 2025",
+    "event_id": "25",
+    "time": "12:00 - 15:00",
+    "service_type": "מישל",
+    "is_available": true
+  },
+  {
+    "date": "חמישי, 18 דצמבר 2025",
     "event_id": "27",
     "time": "18:00 - 21:00",
     "service_type": "מישל",
@@ -332,13 +339,6 @@
     "date": "ראשון, 21 דצמבר 2025",
     "event_id": "35",
     "time": "12:00 - 15:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 21 דצמבר 2025",
-    "event_id": "37",
-    "time": "18:00 - 21:00",
     "service_type": "הרמוני",
     "is_available": true
   },
