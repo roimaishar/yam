@@ -314,13 +314,6 @@
     "service_type": "נאווה",
     "is_available": true
   },
-  "שבת, 20 דצמבר 2025_1": {
-    "date": "שבת, 20 דצמבר 2025",
-    "event_id": "1",
-    "time": "08:00 - 11:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
   "שבת, 20 דצמבר 2025_31": {
     "date": "שבת, 20 דצמבר 2025",
     "event_id": "31",
@@ -599,13 +592,6 @@
     "event_id": "53",
     "time": "17:00 - 20:00",
     "service_type": "רוני",
-    "is_available": true
-  },
-  "שלישי, 23 דצמבר 2025_2": {
-    "date": "שלישי, 23 דצמבר 2025",
-    "event_id": "2",
-    "time": "11:00 - 14:00",
-    "service_type": "קרפה",
     "is_available": true
   },
   "שלישי, 23 דצמבר 2025_4": {
