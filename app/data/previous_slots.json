@@ -1426,5 +1426,180 @@
     "time": "10:00 - 13:00",
     "service_type": "קטמנדו",
     "is_available": true
+  },
+  "שני, 29 דצמבר 2025_36": {
+    "date": "שני, 29 דצמבר 2025",
+    "event_id": "36",
+    "time": "07:00 - 10:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
+  "שני, 29 דצמבר 2025_37": {
+    "date": "שני, 29 דצמבר 2025",
+    "event_id": "37",
+    "time": "10:00 - 13:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
+  "שני, 29 דצמבר 2025_38": {
+    "date": "שני, 29 דצמבר 2025",
+    "event_id": "38",
+    "time": "13:00 - 16:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
+  "שני, 29 דצמבר 2025_45": {
+    "date": "שני, 29 דצמבר 2025",
+    "event_id": "45",
+    "time": "06:00 - 09:00",
+    "service_type": "אסתר",
+    "is_available": true
+  },
+  "שני, 29 דצמבר 2025_46": {
+    "date": "שני, 29 דצמבר 2025",
+    "event_id": "46",
+    "time": "09:00 - 12:00",
+    "service_type": "אסתר",
+    "is_available": true
+  },
+  "שני, 29 דצמבר 2025_52": {
+    "date": "שני, 29 דצמבר 2025",
+    "event_id": "52",
+    "time": "14:00 - 17:00",
+    "service_type": "רוני",
+    "is_available": true
+  },
+  "שני, 29 דצמבר 2025_2": {
+    "date": "שני, 29 דצמבר 2025",
+    "event_id": "2",
+    "time": "11:00 - 14:00",
+    "service_type": "קרפה",
+    "is_available": true
+  },
+  "שני, 29 דצמבר 2025_3": {
+    "date": "שני, 29 דצמבר 2025",
+    "event_id": "3",
+    "time": "14:00 - 17:00",
+    "service_type": "קרפה",
+    "is_available": true
+  },
+  "שני, 29 דצמבר 2025_4": {
+    "date": "שני, 29 דצמבר 2025",
+    "event_id": "4",
+    "time": "17:00 - 20:00",
+    "service_type": "קרפה",
+    "is_available": true
+  },
+  "שני, 29 דצמבר 2025_31": {
+    "date": "שני, 29 דצמבר 2025",
+    "event_id": "31",
+    "time": "06:00 - 09:00",
+    "service_type": "הרמוני",
+    "is_available": true
+  },
+  "שני, 29 דצמבר 2025_33": {
+    "date": "שני, 29 דצמבר 2025",
+    "event_id": "33",
+    "time": "12:00 - 15:00",
+    "service_type": "הרמוני",
+    "is_available": true
+  },
+  "שני, 29 דצמבר 2025_35": {
+    "date": "שני, 29 דצמבר 2025",
+    "event_id": "35",
+    "time": "18:00 - 21:00",
+    "service_type": "הרמוני",
+    "is_available": true
+  },
+  "שני, 29 דצמבר 2025_28": {
+    "date": "שני, 29 דצמבר 2025",
+    "event_id": "28",
+    "time": "11:00 - 14:00",
+    "service_type": "כרמן החדשה",
+    "is_available": true
+  },
+  "שני, 29 דצמבר 2025_29": {
+    "date": "שני, 29 דצמבר 2025",
+    "event_id": "29",
+    "time": "14:00 - 17:00",
+    "service_type": "כרמן החדשה",
+    "is_available": true
+  },
+  "שני, 29 דצמבר 2025_30": {
+    "date": "שני, 29 דצמבר 2025",
+    "event_id": "30",
+    "time": "17:00 - 20:00",
+    "service_type": "כרמן החדשה",
+    "is_available": true
+  },
+  "שני, 29 דצמבר 2025_7": {
+    "date": "שני, 29 דצמבר 2025",
+    "event_id": "7",
+    "time": "12:00 - 14:00",
+    "service_type": "נאווה",
+    "is_available": true
+  },
+  "שני, 29 דצמבר 2025_8": {
+    "date": "שני, 29 דצמבר 2025",
+    "event_id": "8",
+    "time": "14:00 - 16:00",
+    "service_type": "נאווה",
+    "is_available": true
+  },
+  "שני, 29 דצמבר 2025_9": {
+    "date": "שני, 29 דצמבר 2025",
+    "event_id": "9",
+    "time": "16:00 - 18:00",
+    "service_type": "נאווה",
+    "is_available": true
+  },
+  "שני, 29 דצמבר 2025_10": {
+    "date": "שני, 29 דצמבר 2025",
+    "event_id": "10",
+    "time": "18:00 - 20:00",
+    "service_type": "נאווה",
+    "is_available": true
+  },
+  "שני, 29 דצמבר 2025_13": {
+    "date": "שני, 29 דצמבר 2025",
+    "event_id": "13",
+    "time": "13:00 - 16:00",
+    "service_type": "רונית",
+    "is_available": true
+  },
+  "שני, 29 דצמבר 2025_14": {
+    "date": "שני, 29 דצמבר 2025",
+    "event_id": "14",
+    "time": "16:00 - 19:00",
+    "service_type": "רונית",
+    "is_available": true
+  },
+  "שני, 29 דצמבר 2025_20": {
+    "date": "שני, 29 דצמבר 2025",
+    "event_id": "20",
+    "time": "13:00 - 16:00",
+    "service_type": "ליאור",
+    "is_available": true
+  },
+  "שני, 29 דצמבר 2025_21": {
+    "date": "שני, 29 דצמבר 2025",
+    "event_id": "21",
+    "time": "16:00 - 19:00",
+    "service_type": "ליאור",
+    "is_available": true
+  },
+  "שני, 29 דצמבר 2025_15": {
+    "date": "שני, 29 דצמבר 2025",
+    "event_id": "15",
+    "time": "07:00 - 10:00",
+    "service_type": "קטמנדו",
+    "is_available": true
+  },
+  "שני, 29 דצמבר 2025_16": {
+    "date": "שני, 29 דצמבר 2025",
+    "event_id": "16",
+    "time": "10:00 - 13:00",
+    "service_type": "קטמנדו",
+    "is_available": true
   }
 }
