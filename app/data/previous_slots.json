@@ -90,13 +90,6 @@
     "service_type": "מישל",
     "is_available": true
   },
-  "שלישי, 16 דצמבר 2025_24": {
-    "date": "שלישי, 16 דצמבר 2025",
-    "event_id": "24",
-    "time": "09:00 - 12:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
   "שלישי, 16 דצמבר 2025_27": {
     "date": "שלישי, 16 דצמבר 2025",
     "event_id": "27",
@@ -1291,13 +1284,6 @@
     "date": "ראשון, 28 דצמבר 2025",
     "event_id": "33",
     "time": "09:00 - 12:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  "ראשון, 28 דצמבר 2025_34": {
-    "date": "ראשון, 28 דצמבר 2025",
-    "event_id": "34",
-    "time": "12:00 - 15:00",
     "service_type": "הרמוני",
     "is_available": true
   },
