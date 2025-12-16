@@ -505,13 +505,6 @@
   },
   {
     "date": "שלישי, 23 דצמבר 2025",
-    "event_id": "39",
-    "time": "16:00 - 19:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 23 דצמבר 2025",
     "event_id": "45",
     "time": "06:00 - 09:00",
     "service_type": "אסתר",
@@ -990,13 +983,6 @@
     "date": "שבת, 27 דצמבר 2025",
     "event_id": "2",
     "time": "11:00 - 14:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 27 דצמבר 2025",
-    "event_id": "3",
-    "time": "14:00 - 17:00",
     "service_type": "קרפה",
     "is_available": true
   },
