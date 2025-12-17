@@ -1107,13 +1107,6 @@
   },
   {
     "date": "שני, 29 דצמבר 2025",
-    "event_id": "52",
-    "time": "14:00 - 17:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
-  {
-    "date": "שני, 29 דצמבר 2025",
     "event_id": "1",
     "time": "08:00 - 11:00",
     "service_type": "קרפה",
