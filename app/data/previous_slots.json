@@ -111,13 +111,6 @@
     "service_type": "מישל",
     "is_available": true
   },
-  "שבת, 20 דצמבר 2025_24": {
-    "date": "שבת, 20 דצמבר 2025",
-    "event_id": "24",
-    "time": "12:00 - 15:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
   "שבת, 20 דצמבר 2025_15": {
     "date": "שבת, 20 דצמבר 2025",
     "event_id": "15",
@@ -290,13 +283,6 @@
     "date": "שלישי, 23 דצמבר 2025",
     "event_id": "36",
     "time": "07:00 - 10:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  "שלישי, 23 דצמבר 2025_38": {
-    "date": "שלישי, 23 דצמבר 2025",
-    "event_id": "38",
-    "time": "13:00 - 16:00",
     "service_type": "ושתי",
     "is_available": true
   },
