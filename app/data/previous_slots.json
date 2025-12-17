@@ -713,6 +713,13 @@
     "service_type": "קרפה",
     "is_available": true
   },
+  "שבת, 27 דצמבר 2025_3": {
+    "date": "שבת, 27 דצמבר 2025",
+    "event_id": "3",
+    "time": "14:00 - 17:00",
+    "service_type": "קרפה",
+    "is_available": true
+  },
   "שבת, 27 דצמבר 2025_4": {
     "date": "שבת, 27 דצמבר 2025",
     "event_id": "4",
