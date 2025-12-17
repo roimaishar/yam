@@ -15,6 +15,13 @@
   },
   {
     "date": "חמישי, 18 דצמבר 2025",
+    "event_id": "1",
+    "time": "08:00 - 11:00",
+    "service_type": "קרפה",
+    "is_available": true
+  },
+  {
+    "date": "חמישי, 18 דצמבר 2025",
     "event_id": "4",
     "time": "17:00 - 20:00",
     "service_type": "קרפה",
@@ -662,13 +669,6 @@
     "event_id": "31",
     "time": "17:00 - 20:00",
     "service_type": "כרמן החדשה",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 26 דצמבר 2025",
-    "event_id": "9",
-    "time": "16:00 - 18:00",
-    "service_type": "נאווה",
     "is_available": true
   },
   {
