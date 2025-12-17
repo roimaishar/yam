@@ -105,6 +105,13 @@
     "is_available": true
   },
   {
+    "date": "שישי, 19 דצמבר 2025",
+    "event_id": "16",
+    "time": "09:00 - 11:00",
+    "service_type": "קטמנדו",
+    "is_available": true
+  },
+  {
     "date": "שבת, 20 דצמבר 2025",
     "event_id": "31",
     "time": "06:00 - 09:00",
@@ -116,13 +123,6 @@
     "event_id": "22",
     "time": "06:00 - 09:00",
     "service_type": "מישל",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 20 דצמבר 2025",
-    "event_id": "5",
-    "time": "08:00 - 10:00",
-    "service_type": "נאווה",
     "is_available": true
   },
   {
