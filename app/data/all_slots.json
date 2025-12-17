@@ -113,6 +113,13 @@
   },
   {
     "date": "שבת, 20 דצמבר 2025",
+    "event_id": "24",
+    "time": "12:00 - 15:00",
+    "service_type": "מישל",
+    "is_available": true
+  },
+  {
+    "date": "שבת, 20 דצמבר 2025",
     "event_id": "15",
     "time": "07:00 - 10:00",
     "service_type": "קטמנדו",
