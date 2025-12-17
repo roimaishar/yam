@@ -13,18 +13,18 @@
     "service_type": "רוני",
     "is_available": true
   },
-  "חמישי, 18 דצמבר 2025_1": {
-    "date": "חמישי, 18 דצמבר 2025",
-    "event_id": "1",
-    "time": "08:00 - 11:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
   "חמישי, 18 דצמבר 2025_4": {
     "date": "חמישי, 18 דצמבר 2025",
     "event_id": "4",
     "time": "17:00 - 20:00",
     "service_type": "קרפה",
+    "is_available": true
+  },
+  "חמישי, 18 דצמבר 2025_32": {
+    "date": "חמישי, 18 דצמבר 2025",
+    "event_id": "32",
+    "time": "06:00 - 09:00",
+    "service_type": "הרמוני",
     "is_available": true
   },
   "חמישי, 18 דצמבר 2025_36": {
