@@ -1,13 +1,6 @@
 [
   {
     "date": "שישי, 19 דצמבר 2025",
-    "event_id": "39",
-    "time": "13:00 - 16:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 19 דצמבר 2025",
     "event_id": "54",
     "time": "17:00 - 20:00",
     "service_type": "רוני",
@@ -584,6 +577,13 @@
     "date": "שישי, 26 דצמבר 2025",
     "event_id": "15",
     "time": "07:00 - 09:00",
+    "service_type": "קטמנדו",
+    "is_available": true
+  },
+  {
+    "date": "שישי, 26 דצמבר 2025",
+    "event_id": "18",
+    "time": "13:00 - 15:00",
     "service_type": "קטמנדו",
     "is_available": true
   },
@@ -1459,13 +1459,6 @@
     "date": "רביעי, 31 דצמבר 2025",
     "event_id": "32",
     "time": "06:00 - 09:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 31 דצמבר 2025",
-    "event_id": "33",
-    "time": "09:00 - 12:00",
     "service_type": "הרמוני",
     "is_available": true
   },
