@@ -322,13 +322,6 @@
     "is_available": true
   },
   {
-    "date": "שלישי, 23 דצמבר 2025",
-    "event_id": "17",
-    "time": "13:00 - 16:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
-  {
     "date": "רביעי, 24 דצמבר 2025",
     "event_id": "46",
     "time": "06:00 - 09:00",
@@ -591,13 +584,6 @@
     "date": "שישי, 26 דצמבר 2025",
     "event_id": "15",
     "time": "07:00 - 09:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 26 דצמבר 2025",
-    "event_id": "18",
-    "time": "13:00 - 15:00",
     "service_type": "קטמנדו",
     "is_available": true
   },
