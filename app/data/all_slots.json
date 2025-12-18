@@ -64,6 +64,13 @@
   },
   {
     "date": "שישי, 19 דצמבר 2025",
+    "event_id": "22",
+    "time": "16:00 - 19:00",
+    "service_type": "ליאור",
+    "is_available": true
+  },
+  {
+    "date": "שישי, 19 דצמבר 2025",
     "event_id": "16",
     "time": "09:00 - 11:00",
     "service_type": "קטמנדו",
