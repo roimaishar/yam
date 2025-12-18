@@ -48,6 +48,13 @@
     "service_type": "רונית",
     "is_available": true
   },
+  "שישי, 19 דצמבר 2025_14": {
+    "date": "שישי, 19 דצמבר 2025",
+    "event_id": "14",
+    "time": "16:00 - 19:00",
+    "service_type": "רונית",
+    "is_available": true
+  },
   "שישי, 19 דצמבר 2025_16": {
     "date": "שישי, 19 דצמבר 2025",
     "event_id": "16",
@@ -59,6 +66,13 @@
     "date": "שבת, 20 דצמבר 2025",
     "event_id": "22",
     "time": "06:00 - 09:00",
+    "service_type": "מישל",
+    "is_available": true
+  },
+  "שבת, 20 דצמבר 2025_24": {
+    "date": "שבת, 20 דצמבר 2025",
+    "event_id": "24",
+    "time": "12:00 - 15:00",
     "service_type": "מישל",
     "is_available": true
   },
