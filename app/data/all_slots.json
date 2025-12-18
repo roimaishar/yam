@@ -119,13 +119,6 @@
     "is_available": true
   },
   {
-    "date": "ראשון, 21 דצמבר 2025",
-    "event_id": "15",
-    "time": "16:00 - 19:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
-  {
     "date": "שני, 22 דצמבר 2025",
     "event_id": "49",
     "time": "18:00 - 21:00",
@@ -207,6 +200,13 @@
     "event_id": "10",
     "time": "18:00 - 20:00",
     "service_type": "נאווה",
+    "is_available": true
+  },
+  {
+    "date": "שני, 22 דצמבר 2025",
+    "event_id": "14",
+    "time": "16:00 - 19:00",
+    "service_type": "רונית",
     "is_available": true
   },
   {
@@ -836,6 +836,13 @@
     "date": "ראשון, 28 דצמבר 2025",
     "event_id": "2",
     "time": "11:00 - 14:00",
+    "service_type": "קרפה",
+    "is_available": true
+  },
+  {
+    "date": "ראשון, 28 דצמבר 2025",
+    "event_id": "3",
+    "time": "14:00 - 17:00",
     "service_type": "קרפה",
     "is_available": true
   },
