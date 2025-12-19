@@ -78,13 +78,6 @@
   },
   {
     "date": "שני, 22 דצמבר 2025",
-    "event_id": "5",
-    "time": "08:00 - 10:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  {
-    "date": "שני, 22 דצמבר 2025",
     "event_id": "8",
     "time": "14:00 - 16:00",
     "service_type": "נאווה",
