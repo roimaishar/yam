@@ -15,6 +15,13 @@
   },
   {
     "date": "ראשון, 21 דצמבר 2025",
+    "event_id": "50",
+    "time": "15:00 - 18:00",
+    "service_type": "אסתר",
+    "is_available": true
+  },
+  {
+    "date": "ראשון, 21 דצמבר 2025",
     "event_id": "55",
     "time": "17:00 - 20:00",
     "service_type": "רוני",
@@ -150,6 +157,13 @@
     "date": "שלישי, 23 דצמבר 2025",
     "event_id": "32",
     "time": "09:00 - 12:00",
+    "service_type": "הרמוני",
+    "is_available": true
+  },
+  {
+    "date": "שלישי, 23 דצמבר 2025",
+    "event_id": "34",
+    "time": "15:00 - 18:00",
     "service_type": "הרמוני",
     "is_available": true
   },
