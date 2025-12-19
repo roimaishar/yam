@@ -14,13 +14,6 @@
     "is_available": true
   },
   {
-    "date": "שבת, 20 דצמבר 2025",
-    "event_id": "21",
-    "time": "16:00 - 19:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
-  {
     "date": "ראשון, 21 דצמבר 2025",
     "event_id": "55",
     "time": "17:00 - 20:00",
@@ -39,13 +32,6 @@
     "event_id": "32",
     "time": "17:00 - 20:00",
     "service_type": "כרמן החדשה",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 21 דצמבר 2025",
-    "event_id": "10",
-    "time": "16:00 - 18:00",
-    "service_type": "נאווה",
     "is_available": true
   },
   {
@@ -1550,13 +1536,6 @@
     "date": "חמישי, 1 ינואר 2026",
     "event_id": "5",
     "time": "08:00 - 10:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  {
-    "date": "חמישי, 1 ינואר 2026",
-    "event_id": "6",
-    "time": "10:00 - 12:00",
     "service_type": "נאווה",
     "is_available": true
   },
