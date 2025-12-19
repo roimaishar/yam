@@ -197,13 +197,6 @@
   },
   {
     "date": "שלישי, 23 דצמבר 2025",
-    "event_id": "6",
-    "time": "10:00 - 12:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 23 דצמבר 2025",
     "event_id": "9",
     "time": "16:00 - 18:00",
     "service_type": "נאווה",
@@ -654,13 +647,6 @@
     "date": "ראשון, 28 דצמבר 2025",
     "event_id": "49",
     "time": "12:00 - 15:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 28 דצמבר 2025",
-    "event_id": "50",
-    "time": "15:00 - 18:00",
     "service_type": "אסתר",
     "is_available": true
   },
