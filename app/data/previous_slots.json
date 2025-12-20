@@ -27,13 +27,6 @@
     "service_type": "נאווה",
     "is_available": true
   },
-  "שני, 22 דצמבר 2025_46": {
-    "date": "שני, 22 דצמבר 2025",
-    "event_id": "46",
-    "time": "09:00 - 12:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
   "שני, 22 דצמבר 2025_49": {
     "date": "שני, 22 דצמבר 2025",
     "event_id": "49",
@@ -53,13 +46,6 @@
     "event_id": "35",
     "time": "18:00 - 21:00",
     "service_type": "הרמוני",
-    "is_available": true
-  },
-  "שני, 22 דצמבר 2025_7": {
-    "date": "שני, 22 דצמבר 2025",
-    "event_id": "7",
-    "time": "12:00 - 14:00",
-    "service_type": "נאווה",
     "is_available": true
   },
   "שני, 22 דצמבר 2025_8": {
@@ -291,13 +277,6 @@
     "event_id": "16",
     "time": "10:00 - 13:00",
     "service_type": "קטמנדו",
-    "is_available": true
-  },
-  "חמישי, 25 דצמבר 2025_40": {
-    "date": "חמישי, 25 דצמבר 2025",
-    "event_id": "40",
-    "time": "16:00 - 19:00",
-    "service_type": "ושתי",
     "is_available": true
   },
   "חמישי, 25 דצמבר 2025_50": {
