@@ -1,88 +1,4 @@
 {
-  "שישי, 19 דצמבר 2025_50": {
-    "date": "שישי, 19 דצמבר 2025",
-    "event_id": "50",
-    "time": "18:00 - 21:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  "שישי, 19 דצמבר 2025_54": {
-    "date": "שישי, 19 דצמבר 2025",
-    "event_id": "54",
-    "time": "17:00 - 20:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
-  "שישי, 19 דצמבר 2025_36": {
-    "date": "שישי, 19 דצמבר 2025",
-    "event_id": "36",
-    "time": "18:00 - 21:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  "שישי, 19 דצמבר 2025_31": {
-    "date": "שישי, 19 דצמבר 2025",
-    "event_id": "31",
-    "time": "17:00 - 20:00",
-    "service_type": "כרמן החדשה",
-    "is_available": true
-  },
-  "שישי, 19 דצמבר 2025_23": {
-    "date": "שישי, 19 דצמבר 2025",
-    "event_id": "23",
-    "time": "06:00 - 09:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  "שישי, 19 דצמבר 2025_27": {
-    "date": "שישי, 19 דצמבר 2025",
-    "event_id": "27",
-    "time": "18:00 - 21:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  "שישי, 19 דצמבר 2025_10": {
-    "date": "שישי, 19 דצמבר 2025",
-    "event_id": "10",
-    "time": "18:00 - 20:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  "שישי, 19 דצמבר 2025_14": {
-    "date": "שישי, 19 דצמבר 2025",
-    "event_id": "14",
-    "time": "16:00 - 19:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
-  "שישי, 19 דצמבר 2025_22": {
-    "date": "שישי, 19 דצמבר 2025",
-    "event_id": "22",
-    "time": "16:00 - 19:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
-  "שישי, 19 דצמבר 2025_16": {
-    "date": "שישי, 19 דצמבר 2025",
-    "event_id": "16",
-    "time": "09:00 - 11:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
-  "שבת, 20 דצמבר 2025_22": {
-    "date": "שבת, 20 דצמבר 2025",
-    "event_id": "22",
-    "time": "06:00 - 09:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  "שבת, 20 דצמבר 2025_8": {
-    "date": "שבת, 20 דצמבר 2025",
-    "event_id": "8",
-    "time": "14:00 - 16:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
   "ראשון, 21 דצמבר 2025_50": {
     "date": "ראשון, 21 דצמבר 2025",
     "event_id": "50",
@@ -1642,6 +1558,104 @@
     "event_id": "22",
     "time": "16:00 - 19:00",
     "service_type": "ליאור",
+    "is_available": true
+  },
+  "שישי, 2 ינואר 2026_50": {
+    "date": "שישי, 2 ינואר 2026",
+    "event_id": "50",
+    "time": "18:00 - 21:00",
+    "service_type": "אסתר",
+    "is_available": true
+  },
+  "שישי, 2 ינואר 2026_54": {
+    "date": "שישי, 2 ינואר 2026",
+    "event_id": "54",
+    "time": "17:00 - 20:00",
+    "service_type": "רוני",
+    "is_available": true
+  },
+  "שישי, 2 ינואר 2026_4": {
+    "date": "שישי, 2 ינואר 2026",
+    "event_id": "4",
+    "time": "17:00 - 20:00",
+    "service_type": "קרפה",
+    "is_available": true
+  },
+  "שישי, 2 ינואר 2026_32": {
+    "date": "שישי, 2 ינואר 2026",
+    "event_id": "32",
+    "time": "06:00 - 09:00",
+    "service_type": "הרמוני",
+    "is_available": true
+  },
+  "שישי, 2 ינואר 2026_36": {
+    "date": "שישי, 2 ינואר 2026",
+    "event_id": "36",
+    "time": "18:00 - 21:00",
+    "service_type": "הרמוני",
+    "is_available": true
+  },
+  "שישי, 2 ינואר 2026_31": {
+    "date": "שישי, 2 ינואר 2026",
+    "event_id": "31",
+    "time": "17:00 - 20:00",
+    "service_type": "כרמן החדשה",
+    "is_available": true
+  },
+  "שישי, 2 ינואר 2026_5": {
+    "date": "שישי, 2 ינואר 2026",
+    "event_id": "5",
+    "time": "08:00 - 10:00",
+    "service_type": "נאווה",
+    "is_available": true
+  },
+  "שישי, 2 ינואר 2026_8": {
+    "date": "שישי, 2 ינואר 2026",
+    "event_id": "8",
+    "time": "14:00 - 16:00",
+    "service_type": "נאווה",
+    "is_available": true
+  },
+  "שישי, 2 ינואר 2026_9": {
+    "date": "שישי, 2 ינואר 2026",
+    "event_id": "9",
+    "time": "16:00 - 18:00",
+    "service_type": "נאווה",
+    "is_available": true
+  },
+  "שישי, 2 ינואר 2026_10": {
+    "date": "שישי, 2 ינואר 2026",
+    "event_id": "10",
+    "time": "18:00 - 20:00",
+    "service_type": "נאווה",
+    "is_available": true
+  },
+  "שישי, 2 ינואר 2026_14": {
+    "date": "שישי, 2 ינואר 2026",
+    "event_id": "14",
+    "time": "16:00 - 19:00",
+    "service_type": "רונית",
+    "is_available": true
+  },
+  "שישי, 2 ינואר 2026_19": {
+    "date": "שישי, 2 ינואר 2026",
+    "event_id": "19",
+    "time": "07:00 - 10:00",
+    "service_type": "ליאור",
+    "is_available": true
+  },
+  "שישי, 2 ינואר 2026_15": {
+    "date": "שישי, 2 ינואר 2026",
+    "event_id": "15",
+    "time": "07:00 - 09:00",
+    "service_type": "קטמנדו",
+    "is_available": true
+  },
+  "שישי, 2 ינואר 2026_18": {
+    "date": "שישי, 2 ינואר 2026",
+    "event_id": "18",
+    "time": "13:00 - 15:00",
+    "service_type": "קטמנדו",
     "is_available": true
   }
 }
