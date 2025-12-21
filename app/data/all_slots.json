@@ -36,6 +36,20 @@
   },
   {
     "date": "שני, 22 דצמבר 2025",
+    "event_id": "20",
+    "time": "13:00 - 16:00",
+    "service_type": "ליאור",
+    "is_available": true
+  },
+  {
+    "date": "שני, 22 דצמבר 2025",
+    "event_id": "21",
+    "time": "16:00 - 19:00",
+    "service_type": "ליאור",
+    "is_available": true
+  },
+  {
+    "date": "שני, 22 דצמבר 2025",
     "event_id": "17",
     "time": "13:00 - 16:00",
     "service_type": "קטמנדו",
@@ -176,13 +190,6 @@
   },
   {
     "date": "רביעי, 24 דצמבר 2025",
-    "event_id": "1",
-    "time": "08:00 - 11:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 24 דצמבר 2025",
     "event_id": "4",
     "time": "17:00 - 20:00",
     "service_type": "קרפה",
@@ -239,13 +246,6 @@
   },
   {
     "date": "רביעי, 24 דצמבר 2025",
-    "event_id": "18",
-    "time": "07:00 - 10:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 24 דצמבר 2025",
     "event_id": "16",
     "time": "10:00 - 13:00",
     "service_type": "קטמנדו",
@@ -270,6 +270,13 @@
     "event_id": "4",
     "time": "17:00 - 20:00",
     "service_type": "קרפה",
+    "is_available": true
+  },
+  {
+    "date": "חמישי, 25 דצמבר 2025",
+    "event_id": "32",
+    "time": "06:00 - 09:00",
+    "service_type": "הרמוני",
     "is_available": true
   },
   {
