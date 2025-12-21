@@ -1,39 +1,4 @@
 {
-  "שבת, 20 דצמבר 2025_22": {
-    "date": "שבת, 20 דצמבר 2025",
-    "event_id": "22",
-    "time": "06:00 - 09:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  "ראשון, 21 דצמבר 2025_55": {
-    "date": "ראשון, 21 דצמבר 2025",
-    "event_id": "55",
-    "time": "17:00 - 20:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
-  "ראשון, 21 דצמבר 2025_4": {
-    "date": "ראשון, 21 דצמבר 2025",
-    "event_id": "4",
-    "time": "17:00 - 20:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
-  "ראשון, 21 דצמבר 2025_32": {
-    "date": "ראשון, 21 דצמבר 2025",
-    "event_id": "32",
-    "time": "17:00 - 20:00",
-    "service_type": "כרמן החדשה",
-    "is_available": true
-  },
-  "ראשון, 21 דצמבר 2025_11": {
-    "date": "ראשון, 21 דצמבר 2025",
-    "event_id": "11",
-    "time": "18:00 - 20:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
   "שני, 22 דצמבר 2025_49": {
     "date": "שני, 22 דצמבר 2025",
     "event_id": "49",
@@ -1529,6 +1494,237 @@
     "date": "שישי, 2 ינואר 2026",
     "event_id": "18",
     "time": "13:00 - 15:00",
+    "service_type": "קטמנדו",
+    "is_available": true
+  },
+  "שבת, 3 ינואר 2026_37": {
+    "date": "שבת, 3 ינואר 2026",
+    "event_id": "37",
+    "time": "10:00 - 13:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
+  "שבת, 3 ינואר 2026_39": {
+    "date": "שבת, 3 ינואר 2026",
+    "event_id": "39",
+    "time": "16:00 - 19:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
+  "שבת, 3 ינואר 2026_48": {
+    "date": "שבת, 3 ינואר 2026",
+    "event_id": "48",
+    "time": "15:00 - 18:00",
+    "service_type": "אסתר",
+    "is_available": true
+  },
+  "שבת, 3 ינואר 2026_49": {
+    "date": "שבת, 3 ינואר 2026",
+    "event_id": "49",
+    "time": "18:00 - 21:00",
+    "service_type": "אסתר",
+    "is_available": true
+  },
+  "שבת, 3 ינואר 2026_50": {
+    "date": "שבת, 3 ינואר 2026",
+    "event_id": "50",
+    "time": "08:00 - 11:00",
+    "service_type": "רוני",
+    "is_available": true
+  },
+  "שבת, 3 ינואר 2026_52": {
+    "date": "שבת, 3 ינואר 2026",
+    "event_id": "52",
+    "time": "14:00 - 17:00",
+    "service_type": "רוני",
+    "is_available": true
+  },
+  "שבת, 3 ינואר 2026_53": {
+    "date": "שבת, 3 ינואר 2026",
+    "event_id": "53",
+    "time": "17:00 - 20:00",
+    "service_type": "רוני",
+    "is_available": true
+  },
+  "שבת, 3 ינואר 2026_1": {
+    "date": "שבת, 3 ינואר 2026",
+    "event_id": "1",
+    "time": "08:00 - 11:00",
+    "service_type": "קרפה",
+    "is_available": true
+  },
+  "שבת, 3 ינואר 2026_2": {
+    "date": "שבת, 3 ינואר 2026",
+    "event_id": "2",
+    "time": "11:00 - 14:00",
+    "service_type": "קרפה",
+    "is_available": true
+  },
+  "שבת, 3 ינואר 2026_3": {
+    "date": "שבת, 3 ינואר 2026",
+    "event_id": "3",
+    "time": "14:00 - 17:00",
+    "service_type": "קרפה",
+    "is_available": true
+  },
+  "שבת, 3 ינואר 2026_4": {
+    "date": "שבת, 3 ינואר 2026",
+    "event_id": "4",
+    "time": "17:00 - 20:00",
+    "service_type": "קרפה",
+    "is_available": true
+  },
+  "שבת, 3 ינואר 2026_31": {
+    "date": "שבת, 3 ינואר 2026",
+    "event_id": "31",
+    "time": "06:00 - 09:00",
+    "service_type": "הרמוני",
+    "is_available": true
+  },
+  "שבת, 3 ינואר 2026_32": {
+    "date": "שבת, 3 ינואר 2026",
+    "event_id": "32",
+    "time": "09:00 - 12:00",
+    "service_type": "הרמוני",
+    "is_available": true
+  },
+  "שבת, 3 ינואר 2026_33": {
+    "date": "שבת, 3 ינואר 2026",
+    "event_id": "33",
+    "time": "12:00 - 15:00",
+    "service_type": "הרמוני",
+    "is_available": true
+  },
+  "שבת, 3 ינואר 2026_27": {
+    "date": "שבת, 3 ינואר 2026",
+    "event_id": "27",
+    "time": "08:00 - 11:00",
+    "service_type": "כרמן החדשה",
+    "is_available": true
+  },
+  "שבת, 3 ינואר 2026_28": {
+    "date": "שבת, 3 ינואר 2026",
+    "event_id": "28",
+    "time": "11:00 - 14:00",
+    "service_type": "כרמן החדשה",
+    "is_available": true
+  },
+  "שבת, 3 ינואר 2026_29": {
+    "date": "שבת, 3 ינואר 2026",
+    "event_id": "29",
+    "time": "14:00 - 17:00",
+    "service_type": "כרמן החדשה",
+    "is_available": true
+  },
+  "שבת, 3 ינואר 2026_30": {
+    "date": "שבת, 3 ינואר 2026",
+    "event_id": "30",
+    "time": "17:00 - 20:00",
+    "service_type": "כרמן החדשה",
+    "is_available": true
+  },
+  "שבת, 3 ינואר 2026_5": {
+    "date": "שבת, 3 ינואר 2026",
+    "event_id": "5",
+    "time": "08:00 - 10:00",
+    "service_type": "נאווה",
+    "is_available": true
+  },
+  "שבת, 3 ינואר 2026_7": {
+    "date": "שבת, 3 ינואר 2026",
+    "event_id": "7",
+    "time": "12:00 - 14:00",
+    "service_type": "נאווה",
+    "is_available": true
+  },
+  "שבת, 3 ינואר 2026_8": {
+    "date": "שבת, 3 ינואר 2026",
+    "event_id": "8",
+    "time": "14:00 - 16:00",
+    "service_type": "נאווה",
+    "is_available": true
+  },
+  "שבת, 3 ינואר 2026_9": {
+    "date": "שבת, 3 ינואר 2026",
+    "event_id": "9",
+    "time": "16:00 - 18:00",
+    "service_type": "נאווה",
+    "is_available": true
+  },
+  "שבת, 3 ינואר 2026_10": {
+    "date": "שבת, 3 ינואר 2026",
+    "event_id": "10",
+    "time": "18:00 - 20:00",
+    "service_type": "נאווה",
+    "is_available": true
+  },
+  "שבת, 3 ינואר 2026_11": {
+    "date": "שבת, 3 ינואר 2026",
+    "event_id": "11",
+    "time": "07:00 - 10:00",
+    "service_type": "רונית",
+    "is_available": true
+  },
+  "שבת, 3 ינואר 2026_12": {
+    "date": "שבת, 3 ינואר 2026",
+    "event_id": "12",
+    "time": "10:00 - 13:00",
+    "service_type": "רונית",
+    "is_available": true
+  },
+  "שבת, 3 ינואר 2026_13": {
+    "date": "שבת, 3 ינואר 2026",
+    "event_id": "13",
+    "time": "13:00 - 16:00",
+    "service_type": "רונית",
+    "is_available": true
+  },
+  "שבת, 3 ינואר 2026_14": {
+    "date": "שבת, 3 ינואר 2026",
+    "event_id": "14",
+    "time": "16:00 - 19:00",
+    "service_type": "רונית",
+    "is_available": true
+  },
+  "שבת, 3 ינואר 2026_18": {
+    "date": "שבת, 3 ינואר 2026",
+    "event_id": "18",
+    "time": "07:00 - 10:00",
+    "service_type": "ליאור",
+    "is_available": true
+  },
+  "שבת, 3 ינואר 2026_19": {
+    "date": "שבת, 3 ינואר 2026",
+    "event_id": "19",
+    "time": "10:00 - 13:00",
+    "service_type": "ליאור",
+    "is_available": true
+  },
+  "שבת, 3 ינואר 2026_20": {
+    "date": "שבת, 3 ינואר 2026",
+    "event_id": "20",
+    "time": "13:00 - 16:00",
+    "service_type": "ליאור",
+    "is_available": true
+  },
+  "שבת, 3 ינואר 2026_21": {
+    "date": "שבת, 3 ינואר 2026",
+    "event_id": "21",
+    "time": "16:00 - 19:00",
+    "service_type": "ליאור",
+    "is_available": true
+  },
+  "שבת, 3 ינואר 2026_15": {
+    "date": "שבת, 3 ינואר 2026",
+    "event_id": "15",
+    "time": "07:00 - 10:00",
+    "service_type": "קטמנדו",
+    "is_available": true
+  },
+  "שבת, 3 ינואר 2026_16": {
+    "date": "שבת, 3 ינואר 2026",
+    "event_id": "16",
+    "time": "10:00 - 13:00",
     "service_type": "קטמנדו",
     "is_available": true
   }
