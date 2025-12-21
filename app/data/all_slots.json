@@ -372,13 +372,6 @@
   },
   {
     "date": "שבת, 27 דצמבר 2025",
-    "event_id": "55",
-    "time": "17:00 - 20:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 27 דצמבר 2025",
     "event_id": "2",
     "time": "11:00 - 14:00",
     "service_type": "קרפה",
@@ -1116,13 +1109,6 @@
     "date": "רביעי, 31 דצמבר 2025",
     "event_id": "46",
     "time": "06:00 - 09:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 31 דצמבר 2025",
-    "event_id": "47",
-    "time": "09:00 - 12:00",
     "service_type": "אסתר",
     "is_available": true
   },
