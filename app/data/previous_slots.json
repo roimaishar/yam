@@ -720,13 +720,6 @@
     "service_type": "ושתי",
     "is_available": true
   },
-  "שני, 29 דצמבר 2025_38": {
-    "date": "שני, 29 דצמבר 2025",
-    "event_id": "38",
-    "time": "13:00 - 16:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
   "שני, 29 דצמבר 2025_45": {
     "date": "שני, 29 דצמבר 2025",
     "event_id": "45",
@@ -1411,13 +1404,6 @@
     "event_id": "4",
     "time": "17:00 - 20:00",
     "service_type": "קרפה",
-    "is_available": true
-  },
-  "שישי, 2 ינואר 2026_32": {
-    "date": "שישי, 2 ינואר 2026",
-    "event_id": "32",
-    "time": "06:00 - 09:00",
-    "service_type": "הרמוני",
     "is_available": true
   },
   "שישי, 2 ינואר 2026_36": {
