@@ -71,13 +71,6 @@
   },
   {
     "date": "חמישי, 25 דצמבר 2025",
-    "event_id": "8",
-    "time": "14:00 - 16:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  {
-    "date": "חמישי, 25 דצמבר 2025",
     "event_id": "10",
     "time": "18:00 - 20:00",
     "service_type": "נאווה",
@@ -1522,13 +1515,6 @@
     "date": "שני, 5 ינואר 2026",
     "event_id": "48",
     "time": "12:00 - 15:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "שני, 5 ינואר 2026",
-    "event_id": "49",
-    "time": "15:00 - 18:00",
     "service_type": "אסתר",
     "is_available": true
   },
