@@ -1114,13 +1114,6 @@
   },
   {
     "date": "שבת, 3 ינואר 2026",
-    "event_id": "39",
-    "time": "16:00 - 19:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 3 ינואר 2026",
     "event_id": "48",
     "time": "15:00 - 18:00",
     "service_type": "אסתר",
