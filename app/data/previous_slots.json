@@ -237,13 +237,6 @@
     "service_type": "ושתי",
     "is_available": true
   },
-  "ראשון, 28 דצמבר 2025_38": {
-    "date": "ראשון, 28 דצמבר 2025",
-    "event_id": "38",
-    "time": "10:00 - 13:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
   "ראשון, 28 דצמבר 2025_40": {
     "date": "ראשון, 28 דצמבר 2025",
     "event_id": "40",
@@ -458,13 +451,6 @@
     "date": "שני, 29 דצמבר 2025",
     "event_id": "1",
     "time": "08:00 - 11:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
-  "שני, 29 דצמבר 2025_2": {
-    "date": "שני, 29 דצמבר 2025",
-    "event_id": "2",
-    "time": "11:00 - 14:00",
     "service_type": "קרפה",
     "is_available": true
   },
