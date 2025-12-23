@@ -69,6 +69,13 @@
     "service_type": "כרמן החדשה",
     "is_available": true
   },
+  "חמישי, 25 דצמבר 2025_8": {
+    "date": "חמישי, 25 דצמבר 2025",
+    "event_id": "8",
+    "time": "14:00 - 16:00",
+    "service_type": "נאווה",
+    "is_available": true
+  },
   "חמישי, 25 דצמבר 2025_10": {
     "date": "חמישי, 25 דצמבר 2025",
     "event_id": "10",
@@ -1221,13 +1228,6 @@
     "date": "שבת, 3 ינואר 2026",
     "event_id": "12",
     "time": "10:00 - 13:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
-  "שבת, 3 ינואר 2026_13": {
-    "date": "שבת, 3 ינואר 2026",
-    "event_id": "13",
-    "time": "13:00 - 16:00",
     "service_type": "רונית",
     "is_available": true
   },

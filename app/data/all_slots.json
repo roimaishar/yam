@@ -71,6 +71,13 @@
   },
   {
     "date": "חמישי, 25 דצמבר 2025",
+    "event_id": "8",
+    "time": "14:00 - 16:00",
+    "service_type": "נאווה",
+    "is_available": true
+  },
+  {
+    "date": "חמישי, 25 דצמבר 2025",
     "event_id": "10",
     "time": "18:00 - 20:00",
     "service_type": "נאווה",
@@ -1221,13 +1228,6 @@
     "date": "שבת, 3 ינואר 2026",
     "event_id": "12",
     "time": "10:00 - 13:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 3 ינואר 2026",
-    "event_id": "13",
-    "time": "13:00 - 16:00",
     "service_type": "רונית",
     "is_available": true
   },
