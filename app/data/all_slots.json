@@ -78,6 +78,13 @@
   },
   {
     "date": "שישי, 26 דצמבר 2025",
+    "event_id": "37",
+    "time": "07:00 - 10:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
+  {
+    "date": "שישי, 26 דצמבר 2025",
     "event_id": "50",
     "time": "18:00 - 21:00",
     "service_type": "אסתר",
@@ -102,13 +109,6 @@
     "event_id": "36",
     "time": "18:00 - 21:00",
     "service_type": "הרמוני",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 26 דצמבר 2025",
-    "event_id": "8",
-    "time": "14:00 - 16:00",
-    "service_type": "נאווה",
     "is_available": true
   },
   {
