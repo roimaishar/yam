@@ -216,6 +216,13 @@
     "service_type": "אסתר",
     "is_available": true
   },
+  "ראשון, 28 דצמבר 2025_52": {
+    "date": "ראשון, 28 דצמבר 2025",
+    "event_id": "52",
+    "time": "08:00 - 11:00",
+    "service_type": "רוני",
+    "is_available": true
+  },
   "ראשון, 28 דצמבר 2025_53": {
     "date": "ראשון, 28 דצמבר 2025",
     "event_id": "53",
@@ -977,13 +984,6 @@
     "event_id": "18",
     "time": "13:00 - 15:00",
     "service_type": "קטמנדו",
-    "is_available": true
-  },
-  "שבת, 3 ינואר 2026_37": {
-    "date": "שבת, 3 ינואר 2026",
-    "event_id": "37",
-    "time": "10:00 - 13:00",
-    "service_type": "ושתי",
     "is_available": true
   },
   "שבת, 3 ינואר 2026_48": {
