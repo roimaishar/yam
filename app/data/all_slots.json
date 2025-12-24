@@ -421,13 +421,6 @@
   },
   {
     "date": "שני, 29 דצמבר 2025",
-    "event_id": "33",
-    "time": "12:00 - 15:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  {
-    "date": "שני, 29 דצמבר 2025",
     "event_id": "35",
     "time": "18:00 - 21:00",
     "service_type": "הרמוני",
