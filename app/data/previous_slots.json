@@ -62,13 +62,6 @@
     "service_type": "הרמוני",
     "is_available": true
   },
-  "שישי, 26 דצמבר 2025_8": {
-    "date": "שישי, 26 דצמבר 2025",
-    "event_id": "8",
-    "time": "14:00 - 16:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
   "שישי, 26 דצמבר 2025_10": {
     "date": "שישי, 26 דצמבר 2025",
     "event_id": "10",
@@ -916,13 +909,6 @@
     "service_type": "נאווה",
     "is_available": true
   },
-  "חמישי, 1 ינואר 2026_9": {
-    "date": "חמישי, 1 ינואר 2026",
-    "event_id": "9",
-    "time": "16:00 - 18:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
   "חמישי, 1 ינואר 2026_10": {
     "date": "חמישי, 1 ינואר 2026",
     "event_id": "10",
@@ -1655,13 +1641,6 @@
     "date": "שלישי, 6 ינואר 2026",
     "event_id": "47",
     "time": "09:00 - 12:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  "שלישי, 6 ינואר 2026_48": {
-    "date": "שלישי, 6 ינואר 2026",
-    "event_id": "48",
-    "time": "12:00 - 15:00",
     "service_type": "אסתר",
     "is_available": true
   },
