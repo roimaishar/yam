@@ -442,13 +442,6 @@
   },
   {
     "date": "רביעי, 31 דצמבר 2025",
-    "event_id": "49",
-    "time": "15:00 - 18:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 31 דצמבר 2025",
     "event_id": "4",
     "time": "17:00 - 20:00",
     "service_type": "קרפה",
@@ -1032,13 +1025,6 @@
     "date": "שני, 5 ינואר 2026",
     "event_id": "47",
     "time": "09:00 - 12:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "שני, 5 ינואר 2026",
-    "event_id": "48",
-    "time": "12:00 - 15:00",
     "service_type": "אסתר",
     "is_available": true
   },
