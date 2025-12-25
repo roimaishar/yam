@@ -636,13 +636,6 @@
     "service_type": "אסתר",
     "is_available": true
   },
-  "שבת, 3 ינואר 2026_50": {
-    "date": "שבת, 3 ינואר 2026",
-    "event_id": "50",
-    "time": "18:00 - 21:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
   "שבת, 3 ינואר 2026_51": {
     "date": "שבת, 3 ינואר 2026",
     "event_id": "51",
@@ -1354,13 +1347,6 @@
     "date": "רביעי, 7 ינואר 2026",
     "event_id": "46",
     "time": "06:00 - 09:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  "רביעי, 7 ינואר 2026_48": {
-    "date": "רביעי, 7 ינואר 2026",
-    "event_id": "48",
-    "time": "12:00 - 15:00",
     "service_type": "אסתר",
     "is_available": true
   },
