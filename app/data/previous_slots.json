@@ -832,13 +832,6 @@
     "service_type": "ושתי",
     "is_available": true
   },
-  "ראשון, 4 ינואר 2026_41": {
-    "date": "ראשון, 4 ינואר 2026",
-    "event_id": "41",
-    "time": "16:00 - 19:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
   "ראשון, 4 ינואר 2026_51": {
     "date": "ראשון, 4 ינואר 2026",
     "event_id": "51",
@@ -1368,13 +1361,6 @@
     "date": "רביעי, 7 ינואר 2026",
     "event_id": "51",
     "time": "08:00 - 11:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
-  "רביעי, 7 ינואר 2026_53": {
-    "date": "רביעי, 7 ינואר 2026",
-    "event_id": "53",
-    "time": "14:00 - 17:00",
     "service_type": "רוני",
     "is_available": true
   },
