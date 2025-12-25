@@ -575,13 +575,6 @@
   },
   {
     "date": "שישי, 2 ינואר 2026",
-    "event_id": "50",
-    "time": "18:00 - 21:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 2 ינואר 2026",
     "event_id": "54",
     "time": "17:00 - 20:00",
     "service_type": "רוני",
