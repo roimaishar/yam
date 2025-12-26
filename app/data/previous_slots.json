@@ -34,6 +34,13 @@
     "service_type": "רוני",
     "is_available": true
   },
+  "ראשון, 28 דצמבר 2025_55": {
+    "date": "ראשון, 28 דצמבר 2025",
+    "event_id": "55",
+    "time": "14:00 - 17:00",
+    "service_type": "רוני",
+    "is_available": true
+  },
   "ראשון, 28 דצמבר 2025_56": {
     "date": "ראשון, 28 דצמבר 2025",
     "event_id": "56",
@@ -545,13 +552,6 @@
     "service_type": "רוני",
     "is_available": true
   },
-  "חמישי, 1 ינואר 2026_1": {
-    "date": "חמישי, 1 ינואר 2026",
-    "event_id": "1",
-    "time": "08:00 - 11:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
   "חמישי, 1 ינואר 2026_4": {
     "date": "חמישי, 1 ינואר 2026",
     "event_id": "4",
@@ -668,13 +668,6 @@
     "date": "שבת, 3 ינואר 2026",
     "event_id": "33",
     "time": "09:00 - 12:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  "שבת, 3 ינואר 2026_34": {
-    "date": "שבת, 3 ינואר 2026",
-    "event_id": "34",
-    "time": "12:00 - 15:00",
     "service_type": "הרמוני",
     "is_available": true
   },
