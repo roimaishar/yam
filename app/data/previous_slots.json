@@ -370,6 +370,13 @@
     "service_type": "רוני",
     "is_available": true
   },
+  "שלישי, 30 דצמבר 2025_53": {
+    "date": "שלישי, 30 דצמבר 2025",
+    "event_id": "53",
+    "time": "11:00 - 14:00",
+    "service_type": "רוני",
+    "is_available": true
+  },
   "שלישי, 30 דצמבר 2025_4": {
     "date": "שלישי, 30 דצמבר 2025",
     "event_id": "4",
@@ -501,13 +508,6 @@
     "event_id": "20",
     "time": "10:00 - 13:00",
     "service_type": "ליאור",
-    "is_available": true
-  },
-  "רביעי, 31 דצמבר 2025_17": {
-    "date": "רביעי, 31 דצמבר 2025",
-    "event_id": "17",
-    "time": "10:00 - 13:00",
-    "service_type": "קטמנדו",
     "is_available": true
   },
   "רביעי, 31 דצמבר 2025_18": {
@@ -1137,13 +1137,6 @@
     "date": "שלישי, 6 ינואר 2026",
     "event_id": "38",
     "time": "10:00 - 13:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  "שלישי, 6 ינואר 2026_39": {
-    "date": "שלישי, 6 ינואר 2026",
-    "event_id": "39",
-    "time": "13:00 - 16:00",
     "service_type": "ושתי",
     "is_available": true
   },
