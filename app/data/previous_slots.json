@@ -181,6 +181,13 @@
     "service_type": "ושתי",
     "is_available": true
   },
+  "שני, 29 דצמבר 2025_39": {
+    "date": "שני, 29 דצמבר 2025",
+    "event_id": "39",
+    "time": "13:00 - 16:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
   "שני, 29 דצמבר 2025_46": {
     "date": "שני, 29 דצמבר 2025",
     "event_id": "46",
@@ -1516,13 +1523,6 @@
     "event_id": "11",
     "time": "18:00 - 20:00",
     "service_type": "נאווה",
-    "is_available": true
-  },
-  "חמישי, 8 ינואר 2026_22": {
-    "date": "חמישי, 8 ינואר 2026",
-    "event_id": "22",
-    "time": "13:00 - 16:00",
-    "service_type": "ליאור",
     "is_available": true
   }
 }
