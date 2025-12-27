@@ -225,6 +225,13 @@
   },
   {
     "date": "שני, 29 דצמבר 2025",
+    "event_id": "52",
+    "time": "11:00 - 14:00",
+    "service_type": "רוני",
+    "is_available": true
+  },
+  {
+    "date": "שני, 29 דצמבר 2025",
     "event_id": "1",
     "time": "08:00 - 11:00",
     "service_type": "קרפה",
@@ -1467,13 +1474,6 @@
     "event_id": "23",
     "time": "16:00 - 19:00",
     "service_type": "ליאור",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 9 ינואר 2026",
-    "event_id": "17",
-    "time": "09:00 - 11:00",
-    "service_type": "קטמנדו",
     "is_available": true
   }
 ]
