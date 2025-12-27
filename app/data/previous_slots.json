@@ -1489,5 +1489,75 @@
     "time": "18:00 - 20:00",
     "service_type": "נאווה",
     "is_available": true
+  },
+  "שישי, 9 ינואר 2026_47": {
+    "date": "שישי, 9 ינואר 2026",
+    "event_id": "47",
+    "time": "06:00 - 09:00",
+    "service_type": "אסתר",
+    "is_available": true
+  },
+  "שישי, 9 ינואר 2026_51": {
+    "date": "שישי, 9 ינואר 2026",
+    "event_id": "51",
+    "time": "18:00 - 21:00",
+    "service_type": "אסתר",
+    "is_available": true
+  },
+  "שישי, 9 ינואר 2026_55": {
+    "date": "שישי, 9 ינואר 2026",
+    "event_id": "55",
+    "time": "17:00 - 20:00",
+    "service_type": "רוני",
+    "is_available": true
+  },
+  "שישי, 9 ינואר 2026_33": {
+    "date": "שישי, 9 ינואר 2026",
+    "event_id": "33",
+    "time": "06:00 - 09:00",
+    "service_type": "הרמוני",
+    "is_available": true
+  },
+  "שישי, 9 ינואר 2026_37": {
+    "date": "שישי, 9 ינואר 2026",
+    "event_id": "37",
+    "time": "18:00 - 21:00",
+    "service_type": "הרמוני",
+    "is_available": true
+  },
+  "שישי, 9 ינואר 2026_32": {
+    "date": "שישי, 9 ינואר 2026",
+    "event_id": "32",
+    "time": "17:00 - 20:00",
+    "service_type": "כרמן החדשה",
+    "is_available": true
+  },
+  "שישי, 9 ינואר 2026_10": {
+    "date": "שישי, 9 ינואר 2026",
+    "event_id": "10",
+    "time": "16:00 - 18:00",
+    "service_type": "נאווה",
+    "is_available": true
+  },
+  "שישי, 9 ינואר 2026_11": {
+    "date": "שישי, 9 ינואר 2026",
+    "event_id": "11",
+    "time": "18:00 - 20:00",
+    "service_type": "נאווה",
+    "is_available": true
+  },
+  "שישי, 9 ינואר 2026_23": {
+    "date": "שישי, 9 ינואר 2026",
+    "event_id": "23",
+    "time": "16:00 - 19:00",
+    "service_type": "ליאור",
+    "is_available": true
+  },
+  "שישי, 9 ינואר 2026_17": {
+    "date": "שישי, 9 ינואר 2026",
+    "event_id": "17",
+    "time": "09:00 - 11:00",
+    "service_type": "קטמנדו",
+    "is_available": true
   }
 }
