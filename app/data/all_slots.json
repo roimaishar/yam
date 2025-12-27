@@ -1254,13 +1254,6 @@
   },
   {
     "date": "רביעי, 7 ינואר 2026",
-    "event_id": "53",
-    "time": "14:00 - 17:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 7 ינואר 2026",
     "event_id": "54",
     "time": "17:00 - 20:00",
     "service_type": "רוני",
