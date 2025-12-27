@@ -393,13 +393,6 @@
   },
   {
     "date": "שלישי, 30 דצמבר 2025",
-    "event_id": "4",
-    "time": "17:00 - 20:00",
-    "service_type": "קרפה",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 30 דצמבר 2025",
     "event_id": "33",
     "time": "06:00 - 09:00",
     "service_type": "הרמוני",
@@ -578,13 +571,6 @@
     "event_id": "10",
     "time": "18:00 - 20:00",
     "service_type": "נאווה",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 2 ינואר 2026",
-    "event_id": "54",
-    "time": "17:00 - 20:00",
-    "service_type": "רוני",
     "is_available": true
   },
   {
