@@ -43,13 +43,6 @@
   },
   {
     "date": "שלישי, 30 דצמבר 2025",
-    "event_id": "33",
-    "time": "06:00 - 09:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 30 דצמבר 2025",
     "event_id": "35",
     "time": "12:00 - 15:00",
     "service_type": "הרמוני",
@@ -410,13 +403,6 @@
     "event_id": "55",
     "time": "17:00 - 20:00",
     "service_type": "רוני",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 4 ינואר 2026",
-    "event_id": "34",
-    "time": "09:00 - 12:00",
-    "service_type": "הרמוני",
     "is_available": true
   },
   {
