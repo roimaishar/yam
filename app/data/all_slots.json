@@ -379,13 +379,6 @@
   },
   {
     "date": "ראשון, 4 ינואר 2026",
-    "event_id": "29",
-    "time": "08:00 - 11:00",
-    "service_type": "כרמן החדשה",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 4 ינואר 2026",
     "event_id": "31",
     "time": "14:00 - 17:00",
     "service_type": "כרמן החדשה",
@@ -823,13 +816,6 @@
     "event_id": "11",
     "time": "18:00 - 20:00",
     "service_type": "נאווה",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 7 ינואר 2026",
-    "event_id": "12",
-    "time": "07:00 - 10:00",
-    "service_type": "רונית",
     "is_available": true
   },
   {
