@@ -85,13 +85,6 @@
   },
   {
     "date": "שלישי, 30 דצמבר 2025",
-    "event_id": "13",
-    "time": "10:00 - 13:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 30 דצמבר 2025",
     "event_id": "21",
     "time": "10:00 - 13:00",
     "service_type": "ליאור",
