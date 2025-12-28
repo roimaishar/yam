@@ -195,6 +195,13 @@
     "service_type": "אסתר",
     "is_available": true
   },
+  "חמישי, 1 ינואר 2026_48": {
+    "date": "חמישי, 1 ינואר 2026",
+    "event_id": "48",
+    "time": "12:00 - 15:00",
+    "service_type": "אסתר",
+    "is_available": true
+  },
   "חמישי, 1 ינואר 2026_50": {
     "date": "חמישי, 1 ינואר 2026",
     "event_id": "50",
@@ -514,13 +521,6 @@
     "date": "שני, 5 ינואר 2026",
     "event_id": "33",
     "time": "09:00 - 12:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  "שני, 5 ינואר 2026_34": {
-    "date": "שני, 5 ינואר 2026",
-    "event_id": "34",
-    "time": "12:00 - 15:00",
     "service_type": "הרמוני",
     "is_available": true
   },
