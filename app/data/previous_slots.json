@@ -363,13 +363,6 @@
     "service_type": "ליאור",
     "is_available": true
   },
-  "שבת, 3 ינואר 2026_20": {
-    "date": "שבת, 3 ינואר 2026",
-    "event_id": "20",
-    "time": "10:00 - 13:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
   "שבת, 3 ינואר 2026_22": {
     "date": "שבת, 3 ינואר 2026",
     "event_id": "22",
@@ -808,13 +801,6 @@
     "date": "רביעי, 7 ינואר 2026",
     "event_id": "28",
     "time": "08:00 - 11:00",
-    "service_type": "כרמן החדשה",
-    "is_available": true
-  },
-  "רביעי, 7 ינואר 2026_30": {
-    "date": "רביעי, 7 ינואר 2026",
-    "event_id": "30",
-    "time": "14:00 - 17:00",
     "service_type": "כרמן החדשה",
     "is_available": true
   },
