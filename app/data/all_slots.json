@@ -106,6 +106,13 @@
   },
   {
     "date": "רביעי, 31 דצמבר 2025",
+    "event_id": "48",
+    "time": "12:00 - 15:00",
+    "service_type": "אסתר",
+    "is_available": true
+  },
+  {
+    "date": "רביעי, 31 דצמבר 2025",
     "event_id": "4",
     "time": "17:00 - 20:00",
     "service_type": "קרפה",
@@ -246,13 +253,6 @@
   },
   {
     "date": "שישי, 2 ינואר 2026",
-    "event_id": "31",
-    "time": "17:00 - 20:00",
-    "service_type": "כרמן החדשה",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 2 ינואר 2026",
     "event_id": "10",
     "time": "18:00 - 20:00",
     "service_type": "נאווה",
@@ -277,13 +277,6 @@
     "event_id": "4",
     "time": "17:00 - 20:00",
     "service_type": "קרפה",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 3 ינואר 2026",
-    "event_id": "32",
-    "time": "06:00 - 09:00",
-    "service_type": "הרמוני",
     "is_available": true
   },
   {
@@ -347,13 +340,6 @@
     "event_id": "11",
     "time": "18:00 - 20:00",
     "service_type": "נאווה",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 3 ינואר 2026",
-    "event_id": "12",
-    "time": "07:00 - 10:00",
-    "service_type": "רונית",
     "is_available": true
   },
   {
@@ -680,13 +666,6 @@
   },
   {
     "date": "שלישי, 6 ינואר 2026",
-    "event_id": "35",
-    "time": "15:00 - 18:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 6 ינואר 2026",
     "event_id": "36",
     "time": "18:00 - 21:00",
     "service_type": "הרמוני",
@@ -991,13 +970,6 @@
     "event_id": "37",
     "time": "18:00 - 21:00",
     "service_type": "הרמוני",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 9 ינואר 2026",
-    "event_id": "29",
-    "time": "08:00 - 11:00",
-    "service_type": "כרמן החדשה",
     "is_available": true
   },
   {
