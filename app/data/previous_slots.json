@@ -27,34 +27,6 @@
     "service_type": "ושתי",
     "is_available": true
   },
-  "שלישי, 30 דצמבר 2025_47": {
-    "date": "שלישי, 30 דצמבר 2025",
-    "event_id": "47",
-    "time": "06:00 - 09:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  "שלישי, 30 דצמבר 2025_48": {
-    "date": "שלישי, 30 דצמבר 2025",
-    "event_id": "48",
-    "time": "09:00 - 12:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  "שלישי, 30 דצמבר 2025_52": {
-    "date": "שלישי, 30 דצמבר 2025",
-    "event_id": "52",
-    "time": "08:00 - 11:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
-  "שלישי, 30 דצמבר 2025_55": {
-    "date": "שלישי, 30 דצמבר 2025",
-    "event_id": "55",
-    "time": "17:00 - 20:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
   "שלישי, 30 דצמבר 2025_35": {
     "date": "שלישי, 30 דצמבר 2025",
     "event_id": "35",
@@ -188,13 +160,6 @@
     "service_type": "רונית",
     "is_available": true
   },
-  "רביעי, 31 דצמבר 2025_15": {
-    "date": "רביעי, 31 דצמבר 2025",
-    "event_id": "15",
-    "time": "16:00 - 19:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
   "רביעי, 31 דצמבר 2025_18": {
     "date": "רביעי, 31 דצמבר 2025",
     "event_id": "18",
@@ -206,13 +171,6 @@
     "date": "חמישי, 1 ינואר 2026",
     "event_id": "46",
     "time": "06:00 - 09:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  "חמישי, 1 ינואר 2026_48": {
-    "date": "חמישי, 1 ינואר 2026",
-    "event_id": "48",
-    "time": "12:00 - 15:00",
     "service_type": "אסתר",
     "is_available": true
   },
@@ -354,13 +312,6 @@
     "event_id": "11",
     "time": "18:00 - 20:00",
     "service_type": "נאווה",
-    "is_available": true
-  },
-  "שבת, 3 ינואר 2026_19": {
-    "date": "שבת, 3 ינואר 2026",
-    "event_id": "19",
-    "time": "07:00 - 10:00",
-    "service_type": "ליאור",
     "is_available": true
   },
   "שבת, 3 ינואר 2026_22": {
