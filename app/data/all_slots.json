@@ -274,6 +274,13 @@
   },
   {
     "date": "שישי, 2 ינואר 2026",
+    "event_id": "34",
+    "time": "12:00 - 15:00",
+    "service_type": "הרמוני",
+    "is_available": true
+  },
+  {
+    "date": "שישי, 2 ינואר 2026",
     "event_id": "36",
     "time": "18:00 - 21:00",
     "service_type": "הרמוני",
