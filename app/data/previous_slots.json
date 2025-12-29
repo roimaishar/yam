@@ -412,6 +412,13 @@
     "service_type": "רוני",
     "is_available": true
   },
+  "שני, 5 ינואר 2026_34": {
+    "date": "שני, 5 ינואר 2026",
+    "event_id": "34",
+    "time": "12:00 - 15:00",
+    "service_type": "הרמוני",
+    "is_available": true
+  },
   "שני, 5 ינואר 2026_36": {
     "date": "שני, 5 ינואר 2026",
     "event_id": "36",
