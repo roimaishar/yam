@@ -477,6 +477,13 @@
   },
   {
     "date": "שישי, 9 ינואר 2026",
+    "event_id": "20",
+    "time": "07:00 - 10:00",
+    "service_type": "ליאור",
+    "is_available": true
+  },
+  {
+    "date": "שישי, 9 ינואר 2026",
     "event_id": "23",
     "time": "16:00 - 19:00",
     "service_type": "ליאור",
