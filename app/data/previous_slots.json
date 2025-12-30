@@ -6,13 +6,6 @@
     "service_type": "נאווה",
     "is_available": true
   },
-  "שבת, 3 ינואר 2026_6": {
-    "date": "שבת, 3 ינואר 2026",
-    "event_id": "6",
-    "time": "08:00 - 10:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
   "שבת, 3 ינואר 2026_8": {
     "date": "שבת, 3 ינואר 2026",
     "event_id": "8",
@@ -251,13 +244,6 @@
     "service_type": "ושתי",
     "is_available": true
   },
-  "שלישי, 6 ינואר 2026_38": {
-    "date": "שלישי, 6 ינואר 2026",
-    "event_id": "38",
-    "time": "10:00 - 13:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
   "שלישי, 6 ינואר 2026_46": {
     "date": "שלישי, 6 ינואר 2026",
     "event_id": "46",
@@ -452,13 +438,6 @@
     "event_id": "11",
     "time": "18:00 - 20:00",
     "service_type": "נאווה",
-    "is_available": true
-  },
-  "חמישי, 8 ינואר 2026_14": {
-    "date": "חמישי, 8 ינואר 2026",
-    "event_id": "14",
-    "time": "13:00 - 16:00",
-    "service_type": "רונית",
     "is_available": true
   },
   "שישי, 9 ינואר 2026_51": {
