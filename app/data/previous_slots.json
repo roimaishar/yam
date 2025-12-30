@@ -20,6 +20,13 @@
     "service_type": "נאווה",
     "is_available": true
   },
+  "שישי, 2 ינואר 2026_13": {
+    "date": "שישי, 2 ינואר 2026",
+    "event_id": "13",
+    "time": "13:00 - 16:00",
+    "service_type": "רונית",
+    "is_available": true
+  },
   "שישי, 2 ינואר 2026_19": {
     "date": "שישי, 2 ינואר 2026",
     "event_id": "19",
