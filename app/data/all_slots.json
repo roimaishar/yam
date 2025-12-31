@@ -218,13 +218,6 @@
   },
   {
     "date": "שני, 5 ינואר 2026",
-    "event_id": "20",
-    "time": "10:00 - 13:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
-  {
-    "date": "שני, 5 ינואר 2026",
     "event_id": "16",
     "time": "07:00 - 10:00",
     "service_type": "קטמנדו",
@@ -452,6 +445,13 @@
     "event_id": "55",
     "time": "17:00 - 20:00",
     "service_type": "רוני",
+    "is_available": true
+  },
+  {
+    "date": "שישי, 9 ינואר 2026",
+    "event_id": "33",
+    "time": "06:00 - 09:00",
+    "service_type": "הרמוני",
     "is_available": true
   },
   {
