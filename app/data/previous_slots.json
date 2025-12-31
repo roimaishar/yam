@@ -27,13 +27,6 @@
     "service_type": "קטמנדו",
     "is_available": true
   },
-  "שבת, 3 ינואר 2026_8": {
-    "date": "שבת, 3 ינואר 2026",
-    "event_id": "8",
-    "time": "12:00 - 14:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
   "שבת, 3 ינואר 2026_9": {
     "date": "שבת, 3 ינואר 2026",
     "event_id": "9",
@@ -440,6 +433,13 @@
     "service_type": "אסתר",
     "is_available": true
   },
+  "שישי, 9 ינואר 2026_52": {
+    "date": "שישי, 9 ינואר 2026",
+    "event_id": "52",
+    "time": "08:00 - 11:00",
+    "service_type": "רוני",
+    "is_available": true
+  },
   "שישי, 9 ינואר 2026_55": {
     "date": "שישי, 9 ינואר 2026",
     "event_id": "55",
@@ -473,13 +473,6 @@
     "event_id": "11",
     "time": "18:00 - 20:00",
     "service_type": "נאווה",
-    "is_available": true
-  },
-  "שישי, 9 ינואר 2026_15": {
-    "date": "שישי, 9 ינואר 2026",
-    "event_id": "15",
-    "time": "16:00 - 19:00",
-    "service_type": "רונית",
     "is_available": true
   },
   "שישי, 9 ינואר 2026_23": {
