@@ -8,6 +8,13 @@
   },
   {
     "date": "שישי, 2 ינואר 2026",
+    "event_id": "52",
+    "time": "11:00 - 14:00",
+    "service_type": "רוני",
+    "is_available": true
+  },
+  {
+    "date": "שישי, 2 ינואר 2026",
     "event_id": "10",
     "time": "18:00 - 20:00",
     "service_type": "נאווה",
