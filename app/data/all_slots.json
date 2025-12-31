@@ -1,6 +1,13 @@
 [
   {
     "date": "שישי, 2 ינואר 2026",
+    "event_id": "38",
+    "time": "10:00 - 13:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
+  {
+    "date": "שישי, 2 ינואר 2026",
     "event_id": "10",
     "time": "18:00 - 20:00",
     "service_type": "נאווה",
