@@ -197,13 +197,6 @@
   },
   {
     "date": "שלישי, 6 ינואר 2026",
-    "event_id": "46",
-    "time": "06:00 - 09:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 6 ינואר 2026",
     "event_id": "54",
     "time": "17:00 - 20:00",
     "service_type": "רוני",
