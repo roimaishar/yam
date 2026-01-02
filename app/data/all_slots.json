@@ -491,13 +491,6 @@
   },
   {
     "date": "שבת, 10 ינואר 2026",
-    "event_id": "20",
-    "time": "10:00 - 13:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 10 ינואר 2026",
     "event_id": "21",
     "time": "13:00 - 16:00",
     "service_type": "ליאור",
