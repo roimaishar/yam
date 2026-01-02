@@ -267,13 +267,6 @@
   },
   {
     "date": "רביעי, 7 ינואר 2026",
-    "event_id": "19",
-    "time": "07:00 - 10:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 7 ינואר 2026",
     "event_id": "17",
     "time": "10:00 - 13:00",
     "service_type": "קטמנדו",
@@ -347,13 +340,6 @@
     "event_id": "32",
     "time": "17:00 - 20:00",
     "service_type": "כרמן החדשה",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 9 ינואר 2026",
-    "event_id": "10",
-    "time": "16:00 - 18:00",
-    "service_type": "נאווה",
     "is_available": true
   },
   {
