@@ -379,13 +379,6 @@
   },
   {
     "date": "שבת, 10 ינואר 2026",
-    "event_id": "49",
-    "time": "12:00 - 15:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 10 ינואר 2026",
     "event_id": "51",
     "time": "18:00 - 21:00",
     "service_type": "אסתר",
