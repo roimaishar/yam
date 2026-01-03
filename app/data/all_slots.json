@@ -1286,12 +1286,5 @@
     "time": "09:00 - 11:00",
     "service_type": "קטמנדו",
     "is_available": true
-  },
-  {
-    "date": "שישי, 16 ינואר 2026",
-    "event_id": "20",
-    "time": "13:00 - 15:00",
-    "service_type": "קטמנדו",
-    "is_available": true
   }
 ]
