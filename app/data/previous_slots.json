@@ -272,13 +272,6 @@
     "service_type": "כרמן החדשה",
     "is_available": true
   },
-  "שישי, 9 ינואר 2026_7": {
-    "date": "שישי, 9 ינואר 2026",
-    "event_id": "7",
-    "time": "10:00 - 12:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
   "שישי, 9 ינואר 2026_11": {
     "date": "שישי, 9 ינואר 2026",
     "event_id": "11",
@@ -1256,13 +1249,6 @@
     "date": "שישי, 16 ינואר 2026",
     "event_id": "17",
     "time": "07:00 - 09:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
-  "שישי, 16 ינואר 2026_18": {
-    "date": "שישי, 16 ינואר 2026",
-    "event_id": "18",
-    "time": "09:00 - 11:00",
     "service_type": "קטמנדו",
     "is_available": true
   }
