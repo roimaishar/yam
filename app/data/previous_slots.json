@@ -244,6 +244,13 @@
     "service_type": "אסתר",
     "is_available": true
   },
+  "שבת, 10 ינואר 2026_52": {
+    "date": "שבת, 10 ינואר 2026",
+    "event_id": "52",
+    "time": "08:00 - 11:00",
+    "service_type": "רוני",
+    "is_available": true
+  },
   "שבת, 10 ינואר 2026_55": {
     "date": "שבת, 10 ינואר 2026",
     "event_id": "55",
