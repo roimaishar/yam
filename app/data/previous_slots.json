@@ -111,13 +111,6 @@
     "service_type": "קטמנדו",
     "is_available": true
   },
-  "שלישי, 6 ינואר 2026_17": {
-    "date": "שלישי, 6 ינואר 2026",
-    "event_id": "17",
-    "time": "10:00 - 13:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
   "רביעי, 7 ינואר 2026_54": {
     "date": "רביעי, 7 ינואר 2026",
     "event_id": "54",
@@ -158,6 +151,13 @@
     "event_id": "17",
     "time": "10:00 - 13:00",
     "service_type": "קטמנדו",
+    "is_available": true
+  },
+  "חמישי, 8 ינואר 2026_51": {
+    "date": "חמישי, 8 ינואר 2026",
+    "event_id": "51",
+    "time": "18:00 - 21:00",
+    "service_type": "אסתר",
     "is_available": true
   },
   "חמישי, 8 ינואר 2026_37": {
@@ -766,13 +766,6 @@
     "date": "שלישי, 13 ינואר 2026",
     "event_id": "34",
     "time": "06:00 - 09:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  "שלישי, 13 ינואר 2026_36": {
-    "date": "שלישי, 13 ינואר 2026",
-    "event_id": "36",
-    "time": "12:00 - 15:00",
     "service_type": "הרמוני",
     "is_available": true
   },
