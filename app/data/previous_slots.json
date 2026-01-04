@@ -62,6 +62,13 @@
     "service_type": "נאווה",
     "is_available": true
   },
+  "שני, 5 ינואר 2026_13": {
+    "date": "שני, 5 ינואר 2026",
+    "event_id": "13",
+    "time": "10:00 - 13:00",
+    "service_type": "רונית",
+    "is_available": true
+  },
   "שני, 5 ינואר 2026_18": {
     "date": "שני, 5 ינואר 2026",
     "event_id": "18",
@@ -304,6 +311,13 @@
     "date": "שבת, 10 ינואר 2026",
     "event_id": "13",
     "time": "10:00 - 13:00",
+    "service_type": "רונית",
+    "is_available": true
+  },
+  "שבת, 10 ינואר 2026_14": {
+    "date": "שבת, 10 ינואר 2026",
+    "event_id": "14",
+    "time": "13:00 - 16:00",
     "service_type": "רונית",
     "is_available": true
   },
@@ -1021,13 +1035,6 @@
     "service_type": "אסתר",
     "is_available": true
   },
-  "חמישי, 15 ינואר 2026_52": {
-    "date": "חמישי, 15 ינואר 2026",
-    "event_id": "52",
-    "time": "18:00 - 21:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
   "חמישי, 15 ינואר 2026_56": {
     "date": "חמישי, 15 ינואר 2026",
     "event_id": "56",
@@ -1082,13 +1089,6 @@
     "event_id": "24",
     "time": "16:00 - 19:00",
     "service_type": "ליאור",
-    "is_available": true
-  },
-  "שישי, 16 ינואר 2026_48": {
-    "date": "שישי, 16 ינואר 2026",
-    "event_id": "48",
-    "time": "06:00 - 09:00",
-    "service_type": "אסתר",
     "is_available": true
   },
   "שישי, 16 ינואר 2026_52": {
