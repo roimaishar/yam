@@ -6,6 +6,13 @@
     "service_type": "אסתר",
     "is_available": true
   },
+  "שני, 5 ינואר 2026_47": {
+    "date": "שני, 5 ינואר 2026",
+    "event_id": "47",
+    "time": "09:00 - 12:00",
+    "service_type": "אסתר",
+    "is_available": true
+  },
   "שני, 5 ינואר 2026_50": {
     "date": "שני, 5 ינואר 2026",
     "event_id": "50",
@@ -298,13 +305,6 @@
     "event_id": "11",
     "time": "18:00 - 20:00",
     "service_type": "נאווה",
-    "is_available": true
-  },
-  "שבת, 10 ינואר 2026_12": {
-    "date": "שבת, 10 ינואר 2026",
-    "event_id": "12",
-    "time": "07:00 - 10:00",
-    "service_type": "רונית",
     "is_available": true
   },
   "שבת, 10 ינואר 2026_13": {
