@@ -62,6 +62,13 @@
     "service_type": "הרמוני",
     "is_available": true
   },
+  "חמישי, 8 ינואר 2026_34": {
+    "date": "חמישי, 8 ינואר 2026",
+    "event_id": "34",
+    "time": "09:00 - 12:00",
+    "service_type": "הרמוני",
+    "is_available": true
+  },
   "חמישי, 8 ינואר 2026_37": {
     "date": "חמישי, 8 ינואר 2026",
     "event_id": "37",
@@ -88,6 +95,13 @@
     "event_id": "40",
     "time": "13:00 - 16:00",
     "service_type": "ושתי",
+    "is_available": true
+  },
+  "שישי, 9 ינואר 2026_48": {
+    "date": "שישי, 9 ינואר 2026",
+    "event_id": "48",
+    "time": "09:00 - 12:00",
+    "service_type": "אסתר",
     "is_available": true
   },
   "שישי, 9 ינואר 2026_51": {
@@ -990,13 +1004,6 @@
     "date": "שבת, 17 ינואר 2026",
     "event_id": "33",
     "time": "06:00 - 09:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  "שבת, 17 ינואר 2026_35": {
-    "date": "שבת, 17 ינואר 2026",
-    "event_id": "35",
-    "time": "12:00 - 15:00",
     "service_type": "הרמוני",
     "is_available": true
   },
