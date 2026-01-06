@@ -120,13 +120,6 @@
   },
   {
     "date": "שבת, 10 ינואר 2026",
-    "event_id": "14",
-    "time": "13:00 - 16:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 10 ינואר 2026",
     "event_id": "15",
     "time": "16:00 - 19:00",
     "service_type": "רונית",
