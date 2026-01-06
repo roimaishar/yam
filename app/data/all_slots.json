@@ -8,13 +8,6 @@
   },
   {
     "date": "רביעי, 7 ינואר 2026",
-    "event_id": "15",
-    "time": "16:00 - 19:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 7 ינואר 2026",
     "event_id": "17",
     "time": "10:00 - 13:00",
     "service_type": "קטמנדו",
@@ -584,13 +577,6 @@
     "date": "רביעי, 14 ינואר 2026",
     "event_id": "35",
     "time": "06:00 - 09:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 14 ינואר 2026",
-    "event_id": "39",
-    "time": "18:00 - 21:00",
     "service_type": "הרמוני",
     "is_available": true
   },
