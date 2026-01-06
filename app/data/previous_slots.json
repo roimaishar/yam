@@ -475,13 +475,6 @@
     "service_type": "רוני",
     "is_available": true
   },
-  "שני, 12 ינואר 2026_55": {
-    "date": "שני, 12 ינואר 2026",
-    "event_id": "55",
-    "time": "14:00 - 17:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
   "שני, 12 ינואר 2026_34": {
     "date": "שני, 12 ינואר 2026",
     "event_id": "34",
@@ -664,13 +657,6 @@
     "service_type": "הרמוני",
     "is_available": true
   },
-  "שלישי, 13 ינואר 2026_37": {
-    "date": "שלישי, 13 ינואר 2026",
-    "event_id": "37",
-    "time": "15:00 - 18:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
   "שלישי, 13 ינואר 2026_38": {
     "date": "שלישי, 13 ינואר 2026",
     "event_id": "38",
@@ -760,13 +746,6 @@
     "event_id": "54",
     "time": "18:00 - 21:00",
     "service_type": "אסתר",
-    "is_available": true
-  },
-  "רביעי, 14 ינואר 2026_55": {
-    "date": "רביעי, 14 ינואר 2026",
-    "event_id": "55",
-    "time": "08:00 - 11:00",
-    "service_type": "רוני",
     "is_available": true
   },
   "רביעי, 14 ינואר 2026_35": {
@@ -886,13 +865,6 @@
     "event_id": "12",
     "time": "18:00 - 20:00",
     "service_type": "נאווה",
-    "is_available": true
-  },
-  "חמישי, 15 ינואר 2026_24": {
-    "date": "חמישי, 15 ינואר 2026",
-    "event_id": "24",
-    "time": "16:00 - 19:00",
-    "service_type": "ליאור",
     "is_available": true
   },
   "שישי, 16 ינואר 2026_52": {
@@ -1074,13 +1046,6 @@
     "date": "ראשון, 18 ינואר 2026",
     "event_id": "53",
     "time": "08:00 - 11:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
-  "ראשון, 18 ינואר 2026_55": {
-    "date": "ראשון, 18 ינואר 2026",
-    "event_id": "55",
-    "time": "14:00 - 17:00",
     "service_type": "רוני",
     "is_available": true
   },
