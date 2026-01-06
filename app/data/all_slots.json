@@ -435,13 +435,6 @@
   },
   {
     "date": "שלישי, 13 ינואר 2026",
-    "event_id": "50",
-    "time": "12:00 - 15:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 13 ינואר 2026",
     "event_id": "56",
     "time": "17:00 - 20:00",
     "service_type": "רוני",
