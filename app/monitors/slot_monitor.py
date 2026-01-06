@@ -81,27 +81,33 @@ class SlotMonitor:
         
         new_slots = []
         
-        # Convert current slots to a dict for easy comparison
+        # Convert ALL current slots to a dict (not just available ones)
+        # This allows proper tracking of availability state changes
         current_slots_dict = {}
         for slot in current_slots:
-            if slot.get('is_available', False):  # Only track available slots
-                slot_key = f"{slot['date']}_{slot['event_id']}"
-                current_slots_dict[slot_key] = slot
+            slot_key = f"{slot['date']}_{slot['event_id']}_{slot.get('time', '')}"
+            current_slots_dict[slot_key] = slot
         
-        # Find new slots (not in previous slots)
+        # Find slots that are now available
         for slot_key, slot in current_slots_dict.items():
-            if slot_key not in self.previous_slots and slot_key not in self.notified_slots:
+            if not slot.get('is_available', False):
+                continue
+            
+            if slot_key in self.notified_slots:
+                continue
+            
+            if slot_key not in self.previous_slots:
+                # Completely new slot that is available
                 new_slots.append(slot)
                 self.notified_slots.add(slot_key)
-        
-        # Find slots that became available
-        for slot_key, prev_slot in self.previous_slots.items():
-            if slot_key in current_slots_dict and slot_key not in self.notified_slots:
-                if not prev_slot.get('is_available', False) and current_slots_dict[slot_key].get('is_available', False):
-                    new_slots.append(current_slots_dict[slot_key])
+            else:
+                # Slot existed before - check if it became available
+                prev_slot = self.previous_slots[slot_key]
+                if not prev_slot.get('is_available', False):
+                    new_slots.append(slot)
                     self.notified_slots.add(slot_key)
         
-        # Update previous slots
+        # Update previous slots with ALL slots (available and unavailable)
         self.previous_slots = current_slots_dict
         
         # Save previous slots to file

@@ -221,8 +221,12 @@ async def scrape_calendar_slots_for_days(days=14, filters=None):
                     print(f"Warning: Load state timeout: {e}")
                     print("Continuing with calendar navigation...")
                 
-                # Always wait a bit for the calendar to update
-                await page.wait_for_timeout(1000)
+                # Wait for calendar events to be rendered and stabilized
+                await page.wait_for_timeout(2000)
+                try:
+                    await page.wait_for_selector('.dhx_cal_event', state='attached', timeout=3000)
+                except Exception:
+                    pass
                 
                 date_element = await page.query_selector('.dhx_cal_date')
                 if date_element:
