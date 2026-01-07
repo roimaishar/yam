@@ -197,6 +197,13 @@
   },
   {
     "date": "ראשון, 11 ינואר 2026",
+    "event_id": "9",
+    "time": "14:00 - 16:00",
+    "service_type": "נאווה",
+    "is_available": true
+  },
+  {
+    "date": "ראשון, 11 ינואר 2026",
     "event_id": "10",
     "time": "16:00 - 18:00",
     "service_type": "נאווה",
@@ -381,13 +388,6 @@
     "date": "שלישי, 13 ינואר 2026",
     "event_id": "40",
     "time": "10:00 - 13:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 13 ינואר 2026",
-    "event_id": "41",
-    "time": "13:00 - 16:00",
     "service_type": "ושתי",
     "is_available": true
   },
