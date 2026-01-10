@@ -92,6 +92,13 @@
   },
   {
     "date": "שני, 12 ינואר 2026",
+    "event_id": "32",
+    "time": "14:00 - 17:00",
+    "service_type": "כרמן החדשה",
+    "is_available": true
+  },
+  {
+    "date": "שני, 12 ינואר 2026",
     "event_id": "7",
     "time": "08:00 - 10:00",
     "service_type": "נאווה",
