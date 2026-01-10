@@ -148,6 +148,13 @@
   },
   {
     "date": "שני, 12 ינואר 2026",
+    "event_id": "15",
+    "time": "13:00 - 16:00",
+    "service_type": "רונית",
+    "is_available": true
+  },
+  {
+    "date": "שני, 12 ינואר 2026",
     "event_id": "18",
     "time": "07:00 - 10:00",
     "service_type": "קטמנדו",
