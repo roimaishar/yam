@@ -99,6 +99,13 @@
   },
   {
     "date": "שני, 12 ינואר 2026",
+    "event_id": "10",
+    "time": "14:00 - 16:00",
+    "service_type": "נאווה",
+    "is_available": true
+  },
+  {
+    "date": "שני, 12 ינואר 2026",
     "event_id": "11",
     "time": "16:00 - 18:00",
     "service_type": "נאווה",
