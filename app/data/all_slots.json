@@ -64,6 +64,20 @@
   },
   {
     "date": "שלישי, 13 ינואר 2026",
+    "event_id": "32",
+    "time": "14:00 - 17:00",
+    "service_type": "כרמן החדשה",
+    "is_available": true
+  },
+  {
+    "date": "שלישי, 13 ינואר 2026",
+    "event_id": "33",
+    "time": "17:00 - 20:00",
+    "service_type": "כרמן החדשה",
+    "is_available": true
+  },
+  {
+    "date": "שלישי, 13 ינואר 2026",
     "event_id": "11",
     "time": "16:00 - 18:00",
     "service_type": "נאווה",
