@@ -92,13 +92,6 @@
   },
   {
     "date": "רביעי, 14 ינואר 2026",
-    "event_id": "35",
-    "time": "06:00 - 09:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 14 ינואר 2026",
     "event_id": "34",
     "time": "17:00 - 20:00",
     "service_type": "כרמן החדשה",
@@ -200,13 +193,6 @@
     "event_id": "12",
     "time": "18:00 - 20:00",
     "service_type": "נאווה",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 17 ינואר 2026",
-    "event_id": "20",
-    "time": "07:00 - 10:00",
-    "service_type": "ליאור",
     "is_available": true
   },
   {
