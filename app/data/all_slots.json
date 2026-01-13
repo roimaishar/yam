@@ -35,6 +35,13 @@
     "is_available": true
   },
   {
+    "date": "רביעי, 14 ינואר 2026",
+    "event_id": "22",
+    "time": "13:00 - 16:00",
+    "service_type": "קטמנדו",
+    "is_available": true
+  },
+  {
     "date": "חמישי, 15 ינואר 2026",
     "event_id": "48",
     "time": "06:00 - 09:00",
