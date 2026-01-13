@@ -302,6 +302,13 @@
   },
   {
     "date": "שלישי, 20 ינואר 2026",
+    "event_id": "8",
+    "time": "10:00 - 12:00",
+    "service_type": "נאווה",
+    "is_available": true
+  },
+  {
+    "date": "שלישי, 20 ינואר 2026",
     "event_id": "11",
     "time": "16:00 - 18:00",
     "service_type": "נאווה",
@@ -332,13 +339,6 @@
     "date": "רביעי, 21 ינואר 2026",
     "event_id": "33",
     "time": "06:00 - 09:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 21 ינואר 2026",
-    "event_id": "34",
-    "time": "09:00 - 12:00",
     "service_type": "הרמוני",
     "is_available": true
   },
