@@ -1,6 +1,13 @@
 [
   {
     "date": "רביעי, 14 ינואר 2026",
+    "event_id": "58",
+    "time": "12:00 - 15:00",
+    "service_type": "אסתר",
+    "is_available": true
+  },
+  {
+    "date": "רביעי, 14 ינואר 2026",
     "event_id": "59",
     "time": "15:00 - 18:00",
     "service_type": "אסתר",
@@ -11,13 +18,6 @@
     "event_id": "60",
     "time": "18:00 - 21:00",
     "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 14 ינואר 2026",
-    "event_id": "10",
-    "time": "12:00 - 14:00",
-    "service_type": "נאווה",
     "is_available": true
   },
   {
