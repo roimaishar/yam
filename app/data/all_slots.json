@@ -29,13 +29,6 @@
   },
   {
     "date": "רביעי, 14 ינואר 2026",
-    "event_id": "17",
-    "time": "13:00 - 16:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 14 ינואר 2026",
     "event_id": "22",
     "time": "13:00 - 16:00",
     "service_type": "קטמנדו",
@@ -372,13 +365,6 @@
   },
   {
     "date": "רביעי, 21 ינואר 2026",
-    "event_id": "11",
-    "time": "16:00 - 18:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 21 ינואר 2026",
     "event_id": "12",
     "time": "18:00 - 20:00",
     "service_type": "נאווה",
@@ -655,13 +641,6 @@
     "event_id": "37",
     "time": "18:00 - 21:00",
     "service_type": "הרמוני",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 25 ינואר 2026",
-    "event_id": "29",
-    "time": "11:00 - 14:00",
-    "service_type": "כרמן החדשה",
     "is_available": true
   },
   {
