@@ -64,6 +64,13 @@
   },
   {
     "date": "שישי, 16 ינואר 2026",
+    "event_id": "11",
+    "time": "16:00 - 18:00",
+    "service_type": "נאווה",
+    "is_available": true
+  },
+  {
+    "date": "שישי, 16 ינואר 2026",
     "event_id": "12",
     "time": "18:00 - 20:00",
     "service_type": "נאווה",
@@ -108,6 +115,13 @@
     "date": "שבת, 17 ינואר 2026",
     "event_id": "17",
     "time": "07:00 - 10:00",
+    "service_type": "קטמנדו",
+    "is_available": true
+  },
+  {
+    "date": "שבת, 17 ינואר 2026",
+    "event_id": "18",
+    "time": "10:00 - 13:00",
     "service_type": "קטמנדו",
     "is_available": true
   },
