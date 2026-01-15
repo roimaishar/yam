@@ -29,6 +29,13 @@
   },
   {
     "date": "שבת, 17 ינואר 2026",
+    "event_id": "56",
+    "time": "17:00 - 20:00",
+    "service_type": "רוני",
+    "is_available": true
+  },
+  {
+    "date": "שבת, 17 ינואר 2026",
     "event_id": "38",
     "time": "18:00 - 21:00",
     "service_type": "הרמוני",
@@ -364,13 +371,6 @@
     "is_available": true
   },
   {
-    "date": "שישי, 23 ינואר 2026",
-    "event_id": "18",
-    "time": "11:00 - 13:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
-  {
     "date": "שבת, 24 ינואר 2026",
     "event_id": "48",
     "time": "06:00 - 09:00",
@@ -456,20 +456,6 @@
   },
   {
     "date": "שבת, 24 ינואר 2026",
-    "event_id": "14",
-    "time": "13:00 - 16:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 24 ינואר 2026",
-    "event_id": "15",
-    "time": "16:00 - 19:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 24 ינואר 2026",
     "event_id": "17",
     "time": "07:00 - 10:00",
     "service_type": "קטמנדו",
@@ -501,13 +487,6 @@
     "event_id": "54",
     "time": "18:00 - 21:00",
     "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 25 ינואר 2026",
-    "event_id": "55",
-    "time": "08:00 - 11:00",
-    "service_type": "רוני",
     "is_available": true
   },
   {
