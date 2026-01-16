@@ -85,6 +85,13 @@
   },
   {
     "date": "ראשון, 18 ינואר 2026",
+    "event_id": "35",
+    "time": "09:00 - 12:00",
+    "service_type": "הרמוני",
+    "is_available": true
+  },
+  {
+    "date": "ראשון, 18 ינואר 2026",
     "event_id": "38",
     "time": "18:00 - 21:00",
     "service_type": "הרמוני",
@@ -136,6 +143,13 @@
     "date": "שני, 19 ינואר 2026",
     "event_id": "47",
     "time": "06:00 - 09:00",
+    "service_type": "אסתר",
+    "is_available": true
+  },
+  {
+    "date": "שני, 19 ינואר 2026",
+    "event_id": "50",
+    "time": "15:00 - 18:00",
     "service_type": "אסתר",
     "is_available": true
   },
@@ -249,13 +263,6 @@
     "event_id": "12",
     "time": "18:00 - 20:00",
     "service_type": "נאווה",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 20 ינואר 2026",
-    "event_id": "17",
-    "time": "07:00 - 10:00",
-    "service_type": "קטמנדו",
     "is_available": true
   },
   {
