@@ -582,13 +582,6 @@
   },
   {
     "date": "שני, 26 ינואר 2026",
-    "event_id": "13",
-    "time": "10:00 - 13:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
-  {
-    "date": "שני, 26 ינואר 2026",
     "event_id": "15",
     "time": "16:00 - 19:00",
     "service_type": "רונית",
