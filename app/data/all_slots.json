@@ -182,6 +182,13 @@
     "is_available": true
   },
   {
+    "date": "שלישי, 20 ינואר 2026",
+    "event_id": "15",
+    "time": "13:00 - 16:00",
+    "service_type": "רונית",
+    "is_available": true
+  },
+  {
     "date": "רביעי, 21 ינואר 2026",
     "event_id": "52",
     "time": "18:00 - 21:00",
@@ -214,13 +221,6 @@
     "event_id": "51",
     "time": "18:00 - 21:00",
     "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "חמישי, 22 ינואר 2026",
-    "event_id": "55",
-    "time": "17:00 - 20:00",
-    "service_type": "רוני",
     "is_available": true
   },
   {
