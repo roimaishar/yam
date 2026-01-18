@@ -182,6 +182,13 @@
     "is_available": true
   },
   {
+    "date": "שישי, 23 ינואר 2026",
+    "event_id": "18",
+    "time": "11:00 - 13:00",
+    "service_type": "קטמנדו",
+    "is_available": true
+  },
+  {
     "date": "שבת, 24 ינואר 2026",
     "event_id": "48",
     "time": "06:00 - 09:00",
