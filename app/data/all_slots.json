@@ -120,6 +120,34 @@
   },
   {
     "date": "חמישי, 22 ינואר 2026",
+    "event_id": "38",
+    "time": "07:00 - 10:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
+  {
+    "date": "חמישי, 22 ינואר 2026",
+    "event_id": "39",
+    "time": "10:00 - 13:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
+  {
+    "date": "חמישי, 22 ינואר 2026",
+    "event_id": "40",
+    "time": "13:00 - 16:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
+  {
+    "date": "חמישי, 22 ינואר 2026",
+    "event_id": "41",
+    "time": "16:00 - 19:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
+  {
+    "date": "חמישי, 22 ינואר 2026",
     "event_id": "51",
     "time": "18:00 - 21:00",
     "service_type": "אסתר",
@@ -148,6 +176,34 @@
   },
   {
     "date": "שישי, 23 ינואר 2026",
+    "event_id": "38",
+    "time": "07:00 - 10:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
+  {
+    "date": "שישי, 23 ינואר 2026",
+    "event_id": "39",
+    "time": "10:00 - 13:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
+  {
+    "date": "שישי, 23 ינואר 2026",
+    "event_id": "40",
+    "time": "13:00 - 16:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
+  {
+    "date": "שישי, 23 ינואר 2026",
+    "event_id": "41",
+    "time": "16:00 - 19:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
+  {
+    "date": "שישי, 23 ינואר 2026",
     "event_id": "51",
     "time": "18:00 - 21:00",
     "service_type": "אסתר",
@@ -172,6 +228,34 @@
     "event_id": "18",
     "time": "11:00 - 13:00",
     "service_type": "קטמנדו",
+    "is_available": true
+  },
+  {
+    "date": "שבת, 24 ינואר 2026",
+    "event_id": "39",
+    "time": "07:00 - 10:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
+  {
+    "date": "שבת, 24 ינואר 2026",
+    "event_id": "40",
+    "time": "10:00 - 13:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
+  {
+    "date": "שבת, 24 ינואר 2026",
+    "event_id": "41",
+    "time": "13:00 - 16:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
+  {
+    "date": "שבת, 24 ינואר 2026",
+    "event_id": "42",
+    "time": "16:00 - 19:00",
+    "service_type": "ושתי",
     "is_available": true
   },
   {
@@ -211,13 +295,6 @@
   },
   {
     "date": "שבת, 24 ינואר 2026",
-    "event_id": "10",
-    "time": "16:00 - 18:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 24 ינואר 2026",
     "event_id": "11",
     "time": "18:00 - 20:00",
     "service_type": "נאווה",
@@ -235,6 +312,34 @@
     "event_id": "18",
     "time": "10:00 - 13:00",
     "service_type": "קטמנדו",
+    "is_available": true
+  },
+  {
+    "date": "ראשון, 25 ינואר 2026",
+    "event_id": "39",
+    "time": "07:00 - 10:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
+  {
+    "date": "ראשון, 25 ינואר 2026",
+    "event_id": "40",
+    "time": "10:00 - 13:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
+  {
+    "date": "ראשון, 25 ינואר 2026",
+    "event_id": "41",
+    "time": "13:00 - 16:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
+  {
+    "date": "ראשון, 25 ינואר 2026",
+    "event_id": "42",
+    "time": "16:00 - 19:00",
+    "service_type": "ושתי",
     "is_available": true
   },
   {
@@ -372,6 +477,20 @@
   },
   {
     "date": "שני, 26 ינואר 2026",
+    "event_id": "38",
+    "time": "10:00 - 13:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
+  {
+    "date": "שני, 26 ינואר 2026",
+    "event_id": "39",
+    "time": "13:00 - 16:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
+  {
+    "date": "שני, 26 ינואר 2026",
     "event_id": "46",
     "time": "06:00 - 09:00",
     "service_type": "אסתר",
@@ -382,13 +501,6 @@
     "event_id": "50",
     "time": "18:00 - 21:00",
     "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "שני, 26 ינואר 2026",
-    "event_id": "54",
-    "time": "17:00 - 20:00",
-    "service_type": "רוני",
     "is_available": true
   },
   {
@@ -473,6 +585,27 @@
     "event_id": "17",
     "time": "10:00 - 13:00",
     "service_type": "קטמנדו",
+    "is_available": true
+  },
+  {
+    "date": "שלישי, 27 ינואר 2026",
+    "event_id": "38",
+    "time": "07:00 - 10:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
+  {
+    "date": "שלישי, 27 ינואר 2026",
+    "event_id": "39",
+    "time": "10:00 - 13:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
+  {
+    "date": "שלישי, 27 ינואר 2026",
+    "event_id": "41",
+    "time": "16:00 - 19:00",
+    "service_type": "ושתי",
     "is_available": true
   },
   {
@@ -596,6 +729,27 @@
   },
   {
     "date": "רביעי, 28 ינואר 2026",
+    "event_id": "37",
+    "time": "07:00 - 10:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
+  {
+    "date": "רביעי, 28 ינואר 2026",
+    "event_id": "38",
+    "time": "10:00 - 13:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
+  {
+    "date": "רביעי, 28 ינואר 2026",
+    "event_id": "39",
+    "time": "13:00 - 16:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
+  {
+    "date": "רביעי, 28 ינואר 2026",
     "event_id": "47",
     "time": "06:00 - 09:00",
     "service_type": "אסתר",
@@ -687,6 +841,34 @@
   },
   {
     "date": "חמישי, 29 ינואר 2026",
+    "event_id": "38",
+    "time": "07:00 - 10:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
+  {
+    "date": "חמישי, 29 ינואר 2026",
+    "event_id": "39",
+    "time": "10:00 - 13:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
+  {
+    "date": "חמישי, 29 ינואר 2026",
+    "event_id": "40",
+    "time": "13:00 - 16:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
+  {
+    "date": "חמישי, 29 ינואר 2026",
+    "event_id": "41",
+    "time": "16:00 - 19:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
+  {
+    "date": "חמישי, 29 ינואר 2026",
     "event_id": "51",
     "time": "18:00 - 21:00",
     "service_type": "אסתר",
@@ -736,6 +918,34 @@
   },
   {
     "date": "שישי, 30 ינואר 2026",
+    "event_id": "38",
+    "time": "07:00 - 10:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
+  {
+    "date": "שישי, 30 ינואר 2026",
+    "event_id": "39",
+    "time": "10:00 - 13:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
+  {
+    "date": "שישי, 30 ינואר 2026",
+    "event_id": "40",
+    "time": "13:00 - 16:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
+  {
+    "date": "שישי, 30 ינואר 2026",
+    "event_id": "41",
+    "time": "16:00 - 19:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
+  {
+    "date": "שישי, 30 ינואר 2026",
     "event_id": "51",
     "time": "18:00 - 21:00",
     "service_type": "אסתר",
@@ -767,6 +977,27 @@
     "event_id": "16",
     "time": "07:00 - 09:00",
     "service_type": "קטמנדו",
+    "is_available": true
+  },
+  {
+    "date": "שבת, 31 ינואר 2026",
+    "event_id": "39",
+    "time": "10:00 - 13:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
+  {
+    "date": "שבת, 31 ינואר 2026",
+    "event_id": "40",
+    "time": "13:00 - 16:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
+  {
+    "date": "שבת, 31 ינואר 2026",
+    "event_id": "41",
+    "time": "16:00 - 19:00",
+    "service_type": "ושתי",
     "is_available": true
   },
   {
