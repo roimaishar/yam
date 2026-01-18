@@ -806,13 +806,6 @@
   },
   {
     "date": "חמישי, 29 ינואר 2026",
-    "event_id": "39",
-    "time": "10:00 - 13:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "חמישי, 29 ינואר 2026",
     "event_id": "40",
     "time": "13:00 - 16:00",
     "service_type": "ושתי",
