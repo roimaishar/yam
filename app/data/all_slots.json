@@ -141,35 +141,14 @@
   },
   {
     "date": "שבת, 24 ינואר 2026",
-    "event_id": "39",
-    "time": "07:00 - 10:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 24 ינואר 2026",
-    "event_id": "40",
-    "time": "10:00 - 13:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 24 ינואר 2026",
-    "event_id": "42",
-    "time": "16:00 - 19:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 24 ינואר 2026",
-    "event_id": "48",
+    "event_id": "49",
     "time": "06:00 - 09:00",
     "service_type": "אסתר",
     "is_available": true
   },
   {
     "date": "שבת, 24 ינואר 2026",
-    "event_id": "56",
+    "event_id": "57",
     "time": "17:00 - 20:00",
     "service_type": "רוני",
     "is_available": true
@@ -211,49 +190,21 @@
   },
   {
     "date": "ראשון, 25 ינואר 2026",
-    "event_id": "39",
-    "time": "07:00 - 10:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 25 ינואר 2026",
-    "event_id": "40",
-    "time": "10:00 - 13:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 25 ינואר 2026",
-    "event_id": "41",
-    "time": "13:00 - 16:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 25 ינואר 2026",
-    "event_id": "42",
-    "time": "16:00 - 19:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 25 ינואר 2026",
-    "event_id": "48",
+    "event_id": "49",
     "time": "06:00 - 09:00",
     "service_type": "אסתר",
     "is_available": true
   },
   {
     "date": "ראשון, 25 ינואר 2026",
-    "event_id": "52",
+    "event_id": "53",
     "time": "18:00 - 21:00",
     "service_type": "אסתר",
     "is_available": true
   },
   {
     "date": "ראשון, 25 ינואר 2026",
-    "event_id": "56",
+    "event_id": "57",
     "time": "17:00 - 20:00",
     "service_type": "רוני",
     "is_available": true
@@ -365,21 +316,7 @@
   },
   {
     "date": "שני, 26 ינואר 2026",
-    "event_id": "38",
-    "time": "10:00 - 13:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "שני, 26 ינואר 2026",
-    "event_id": "46",
-    "time": "06:00 - 09:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "שני, 26 ינואר 2026",
-    "event_id": "50",
+    "event_id": "51",
     "time": "18:00 - 21:00",
     "service_type": "אסתר",
     "is_available": true
@@ -780,13 +717,6 @@
     "date": "שישי, 30 ינואר 2026",
     "event_id": "38",
     "time": "07:00 - 10:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 30 ינואר 2026",
-    "event_id": "40",
-    "time": "13:00 - 16:00",
     "service_type": "ושתי",
     "is_available": true
   },
