@@ -113,6 +113,13 @@
   },
   {
     "date": "רביעי, 21 ינואר 2026",
+    "event_id": "17",
+    "time": "07:00 - 10:00",
+    "service_type": "קטמנדו",
+    "is_available": true
+  },
+  {
+    "date": "רביעי, 21 ינואר 2026",
     "event_id": "18",
     "time": "10:00 - 13:00",
     "service_type": "קטמנדו",
@@ -242,13 +249,6 @@
     "event_id": "53",
     "time": "18:00 - 21:00",
     "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 25 ינואר 2026",
-    "event_id": "55",
-    "time": "11:00 - 14:00",
-    "service_type": "רוני",
     "is_available": true
   },
   {
