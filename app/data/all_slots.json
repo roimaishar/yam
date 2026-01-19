@@ -92,8 +92,8 @@
   },
   {
     "date": "שישי, 23 ינואר 2026",
-    "event_id": "40",
-    "time": "13:00 - 16:00",
+    "event_id": "38",
+    "time": "07:00 - 10:00",
     "service_type": "ושתי",
     "is_available": true
   },
@@ -150,13 +150,6 @@
     "date": "שבת, 24 ינואר 2026",
     "event_id": "40",
     "time": "10:00 - 13:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 24 ינואר 2026",
-    "event_id": "41",
-    "time": "13:00 - 16:00",
     "service_type": "ושתי",
     "is_available": true
   },
