@@ -295,13 +295,6 @@
   },
   {
     "date": "שלישי, 27 ינואר 2026",
-    "event_id": "39",
-    "time": "10:00 - 13:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 27 ינואר 2026",
     "event_id": "41",
     "time": "16:00 - 19:00",
     "service_type": "ושתי",
@@ -409,13 +402,6 @@
     "date": "רביעי, 28 ינואר 2026",
     "event_id": "37",
     "time": "07:00 - 10:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 28 ינואר 2026",
-    "event_id": "38",
-    "time": "10:00 - 13:00",
     "service_type": "ושתי",
     "is_available": true
   },
