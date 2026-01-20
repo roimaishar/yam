@@ -477,13 +477,6 @@
   },
   {
     "date": "רביעי, 28 ינואר 2026",
-    "event_id": "9",
-    "time": "14:00 - 16:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 28 ינואר 2026",
     "event_id": "11",
     "time": "18:00 - 20:00",
     "service_type": "נאווה",
