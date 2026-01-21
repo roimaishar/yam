@@ -49,13 +49,6 @@
     "is_available": true
   },
   {
-    "date": "חמישי, 22 ינואר 2026",
-    "event_id": "21",
-    "time": "10:00 - 13:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
-  {
     "date": "שישי, 23 ינואר 2026",
     "event_id": "38",
     "time": "07:00 - 10:00",
@@ -88,6 +81,13 @@
     "event_id": "11",
     "time": "18:00 - 20:00",
     "service_type": "נאווה",
+    "is_available": true
+  },
+  {
+    "date": "שישי, 23 ינואר 2026",
+    "event_id": "13",
+    "time": "10:00 - 13:00",
+    "service_type": "רונית",
     "is_available": true
   },
   {
