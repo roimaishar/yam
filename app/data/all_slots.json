@@ -932,13 +932,6 @@
   },
   {
     "date": "שלישי, 3 פברואר 2026",
-    "event_id": "40",
-    "time": "13:00 - 16:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 3 פברואר 2026",
     "event_id": "47",
     "time": "06:00 - 09:00",
     "service_type": "אסתר",
@@ -1011,13 +1004,6 @@
     "date": "שלישי, 3 פברואר 2026",
     "event_id": "8",
     "time": "12:00 - 14:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 3 פברואר 2026",
-    "event_id": "9",
-    "time": "14:00 - 16:00",
     "service_type": "נאווה",
     "is_available": true
   },
