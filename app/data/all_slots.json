@@ -71,6 +71,13 @@
   },
   {
     "date": "שבת, 24 ינואר 2026",
+    "event_id": "55",
+    "time": "11:00 - 14:00",
+    "service_type": "רוני",
+    "is_available": true
+  },
+  {
+    "date": "שבת, 24 ינואר 2026",
     "event_id": "10",
     "time": "16:00 - 18:00",
     "service_type": "נאווה",
