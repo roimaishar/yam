@@ -29,9 +29,23 @@
   },
   {
     "date": "שישי, 23 ינואר 2026",
+    "event_id": "10",
+    "time": "16:00 - 18:00",
+    "service_type": "נאווה",
+    "is_available": true
+  },
+  {
+    "date": "שישי, 23 ינואר 2026",
     "event_id": "11",
     "time": "18:00 - 20:00",
     "service_type": "נאווה",
+    "is_available": true
+  },
+  {
+    "date": "שישי, 23 ינואר 2026",
+    "event_id": "14",
+    "time": "13:00 - 16:00",
+    "service_type": "רונית",
     "is_available": true
   },
   {
@@ -246,13 +260,6 @@
   },
   {
     "date": "שלישי, 27 ינואר 2026",
-    "event_id": "34",
-    "time": "09:00 - 12:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 27 ינואר 2026",
     "event_id": "37",
     "time": "18:00 - 21:00",
     "service_type": "הרמוני",
@@ -353,13 +360,6 @@
     "date": "רביעי, 28 ינואר 2026",
     "event_id": "16",
     "time": "07:00 - 10:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 28 ינואר 2026",
-    "event_id": "17",
-    "time": "10:00 - 13:00",
     "service_type": "קטמנדו",
     "is_available": true
   },
@@ -990,13 +990,6 @@
     "date": "שלישי, 3 פברואר 2026",
     "event_id": "35",
     "time": "12:00 - 15:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 3 פברואר 2026",
-    "event_id": "36",
-    "time": "15:00 - 18:00",
     "service_type": "הרמוני",
     "is_available": true
   },
