@@ -316,6 +316,13 @@
   },
   {
     "date": "רביעי, 28 ינואר 2026",
+    "event_id": "20",
+    "time": "10:00 - 13:00",
+    "service_type": "ליאור",
+    "is_available": true
+  },
+  {
+    "date": "רביעי, 28 ינואר 2026",
     "event_id": "16",
     "time": "07:00 - 10:00",
     "service_type": "קטמנדו",
@@ -801,13 +808,6 @@
     "date": "שני, 2 פברואר 2026",
     "event_id": "17",
     "time": "10:00 - 13:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
-  {
-    "date": "שני, 2 פברואר 2026",
-    "event_id": "18",
-    "time": "13:00 - 16:00",
     "service_type": "קטמנדו",
     "is_available": true
   },
