@@ -281,13 +281,6 @@
   },
   {
     "date": "רביעי, 28 ינואר 2026",
-    "event_id": "12",
-    "time": "07:00 - 10:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 28 ינואר 2026",
     "event_id": "20",
     "time": "10:00 - 13:00",
     "service_type": "ליאור",
@@ -767,13 +760,6 @@
     "event_id": "39",
     "time": "10:00 - 13:00",
     "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 3 פברואר 2026",
-    "event_id": "48",
-    "time": "09:00 - 12:00",
-    "service_type": "אסתר",
     "is_available": true
   },
   {
