@@ -743,13 +743,6 @@
   },
   {
     "date": "שלישי, 3 פברואר 2026",
-    "event_id": "39",
-    "time": "10:00 - 13:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 3 פברואר 2026",
     "event_id": "49",
     "time": "12:00 - 15:00",
     "service_type": "אסתר",
