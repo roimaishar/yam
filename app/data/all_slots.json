@@ -1055,5 +1055,47 @@
     "time": "16:00 - 19:00",
     "service_type": "ליאור",
     "is_available": true
+  },
+  {
+    "date": "שישי, 6 פברואר 2026",
+    "event_id": "52",
+    "time": "18:00 - 21:00",
+    "service_type": "אסתר",
+    "is_available": true
+  },
+  {
+    "date": "שישי, 6 פברואר 2026",
+    "event_id": "56",
+    "time": "17:00 - 20:00",
+    "service_type": "רוני",
+    "is_available": true
+  },
+  {
+    "date": "שישי, 6 פברואר 2026",
+    "event_id": "38",
+    "time": "18:00 - 21:00",
+    "service_type": "הרמוני",
+    "is_available": true
+  },
+  {
+    "date": "שישי, 6 פברואר 2026",
+    "event_id": "11",
+    "time": "18:00 - 20:00",
+    "service_type": "נאווה",
+    "is_available": true
+  },
+  {
+    "date": "שישי, 6 פברואר 2026",
+    "event_id": "16",
+    "time": "07:00 - 09:00",
+    "service_type": "קטמנדו",
+    "is_available": true
+  },
+  {
+    "date": "שישי, 6 פברואר 2026",
+    "event_id": "19",
+    "time": "13:00 - 15:00",
+    "service_type": "קטמנדו",
+    "is_available": true
   }
 ]
