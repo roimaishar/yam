@@ -617,13 +617,6 @@
   },
   {
     "date": "שני, 2 פברואר 2026",
-    "event_id": "48",
-    "time": "09:00 - 12:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "שני, 2 פברואר 2026",
     "event_id": "51",
     "time": "18:00 - 21:00",
     "service_type": "אסתר",
