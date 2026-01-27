@@ -246,6 +246,13 @@
   },
   {
     "date": "שני, 2 פברואר 2026",
+    "event_id": "13",
+    "time": "10:00 - 13:00",
+    "service_type": "רונית",
+    "is_available": true
+  },
+  {
+    "date": "שני, 2 פברואר 2026",
     "event_id": "17",
     "time": "10:00 - 13:00",
     "service_type": "קטמנדו",
