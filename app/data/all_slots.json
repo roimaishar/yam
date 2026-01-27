@@ -42,17 +42,17 @@
     "is_available": true
   },
   {
-    "date": "שישי, 30 ינואר 2026",
-    "event_id": "51",
-    "time": "18:00 - 21:00",
-    "service_type": "אסתר",
+    "date": "חמישי, 29 ינואר 2026",
+    "event_id": "22",
+    "time": "10:00 - 13:00",
+    "service_type": "ליאור",
     "is_available": true
   },
   {
     "date": "שישי, 30 ינואר 2026",
-    "event_id": "33",
-    "time": "06:00 - 09:00",
-    "service_type": "הרמוני",
+    "event_id": "51",
+    "time": "18:00 - 21:00",
+    "service_type": "אסתר",
     "is_available": true
   },
   {
