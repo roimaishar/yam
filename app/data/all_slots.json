@@ -64,6 +64,13 @@
   },
   {
     "date": "שישי, 30 ינואר 2026",
+    "event_id": "53",
+    "time": "11:00 - 14:00",
+    "service_type": "רוני",
+    "is_available": true
+  },
+  {
+    "date": "שישי, 30 ינואר 2026",
     "event_id": "11",
     "time": "18:00 - 20:00",
     "service_type": "נאווה",
@@ -199,6 +206,13 @@
     "date": "שני, 2 פברואר 2026",
     "event_id": "33",
     "time": "06:00 - 09:00",
+    "service_type": "הרמוני",
+    "is_available": true
+  },
+  {
+    "date": "שני, 2 פברואר 2026",
+    "event_id": "34",
+    "time": "09:00 - 12:00",
     "service_type": "הרמוני",
     "is_available": true
   },
