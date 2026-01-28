@@ -78,13 +78,6 @@
   },
   {
     "date": "שבת, 31 ינואר 2026",
-    "event_id": "6",
-    "time": "08:00 - 10:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 31 ינואר 2026",
     "event_id": "8",
     "time": "12:00 - 14:00",
     "service_type": "נאווה",
@@ -220,13 +213,6 @@
     "date": "שני, 2 פברואר 2026",
     "event_id": "7",
     "time": "10:00 - 12:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  {
-    "date": "שני, 2 פברואר 2026",
-    "event_id": "8",
-    "time": "12:00 - 14:00",
     "service_type": "נאווה",
     "is_available": true
   },
