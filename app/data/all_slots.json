@@ -64,6 +64,13 @@
   },
   {
     "date": "שישי, 30 ינואר 2026",
+    "event_id": "13",
+    "time": "10:00 - 13:00",
+    "service_type": "רונית",
+    "is_available": true
+  },
+  {
+    "date": "שישי, 30 ינואר 2026",
     "event_id": "15",
     "time": "16:00 - 19:00",
     "service_type": "רונית",
@@ -696,13 +703,6 @@
     "date": "שני, 9 פברואר 2026",
     "event_id": "49",
     "time": "12:00 - 15:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "שני, 9 פברואר 2026",
-    "event_id": "50",
-    "time": "15:00 - 18:00",
     "service_type": "אסתר",
     "is_available": true
   },
