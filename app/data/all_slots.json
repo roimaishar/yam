@@ -85,6 +85,13 @@
   },
   {
     "date": "שני, 2 פברואר 2026",
+    "event_id": "10",
+    "time": "16:00 - 18:00",
+    "service_type": "נאווה",
+    "is_available": true
+  },
+  {
+    "date": "שני, 2 פברואר 2026",
     "event_id": "11",
     "time": "18:00 - 20:00",
     "service_type": "נאווה",
@@ -108,6 +115,13 @@
     "date": "שני, 2 פברואר 2026",
     "event_id": "17",
     "time": "10:00 - 13:00",
+    "service_type": "קטמנדו",
+    "is_available": true
+  },
+  {
+    "date": "שני, 2 פברואר 2026",
+    "event_id": "18",
+    "time": "13:00 - 16:00",
     "service_type": "קטמנדו",
     "is_available": true
   },
