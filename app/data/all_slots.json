@@ -330,13 +330,6 @@
   },
   {
     "date": "ראשון, 8 פברואר 2026",
-    "event_id": "51",
-    "time": "12:00 - 15:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 8 פברואר 2026",
     "event_id": "52",
     "time": "15:00 - 18:00",
     "service_type": "אסתר",
