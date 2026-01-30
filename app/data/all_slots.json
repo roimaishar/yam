@@ -217,6 +217,13 @@
     "is_available": true
   },
   {
+    "date": "שישי, 6 פברואר 2026",
+    "event_id": "18",
+    "time": "11:00 - 13:00",
+    "service_type": "קטמנדו",
+    "is_available": true
+  },
+  {
     "date": "שבת, 7 פברואר 2026",
     "event_id": "48",
     "time": "06:00 - 09:00",
@@ -830,6 +837,13 @@
     "event_id": "53",
     "time": "18:00 - 21:00",
     "service_type": "אסתר",
+    "is_available": true
+  },
+  {
+    "date": "חמישי, 12 פברואר 2026",
+    "event_id": "57",
+    "time": "17:00 - 20:00",
+    "service_type": "רוני",
     "is_available": true
   },
   {
