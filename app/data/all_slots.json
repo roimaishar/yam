@@ -176,13 +176,6 @@
   },
   {
     "date": "חמישי, 5 פברואר 2026",
-    "event_id": "39",
-    "time": "18:00 - 21:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  {
-    "date": "חמישי, 5 פברואר 2026",
     "event_id": "11",
     "time": "18:00 - 20:00",
     "service_type": "נאווה",
@@ -666,13 +659,6 @@
   },
   {
     "date": "שלישי, 10 פברואר 2026",
-    "event_id": "14",
-    "time": "10:00 - 13:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 10 פברואר 2026",
     "event_id": "22",
     "time": "13:00 - 16:00",
     "service_type": "ליאור",
@@ -834,13 +820,6 @@
   },
   {
     "date": "חמישי, 12 פברואר 2026",
-    "event_id": "57",
-    "time": "17:00 - 20:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
-  {
-    "date": "חמישי, 12 פברואר 2026",
     "event_id": "39",
     "time": "18:00 - 21:00",
     "service_type": "הרמוני",
@@ -858,13 +837,6 @@
     "event_id": "11",
     "time": "18:00 - 20:00",
     "service_type": "נאווה",
-    "is_available": true
-  },
-  {
-    "date": "חמישי, 12 פברואר 2026",
-    "event_id": "21",
-    "time": "07:00 - 10:00",
-    "service_type": "ליאור",
     "is_available": true
   },
   {
