@@ -1,44 +1,16 @@
 [
   {
     "date": "שלישי, 3 פברואר 2026",
-    "event_id": "49",
-    "time": "06:00 - 09:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 3 פברואר 2026",
-    "event_id": "35",
-    "time": "09:00 - 12:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 3 פברואר 2026",
-    "event_id": "38",
+    "event_id": "41",
     "time": "18:00 - 21:00",
     "service_type": "הרמוני",
     "is_available": true
   },
   {
     "date": "שלישי, 3 פברואר 2026",
-    "event_id": "22",
+    "event_id": "24",
     "time": "13:00 - 16:00",
     "service_type": "ליאור",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 3 פברואר 2026",
-    "event_id": "17",
-    "time": "07:00 - 10:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 3 פברואר 2026",
-    "event_id": "18",
-    "time": "10:00 - 13:00",
-    "service_type": "קטמנדו",
     "is_available": true
   },
   {
@@ -130,13 +102,6 @@
     "event_id": "11",
     "time": "18:00 - 20:00",
     "service_type": "נאווה",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 7 פברואר 2026",
-    "event_id": "12",
-    "time": "07:00 - 10:00",
-    "service_type": "רונית",
     "is_available": true
   },
   {
