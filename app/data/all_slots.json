@@ -29,13 +29,6 @@
   },
   {
     "date": "שני, 2 פברואר 2026",
-    "event_id": "33",
-    "time": "06:00 - 09:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  {
-    "date": "שני, 2 פברואר 2026",
     "event_id": "34",
     "time": "09:00 - 12:00",
     "service_type": "הרמוני",
