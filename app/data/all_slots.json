@@ -134,13 +134,6 @@
   },
   {
     "date": "ראשון, 8 פברואר 2026",
-    "event_id": "52",
-    "time": "15:00 - 18:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 8 פברואר 2026",
     "event_id": "53",
     "time": "18:00 - 21:00",
     "service_type": "אסתר",
@@ -430,13 +423,6 @@
     "date": "רביעי, 11 פברואר 2026",
     "event_id": "38",
     "time": "07:00 - 10:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 11 פברואר 2026",
-    "event_id": "39",
-    "time": "10:00 - 13:00",
     "service_type": "ושתי",
     "is_available": true
   },
