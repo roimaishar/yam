@@ -43,6 +43,13 @@
   },
   {
     "date": "שישי, 6 פברואר 2026",
+    "event_id": "38",
+    "time": "18:00 - 21:00",
+    "service_type": "הרמוני",
+    "is_available": true
+  },
+  {
+    "date": "שישי, 6 פברואר 2026",
     "event_id": "11",
     "time": "18:00 - 20:00",
     "service_type": "נאווה",
@@ -144,13 +151,6 @@
     "event_id": "18",
     "time": "10:00 - 13:00",
     "service_type": "קטמנדו",
-    "is_available": true
-  },
-  {
-    "date": "שני, 9 פברואר 2026",
-    "event_id": "49",
-    "time": "09:00 - 12:00",
-    "service_type": "אסתר",
     "is_available": true
   },
   {
