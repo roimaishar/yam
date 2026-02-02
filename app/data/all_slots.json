@@ -1,9 +1,23 @@
 [
   {
     "date": "שלישי, 3 פברואר 2026",
+    "event_id": "55",
+    "time": "15:00 - 18:00",
+    "service_type": "אסתר",
+    "is_available": true
+  },
+  {
+    "date": "שלישי, 3 פברואר 2026",
     "event_id": "41",
     "time": "18:00 - 21:00",
     "service_type": "הרמוני",
+    "is_available": true
+  },
+  {
+    "date": "שלישי, 3 פברואר 2026",
+    "event_id": "15",
+    "time": "13:00 - 16:00",
+    "service_type": "רונית",
     "is_available": true
   },
   {
@@ -36,22 +50,8 @@
   },
   {
     "date": "שישי, 6 פברואר 2026",
-    "event_id": "53",
-    "time": "18:00 - 21:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 6 פברואר 2026",
     "event_id": "11",
     "time": "18:00 - 20:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 7 פברואר 2026",
-    "event_id": "6",
-    "time": "08:00 - 10:00",
     "service_type": "נאווה",
     "is_available": true
   },
@@ -78,28 +78,35 @@
   },
   {
     "date": "ראשון, 8 פברואר 2026",
-    "event_id": "49",
+    "event_id": "51",
     "time": "06:00 - 09:00",
     "service_type": "אסתר",
     "is_available": true
   },
   {
     "date": "ראשון, 8 פברואר 2026",
-    "event_id": "53",
+    "event_id": "55",
     "time": "18:00 - 21:00",
     "service_type": "אסתר",
     "is_available": true
   },
   {
     "date": "ראשון, 8 פברואר 2026",
-    "event_id": "33",
+    "event_id": "35",
     "time": "06:00 - 09:00",
     "service_type": "הרמוני",
     "is_available": true
   },
   {
     "date": "ראשון, 8 פברואר 2026",
-    "event_id": "37",
+    "event_id": "36",
+    "time": "09:00 - 12:00",
+    "service_type": "הרמוני",
+    "is_available": true
+  },
+  {
+    "date": "ראשון, 8 פברואר 2026",
+    "event_id": "39",
     "time": "18:00 - 21:00",
     "service_type": "הרמוני",
     "is_available": true
@@ -134,14 +141,14 @@
   },
   {
     "date": "ראשון, 8 פברואר 2026",
-    "event_id": "16",
+    "event_id": "17",
     "time": "07:00 - 10:00",
     "service_type": "קטמנדו",
     "is_available": true
   },
   {
     "date": "ראשון, 8 פברואר 2026",
-    "event_id": "17",
+    "event_id": "18",
     "time": "10:00 - 13:00",
     "service_type": "קטמנדו",
     "is_available": true
