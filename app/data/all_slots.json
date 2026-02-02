@@ -8,13 +8,6 @@
   },
   {
     "date": "שלישי, 3 פברואר 2026",
-    "event_id": "41",
-    "time": "18:00 - 21:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 3 פברואר 2026",
     "event_id": "15",
     "time": "13:00 - 16:00",
     "service_type": "רונית",
@@ -269,13 +262,6 @@
     "date": "רביעי, 11 פברואר 2026",
     "event_id": "48",
     "time": "06:00 - 09:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 11 פברואר 2026",
-    "event_id": "49",
-    "time": "09:00 - 12:00",
     "service_type": "אסתר",
     "is_available": true
   },
