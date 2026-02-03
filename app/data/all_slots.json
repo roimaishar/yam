@@ -99,13 +99,6 @@
   },
   {
     "date": "ראשון, 8 פברואר 2026",
-    "event_id": "7",
-    "time": "10:00 - 12:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 8 פברואר 2026",
     "event_id": "8",
     "time": "12:00 - 14:00",
     "service_type": "נאווה",
