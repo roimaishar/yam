@@ -141,13 +141,6 @@
   },
   {
     "date": "שני, 9 פברואר 2026",
-    "event_id": "7",
-    "time": "10:00 - 12:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  {
-    "date": "שני, 9 פברואר 2026",
     "event_id": "10",
     "time": "16:00 - 18:00",
     "service_type": "נאווה",
