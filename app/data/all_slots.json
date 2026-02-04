@@ -22,20 +22,6 @@
   },
   {
     "date": "שישי, 6 פברואר 2026",
-    "event_id": "56",
-    "time": "14:00 - 17:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 6 פברואר 2026",
-    "event_id": "38",
-    "time": "18:00 - 21:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 6 פברואר 2026",
     "event_id": "11",
     "time": "18:00 - 20:00",
     "service_type": "נאווה",
