@@ -176,13 +176,6 @@
   },
   {
     "date": "שני, 9 פברואר 2026",
-    "event_id": "21",
-    "time": "13:00 - 16:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
-  {
-    "date": "שני, 9 פברואר 2026",
     "event_id": "22",
     "time": "16:00 - 19:00",
     "service_type": "ליאור",
@@ -626,13 +619,6 @@
     "date": "שני, 16 פברואר 2026",
     "event_id": "24",
     "time": "06:00 - 09:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  {
-    "date": "שני, 16 פברואר 2026",
-    "event_id": "25",
-    "time": "09:00 - 12:00",
     "service_type": "מישל",
     "is_available": true
   },
