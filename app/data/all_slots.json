@@ -14,13 +14,6 @@
     "is_available": true
   },
   {
-    "date": "שישי, 6 פברואר 2026",
-    "event_id": "19",
-    "time": "13:00 - 15:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
-  {
     "date": "שבת, 7 פברואר 2026",
     "event_id": "53",
     "time": "08:00 - 11:00",
@@ -74,13 +67,6 @@
     "event_id": "11",
     "time": "18:00 - 20:00",
     "service_type": "נאווה",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 8 פברואר 2026",
-    "event_id": "15",
-    "time": "16:00 - 19:00",
-    "service_type": "רונית",
     "is_available": true
   },
   {
@@ -176,51 +162,58 @@
   },
   {
     "date": "רביעי, 11 פברואר 2026",
-    "event_id": "49",
+    "event_id": "48",
     "time": "06:00 - 09:00",
     "service_type": "אסתר",
     "is_available": true
   },
   {
     "date": "רביעי, 11 פברואר 2026",
-    "event_id": "34",
+    "event_id": "33",
     "time": "06:00 - 09:00",
     "service_type": "הרמוני",
     "is_available": true
   },
   {
     "date": "רביעי, 11 פברואר 2026",
-    "event_id": "38",
+    "event_id": "37",
     "time": "18:00 - 21:00",
     "service_type": "הרמוני",
     "is_available": true
   },
   {
     "date": "רביעי, 11 פברואר 2026",
-    "event_id": "24",
+    "event_id": "23",
     "time": "06:00 - 09:00",
     "service_type": "מישל",
     "is_available": true
   },
   {
     "date": "רביעי, 11 פברואר 2026",
-    "event_id": "25",
+    "event_id": "24",
     "time": "09:00 - 12:00",
     "service_type": "מישל",
     "is_available": true
   },
   {
     "date": "רביעי, 11 פברואר 2026",
-    "event_id": "26",
+    "event_id": "25",
     "time": "12:00 - 15:00",
     "service_type": "מישל",
     "is_available": true
   },
   {
     "date": "רביעי, 11 פברואר 2026",
-    "event_id": "28",
+    "event_id": "27",
     "time": "18:00 - 21:00",
     "service_type": "מישל",
+    "is_available": true
+  },
+  {
+    "date": "רביעי, 11 פברואר 2026",
+    "event_id": "6",
+    "time": "08:00 - 10:00",
+    "service_type": "נאווה",
     "is_available": true
   },
   {
@@ -246,14 +239,14 @@
   },
   {
     "date": "רביעי, 11 פברואר 2026",
-    "event_id": "20",
+    "event_id": "19",
     "time": "07:00 - 10:00",
     "service_type": "ליאור",
     "is_available": true
   },
   {
     "date": "רביעי, 11 פברואר 2026",
-    "event_id": "18",
+    "event_id": "17",
     "time": "10:00 - 13:00",
     "service_type": "קטמנדו",
     "is_available": true
