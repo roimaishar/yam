@@ -8,16 +8,16 @@
   },
   {
     "date": "שישי, 6 פברואר 2026",
-    "event_id": "38",
-    "time": "18:00 - 21:00",
-    "service_type": "הרמוני",
+    "event_id": "11",
+    "time": "18:00 - 20:00",
+    "service_type": "נאווה",
     "is_available": true
   },
   {
     "date": "שישי, 6 פברואר 2026",
-    "event_id": "11",
-    "time": "18:00 - 20:00",
-    "service_type": "נאווה",
+    "event_id": "19",
+    "time": "13:00 - 15:00",
+    "service_type": "קטמנדו",
     "is_available": true
   },
   {
@@ -71,6 +71,13 @@
   },
   {
     "date": "ראשון, 8 פברואר 2026",
+    "event_id": "15",
+    "time": "16:00 - 19:00",
+    "service_type": "רונית",
+    "is_available": true
+  },
+  {
+    "date": "ראשון, 8 פברואר 2026",
     "event_id": "16",
     "time": "07:00 - 10:00",
     "service_type": "קטמנדו",
@@ -94,13 +101,6 @@
     "date": "שני, 9 פברואר 2026",
     "event_id": "33",
     "time": "06:00 - 09:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  {
-    "date": "שני, 9 פברואר 2026",
-    "event_id": "37",
-    "time": "18:00 - 21:00",
     "service_type": "הרמוני",
     "is_available": true
   },
