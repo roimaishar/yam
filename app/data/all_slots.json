@@ -519,13 +519,6 @@
   },
   {
     "date": "שני, 16 פברואר 2026",
-    "event_id": "55",
-    "time": "14:00 - 17:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
-  {
-    "date": "שני, 16 פברואר 2026",
     "event_id": "56",
     "time": "17:00 - 20:00",
     "service_type": "רוני",
