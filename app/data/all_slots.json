@@ -78,13 +78,6 @@
   },
   {
     "date": "שני, 9 פברואר 2026",
-    "event_id": "49",
-    "time": "09:00 - 12:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "שני, 9 פברואר 2026",
     "event_id": "33",
     "time": "06:00 - 09:00",
     "service_type": "הרמוני",
@@ -109,13 +102,6 @@
     "event_id": "12",
     "time": "07:00 - 10:00",
     "service_type": "רונית",
-    "is_available": true
-  },
-  {
-    "date": "שני, 9 פברואר 2026",
-    "event_id": "22",
-    "time": "16:00 - 19:00",
-    "service_type": "ליאור",
     "is_available": true
   },
   {
