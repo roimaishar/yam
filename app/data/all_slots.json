@@ -43,13 +43,6 @@
   },
   {
     "date": "ראשון, 8 פברואר 2026",
-    "event_id": "37",
-    "time": "18:00 - 21:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 8 פברואר 2026",
     "event_id": "11",
     "time": "18:00 - 20:00",
     "service_type": "נאווה",
