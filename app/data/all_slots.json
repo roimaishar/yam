@@ -134,6 +134,13 @@
   },
   {
     "date": "רביעי, 11 פברואר 2026",
+    "event_id": "37",
+    "time": "18:00 - 21:00",
+    "service_type": "הרמוני",
+    "is_available": true
+  },
+  {
+    "date": "רביעי, 11 פברואר 2026",
     "event_id": "23",
     "time": "06:00 - 09:00",
     "service_type": "מישל",
@@ -288,13 +295,6 @@
   },
   {
     "date": "שבת, 14 פברואר 2026",
-    "event_id": "51",
-    "time": "15:00 - 18:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 14 פברואר 2026",
     "event_id": "55",
     "time": "14:00 - 17:00",
     "service_type": "רוני",
@@ -318,20 +318,6 @@
     "date": "שבת, 14 פברואר 2026",
     "event_id": "24",
     "time": "06:00 - 09:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 14 פברואר 2026",
-    "event_id": "25",
-    "time": "09:00 - 12:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 14 פברואר 2026",
-    "event_id": "26",
-    "time": "12:00 - 15:00",
     "service_type": "מישל",
     "is_available": true
   },
@@ -843,13 +829,6 @@
     "date": "רביעי, 18 פברואר 2026",
     "event_id": "53",
     "time": "08:00 - 11:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 18 פברואר 2026",
-    "event_id": "54",
-    "time": "11:00 - 14:00",
     "service_type": "רוני",
     "is_available": true
   },
