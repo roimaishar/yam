@@ -85,13 +85,6 @@
   },
   {
     "date": "שני, 9 פברואר 2026",
-    "event_id": "20",
-    "time": "10:00 - 13:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
-  {
-    "date": "שני, 9 פברואר 2026",
     "event_id": "22",
     "time": "16:00 - 19:00",
     "service_type": "ליאור",
@@ -731,13 +724,6 @@
     "date": "רביעי, 18 פברואר 2026",
     "event_id": "49",
     "time": "09:00 - 12:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 18 פברואר 2026",
-    "event_id": "50",
-    "time": "12:00 - 15:00",
     "service_type": "אסתר",
     "is_available": true
   },
