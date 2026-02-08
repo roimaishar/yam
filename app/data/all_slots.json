@@ -1,5 +1,12 @@
 [
   {
+    "date": "שני, 9 פברואר 2026",
+    "event_id": "6",
+    "time": "08:00 - 10:00",
+    "service_type": "נאווה",
+    "is_available": true
+  },
+  {
     "date": "שלישי, 10 פברואר 2026",
     "event_id": "49",
     "time": "06:00 - 09:00",
@@ -18,6 +25,20 @@
     "event_id": "9",
     "time": "14:00 - 16:00",
     "service_type": "נאווה",
+    "is_available": true
+  },
+  {
+    "date": "שלישי, 10 פברואר 2026",
+    "event_id": "20",
+    "time": "07:00 - 10:00",
+    "service_type": "ליאור",
+    "is_available": true
+  },
+  {
+    "date": "שלישי, 10 פברואר 2026",
+    "event_id": "17",
+    "time": "07:00 - 10:00",
+    "service_type": "קטמנדו",
     "is_available": true
   },
   {
@@ -43,13 +64,6 @@
   },
   {
     "date": "רביעי, 11 פברואר 2026",
-    "event_id": "23",
-    "time": "06:00 - 09:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 11 פברואר 2026",
     "event_id": "27",
     "time": "18:00 - 21:00",
     "service_type": "מישל",
@@ -57,23 +71,16 @@
   },
   {
     "date": "רביעי, 11 פברואר 2026",
-    "event_id": "6",
-    "time": "08:00 - 10:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 11 פברואר 2026",
-    "event_id": "8",
-    "time": "12:00 - 14:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 11 פברואר 2026",
     "event_id": "11",
     "time": "18:00 - 20:00",
     "service_type": "נאווה",
+    "is_available": true
+  },
+  {
+    "date": "רביעי, 11 פברואר 2026",
+    "event_id": "14",
+    "time": "13:00 - 16:00",
+    "service_type": "רונית",
     "is_available": true
   },
   {
@@ -228,13 +235,6 @@
     "event_id": "17",
     "time": "07:00 - 10:00",
     "service_type": "קטמנדו",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 15 פברואר 2026",
-    "event_id": "40",
-    "time": "07:00 - 10:00",
-    "service_type": "ושתי",
     "is_available": true
   },
   {
