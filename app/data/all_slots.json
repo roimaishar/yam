@@ -183,13 +183,6 @@
   },
   {
     "date": "שישי, 13 פברואר 2026",
-    "event_id": "13",
-    "time": "10:00 - 13:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 13 פברואר 2026",
     "event_id": "19",
     "time": "13:00 - 15:00",
     "service_type": "קטמנדו",
@@ -290,13 +283,6 @@
     "date": "ראשון, 15 פברואר 2026",
     "event_id": "42",
     "time": "13:00 - 16:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 15 פברואר 2026",
-    "event_id": "43",
-    "time": "16:00 - 19:00",
     "service_type": "ושתי",
     "is_available": true
   },
