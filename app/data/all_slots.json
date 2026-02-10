@@ -266,6 +266,13 @@
     "is_available": true
   },
   {
+    "date": "שבת, 14 פברואר 2026",
+    "event_id": "18",
+    "time": "10:00 - 13:00",
+    "service_type": "קטמנדו",
+    "is_available": true
+  },
+  {
     "date": "ראשון, 15 פברואר 2026",
     "event_id": "39",
     "time": "18:00 - 21:00",
@@ -603,6 +610,13 @@
   },
   {
     "date": "שישי, 20 פברואר 2026",
+    "event_id": "49",
+    "time": "09:00 - 12:00",
+    "service_type": "אסתר",
+    "is_available": true
+  },
+  {
+    "date": "שישי, 20 פברואר 2026",
     "event_id": "52",
     "time": "18:00 - 21:00",
     "service_type": "אסתר",
@@ -808,13 +822,6 @@
     "date": "ראשון, 22 פברואר 2026",
     "event_id": "56",
     "time": "11:00 - 14:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 22 פברואר 2026",
-    "event_id": "57",
-    "time": "14:00 - 17:00",
     "service_type": "רוני",
     "is_available": true
   },
