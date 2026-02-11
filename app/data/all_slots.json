@@ -64,9 +64,9 @@
   },
   {
     "date": "חמישי, 12 פברואר 2026",
-    "event_id": "21",
-    "time": "07:00 - 10:00",
-    "service_type": "ליאור",
+    "event_id": "14",
+    "time": "13:00 - 16:00",
+    "service_type": "רונית",
     "is_available": true
   },
   {
@@ -109,13 +109,6 @@
     "event_id": "18",
     "time": "11:00 - 13:00",
     "service_type": "קטמנדו",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 14 פברואר 2026",
-    "event_id": "55",
-    "time": "14:00 - 17:00",
-    "service_type": "רוני",
     "is_available": true
   },
   {
@@ -204,13 +197,6 @@
   },
   {
     "date": "ראשון, 15 פברואר 2026",
-    "event_id": "16",
-    "time": "16:00 - 19:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 15 פברואר 2026",
     "event_id": "23",
     "time": "16:00 - 19:00",
     "service_type": "ליאור",
@@ -262,13 +248,6 @@
     "date": "שני, 16 פברואר 2026",
     "event_id": "24",
     "time": "06:00 - 09:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  {
-    "date": "שני, 16 פברואר 2026",
-    "event_id": "26",
-    "time": "12:00 - 15:00",
     "service_type": "מישל",
     "is_available": true
   },
@@ -563,13 +542,6 @@
     "date": "שבת, 21 פברואר 2026",
     "event_id": "50",
     "time": "09:00 - 12:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 21 פברואר 2026",
-    "event_id": "52",
-    "time": "15:00 - 18:00",
     "service_type": "אסתר",
     "is_available": true
   },
@@ -1039,13 +1011,6 @@
     "date": "שלישי, 24 פברואר 2026",
     "event_id": "50",
     "time": "12:00 - 15:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 24 פברואר 2026",
-    "event_id": "51",
-    "time": "15:00 - 18:00",
     "service_type": "אסתר",
     "is_available": true
   },
