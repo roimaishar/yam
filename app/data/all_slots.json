@@ -36,6 +36,13 @@
   },
   {
     "date": "ראשון, 15 פברואר 2026",
+    "event_id": "24",
+    "time": "18:00 - 21:00",
+    "service_type": "מישל",
+    "is_available": true
+  },
+  {
+    "date": "ראשון, 15 פברואר 2026",
     "event_id": "12",
     "time": "07:00 - 10:00",
     "service_type": "קטמנדו",
@@ -169,13 +176,6 @@
   },
   {
     "date": "רביעי, 18 פברואר 2026",
-    "event_id": "22",
-    "time": "12:00 - 15:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 18 פברואר 2026",
     "event_id": "24",
     "time": "18:00 - 21:00",
     "service_type": "מישל",
@@ -235,13 +235,6 @@
     "event_id": "33",
     "time": "18:00 - 21:00",
     "service_type": "הרמוני",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 20 פברואר 2026",
-    "event_id": "24",
-    "time": "18:00 - 21:00",
-    "service_type": "מישל",
     "is_available": true
   },
   {
@@ -514,13 +507,6 @@
     "date": "שני, 23 פברואר 2026",
     "event_id": "29",
     "time": "09:00 - 12:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  {
-    "date": "שני, 23 פברואר 2026",
-    "event_id": "30",
-    "time": "12:00 - 15:00",
     "service_type": "הרמוני",
     "is_available": true
   },
