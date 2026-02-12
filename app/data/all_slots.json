@@ -49,13 +49,6 @@
     "is_available": true
   },
   {
-    "date": "ראשון, 15 פברואר 2026",
-    "event_id": "13",
-    "time": "10:00 - 13:00",
-    "service_type": "קטמנדו",
-    "is_available": true
-  },
-  {
     "date": "שני, 16 פברואר 2026",
     "event_id": "44",
     "time": "09:00 - 12:00",
@@ -722,13 +715,6 @@
   },
   {
     "date": "שלישי, 24 פברואר 2026",
-    "event_id": "46",
-    "time": "15:00 - 18:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 24 פברואר 2026",
     "event_id": "47",
     "time": "18:00 - 21:00",
     "service_type": "אסתר",
@@ -948,13 +934,6 @@
     "date": "רביעי, 25 פברואר 2026",
     "event_id": "25",
     "time": "11:00 - 14:00",
-    "service_type": "כרמן החדשה",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 25 פברואר 2026",
-    "event_id": "26",
-    "time": "14:00 - 17:00",
     "service_type": "כרמן החדשה",
     "is_available": true
   },
