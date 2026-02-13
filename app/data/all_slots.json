@@ -1,6 +1,13 @@
 [
   {
     "date": "שבת, 14 פברואר 2026",
+    "event_id": "52",
+    "time": "15:00 - 18:00",
+    "service_type": "אסתר",
+    "is_available": true
+  },
+  {
+    "date": "שבת, 14 פברואר 2026",
     "event_id": "37",
     "time": "18:00 - 21:00",
     "service_type": "הרמוני",
@@ -15,13 +22,6 @@
   },
   {
     "date": "שבת, 14 פברואר 2026",
-    "event_id": "4",
-    "time": "14:00 - 16:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 14 פברואר 2026",
     "event_id": "5",
     "time": "16:00 - 18:00",
     "service_type": "נאווה",
@@ -32,6 +32,13 @@
     "event_id": "6",
     "time": "18:00 - 20:00",
     "service_type": "נאווה",
+    "is_available": true
+  },
+  {
+    "date": "ראשון, 15 פברואר 2026",
+    "event_id": "31",
+    "time": "09:00 - 12:00",
+    "service_type": "הרמוני",
     "is_available": true
   },
   {
@@ -155,13 +162,6 @@
   },
   {
     "date": "רביעי, 18 פברואר 2026",
-    "event_id": "25",
-    "time": "08:00 - 11:00",
-    "service_type": "כרמן החדשה",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 18 פברואר 2026",
     "event_id": "20",
     "time": "06:00 - 09:00",
     "service_type": "מישל",
@@ -218,23 +218,9 @@
   },
   {
     "date": "שישי, 20 פברואר 2026",
-    "event_id": "33",
-    "time": "18:00 - 21:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 20 פברואר 2026",
     "event_id": "12",
     "time": "07:00 - 09:00",
     "service_type": "קטמנדו",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 21 פברואר 2026",
-    "event_id": "38",
-    "time": "16:00 - 19:00",
-    "service_type": "ושתי",
     "is_available": true
   },
   {
