@@ -943,5 +943,54 @@
     "time": "13:00 - 16:00",
     "service_type": "קטמנדו",
     "is_available": true
+  },
+  {
+    "date": "חמישי, 26 פברואר 2026",
+    "event_id": "44",
+    "time": "06:00 - 09:00",
+    "service_type": "אסתר",
+    "is_available": true
+  },
+  {
+    "date": "חמישי, 26 פברואר 2026",
+    "event_id": "48",
+    "time": "18:00 - 21:00",
+    "service_type": "אסתר",
+    "is_available": true
+  },
+  {
+    "date": "חמישי, 26 פברואר 2026",
+    "event_id": "52",
+    "time": "17:00 - 20:00",
+    "service_type": "רוני",
+    "is_available": true
+  },
+  {
+    "date": "חמישי, 26 פברואר 2026",
+    "event_id": "34",
+    "time": "18:00 - 21:00",
+    "service_type": "הרמוני",
+    "is_available": true
+  },
+  {
+    "date": "חמישי, 26 פברואר 2026",
+    "event_id": "29",
+    "time": "17:00 - 20:00",
+    "service_type": "כרמן החדשה",
+    "is_available": true
+  },
+  {
+    "date": "חמישי, 26 פברואר 2026",
+    "event_id": "21",
+    "time": "06:00 - 09:00",
+    "service_type": "מישל",
+    "is_available": true
+  },
+  {
+    "date": "חמישי, 26 פברואר 2026",
+    "event_id": "25",
+    "time": "18:00 - 21:00",
+    "service_type": "מישל",
+    "is_available": true
   }
 ]
