@@ -22,13 +22,6 @@
   },
   {
     "date": "שבת, 14 פברואר 2026",
-    "event_id": "5",
-    "time": "16:00 - 18:00",
-    "service_type": "נאווה",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 14 פברואר 2026",
     "event_id": "6",
     "time": "18:00 - 20:00",
     "service_type": "נאווה",
@@ -129,13 +122,6 @@
     "date": "רביעי, 18 פברואר 2026",
     "event_id": "34",
     "time": "07:00 - 10:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 18 פברואר 2026",
-    "event_id": "35",
-    "time": "10:00 - 13:00",
     "service_type": "ושתי",
     "is_available": true
   },
