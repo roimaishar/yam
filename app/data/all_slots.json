@@ -477,13 +477,6 @@
   },
   {
     "date": "שני, 23 פברואר 2026",
-    "event_id": "22",
-    "time": "15:00 - 18:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  {
-    "date": "שני, 23 פברואר 2026",
     "event_id": "9",
     "time": "10:00 - 13:00",
     "service_type": "רונית",
@@ -780,13 +773,6 @@
     "date": "רביעי, 25 פברואר 2026",
     "event_id": "24",
     "time": "08:00 - 11:00",
-    "service_type": "כרמן החדשה",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 25 פברואר 2026",
-    "event_id": "25",
-    "time": "11:00 - 14:00",
     "service_type": "כרמן החדשה",
     "is_available": true
   },
