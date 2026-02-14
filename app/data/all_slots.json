@@ -365,13 +365,6 @@
   },
   {
     "date": "ראשון, 22 פברואר 2026",
-    "event_id": "21",
-    "time": "09:00 - 12:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 22 פברואר 2026",
     "event_id": "22",
     "time": "12:00 - 15:00",
     "service_type": "מישל",
@@ -745,13 +738,6 @@
     "date": "רביעי, 25 פברואר 2026",
     "event_id": "44",
     "time": "09:00 - 12:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 25 פברואר 2026",
-    "event_id": "45",
-    "time": "12:00 - 15:00",
     "service_type": "אסתר",
     "is_available": true
   },
