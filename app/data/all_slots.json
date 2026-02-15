@@ -316,13 +316,6 @@
   },
   {
     "date": "ראשון, 22 פברואר 2026",
-    "event_id": "24",
-    "time": "12:00 - 15:00",
-    "service_type": "מישל",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 22 פברואר 2026",
     "event_id": "13",
     "time": "19:00 - 22:00",
     "service_type": "רונית",
@@ -745,13 +738,6 @@
     "date": "רביעי, 25 פברואר 2026",
     "event_id": "52",
     "time": "08:00 - 11:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 25 פברואר 2026",
-    "event_id": "53",
-    "time": "11:00 - 14:00",
     "service_type": "רוני",
     "is_available": true
   },
