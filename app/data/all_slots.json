@@ -64,6 +64,13 @@
   },
   {
     "date": "שני, 16 פברואר 2026",
+    "event_id": "24",
+    "time": "12:00 - 15:00",
+    "service_type": "מישל",
+    "is_available": true
+  },
+  {
+    "date": "שני, 16 פברואר 2026",
     "event_id": "13",
     "time": "19:00 - 22:00",
     "service_type": "רונית",
