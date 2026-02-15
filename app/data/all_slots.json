@@ -1,5 +1,33 @@
 [
   {
+    "date": "ראשון, 15 פברואר 2026",
+    "event_id": "43",
+    "time": "19:00 - 22:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
+  {
+    "date": "ראשון, 15 פברואר 2026",
+    "event_id": "58",
+    "time": "20:00 - 23:00",
+    "service_type": "רוני",
+    "is_available": true
+  },
+  {
+    "date": "ראשון, 15 פברואר 2026",
+    "event_id": "13",
+    "time": "19:00 - 22:00",
+    "service_type": "רונית",
+    "is_available": true
+  },
+  {
+    "date": "ראשון, 15 פברואר 2026",
+    "event_id": "21",
+    "time": "19:00 - 22:00",
+    "service_type": "ליאור",
+    "is_available": true
+  },
+  {
     "date": "שני, 16 פברואר 2026",
     "event_id": "42",
     "time": "19:00 - 22:00",
@@ -18,13 +46,6 @@
     "event_id": "52",
     "time": "18:00 - 21:00",
     "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "שני, 16 פברואר 2026",
-    "event_id": "53",
-    "time": "08:00 - 11:00",
-    "service_type": "רוני",
     "is_available": true
   },
   {
@@ -393,13 +414,6 @@
   },
   {
     "date": "שבת, 21 פברואר 2026",
-    "event_id": "12",
-    "time": "16:00 - 19:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 21 פברואר 2026",
     "event_id": "13",
     "time": "19:00 - 22:00",
     "service_type": "רונית",
@@ -458,13 +472,6 @@
     "date": "ראשון, 22 פברואר 2026",
     "event_id": "54",
     "time": "08:00 - 11:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 22 פברואר 2026",
-    "event_id": "55",
-    "time": "11:00 - 14:00",
     "service_type": "רוני",
     "is_available": true
   },
