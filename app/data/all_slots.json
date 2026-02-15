@@ -1,6 +1,13 @@
 [
   {
     "date": "ראשון, 15 פברואר 2026",
+    "event_id": "40",
+    "time": "10:00 - 13:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
+  {
+    "date": "ראשון, 15 פברואר 2026",
     "event_id": "43",
     "time": "19:00 - 22:00",
     "service_type": "ושתי",
