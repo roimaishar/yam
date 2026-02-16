@@ -274,13 +274,6 @@
   },
   {
     "date": "שני, 23 פברואר 2026",
-    "event_id": "53",
-    "time": "11:00 - 14:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
-  {
-    "date": "שני, 23 פברואר 2026",
     "event_id": "56",
     "time": "20:00 - 23:00",
     "service_type": "רוני",
