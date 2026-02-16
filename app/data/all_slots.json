@@ -246,13 +246,6 @@
   },
   {
     "date": "שני, 23 פברואר 2026",
-    "event_id": "38",
-    "time": "10:00 - 13:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "שני, 23 פברואר 2026",
     "event_id": "41",
     "time": "19:00 - 22:00",
     "service_type": "ושתי",
