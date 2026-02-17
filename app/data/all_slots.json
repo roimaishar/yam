@@ -71,13 +71,6 @@
   },
   {
     "date": "שישי, 20 פברואר 2026",
-    "event_id": "54",
-    "time": "11:00 - 14:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 20 פברואר 2026",
     "event_id": "57",
     "time": "20:00 - 23:00",
     "service_type": "רוני",
@@ -136,13 +129,6 @@
     "date": "שבת, 21 פברואר 2026",
     "event_id": "35",
     "time": "09:00 - 12:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 21 פברואר 2026",
-    "event_id": "36",
-    "time": "12:00 - 15:00",
     "service_type": "הרמוני",
     "is_available": true
   },
@@ -302,13 +288,6 @@
   },
   {
     "date": "שני, 23 פברואר 2026",
-    "event_id": "32",
-    "time": "06:00 - 09:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  {
-    "date": "שני, 23 פברואר 2026",
     "event_id": "36",
     "time": "18:00 - 21:00",
     "service_type": "הרמוני",
@@ -431,13 +410,6 @@
     "event_id": "56",
     "time": "20:00 - 23:00",
     "service_type": "רוני",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 24 פברואר 2026",
-    "event_id": "32",
-    "time": "06:00 - 09:00",
-    "service_type": "הרמוני",
     "is_available": true
   },
   {
@@ -627,13 +599,6 @@
     "event_id": "21",
     "time": "19:00 - 22:00",
     "service_type": "ליאור",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 25 פברואר 2026",
-    "event_id": "16",
-    "time": "13:00 - 16:00",
-    "service_type": "קטמנדו",
     "is_available": true
   },
   {
@@ -921,13 +886,6 @@
     "event_id": "21",
     "time": "19:00 - 22:00",
     "service_type": "ליאור",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 28 פברואר 2026",
-    "event_id": "14",
-    "time": "07:00 - 10:00",
-    "service_type": "קטמנדו",
     "is_available": true
   },
   {
