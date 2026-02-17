@@ -29,13 +29,6 @@
   },
   {
     "date": "חמישי, 19 פברואר 2026",
-    "event_id": "12",
-    "time": "16:00 - 19:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
-  {
-    "date": "חמישי, 19 פברואר 2026",
     "event_id": "13",
     "time": "19:00 - 22:00",
     "service_type": "רונית",
@@ -116,13 +109,6 @@
     "event_id": "32",
     "time": "20:00 - 23:00",
     "service_type": "כרמן החדשה",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 21 פברואר 2026",
-    "event_id": "23",
-    "time": "06:00 - 09:00",
-    "service_type": "מישל",
     "is_available": true
   },
   {
@@ -267,13 +253,6 @@
   },
   {
     "date": "שני, 23 פברואר 2026",
-    "event_id": "52",
-    "time": "08:00 - 11:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
-  {
-    "date": "שני, 23 פברואר 2026",
     "event_id": "56",
     "time": "20:00 - 23:00",
     "service_type": "רוני",
@@ -304,13 +283,6 @@
     "date": "שני, 23 פברואר 2026",
     "event_id": "27",
     "time": "08:00 - 11:00",
-    "service_type": "כרמן החדשה",
-    "is_available": true
-  },
-  {
-    "date": "שני, 23 פברואר 2026",
-    "event_id": "28",
-    "time": "11:00 - 14:00",
     "service_type": "כרמן החדשה",
     "is_available": true
   },
@@ -645,6 +617,13 @@
   },
   {
     "date": "חמישי, 26 פברואר 2026",
+    "event_id": "49",
+    "time": "06:00 - 09:00",
+    "service_type": "אסתר",
+    "is_available": true
+  },
+  {
+    "date": "חמישי, 26 פברואר 2026",
     "event_id": "53",
     "time": "18:00 - 21:00",
     "service_type": "אסתר",
@@ -771,13 +750,6 @@
   },
   {
     "date": "שבת, 28 פברואר 2026",
-    "event_id": "52",
-    "time": "15:00 - 18:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "שבת, 28 פברואר 2026",
     "event_id": "57",
     "time": "17:00 - 20:00",
     "service_type": "רוני",
@@ -892,6 +864,13 @@
     "date": "שבת, 28 פברואר 2026",
     "event_id": "9",
     "time": "07:00 - 10:00",
+    "service_type": "רונית",
+    "is_available": true
+  },
+  {
+    "date": "שבת, 28 פברואר 2026",
+    "event_id": "10",
+    "time": "10:00 - 13:00",
     "service_type": "רונית",
     "is_available": true
   },
