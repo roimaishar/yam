@@ -1,43 +1,5 @@
 [
   {
-    "activity_id": "331253_202602161000",
-    "event_id": "331253",
-    "registration_event_id": "331253",
-    "date": "שני, 16 פברואר 2026",
-    "date_iso": "2026-02-16",
-    "start_datetime": "2026-02-16T10:00:00",
-    "end_datetime": "2026-02-16T13:00:00",
-    "time": "10:00 - 13:00",
-    "activity_type": "הדרכה",
-    "activity_name": "אנגלית ימית",
-    "boat_name": "דניאל",
-    "boat_capacity": null,
-    "available_spots": 0,
-    "is_available": false,
-    "description": "",
-    "week_label": "ראשון, 15 פברואר 2026 – שבת, 21 פברואר 2026",
-    "scraped_at": "2026-02-16T21:45:57.399930"
-  },
-  {
-    "activity_id": "331256_202602161300",
-    "event_id": "331256",
-    "registration_event_id": "331256",
-    "date": "שני, 16 פברואר 2026",
-    "date_iso": "2026-02-16",
-    "start_datetime": "2026-02-16T13:00:00",
-    "end_datetime": "2026-02-16T16:00:00",
-    "time": "13:00 - 16:00",
-    "activity_type": "הדרכה",
-    "activity_name": "אמנות תמרוני המנוע",
-    "boat_name": "ליאור",
-    "boat_capacity": null,
-    "available_spots": 0,
-    "is_available": false,
-    "description": "",
-    "week_label": "ראשון, 15 פברואר 2026 – שבת, 21 פברואר 2026",
-    "scraped_at": "2026-02-16T21:45:57.399930"
-  },
-  {
     "activity_id": "330321_202602171500",
     "event_id": "330321",
     "registration_event_id": "330321",
@@ -54,7 +16,7 @@
     "is_available": false,
     "description": "",
     "week_label": "ראשון, 15 פברואר 2026 – שבת, 21 פברואר 2026",
-    "scraped_at": "2026-02-16T21:45:57.399930"
+    "scraped_at": "2026-02-17T00:04:54.747651"
   },
   {
     "activity_id": "331163_202602171500",
@@ -73,7 +35,7 @@
     "is_available": false,
     "description": "",
     "week_label": "ראשון, 15 פברואר 2026 – שבת, 21 פברואר 2026",
-    "scraped_at": "2026-02-16T21:45:57.399930"
+    "scraped_at": "2026-02-17T00:04:54.747651"
   },
   {
     "activity_id": "331267_202602181300",
@@ -92,7 +54,7 @@
     "is_available": true,
     "description": "ההסמכה לקטמרן מיועדת להכרות עם יאכטה מסוג זה ואינה לימודית. במהלכה, יתרשם המדריך מרמת השליטה שלכם בכלי שייט &nbsp;במקרה של העדר ניסיון קודם נמליץ על קורס מקדים. פרטים במועדון.",
     "week_label": "ראשון, 15 פברואר 2026 – שבת, 21 פברואר 2026",
-    "scraped_at": "2026-02-16T21:45:57.399930"
+    "scraped_at": "2026-02-17T00:04:54.747651"
   },
   {
     "activity_id": "331271_202602181600",
@@ -111,7 +73,7 @@
     "is_available": true,
     "description": "",
     "week_label": "ראשון, 15 פברואר 2026 – שבת, 21 פברואר 2026",
-    "scraped_at": "2026-02-16T21:45:57.399930"
+    "scraped_at": "2026-02-17T00:04:54.747651"
   },
   {
     "activity_id": "331371_202602181600",
@@ -130,7 +92,7 @@
     "is_available": true,
     "description": "",
     "week_label": "ראשון, 15 פברואר 2026 – שבת, 21 פברואר 2026",
-    "scraped_at": "2026-02-16T21:45:57.399930"
+    "scraped_at": "2026-02-17T00:04:54.747651"
   },
   {
     "activity_id": "331386_202602191000",
@@ -149,7 +111,7 @@
     "is_available": true,
     "description": "",
     "week_label": "ראשון, 15 פברואר 2026 – שבת, 21 פברואר 2026",
-    "scraped_at": "2026-02-16T21:45:57.399930"
+    "scraped_at": "2026-02-17T00:04:54.747651"
   },
   {
     "activity_id": "331387_202602191400",
@@ -168,7 +130,7 @@
     "is_available": false,
     "description": "",
     "week_label": "ראשון, 15 פברואר 2026 – שבת, 21 פברואר 2026",
-    "scraped_at": "2026-02-16T21:45:57.399930"
+    "scraped_at": "2026-02-17T00:04:54.747651"
   },
   {
     "activity_id": "331233_202602200800",
@@ -183,11 +145,11 @@
     "activity_name": "פלוטילת חתול בשק-פלוטילה בהפתעה",
     "boat_name": "מחוץ למשרד",
     "boat_capacity": null,
-    "available_spots": 2,
+    "available_spots": 4,
     "is_available": true,
     "description": "",
     "week_label": "ראשון, 15 פברואר 2026 – שבת, 21 פברואר 2026",
-    "scraped_at": "2026-02-16T21:45:57.399930"
+    "scraped_at": "2026-02-17T00:04:54.747651"
   },
   {
     "activity_id": "331632_202602200800",
@@ -206,7 +168,7 @@
     "is_available": false,
     "description": "",
     "week_label": "ראשון, 15 פברואר 2026 – שבת, 21 פברואר 2026",
-    "scraped_at": "2026-02-16T21:45:57.399930"
+    "scraped_at": "2026-02-17T00:04:54.747651"
   },
   {
     "activity_id": "330327_202602211500",
@@ -225,7 +187,7 @@
     "is_available": false,
     "description": "",
     "week_label": "ראשון, 15 פברואר 2026 – שבת, 21 פברואר 2026",
-    "scraped_at": "2026-02-16T21:45:57.399930"
+    "scraped_at": "2026-02-17T00:04:54.747651"
   },
   {
     "activity_id": "331286_202602220500",
@@ -244,7 +206,7 @@
     "is_available": false,
     "description": "הפלגת דייג מודרכת בהנחיית יקיר כהן - מדריך דייג מקצועי\nכולל כל ציוד הנדרש ופתיונות \n\nההפלגה מתחילה לפנות בוקר ומסתיימת לקראת צהרי היום\n\n&nbsp;",
     "week_label": "ראשון, 8 מרץ 2026 – שבת, 14 מרץ 2026",
-    "scraped_at": "2026-02-16T21:45:57.399930"
+    "scraped_at": "2026-02-17T00:04:54.747651"
   },
   {
     "activity_id": "331156_202602220700",
@@ -263,7 +225,7 @@
     "is_available": false,
     "description": "",
     "week_label": "ראשון, 8 מרץ 2026 – שבת, 14 מרץ 2026",
-    "scraped_at": "2026-02-16T21:45:57.399930"
+    "scraped_at": "2026-02-17T00:04:54.747651"
   },
   {
     "activity_id": "333291_202602221000",
@@ -282,7 +244,7 @@
     "is_available": true,
     "description": "הפלגה מלווה בתרגול מנטלי שנועד לאפשר לאדם לפתח מצבי תודעה שלווים, חשיבה בהירה ואיזון נפשי\n\nבהנחיית דני זקס\n\n&nbsp;\n\n&nbsp;\n\n&nbsp;\n\n&nbsp;",
     "week_label": "ראשון, 8 מרץ 2026 – שבת, 14 מרץ 2026",
-    "scraped_at": "2026-02-16T21:45:57.399930"
+    "scraped_at": "2026-02-17T00:04:54.747651"
   },
   {
     "activity_id": "331393_202602221100",
@@ -301,7 +263,7 @@
     "is_available": false,
     "description": "",
     "week_label": "ראשון, 8 מרץ 2026 – שבת, 14 מרץ 2026",
-    "scraped_at": "2026-02-16T21:45:57.399930"
+    "scraped_at": "2026-02-17T00:04:54.747651"
   },
   {
     "activity_id": "331257_202602231300",
@@ -316,11 +278,11 @@
     "activity_name": "אמנות תמרוני המנוע",
     "boat_name": "ליאור",
     "boat_capacity": null,
-    "available_spots": 1,
-    "is_available": true,
+    "available_spots": 0,
+    "is_available": false,
     "description": "",
     "week_label": "ראשון, 8 מרץ 2026 – שבת, 14 מרץ 2026",
-    "scraped_at": "2026-02-16T21:45:57.399930"
+    "scraped_at": "2026-02-17T00:04:54.747651"
   },
   {
     "activity_id": "330328_202602231600",
@@ -339,7 +301,7 @@
     "is_available": true,
     "description": "",
     "week_label": "ראשון, 8 מרץ 2026 – שבת, 14 מרץ 2026",
-    "scraped_at": "2026-02-16T21:45:57.399930"
+    "scraped_at": "2026-02-17T00:04:54.747651"
   },
   {
     "activity_id": "331220_202602231600",
@@ -358,7 +320,7 @@
     "is_available": true,
     "description": "",
     "week_label": "ראשון, 8 מרץ 2026 – שבת, 14 מרץ 2026",
-    "scraped_at": "2026-02-16T21:45:57.399930"
+    "scraped_at": "2026-02-17T00:04:54.747651"
   },
   {
     "activity_id": "331406_202602241400",
@@ -377,7 +339,7 @@
     "is_available": true,
     "description": "",
     "week_label": "ראשון, 8 מרץ 2026 – שבת, 14 מרץ 2026",
-    "scraped_at": "2026-02-16T21:45:57.399930"
+    "scraped_at": "2026-02-17T00:04:54.747651"
   },
   {
     "activity_id": "331407_202602241700",
@@ -396,7 +358,7 @@
     "is_available": true,
     "description": "",
     "week_label": "ראשון, 8 מרץ 2026 – שבת, 14 מרץ 2026",
-    "scraped_at": "2026-02-16T21:45:57.399930"
+    "scraped_at": "2026-02-17T00:04:54.747651"
   },
   {
     "activity_id": "330329_202602251600",
@@ -415,7 +377,7 @@
     "is_available": false,
     "description": "",
     "week_label": "ראשון, 8 מרץ 2026 – שבת, 14 מרץ 2026",
-    "scraped_at": "2026-02-16T21:45:57.399930"
+    "scraped_at": "2026-02-17T00:04:54.747651"
   },
   {
     "activity_id": "331410_202602261500",
@@ -434,7 +396,7 @@
     "is_available": true,
     "description": "",
     "week_label": "ראשון, 8 מרץ 2026 – שבת, 14 מרץ 2026",
-    "scraped_at": "2026-02-16T21:45:57.399930"
+    "scraped_at": "2026-02-17T00:04:54.747651"
   },
   {
     "activity_id": "331263_202602270600",
@@ -453,7 +415,7 @@
     "is_available": false,
     "description": "דייג טונות&nbsp;",
     "week_label": "ראשון, 8 מרץ 2026 – שבת, 14 מרץ 2026",
-    "scraped_at": "2026-02-16T21:45:57.399930"
+    "scraped_at": "2026-02-17T00:04:54.747651"
   },
   {
     "activity_id": "331280_202602270900",
@@ -472,7 +434,7 @@
     "is_available": true,
     "description": "",
     "week_label": "ראשון, 8 מרץ 2026 – שבת, 14 מרץ 2026",
-    "scraped_at": "2026-02-16T21:45:57.399930"
+    "scraped_at": "2026-02-17T00:04:54.747651"
   },
   {
     "activity_id": "330331_202602271000",
@@ -491,7 +453,7 @@
     "is_available": false,
     "description": "",
     "week_label": "ראשון, 8 מרץ 2026 – שבת, 14 מרץ 2026",
-    "scraped_at": "2026-02-16T21:45:57.399930"
+    "scraped_at": "2026-02-17T00:04:54.747651"
   },
   {
     "activity_id": "331282_202602271130",
@@ -510,7 +472,7 @@
     "is_available": true,
     "description": "",
     "week_label": "ראשון, 8 מרץ 2026 – שבת, 14 מרץ 2026",
-    "scraped_at": "2026-02-16T21:45:57.399930"
+    "scraped_at": "2026-02-17T00:04:54.747651"
   },
   {
     "activity_id": "330333_202602271200",
@@ -529,7 +491,7 @@
     "is_available": false,
     "description": "",
     "week_label": "ראשון, 8 מרץ 2026 – שבת, 14 מרץ 2026",
-    "scraped_at": "2026-02-16T21:45:57.399930"
+    "scraped_at": "2026-02-17T00:04:54.747651"
   },
   {
     "activity_id": "330334_202602281100",
@@ -548,6 +510,6 @@
     "is_available": false,
     "description": "",
     "week_label": "ראשון, 8 מרץ 2026 – שבת, 14 מרץ 2026",
-    "scraped_at": "2026-02-16T21:45:57.399930"
+    "scraped_at": "2026-02-17T00:04:54.747651"
   }
 ]
