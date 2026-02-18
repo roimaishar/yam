@@ -12,11 +12,11 @@
     "activity_name": "סדנת גאות שפל וזרמים",
     "boat_name": "כיתה 3",
     "boat_capacity": null,
-    "available_spots": 6,
+    "available_spots": 5,
     "is_available": true,
     "description": "",
     "week_label": "ראשון, 15 פברואר 2026 – שבת, 21 פברואר 2026",
-    "scraped_at": "2026-02-18T09:26:30.802124"
+    "scraped_at": "2026-02-18T10:12:35.376627"
   },
   "331386_202602191000": {
     "activity_id": "331386_202602191000",
@@ -35,7 +35,7 @@
     "is_available": false,
     "description": "",
     "week_label": "ראשון, 15 פברואר 2026 – שבת, 21 פברואר 2026",
-    "scraped_at": "2026-02-18T09:26:30.802124"
+    "scraped_at": "2026-02-18T10:12:35.376627"
   },
   "331387_202602191400": {
     "activity_id": "331387_202602191400",
@@ -54,7 +54,7 @@
     "is_available": false,
     "description": "",
     "week_label": "ראשון, 15 פברואר 2026 – שבת, 21 פברואר 2026",
-    "scraped_at": "2026-02-18T09:26:30.802124"
+    "scraped_at": "2026-02-18T10:12:35.376627"
   },
   "331233_202602200900": {
     "activity_id": "331233_202602200900",
@@ -73,7 +73,7 @@
     "is_available": false,
     "description": "",
     "week_label": "ראשון, 15 פברואר 2026 – שבת, 21 פברואר 2026",
-    "scraped_at": "2026-02-18T09:26:30.802124"
+    "scraped_at": "2026-02-18T10:12:35.376627"
   },
   "331632_202602200900": {
     "activity_id": "331632_202602200900",
@@ -92,7 +92,7 @@
     "is_available": false,
     "description": "",
     "week_label": "ראשון, 15 פברואר 2026 – שבת, 21 פברואר 2026",
-    "scraped_at": "2026-02-18T09:26:30.802124"
+    "scraped_at": "2026-02-18T10:12:35.376627"
   },
   "330327_202602211500": {
     "activity_id": "330327_202602211500",
@@ -111,7 +111,7 @@
     "is_available": false,
     "description": "",
     "week_label": "ראשון, 15 פברואר 2026 – שבת, 21 פברואר 2026",
-    "scraped_at": "2026-02-18T09:26:30.802124"
+    "scraped_at": "2026-02-18T10:12:35.376627"
   },
   "331286_202602220500": {
     "activity_id": "331286_202602220500",
@@ -130,7 +130,7 @@
     "is_available": false,
     "description": "הפלגת דייג מודרכת בהנחיית יקיר כהן - מדריך דייג מקצועי\nכולל כל ציוד הנדרש ופתיונות \n\nההפלגה מתחילה לפנות בוקר ומסתיימת לקראת צהרי היום\n\n&nbsp;",
     "week_label": "ראשון, 22 פברואר 2026 – שבת, 28 פברואר 2026",
-    "scraped_at": "2026-02-18T09:26:30.802124"
+    "scraped_at": "2026-02-18T10:12:35.376627"
   },
   "331156_202602220700": {
     "activity_id": "331156_202602220700",
@@ -145,11 +145,11 @@
     "activity_name": "סקר דולפינים",
     "boat_name": "כרמן החדשה",
     "boat_capacity": null,
-    "available_spots": 1,
-    "is_available": true,
+    "available_spots": 0,
+    "is_available": false,
     "description": "",
     "week_label": "ראשון, 22 פברואר 2026 – שבת, 28 פברואר 2026",
-    "scraped_at": "2026-02-18T09:26:30.802124"
+    "scraped_at": "2026-02-18T10:12:35.376627"
   },
   "333291_202602221000": {
     "activity_id": "333291_202602221000",
@@ -168,7 +168,7 @@
     "is_available": true,
     "description": "הפלגה מלווה בתרגול מנטלי שנועד לאפשר לאדם לפתח מצבי תודעה שלווים, חשיבה בהירה ואיזון נפשי\n\nבהנחיית דני זקס\n\n&nbsp;\n\n&nbsp;\n\n&nbsp;\n\n&nbsp;",
     "week_label": "ראשון, 22 פברואר 2026 – שבת, 28 פברואר 2026",
-    "scraped_at": "2026-02-18T09:26:30.802124"
+    "scraped_at": "2026-02-18T10:12:35.376627"
   },
   "331393_202602221100": {
     "activity_id": "331393_202602221100",
@@ -187,7 +187,7 @@
     "is_available": false,
     "description": "",
     "week_label": "ראשון, 22 פברואר 2026 – שבת, 28 פברואר 2026",
-    "scraped_at": "2026-02-18T09:26:30.802124"
+    "scraped_at": "2026-02-18T10:12:35.376627"
   },
   "331257_202602231300": {
     "activity_id": "331257_202602231300",
@@ -206,7 +206,7 @@
     "is_available": false,
     "description": "",
     "week_label": "ראשון, 22 פברואר 2026 – שבת, 28 פברואר 2026",
-    "scraped_at": "2026-02-18T09:26:30.802124"
+    "scraped_at": "2026-02-18T10:12:35.376627"
   },
   "330328_202602231600": {
     "activity_id": "330328_202602231600",
@@ -225,7 +225,7 @@
     "is_available": true,
     "description": "",
     "week_label": "ראשון, 22 פברואר 2026 – שבת, 28 פברואר 2026",
-    "scraped_at": "2026-02-18T09:26:30.802124"
+    "scraped_at": "2026-02-18T10:12:35.376627"
   },
   "331220_202602231600": {
     "activity_id": "331220_202602231600",
@@ -244,7 +244,7 @@
     "is_available": true,
     "description": "",
     "week_label": "ראשון, 22 פברואר 2026 – שבת, 28 פברואר 2026",
-    "scraped_at": "2026-02-18T09:26:30.802124"
+    "scraped_at": "2026-02-18T10:12:35.376627"
   },
   "331406_202602241400": {
     "activity_id": "331406_202602241400",
@@ -263,7 +263,7 @@
     "is_available": true,
     "description": "",
     "week_label": "ראשון, 22 פברואר 2026 – שבת, 28 פברואר 2026",
-    "scraped_at": "2026-02-18T09:26:30.802124"
+    "scraped_at": "2026-02-18T10:12:35.376627"
   },
   "331407_202602241700": {
     "activity_id": "331407_202602241700",
@@ -282,7 +282,7 @@
     "is_available": false,
     "description": "",
     "week_label": "ראשון, 22 פברואר 2026 – שבת, 28 פברואר 2026",
-    "scraped_at": "2026-02-18T09:26:30.802124"
+    "scraped_at": "2026-02-18T10:12:35.376627"
   },
   "330329_202602251600": {
     "activity_id": "330329_202602251600",
@@ -301,7 +301,7 @@
     "is_available": false,
     "description": "",
     "week_label": "ראשון, 22 פברואר 2026 – שבת, 28 פברואר 2026",
-    "scraped_at": "2026-02-18T09:26:30.802124"
+    "scraped_at": "2026-02-18T10:12:35.376627"
   },
   "331410_202602261500": {
     "activity_id": "331410_202602261500",
@@ -320,7 +320,7 @@
     "is_available": true,
     "description": "",
     "week_label": "ראשון, 22 פברואר 2026 – שבת, 28 פברואר 2026",
-    "scraped_at": "2026-02-18T09:26:30.802124"
+    "scraped_at": "2026-02-18T10:12:35.376627"
   },
   "331263_202602270600": {
     "activity_id": "331263_202602270600",
@@ -339,7 +339,7 @@
     "is_available": false,
     "description": "דייג טונות&nbsp;",
     "week_label": "ראשון, 22 פברואר 2026 – שבת, 28 פברואר 2026",
-    "scraped_at": "2026-02-18T09:26:30.802124"
+    "scraped_at": "2026-02-18T10:12:35.376627"
   },
   "331280_202602270900": {
     "activity_id": "331280_202602270900",
@@ -358,7 +358,7 @@
     "is_available": false,
     "description": "",
     "week_label": "ראשון, 22 פברואר 2026 – שבת, 28 פברואר 2026",
-    "scraped_at": "2026-02-18T09:26:30.802124"
+    "scraped_at": "2026-02-18T10:12:35.376627"
   },
   "330331_202602271000": {
     "activity_id": "330331_202602271000",
@@ -377,7 +377,7 @@
     "is_available": false,
     "description": "",
     "week_label": "ראשון, 22 פברואר 2026 – שבת, 28 פברואר 2026",
-    "scraped_at": "2026-02-18T09:26:30.802124"
+    "scraped_at": "2026-02-18T10:12:35.376627"
   },
   "331282_202602271130": {
     "activity_id": "331282_202602271130",
@@ -396,7 +396,7 @@
     "is_available": false,
     "description": "",
     "week_label": "ראשון, 22 פברואר 2026 – שבת, 28 פברואר 2026",
-    "scraped_at": "2026-02-18T09:26:30.802124"
+    "scraped_at": "2026-02-18T10:12:35.376627"
   },
   "330333_202602271200": {
     "activity_id": "330333_202602271200",
@@ -415,7 +415,7 @@
     "is_available": false,
     "description": "",
     "week_label": "ראשון, 22 פברואר 2026 – שבת, 28 פברואר 2026",
-    "scraped_at": "2026-02-18T09:26:30.802124"
+    "scraped_at": "2026-02-18T10:12:35.376627"
   },
   "330334_202602281100": {
     "activity_id": "330334_202602281100",
@@ -434,7 +434,26 @@
     "is_available": false,
     "description": "",
     "week_label": "ראשון, 22 פברואר 2026 – שבת, 28 פברואר 2026",
-    "scraped_at": "2026-02-18T09:26:30.802124"
+    "scraped_at": "2026-02-18T10:12:35.376627"
+  },
+  "333451_202603010500": {
+    "activity_id": "333451_202603010500",
+    "event_id": "333451",
+    "registration_event_id": "333451",
+    "date": "ראשון, 1 מרץ 2026",
+    "date_iso": "2026-03-01",
+    "start_datetime": "2026-03-01T05:00:00",
+    "end_datetime": "2026-03-01T11:00:00",
+    "time": "05:00 - 11:00",
+    "activity_type": "הדרכה",
+    "activity_name": "הפלגת דייג - 150 ש\"ח",
+    "boat_name": "רונית",
+    "boat_capacity": null,
+    "available_spots": 5,
+    "is_available": true,
+    "description": "הפלגת דייג מודרכת בהנחיית יקיר כהן - מדריך דייג מקצועי\nכולל כל ציוד הנדרש ופתיונות \n\nההפלגה מתחילה לפנות בוקר ומסתיימת לקראת צהרי היום\n\n&nbsp;",
+    "week_label": "ראשון, 1 מרץ 2026 – שבת, 7 מרץ 2026",
+    "scraped_at": "2026-02-18T10:12:35.376627"
   },
   "333099_202603010700": {
     "activity_id": "333099_202603010700",
@@ -453,7 +472,83 @@
     "is_available": true,
     "description": "",
     "week_label": "ראשון, 1 מרץ 2026 – שבת, 7 מרץ 2026",
-    "scraped_at": "2026-02-18T09:26:30.802124"
+    "scraped_at": "2026-02-18T10:12:35.376627"
+  },
+  "333100_202603011000": {
+    "activity_id": "333100_202603011000",
+    "event_id": "333100",
+    "registration_event_id": "333100",
+    "date": "ראשון, 1 מרץ 2026",
+    "date_iso": "2026-03-01",
+    "start_datetime": "2026-03-01T10:00:00",
+    "end_datetime": "2026-03-01T13:00:00",
+    "time": "10:00 - 13:00",
+    "activity_type": "הדרכה",
+    "activity_name": "הסמכת קטמרן- ושתי",
+    "boat_name": "ושתי",
+    "boat_capacity": null,
+    "available_spots": 3,
+    "is_available": true,
+    "description": "ההסמכה לקטמרן מיועדת להכרות עם יאכטה מסוג זה ואינה לימודית. במהלכה, יתרשם המדריך מרמת השליטה שלכם בכלי שייט &nbsp;במקרה של העדר ניסיון קודם נמליץ על קורס מקדים. פרטים במועדון.",
+    "week_label": "ראשון, 1 מרץ 2026 – שבת, 7 מרץ 2026",
+    "scraped_at": "2026-02-18T10:12:35.376627"
+  },
+  "332490_202603011600": {
+    "activity_id": "332490_202603011600",
+    "event_id": "332490",
+    "registration_event_id": "332490",
+    "date": "ראשון, 1 מרץ 2026",
+    "date_iso": "2026-03-01",
+    "start_datetime": "2026-03-01T16:00:00",
+    "end_datetime": "2026-03-01T19:00:00",
+    "time": "16:00 - 19:00",
+    "activity_type": "הפלגת חברים",
+    "activity_name": "הפלגת שקיעה",
+    "boat_name": "רונית",
+    "boat_capacity": null,
+    "available_spots": 8,
+    "is_available": true,
+    "description": "",
+    "week_label": "ראשון, 1 מרץ 2026 – שבת, 7 מרץ 2026",
+    "scraped_at": "2026-02-18T10:12:35.376627"
+  },
+  "333226_202603030900": {
+    "activity_id": "333226_202603030900",
+    "event_id": "333226",
+    "registration_event_id": "333226",
+    "date": "שלישי, 3 מרץ 2026",
+    "date_iso": "2026-03-03",
+    "start_datetime": "2026-03-03T09:00:00",
+    "end_datetime": "2026-03-03T11:00:00",
+    "time": "09:00 - 11:00",
+    "activity_type": "הפלגת חברים",
+    "activity_name": "הפלגת חברים",
+    "boat_name": "ליאור",
+    "boat_capacity": null,
+    "available_spots": 8,
+    "is_available": true,
+    "description": "",
+    "week_label": "ראשון, 1 מרץ 2026 – שבת, 7 מרץ 2026",
+    "scraped_at": "2026-02-18T10:12:35.376627"
+  },
+  "333223_202603031100": {
+    "activity_id": "333223_202603031100",
+    "event_id": "333223",
+    "registration_event_id": "333223",
+    "date": "שלישי, 3 מרץ 2026",
+    "date_iso": "2026-03-03",
+    "start_datetime": "2026-03-03T11:00:00",
+    "end_datetime": "2026-03-03T14:00:00",
+    "time": "11:00 - 14:00",
+    "activity_type": "הדרכה",
+    "activity_name": "מפליגים עם ילדים-גילאי 6-12",
+    "boat_name": "מחוץ למשרד",
+    "boat_capacity": null,
+    "available_spots": 32,
+    "is_available": true,
+    "description": "",
+    "week_label": "ראשון, 1 מרץ 2026 – שבת, 7 מרץ 2026",
+    "scraped_at": "2026-02-18T10:12:35.376627"
   },
   "333145_202603031400": {
     "activity_id": "333145_202603031400",
@@ -472,7 +567,235 @@
     "is_available": true,
     "description": "",
     "week_label": "ראשון, 1 מרץ 2026 – שבת, 7 מרץ 2026",
-    "scraped_at": "2026-02-18T09:26:30.802124"
+    "scraped_at": "2026-02-18T10:12:35.376627"
+  },
+  "332517_202603031600": {
+    "activity_id": "332517_202603031600",
+    "event_id": "332517",
+    "registration_event_id": "332517",
+    "date": "שלישי, 3 מרץ 2026",
+    "date_iso": "2026-03-03",
+    "start_datetime": "2026-03-03T16:00:00",
+    "end_datetime": "2026-03-03T20:00:00",
+    "time": "16:00 - 20:00",
+    "activity_type": "הדרכה",
+    "activity_name": "ירח מלא",
+    "boat_name": "מחוץ למשרד",
+    "boat_capacity": null,
+    "available_spots": 14,
+    "is_available": true,
+    "description": "",
+    "week_label": "ראשון, 1 מרץ 2026 – שבת, 7 מרץ 2026",
+    "scraped_at": "2026-02-18T10:12:35.376627"
+  },
+  "333449_202603031700": {
+    "activity_id": "333449_202603031700",
+    "event_id": "333449",
+    "registration_event_id": "333449",
+    "date": "שלישי, 3 מרץ 2026",
+    "date_iso": "2026-03-03",
+    "start_datetime": "2026-03-03T17:00:00",
+    "end_datetime": "2026-03-03T20:00:00",
+    "time": "17:00 - 20:00",
+    "activity_type": "הדרכה",
+    "activity_name": "הפלגת פורים מועדון הצעירים",
+    "boat_name": "מחוץ למשרד",
+    "boat_capacity": null,
+    "available_spots": 23,
+    "is_available": true,
+    "description": "",
+    "week_label": "ראשון, 1 מרץ 2026 – שבת, 7 מרץ 2026",
+    "scraped_at": "2026-02-18T10:12:35.376627"
+  },
+  "333149_202603040700": {
+    "activity_id": "333149_202603040700",
+    "event_id": "333149",
+    "registration_event_id": "333149",
+    "date": "רביעי, 4 מרץ 2026",
+    "date_iso": "2026-03-04",
+    "start_datetime": "2026-03-04T07:00:00",
+    "end_datetime": "2026-03-04T10:00:00",
+    "time": "07:00 - 10:00",
+    "activity_type": "הדרכה",
+    "activity_name": "מיומנויות קטמרן",
+    "boat_name": "ושתי",
+    "boat_capacity": null,
+    "available_spots": 5,
+    "is_available": true,
+    "description": "",
+    "week_label": "ראשון, 1 מרץ 2026 – שבת, 7 מרץ 2026",
+    "scraped_at": "2026-02-18T10:12:35.376627"
+  },
+  "333328_202603051400": {
+    "activity_id": "333328_202603051400",
+    "event_id": "333328",
+    "registration_event_id": "333328",
+    "date": "חמישי, 5 מרץ 2026",
+    "date_iso": "2026-03-05",
+    "start_datetime": "2026-03-05T14:00:00",
+    "end_datetime": "2026-03-05T17:00:00",
+    "time": "14:00 - 17:00",
+    "activity_type": "הדרכה",
+    "activity_name": "עגינה ים תיכונית",
+    "boat_name": "רוני",
+    "boat_capacity": null,
+    "available_spots": 5,
+    "is_available": true,
+    "description": "",
+    "week_label": "ראשון, 1 מרץ 2026 – שבת, 7 מרץ 2026",
+    "scraped_at": "2026-02-18T10:12:35.376627"
+  },
+  "332492_202603051700": {
+    "activity_id": "332492_202603051700",
+    "event_id": "332492",
+    "registration_event_id": "332492",
+    "date": "חמישי, 5 מרץ 2026",
+    "date_iso": "2026-03-05",
+    "start_datetime": "2026-03-05T17:00:00",
+    "end_datetime": "2026-03-05T20:00:00",
+    "time": "17:00 - 20:00",
+    "activity_type": "הפלגת חברים",
+    "activity_name": "הפלגת חברים",
+    "boat_name": "כרמן החדשה",
+    "boat_capacity": null,
+    "available_spots": 8,
+    "is_available": true,
+    "description": "",
+    "week_label": "ראשון, 1 מרץ 2026 – שבת, 7 מרץ 2026",
+    "scraped_at": "2026-02-18T10:12:35.376627"
+  },
+  "332499_202603060600": {
+    "activity_id": "332499_202603060600",
+    "event_id": "332499",
+    "registration_event_id": "332499",
+    "date": "שישי, 6 מרץ 2026",
+    "date_iso": "2026-03-06",
+    "start_datetime": "2026-03-06T06:00:00",
+    "end_datetime": "2026-03-06T10:00:00",
+    "time": "06:00 - 10:00",
+    "activity_type": "הפלגת חברים",
+    "activity_name": "הפלגת חברים לחובבי הדייג",
+    "boat_name": "רונית",
+    "boat_capacity": null,
+    "available_spots": 8,
+    "is_available": true,
+    "description": "דייג טונות&nbsp;",
+    "week_label": "ראשון, 1 מרץ 2026 – שבת, 7 מרץ 2026",
+    "scraped_at": "2026-02-18T10:12:35.376627"
+  },
+  "332493_202603061000": {
+    "activity_id": "332493_202603061000",
+    "event_id": "332493",
+    "registration_event_id": "332493",
+    "date": "שישי, 6 מרץ 2026",
+    "date_iso": "2026-03-06",
+    "start_datetime": "2026-03-06T10:00:00",
+    "end_datetime": "2026-03-06T12:00:00",
+    "time": "10:00 - 12:00",
+    "activity_type": "הפלגת חברים",
+    "activity_name": "הפלגת חברים",
+    "boat_name": "נאווה",
+    "boat_capacity": null,
+    "available_spots": 6,
+    "is_available": true,
+    "description": "",
+    "week_label": "ראשון, 1 מרץ 2026 – שבת, 7 מרץ 2026",
+    "scraped_at": "2026-02-18T10:12:35.376627"
+  },
+  "332495_202603061400": {
+    "activity_id": "332495_202603061400",
+    "event_id": "332495",
+    "registration_event_id": "332495",
+    "date": "שישי, 6 מרץ 2026",
+    "date_iso": "2026-03-06",
+    "start_datetime": "2026-03-06T14:00:00",
+    "end_datetime": "2026-03-06T16:00:00",
+    "time": "14:00 - 16:00",
+    "activity_type": "הפלגת חברים",
+    "activity_name": "הפלגת חברים",
+    "boat_name": "נאווה",
+    "boat_capacity": null,
+    "available_spots": 7,
+    "is_available": true,
+    "description": "",
+    "week_label": "ראשון, 1 מרץ 2026 – שבת, 7 מרץ 2026",
+    "scraped_at": "2026-02-18T10:12:35.376627"
+  },
+  "332496_202603071000": {
+    "activity_id": "332496_202603071000",
+    "event_id": "332496",
+    "registration_event_id": "332496",
+    "date": "שבת, 7 מרץ 2026",
+    "date_iso": "2026-03-07",
+    "start_datetime": "2026-03-07T10:00:00",
+    "end_datetime": "2026-03-07T12:00:00",
+    "time": "10:00 - 12:00",
+    "activity_type": "הפלגת חברים",
+    "activity_name": "הפלגת חברים",
+    "boat_name": "נאווה",
+    "boat_capacity": null,
+    "available_spots": 6,
+    "is_available": true,
+    "description": "",
+    "week_label": "ראשון, 1 מרץ 2026 – שבת, 7 מרץ 2026",
+    "scraped_at": "2026-02-18T10:12:35.376627"
+  },
+  "332494_202603071400": {
+    "activity_id": "332494_202603071400",
+    "event_id": "332494",
+    "registration_event_id": "332494",
+    "date": "שבת, 7 מרץ 2026",
+    "date_iso": "2026-03-07",
+    "start_datetime": "2026-03-07T14:00:00",
+    "end_datetime": "2026-03-07T16:00:00",
+    "time": "14:00 - 16:00",
+    "activity_type": "הפלגת חברים",
+    "activity_name": "הפלגת חברים",
+    "boat_name": "נאווה",
+    "boat_capacity": null,
+    "available_spots": 8,
+    "is_available": true,
+    "description": "",
+    "week_label": "ראשון, 1 מרץ 2026 – שבת, 7 מרץ 2026",
+    "scraped_at": "2026-02-18T10:12:35.376627"
+  },
+  "333218_202603080600": {
+    "activity_id": "333218_202603080600",
+    "event_id": "333218",
+    "registration_event_id": "333218",
+    "date": "ראשון, 8 מרץ 2026",
+    "date_iso": "2026-03-08",
+    "start_datetime": "2026-03-08T06:00:00",
+    "end_datetime": "2026-03-08T09:00:00",
+    "time": "06:00 - 09:00",
+    "activity_type": "הפלגת חברים",
+    "activity_name": "מועדון ארוחת הבוקר- הפלגת בוקר רגע לפני הפקקים",
+    "boat_name": "מישל",
+    "boat_capacity": null,
+    "available_spots": 7,
+    "is_available": true,
+    "description": "",
+    "week_label": "ראשון, 8 מרץ 2026 – שבת, 14 מרץ 2026",
+    "scraped_at": "2026-02-18T10:12:35.376627"
+  },
+  "332560_202603080700": {
+    "activity_id": "332560_202603080700",
+    "event_id": "332560",
+    "registration_event_id": "332560",
+    "date": "ראשון, 8 מרץ 2026",
+    "date_iso": "2026-03-08",
+    "start_datetime": "2026-03-08T07:00:00",
+    "end_datetime": "2026-03-08T11:00:00",
+    "time": "07:00 - 11:00",
+    "activity_type": "הדרכה",
+    "activity_name": "סקר דולפינים",
+    "boat_name": "כרמן החדשה",
+    "boat_capacity": null,
+    "available_spots": 9,
+    "is_available": true,
+    "description": "",
+    "week_label": "ראשון, 8 מרץ 2026 – שבת, 14 מרץ 2026",
+    "scraped_at": "2026-02-18T10:12:35.376627"
   },
   "333455_202603081700": {
     "activity_id": "333455_202603081700",
@@ -487,11 +810,87 @@
     "activity_name": "יום האישה- משט מפנק לנשים",
     "boat_name": "מחוץ למשרד",
     "boat_capacity": null,
+    "available_spots": 17,
+    "is_available": true,
+    "description": "",
+    "week_label": "ראשון, 8 מרץ 2026 – שבת, 14 מרץ 2026",
+    "scraped_at": "2026-02-18T10:12:35.376627"
+  },
+  "333219_202603090700": {
+    "activity_id": "333219_202603090700",
+    "event_id": "333219",
+    "registration_event_id": "333219",
+    "date": "שני, 9 מרץ 2026",
+    "date_iso": "2026-03-09",
+    "start_datetime": "2026-03-09T07:00:00",
+    "end_datetime": "2026-03-09T10:00:00",
+    "time": "07:00 - 10:00",
+    "activity_type": "הדרכה",
+    "activity_name": "עגינה ים תיכונית",
+    "boat_name": "נאווה",
+    "boat_capacity": null,
+    "available_spots": 6,
+    "is_available": true,
+    "description": "",
+    "week_label": "ראשון, 8 מרץ 2026 – שבת, 14 מרץ 2026",
+    "scraped_at": "2026-02-18T10:12:35.376627"
+  },
+  "332497_202603091500": {
+    "activity_id": "332497_202603091500",
+    "event_id": "332497",
+    "registration_event_id": "332497",
+    "date": "שני, 9 מרץ 2026",
+    "date_iso": "2026-03-09",
+    "start_datetime": "2026-03-09T15:00:00",
+    "end_datetime": "2026-03-09T18:00:00",
+    "time": "15:00 - 18:00",
+    "activity_type": "הפלגת חברים",
+    "activity_name": "הפלגת חברים",
+    "boat_name": "מישל",
+    "boat_capacity": null,
+    "available_spots": 8,
+    "is_available": true,
+    "description": "",
+    "week_label": "ראשון, 8 מרץ 2026 – שבת, 14 מרץ 2026",
+    "scraped_at": "2026-02-18T10:12:35.376627"
+  },
+  "333230_202603101300": {
+    "activity_id": "333230_202603101300",
+    "event_id": "333230",
+    "registration_event_id": "333230",
+    "date": "שלישי, 10 מרץ 2026",
+    "date_iso": "2026-03-10",
+    "start_datetime": "2026-03-10T13:00:00",
+    "end_datetime": "2026-03-10T15:00:00",
+    "time": "13:00 - 15:00",
+    "activity_type": "הדרכה",
+    "activity_name": "הפלגת יסודות - תמרוני מנוע",
+    "boat_name": "דניאל",
+    "boat_capacity": null,
     "available_spots": 5,
     "is_available": true,
     "description": "",
     "week_label": "ראשון, 8 מרץ 2026 – שבת, 14 מרץ 2026",
-    "scraped_at": "2026-02-18T09:26:30.802124"
+    "scraped_at": "2026-02-18T10:12:35.376627"
+  },
+  "333232_202603110700": {
+    "activity_id": "333232_202603110700",
+    "event_id": "333232",
+    "registration_event_id": "333232",
+    "date": "רביעי, 11 מרץ 2026",
+    "date_iso": "2026-03-11",
+    "start_datetime": "2026-03-11T07:00:00",
+    "end_datetime": "2026-03-11T10:00:00",
+    "time": "07:00 - 10:00",
+    "activity_type": "הדרכה",
+    "activity_name": "מיומנויות קטמרן",
+    "boat_name": "ושתי",
+    "boat_capacity": null,
+    "available_spots": 5,
+    "is_available": true,
+    "description": "",
+    "week_label": "ראשון, 8 מרץ 2026 – שבת, 14 מרץ 2026",
+    "scraped_at": "2026-02-18T10:12:35.376627"
   },
   "333235_202603110900": {
     "activity_id": "333235_202603110900",
@@ -510,7 +909,140 @@
     "is_available": true,
     "description": "",
     "week_label": "ראשון, 8 מרץ 2026 – שבת, 14 מרץ 2026",
-    "scraped_at": "2026-02-18T09:26:30.802124"
+    "scraped_at": "2026-02-18T10:12:35.376627"
+  },
+  "332498_202603111600": {
+    "activity_id": "332498_202603111600",
+    "event_id": "332498",
+    "registration_event_id": "332498",
+    "date": "רביעי, 11 מרץ 2026",
+    "date_iso": "2026-03-11",
+    "start_datetime": "2026-03-11T16:00:00",
+    "end_datetime": "2026-03-11T19:00:00",
+    "time": "16:00 - 19:00",
+    "activity_type": "הפלגת חברים",
+    "activity_name": "הפלגת חברים",
+    "boat_name": "ליאור",
+    "boat_capacity": null,
+    "available_spots": 8,
+    "is_available": true,
+    "description": "",
+    "week_label": "ראשון, 8 מרץ 2026 – שבת, 14 מרץ 2026",
+    "scraped_at": "2026-02-18T10:12:35.376627"
+  },
+  "333238_202603121300": {
+    "activity_id": "333238_202603121300",
+    "event_id": "333238",
+    "registration_event_id": "333238",
+    "date": "חמישי, 12 מרץ 2026",
+    "date_iso": "2026-03-12",
+    "start_datetime": "2026-03-12T13:00:00",
+    "end_datetime": "2026-03-12T16:00:00",
+    "time": "13:00 - 16:00",
+    "activity_type": "הדרכה",
+    "activity_name": "הסמכת קטמרן- ושתי",
+    "boat_name": "ושתי",
+    "boat_capacity": null,
+    "available_spots": 4,
+    "is_available": true,
+    "description": "ההסמכה לקטמרן מיועדת להכרות עם יאכטה מסוג זה ואינה לימודית. במהלכה, יתרשם המדריך מרמת השליטה שלכם בכלי שייט &nbsp;במקרה של העדר ניסיון קודם נמליץ על קורס מקדים. פרטים במועדון.",
+    "week_label": "ראשון, 8 מרץ 2026 – שבת, 14 מרץ 2026",
+    "scraped_at": "2026-02-18T10:12:35.376627"
+  },
+  "333452_202603130500": {
+    "activity_id": "333452_202603130500",
+    "event_id": "333452",
+    "registration_event_id": "333452",
+    "date": "שישי, 13 מרץ 2026",
+    "date_iso": "2026-03-13",
+    "start_datetime": "2026-03-13T05:00:00",
+    "end_datetime": "2026-03-13T11:00:00",
+    "time": "05:00 - 11:00",
+    "activity_type": "הדרכה",
+    "activity_name": "הפלגת דייג - 150 ש\"ח",
+    "boat_name": "רונית",
+    "boat_capacity": null,
+    "available_spots": 7,
+    "is_available": true,
+    "description": "הפלגת דייג מודרכת בהנחיית יקיר כהן - מדריך דייג מקצועי\nכולל כל ציוד הנדרש ופתיונות \n\nההפלגה מתחילה לפנות בוקר ומסתיימת לקראת צהרי היום\n\n&nbsp;",
+    "week_label": "ראשון, 8 מרץ 2026 – שבת, 14 מרץ 2026",
+    "scraped_at": "2026-02-18T10:12:35.376627"
+  },
+  "332501_202603130800": {
+    "activity_id": "332501_202603130800",
+    "event_id": "332501",
+    "registration_event_id": "332501",
+    "date": "שישי, 13 מרץ 2026",
+    "date_iso": "2026-03-13",
+    "start_datetime": "2026-03-13T08:00:00",
+    "end_datetime": "2026-03-13T10:00:00",
+    "time": "08:00 - 10:00",
+    "activity_type": "הפלגת חברים",
+    "activity_name": "הפלגת חברים",
+    "boat_name": "נאווה",
+    "boat_capacity": null,
+    "available_spots": 8,
+    "is_available": true,
+    "description": "",
+    "week_label": "ראשון, 8 מרץ 2026 – שבת, 14 מרץ 2026",
+    "scraped_at": "2026-02-18T10:12:35.376627"
+  },
+  "332853_202603130900": {
+    "activity_id": "332853_202603130900",
+    "event_id": "332853",
+    "registration_event_id": "332853",
+    "date": "שישי, 13 מרץ 2026",
+    "date_iso": "2026-03-13",
+    "start_datetime": "2026-03-13T09:00:00",
+    "end_datetime": "2026-03-13T10:30:00",
+    "time": "09:00 - 10:30",
+    "activity_type": "הדרכה",
+    "activity_name": "חבלים וקשרים",
+    "boat_name": "מחוץ למשרד",
+    "boat_capacity": null,
+    "available_spots": 18,
+    "is_available": true,
+    "description": "",
+    "week_label": "ראשון, 8 מרץ 2026 – שבת, 14 מרץ 2026",
+    "scraped_at": "2026-02-18T10:12:35.376627"
+  },
+  "332502_202603131600": {
+    "activity_id": "332502_202603131600",
+    "event_id": "332502",
+    "registration_event_id": "332502",
+    "date": "שישי, 13 מרץ 2026",
+    "date_iso": "2026-03-13",
+    "start_datetime": "2026-03-13T16:00:00",
+    "end_datetime": "2026-03-13T18:00:00",
+    "time": "16:00 - 18:00",
+    "activity_type": "הפלגת חברים",
+    "activity_name": "הפלגת חברים",
+    "boat_name": "נאווה",
+    "boat_capacity": null,
+    "available_spots": 8,
+    "is_available": true,
+    "description": "",
+    "week_label": "ראשון, 8 מרץ 2026 – שבת, 14 מרץ 2026",
+    "scraped_at": "2026-02-18T10:12:35.376627"
+  },
+  "332503_202603141000": {
+    "activity_id": "332503_202603141000",
+    "event_id": "332503",
+    "registration_event_id": "332503",
+    "date": "שבת, 14 מרץ 2026",
+    "date_iso": "2026-03-14",
+    "start_datetime": "2026-03-14T10:00:00",
+    "end_datetime": "2026-03-14T12:00:00",
+    "time": "10:00 - 12:00",
+    "activity_type": "הפלגת חברים",
+    "activity_name": "הפלגת חברים",
+    "boat_name": "נאווה",
+    "boat_capacity": null,
+    "available_spots": 8,
+    "is_available": true,
+    "description": "",
+    "week_label": "ראשון, 8 מרץ 2026 – שבת, 14 מרץ 2026",
+    "scraped_at": "2026-02-18T10:12:35.376627"
   },
   "332867_202603141200": {
     "activity_id": "332867_202603141200",
@@ -529,6 +1061,82 @@
     "is_available": true,
     "description": "",
     "week_label": "ראשון, 8 מרץ 2026 – שבת, 14 מרץ 2026",
-    "scraped_at": "2026-02-18T09:26:30.802124"
+    "scraped_at": "2026-02-18T10:12:35.376627"
+  },
+  "333217_202603150600": {
+    "activity_id": "333217_202603150600",
+    "event_id": "333217",
+    "registration_event_id": "333217",
+    "date": "ראשון, 15 מרץ 2026",
+    "date_iso": "2026-03-15",
+    "start_datetime": "2026-03-15T06:00:00",
+    "end_datetime": "2026-03-15T09:00:00",
+    "time": "06:00 - 09:00",
+    "activity_type": "הפלגת חברים",
+    "activity_name": "מועדון ארוחת הבוקר- הפלגת בוקר רגע לפני הפקקים",
+    "boat_name": "הרמוני",
+    "boat_capacity": null,
+    "available_spots": 7,
+    "is_available": true,
+    "description": "",
+    "week_label": "ראשון, 8 מרץ 2026 – שבת, 14 מרץ 2026",
+    "scraped_at": "2026-02-18T10:12:35.376627"
+  },
+  "332619_202603150700": {
+    "activity_id": "332619_202603150700",
+    "event_id": "332619",
+    "registration_event_id": "332619",
+    "date": "ראשון, 15 מרץ 2026",
+    "date_iso": "2026-03-15",
+    "start_datetime": "2026-03-15T07:00:00",
+    "end_datetime": "2026-03-15T11:00:00",
+    "time": "07:00 - 11:00",
+    "activity_type": "הדרכה",
+    "activity_name": "סקר דולפינים",
+    "boat_name": "כרמן החדשה",
+    "boat_capacity": null,
+    "available_spots": 7,
+    "is_available": true,
+    "description": "",
+    "week_label": "ראשון, 8 מרץ 2026 – שבת, 14 מרץ 2026",
+    "scraped_at": "2026-02-18T10:12:35.376627"
+  },
+  "332505_202603151600": {
+    "activity_id": "332505_202603151600",
+    "event_id": "332505",
+    "registration_event_id": "332505",
+    "date": "ראשון, 15 מרץ 2026",
+    "date_iso": "2026-03-15",
+    "start_datetime": "2026-03-15T16:00:00",
+    "end_datetime": "2026-03-15T19:00:00",
+    "time": "16:00 - 19:00",
+    "activity_type": "הפלגת חברים",
+    "activity_name": "הפלגת חברים",
+    "boat_name": "רונית",
+    "boat_capacity": null,
+    "available_spots": 8,
+    "is_available": true,
+    "description": "",
+    "week_label": "ראשון, 8 מרץ 2026 – שבת, 14 מרץ 2026",
+    "scraped_at": "2026-02-18T10:12:35.376627"
+  },
+  "332857_202603151600": {
+    "activity_id": "332857_202603151600",
+    "event_id": "332857",
+    "registration_event_id": "332857",
+    "date": "ראשון, 15 מרץ 2026",
+    "date_iso": "2026-03-15",
+    "start_datetime": "2026-03-15T16:00:00",
+    "end_datetime": "2026-03-15T21:00:00",
+    "time": "16:00 - 21:00",
+    "activity_type": "הדרכה",
+    "activity_name": "גאות ושפל",
+    "boat_name": "מחוץ למשרד",
+    "boat_capacity": null,
+    "available_spots": 12,
+    "is_available": true,
+    "description": "",
+    "week_label": "ראשון, 8 מרץ 2026 – שבת, 14 מרץ 2026",
+    "scraped_at": "2026-02-18T10:12:35.376627"
   }
 }
