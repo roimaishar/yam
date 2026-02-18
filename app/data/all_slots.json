@@ -1086,13 +1086,6 @@
   },
   {
     "date": "שלישי, 3 מרץ 2026",
-    "event_id": "51",
-    "time": "09:00 - 12:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 3 מרץ 2026",
     "event_id": "52",
     "time": "12:00 - 15:00",
     "service_type": "אסתר",
