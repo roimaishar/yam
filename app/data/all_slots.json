@@ -575,13 +575,6 @@
   },
   {
     "date": "שישי, 27 פברואר 2026",
-    "event_id": "56",
-    "time": "17:00 - 20:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 27 פברואר 2026",
     "event_id": "57",
     "time": "20:00 - 23:00",
     "service_type": "רוני",
