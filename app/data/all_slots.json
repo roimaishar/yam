@@ -1289,13 +1289,6 @@
   },
   {
     "date": "חמישי, 5 מרץ 2026",
-    "event_id": "24",
-    "time": "16:00 - 19:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
-  {
-    "date": "חמישי, 5 מרץ 2026",
     "event_id": "25",
     "time": "19:00 - 22:00",
     "service_type": "ליאור",
@@ -1411,13 +1404,6 @@
     "event_id": "12",
     "time": "19:00 - 22:00",
     "service_type": "רונית",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 6 מרץ 2026",
-    "event_id": "19",
-    "time": "07:00 - 10:00",
-    "service_type": "ליאור",
     "is_available": true
   },
   {
