@@ -71,13 +71,6 @@
   },
   {
     "date": "ראשון, 22 פברואר 2026",
-    "event_id": "33",
-    "time": "06:00 - 09:00",
-    "service_type": "הרמוני",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 22 פברואר 2026",
     "event_id": "34",
     "time": "09:00 - 12:00",
     "service_type": "הרמוני",
@@ -473,13 +466,6 @@
     "event_id": "13",
     "time": "19:00 - 22:00",
     "service_type": "רונית",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 27 פברואר 2026",
-    "event_id": "19",
-    "time": "10:00 - 13:00",
-    "service_type": "ליאור",
     "is_available": true
   },
   {
