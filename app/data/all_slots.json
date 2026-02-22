@@ -211,6 +211,13 @@
   },
   {
     "date": "רביעי, 25 פברואר 2026",
+    "event_id": "50",
+    "time": "15:00 - 18:00",
+    "service_type": "אסתר",
+    "is_available": true
+  },
+  {
+    "date": "רביעי, 25 פברואר 2026",
     "event_id": "56",
     "time": "20:00 - 23:00",
     "service_type": "רוני",
@@ -934,6 +941,13 @@
     "date": "רביעי, 4 מרץ 2026",
     "event_id": "10",
     "time": "10:00 - 13:00",
+    "service_type": "רונית",
+    "is_available": true
+  },
+  {
+    "date": "רביעי, 4 מרץ 2026",
+    "event_id": "11",
+    "time": "13:00 - 16:00",
     "service_type": "רונית",
     "is_available": true
   },
