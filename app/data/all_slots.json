@@ -274,6 +274,13 @@
   },
   {
     "date": "חמישי, 26 פברואר 2026",
+    "event_id": "42",
+    "time": "16:00 - 19:00",
+    "service_type": "ושתי",
+    "is_available": true
+  },
+  {
+    "date": "חמישי, 26 פברואר 2026",
     "event_id": "43",
     "time": "19:00 - 22:00",
     "service_type": "ושתי",
@@ -361,6 +368,13 @@
     "event_id": "27",
     "time": "18:00 - 21:00",
     "service_type": "מישל",
+    "is_available": true
+  },
+  {
+    "date": "שישי, 27 פברואר 2026",
+    "event_id": "13",
+    "time": "19:00 - 22:00",
+    "service_type": "רונית",
     "is_available": true
   },
   {
@@ -694,13 +708,6 @@
   },
   {
     "date": "שני, 2 מרץ 2026",
-    "event_id": "21",
-    "time": "16:00 - 19:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
-  {
-    "date": "שני, 2 מרץ 2026",
     "event_id": "22",
     "time": "19:00 - 22:00",
     "service_type": "ליאור",
@@ -998,13 +1005,6 @@
     "event_id": "57",
     "time": "18:00 - 21:00",
     "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "חמישי, 5 מרץ 2026",
-    "event_id": "60",
-    "time": "14:00 - 17:00",
-    "service_type": "רוני",
     "is_available": true
   },
   {
