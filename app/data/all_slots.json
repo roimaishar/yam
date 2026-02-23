@@ -484,13 +484,6 @@
   },
   {
     "date": "ראשון, 1 מרץ 2026",
-    "event_id": "43",
-    "time": "19:00 - 22:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 1 מרץ 2026",
     "event_id": "53",
     "time": "12:00 - 15:00",
     "service_type": "אסתר",
