@@ -659,13 +659,6 @@
   },
   {
     "date": "שישי, 6 מרץ 2026",
-    "event_id": "55",
-    "time": "18:00 - 21:00",
-    "service_type": "אסתר",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 6 מרץ 2026",
     "event_id": "60",
     "time": "20:00 - 23:00",
     "service_type": "רוני",
