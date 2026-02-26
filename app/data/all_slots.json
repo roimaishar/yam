@@ -806,13 +806,6 @@
   },
   {
     "date": "ראשון, 8 מרץ 2026",
-    "event_id": "60",
-    "time": "17:00 - 20:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 8 מרץ 2026",
     "event_id": "61",
     "time": "20:00 - 23:00",
     "service_type": "רוני",
@@ -1207,13 +1200,6 @@
     "date": "שלישי, 10 מרץ 2026",
     "event_id": "40",
     "time": "13:00 - 16:00",
-    "service_type": "ושתי",
-    "is_available": true
-  },
-  {
-    "date": "שלישי, 10 מרץ 2026",
-    "event_id": "41",
-    "time": "16:00 - 19:00",
     "service_type": "ושתי",
     "is_available": true
   },
