@@ -50,13 +50,6 @@
   },
   {
     "date": "שישי, 27 פברואר 2026",
-    "event_id": "10",
-    "time": "10:00 - 13:00",
-    "service_type": "רונית",
-    "is_available": true
-  },
-  {
-    "date": "שישי, 27 פברואר 2026",
     "event_id": "13",
     "time": "19:00 - 22:00",
     "service_type": "רונית",
@@ -1002,13 +995,6 @@
   },
   {
     "date": "ראשון, 8 מרץ 2026",
-    "event_id": "20",
-    "time": "13:00 - 16:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
-  {
-    "date": "ראשון, 8 מרץ 2026",
     "event_id": "22",
     "time": "19:00 - 22:00",
     "service_type": "ליאור",
@@ -1079,13 +1065,6 @@
   },
   {
     "date": "שני, 9 מרץ 2026",
-    "event_id": "55",
-    "time": "11:00 - 14:00",
-    "service_type": "רוני",
-    "is_available": true
-  },
-  {
-    "date": "שני, 9 מרץ 2026",
     "event_id": "57",
     "time": "17:00 - 20:00",
     "service_type": "רוני",
@@ -1137,13 +1116,6 @@
     "date": "שני, 9 מרץ 2026",
     "event_id": "28",
     "time": "11:00 - 14:00",
-    "service_type": "כרמן החדשה",
-    "is_available": true
-  },
-  {
-    "date": "שני, 9 מרץ 2026",
-    "event_id": "29",
-    "time": "14:00 - 17:00",
     "service_type": "כרמן החדשה",
     "is_available": true
   },
@@ -1257,27 +1229,6 @@
     "event_id": "12",
     "time": "19:00 - 22:00",
     "service_type": "רונית",
-    "is_available": true
-  },
-  {
-    "date": "שני, 9 מרץ 2026",
-    "event_id": "17",
-    "time": "07:00 - 10:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
-  {
-    "date": "שני, 9 מרץ 2026",
-    "event_id": "18",
-    "time": "10:00 - 13:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
-  {
-    "date": "שני, 9 מרץ 2026",
-    "event_id": "19",
-    "time": "13:00 - 16:00",
-    "service_type": "ליאור",
     "is_available": true
   },
   {
@@ -1698,20 +1649,6 @@
     "event_id": "12",
     "time": "19:00 - 22:00",
     "service_type": "רונית",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 11 מרץ 2026",
-    "event_id": "17",
-    "time": "07:00 - 10:00",
-    "service_type": "ליאור",
-    "is_available": true
-  },
-  {
-    "date": "רביעי, 11 מרץ 2026",
-    "event_id": "18",
-    "time": "10:00 - 13:00",
-    "service_type": "ליאור",
     "is_available": true
   },
   {
